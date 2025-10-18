@@ -2,60 +2,60 @@
 
 _Last updated: 2025-10-18_
 
-**Total jobs:** 4041 • **Companies:** 544 • **Top tag:** Others
+**Total jobs:** 5037 • **Companies:** 586 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Amazon | [Data Center Operations Trainee](https://www.amazon.jobs/en/jobs/2918831/data-center-operations-trainee) | SGP… | 2025-10-18 |
-| Amazon | [Workplace Health & Safety (WHS) Coordinator, WHS Field](https://www.amazon.jobs/en/jobs/2960220/workplace-health-safety-whs-coordinator-whs-field) | SGP… | 2025-10-18 |
-| Amazon | [Land Mobile Sales/BD APAC, Kuiper Mobility BU](https://www.amazon.jobs/en/jobs/2945497/land-mobile-sales-bd-apac-kuiper-mobility-bu) | SGP… | 2025-10-18 |
-| Amazon | [Specialist SA, Migrations](https://www.amazon.jobs/en/jobs/3074081/specialist-sa-migrations) | SGP… | 2025-10-18 |
-| Amazon | [Data Center Engineering Operation (DCEO) Trainee](https://www.amazon.jobs/en/jobs/2904438/data-center-engineering-operation-dceo-trainee) | SGP… | 2025-10-18 |
-| Amazon | [Senior Delivery Consultant – Personalization, Tech & Industry](https://www.amazon.jobs/en/jobs/3036749/senior-delivery-consultant-personalization-tech-industry) | SGP… | 2025-10-18 |
-| Amazon | [Area Manager, Amazon Operations](https://www.amazon.jobs/en/jobs/3043128/area-manager-amazon-operations) | SGP… | 2025-10-18 |
-| Amazon | [Failure Analysis - Technician, AWS Reverse Logistics](https://www.amazon.jobs/en/jobs/2981549/failure-analysis-technician-aws-reverse-logistics) | SGP… | 2025-10-18 |
-| Amazon | [Senior Deep Learning Architect, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/3078235/senior-deep-learning-architect-generative-ai-innovation-center) | SGP… | 2025-10-18 |
-| Amazon | [AI Sales Specialist, ASEAN, AWS Data Specialists](https://www.amazon.jobs/en/jobs/3065962/ai-sales-specialist-asean-aws-data-specialists) | SGP… | 2025-10-18 |
-| Amazon | [Workplace Health & Safety (WHS) Coordinator, WHS Field](https://www.amazon.jobs/en/jobs/3059417/workplace-health-safety-whs-coordinator-whs-field) | SGP… | 2025-10-18 |
-| Amazon | [MSP Business Development Manager, APJ, Partner Programs](https://www.amazon.jobs/en/jobs/2998926/msp-business-development-manager-apj-partner-programs) | SGP… | 2025-10-18 |
-| Amazon | [Regional Pre Construction Manager, APJC DCCD](https://www.amazon.jobs/en/jobs/3083674/regional-pre-construction-manager-apjc-dccd) | SGP… | 2025-10-18 |
-| Amazon | [Director, Professional Services ASEAN,  (ProServe)](https://www.amazon.jobs/en/jobs/2989015/director-professional-services-asean-proserve) | SGP… | 2025-10-18 |
-| Amazon | [Health and Safety Lead Auditor, AWS Health and Safety Program Team](https://www.amazon.jobs/en/jobs/3051716/health-and-safety-lead-auditor-aws-health-and-safety-program-team) | SGP… | 2025-10-18 |
-| Amazon | [Maintenance Service Tech Lead, DCEO](https://www.amazon.jobs/en/jobs/3055479/maintenance-service-tech-lead-dceo) | SGP… | 2025-10-18 |
-| Amazon | [Program Manager Intern, APAC Data Center Delivery Operations](https://www.amazon.jobs/en/jobs/3022613/program-manager-intern-apac-data-center-delivery-operations) | SGP… | 2025-10-18 |
-| Amazon | [Business Analyst Intern](https://www.amazon.jobs/en/jobs/3087075/business-analyst-intern) | SGP… | 2025-10-18 |
-| Amazon | [Financial Services Policy Lead, APJ, AWS Public Policy](https://www.amazon.jobs/en/jobs/3090477/financial-services-policy-lead-apj-aws-public-policy) | SGP… | 2025-10-18 |
-| Amazon | [Data Center Engineering Ops Engineer, DCEO](https://www.amazon.jobs/en/jobs/2816767/data-center-engineering-ops-engineer-dceo) | SGP… | 2025-10-18 |
-| Amazon | [Partner Development Manager , ASEAN AWS Partner Organization](https://www.amazon.jobs/en/jobs/3052505/partner-development-manager-asean-aws-partner-organization) | SGP… | 2025-10-18 |
-| Amazon | [Mechanical Engineer Manager, Design Engineering, DC Design Engineering](https://www.amazon.jobs/en/jobs/3067047/mechanical-engineer-manager-design-engineering-dc-design-engineering) | SGP… | 2025-10-18 |
-| Amazon | [Senior Engagement Manager, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/3088478/senior-engagement-manager-generative-ai-innovation-center) | SGP… | 2025-10-18 |
-| Amazon | [Senior Applied Scientist, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/3078237/senior-applied-scientist-generative-ai-innovation-center) | SGP… | 2025-10-18 |
-| Amazon | [Controls Coordinator Intern](https://www.amazon.jobs/en/jobs/3086193/controls-coordinator-intern) | SGP… | 2025-10-18 |
-| Amazon | [Solutions Architect](https://www.amazon.jobs/en/jobs/3082941/solutions-architect) | SGP… | 2025-10-18 |
-| Amazon | [Senior Manager - Trade Compliance, APAC, GTPC](https://www.amazon.jobs/en/jobs/3040825/senior-manager-trade-compliance-apac-gtpc) | SGP… | 2025-10-18 |
-| Amazon | [Sr. AI/ML Specialist Solutions Architect](https://www.amazon.jobs/en/jobs/3065957/sr-ai-ml-specialist-solutions-architect) | SGP… | 2025-10-18 |
-| Amazon | [Applied Scientist, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/3078234/applied-scientist-generative-ai-innovation-center) | SGP… | 2025-10-18 |
-| Amazon | [Machine Learning Engineer, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/3079803/machine-learning-engineer-generative-ai-innovation-center) | SGP… | 2025-10-18 |
-| Amazon | [ProServe Area Delivery Leader - ASEAN, AWS Professional Services](https://www.amazon.jobs/en/jobs/3095011/proserve-area-delivery-leader-asean-aws-professional-services) | SGP… | 2025-10-18 |
-| Amazon | [Data Center Operation Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/3106863/data-center-operation-technician-data-center-operations) | SGP… | 2025-10-18 |
-| Amazon | [SCE Deal Lead APJ, GDSP](https://www.amazon.jobs/en/jobs/3012641/sce-deal-lead-apj-gdsp) | SGP… | 2025-10-18 |
-| Amazon | [APAC Trade Compliance PM, Project Kuiper](https://www.amazon.jobs/en/jobs/3083280/apac-trade-compliance-pm-project-kuiper) | SGP… | 2025-10-18 |
-| Amazon | [Cloud Sales Representative, Startups](https://www.amazon.jobs/en/jobs/3097835/cloud-sales-representative-startups) | SGP… | 2025-10-18 |
-| Amazon | [Strategic Customer Engagements Deal Specialist, GDSP](https://www.amazon.jobs/en/jobs/3082387/strategic-customer-engagements-deal-specialist-gdsp) | SGP… | 2025-10-18 |
-| Amazon | [Program Management Intern - AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/3042406/program-management-intern-aws-cloud-logistics) | SGP… | 2025-10-18 |
-| Amazon | [Software Development Engineer (SDE) Intern, Digital and Emerging Payments](https://www.amazon.jobs/en/jobs/3092740/software-development-engineer-sde-intern-digital-and-emerging-payments) | SGP… | 2025-10-18 |
-| Amazon | [Program Manager Intern](https://www.amazon.jobs/en/jobs/3022614/program-manager-intern) | SGP… | 2025-10-18 |
-| Amazon | [Sr. AI/ML Specialist Solutions Architect](https://www.amazon.jobs/en/jobs/3064268/sr-ai-ml-specialist-solutions-architect) | SGP… | 2025-10-18 |
-| Amazon | [ProServe Area Delivery Leader, ProServe A2C](https://www.amazon.jobs/en/jobs/3045975/proserve-area-delivery-leader-proserve-a2c) | SGP… | 2025-10-18 |
-| Amazon | [Electrical Design Engineer, APAC Data Center Design Engineering](https://www.amazon.jobs/en/jobs/3066895/electrical-design-engineer-apac-data-center-design-engineering) | SGP… | 2025-10-18 |
-| Amazon | [Senior Delivery Consultant - Cloud Strategy & Operations Advisory, ASEAN Professional Services, Advisory](https://www.amazon.jobs/en/jobs/2980525/senior-delivery-consultant-cloud-strategy-operations-advisory-asean-professional-services-advisory) | SGP… | 2025-10-18 |
-| Amazon | [Program Manager Intern](https://www.amazon.jobs/en/jobs/3086187/program-manager-intern) | SGP… | 2025-10-18 |
-| Amazon | [Sr. Controls Design Engineer, Controls Design Engineer](https://www.amazon.jobs/en/jobs/3081534/sr-controls-design-engineer-controls-design-engineer) | SGP… | 2025-10-18 |
-| Amazon | [Worldwide Specialist Sales, Amazon Connect - ASEAN](https://www.amazon.jobs/en/jobs/3077530/worldwide-specialist-sales-amazon-connect-asean) | SGP… | 2025-10-18 |
-| Amazon | [Security Engineer, Global Services Security](https://www.amazon.jobs/en/jobs/3073599/security-engineer-global-services-security) | SGP… | 2025-10-18 |
-| Amazon | [Technical Business Developer Intern, Partner Development](https://www.amazon.jobs/en/jobs/3098700/technical-business-developer-intern-partner-development) | SGP… | 2025-10-18 |
-| Amazon | [Infrastructure Technical Business Developer, Network Planning and Acquisition](https://www.amazon.jobs/en/jobs/2926189/infrastructure-technical-business-developer-network-planning-and-acquisition) | SGP… | 2025-10-18 |
-| Amazon | [Tax Manager - APAC, Tax Controversy](https://www.amazon.jobs/en/jobs/3100454/tax-manager-apac-tax-controversy) | SGP… | 2025-10-18 |
+| La Senza Retail Plc | [Administrative Assistant](https://www.internsg.com/job/la-senza-retail-plc-administrative-assistant/?f_pg=44) | AB, CA… | 2025-10-18 |
+| We Break Desks Pte Ltd | [Social Media Marketing Intern](https://www.internsg.com/job/we-break-desks-pte-ltd-social-media-marketing-intern/?f_pg=44) | SG… | 2025-10-18 |
+| Natsteel Holdings Pte Ltd | [Safety, Health, Environment and Security Intern](https://www.internsg.com/job/natsteel-holdings-pte-ltd-safety-health-environment-and-security-intern/?f_pg=44) | Boon Lay, SG… | 2025-10-18 |
+| Bio-Globe Singapore Pte Ltd | [Sales and Business Development Trainee](https://www.internsg.com/job/bio-globe-singapore-pte-ltd-sales-and-business-development-trainee/?f_pg=44) | Kallang, SG… | 2025-10-18 |
+| The Plattering Co Pte Ltd | [Web Development / UI / UX Intern](https://www.internsg.com/job/the-plattering-co-pte-ltd-web-development-ui-ux-intern/?f_pg=44) | Tampines, SG… | 2025-10-18 |
+| Fullerton Healthcare Group Pte. Limited | [HR Intern](https://www.internsg.com/job/fullerton-healthcare-group-pte-limited-hr-intern/?f_pg=44) | Downtown Core, SG… | 2025-10-18 |
+| Thye Hua Kwan Moral Charities | [Clinical Senior](https://www.internsg.com/job/thye-hua-kwan-moral-charities-clinical-senior-ang-mo-kio/?f_pg=44) | Ang Mo Kio, SG… | 2025-10-18 |
+| 2B Printing Solutions Pte Ltd | [Marketing & Customer Service Intern](https://www.internsg.com/job/2b-printing-solutions-pte-ltd-marketing-customer-service-intern/?f_pg=44) | Geylang, SG… | 2025-10-18 |
+| SC Associates | [Finance Services Internship](https://www.internsg.com/job/sc-associates-finance-services-internship-3/?f_pg=44) | SG… | 2025-10-18 |
+| Papa Palheta Pte Ltd | [Pastry Assistant](https://www.internsg.com/job/papa-palheta-pte-ltd-pastry-assistant-pt-4/?f_pg=44) | SG… | 2025-10-18 |
+| 2B Printing Solutions Pte Ltd | [Operations & Logistics Intern](https://www.internsg.com/job/2b-printing-solutions-pte-ltd-operations-logistics-intern/?f_pg=44) | Geylang, SG… | 2025-10-18 |
+| ECICS Limited | [Project Management Intern (General Insurance)](https://www.internsg.com/job/ecics-limited-project-management-intern-general-insurance/?f_pg=44) | Geylang, SG… | 2025-10-18 |
+| Papa Palheta Pte Ltd | [Service Crew / Barista](https://www.internsg.com/job/papa-palheta-pte-ltd-service-crew-barista-part-time-3/?f_pg=44) | SG… | 2025-10-18 |
+| Papa Palheta Pte Ltd | [Retail Associate](https://www.internsg.com/job/papa-palheta-pte-ltd-retail-associate-4/?f_pg=44) | SG… | 2025-10-18 |
+| The Fun Empire | [Creative / Videography Intern](https://www.internsg.com/job/the-fun-empire-creative-videography-intern-125/?f_pg=44) | Toa Payoh, SG… | 2025-10-18 |
+| The Fun Empire | [Event Operations Executive](https://www.internsg.com/job/the-fun-empire-event-operations-executive-52/?f_pg=44) | Toa Payoh, SG… | 2025-10-18 |
+| Square One Active Recovery | [Social Media / Videography Intern](https://www.internsg.com/job/square-one-active-recovery-social-media-videography-intern/?f_pg=43) | Chinatown, SG… | 2025-10-18 |
+| Lion Global Investors Limited | [Content Marketing Intern](https://www.internsg.com/job/lion-global-investors-limited-content-marketing-intern-4/?f_pg=43) | Downtown Core, SG… | 2025-10-18 |
+| The Fun Empire | [Event Operations Intern](https://www.internsg.com/job/the-fun-empire-event-operations-intern-74/?f_pg=43) | Toa Payoh, SG… | 2025-10-18 |
+| The Fun Empire | [Event Sales Executive](https://www.internsg.com/job/the-fun-empire-event-sales-executive-52/?f_pg=43) | Toa Payoh, SG… | 2025-10-18 |
+| Super Mall Pte Ltd | [eCommerce Operations & Marketing Internship](https://www.internsg.com/job/super-mall-pte-ltd-ecommerce-operations-marketing-internship-4/?f_pg=43) | Yishun, SG… | 2025-10-18 |
+| Oakwood & Drehem Capital | [Investment Banking Intern](https://www.internsg.com/job/oakwood-drehem-capital-investment-banking-intern/?f_pg=43) | Downtown Core, SG… | 2025-10-18 |
+| Afon Technologies Pte Ltd | [Application Consultant](https://www.internsg.com/job/afon-technologies-pte-ltd-application-consultant/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| KR Institute | [Marketing Intern](https://www.internsg.com/job/kr-institute-kr-institute-marketing-intern/?f_pg=43) | Singapore River, SG… | 2025-10-18 |
+| Mediacorp Pte. Ltd. | [Intern - Internal Audit (Oct 25 - Mar 26)](https://www.internsg.com/job/mediacorp-pte-ltd-intern-internal-audit-oct-25-mar-26/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| Being Kids Pte Ltd | [Digital Marketing Intern](https://www.internsg.com/job/being-kids-pte-ltd-digital-marketing-intern-3/?f_pg=43) | Kallang, SG… | 2025-10-18 |
+| MyndStrong Health | [Junior Creative Designer](https://www.internsg.com/job/myndstrong-health-junior-creative-designer-part-time-%c2%b7-4-months-sept-dec-2025-%c2%b7-16-hrs-per-week/?f_pg=43) | SG… | 2025-10-18 |
+| NTUC Health | [Internship (Corporate Communications & Branding) 2025](https://www.internsg.com/job/ntuc-health-internship-corporate-communications-branding-2025-3/?f_pg=43) | Geylang, SG… | 2025-10-18 |
+| Silver Keys Realty | [HR Assistant](https://www.internsg.com/job/silver-keys-realty-hr-assistant/?f_pg=43) | SG… | 2025-10-18 |
+| Thye Hua Kwan Moral Charities | [Counsellor](https://www.internsg.com/job/thye-hua-kwan-moral-charities-counsellor-8/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| UOB Kay Hian | [Private Wealth Management Intern](https://www.internsg.com/job/uob-kay-hian-private-wealth-management-intern-9/?f_pg=43) | Singapore River, SG… | 2025-10-18 |
+| Mediacorp Pte. Ltd. | [Intern - Digital Arts (Dec 25 - Feb 26)](https://www.internsg.com/job/mediacorp-pte-ltd-intern-digital-arts-dec-25-feb-26/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| Singapore Art Museum | [Cafe Operations and Retail Executive](https://www.internsg.com/job/singapore-art-museum-cafe-operations-and-retail-executive-2/?f_pg=43) | Bukit Merah, SG… | 2025-10-18 |
+| Mediacorp Pte. Ltd. | [Intern - NCA-Chinese Current Affairs (Oct 25 - Jan 25)](https://www.internsg.com/job/mediacorp-pte-ltd-intern-nca-chinese-current-affairs-oct-25-jan-25/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| Jobs Network LLP | [Telemarketer](https://www.internsg.com/job/jobs-network-llp-telemarketer/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| Mediacorp Pte. Ltd. | [Intern - Audio Post (Production Resource) (Oct 25 - Jan 26)](https://www.internsg.com/job/mediacorp-pte-ltd-intern-audio-post-production-resource-oct-25-jan-26/?f_pg=43) | Queenstown, SG… | 2025-10-18 |
+| Ya Kun Cafe Pte Ltd | [HR & Admin Intern](https://www.internsg.com/job/ya-kun-cafe-pte-ltd-hr-admin-intern-2/?f_pg=42) | Bukit Merah, SG… | 2025-10-18 |
+| Singapore Medical Group | [Marketing Intern](https://www.internsg.com/job/singapore-medical-group-marketing-intern-8/?f_pg=42) | Toa Payoh, SG… | 2025-10-18 |
+| Univers. Pte. Ltd. | [Legal Admin Intern](https://www.internsg.com/job/univers-pte-ltd-legal-admin-intern/?f_pg=42) | Bukit Merah, SG… | 2025-10-18 |
+| The PR Salon Pte Ltd | [PR & Social Media Executive](https://www.internsg.com/job/the-pr-salon-pte-ltd-pr-social-media-executive/?f_pg=42) | River Valley, SG… | 2025-10-18 |
+| Comopack Pte Ltd | [Tech Intern](https://www.internsg.com/job/comopack-pte-ltd-tech-intern/?f_pg=42) | Novena, SG… | 2025-10-18 |
+| Pa-tata-tata | [Creative Marketing & Communications Intern](https://www.internsg.com/job/pa-tata-tata-creative-marketing-communications-intern/?f_pg=42) | SG… | 2025-10-18 |
+| Verztec Consulting Pte Ltd | [Video Editor Assistant](https://www.internsg.com/job/verztec-consulting-pte-ltd-video-editor-assistant-2/?f_pg=42) | Rochor, SG… | 2025-10-18 |
+| INITIA Group SG | [F&B Intern](https://www.internsg.com/job/initia-group-sg-fb-intern-15/?f_pg=42) | Tanjong Pagar, SG… | 2025-10-18 |
+| Verztec Consulting Pte Ltd | [E-learning Content Developer Assistant](https://www.internsg.com/job/verztec-consulting-pte-ltd-e-learning-content-developer-assistant-3-month-contract/?f_pg=42) | Rochor, SG… | 2025-10-18 |
+| Pa-tata-tata | [Graphic Design & Creative Content Creator Intern](https://www.internsg.com/job/pa-tata-tata-graphic-design-creative-content-creator-intern-4/?f_pg=42) | SG… | 2025-10-18 |
+| Theia Health Pte. Ltd. | [Computing Science Intern](https://www.internsg.com/job/theia-health-pte-ltd-computing-science-intern/?f_pg=42) | Bukit Merah, SG… | 2025-10-18 |
+| Cynapse Pte Ltd | [AI Research & Development Intern](https://www.internsg.com/job/cynapse-pte-ltd-ai-research-development-intern-4/?f_pg=42) | Queenstown, SG… | 2025-10-18 |
+| Cynapse Pte Ltd | [AI Engineering Intern (Computer Vision & Deep Learning)](https://www.internsg.com/job/cynapse-pte-ltd-ai-engineering-intern-computer-vision-deep-learning-3/?f_pg=42) | Queenstown, SG… | 2025-10-18 |
+| Cynapse Pte Ltd | [Project Management Officer (PMO) / Quality Assurance (QA) Intern](https://www.internsg.com/job/cynapse-pte-ltd-project-management-officer-pmo-quality-assurance-qa-intern-11/?f_pg=42) | Queenstown, SG… | 2025-10-18 |
