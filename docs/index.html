@@ -78,7 +78,7 @@
 
 <script>
 (async function(){
-  const res = await fetch('..sg-jobs/data/jobs.min.json', {cache:'no-store'});
+  const res = await fetch('../sg-jobs/data/jobs.min.json', {cache:'no-store'});
   const jobs = await res.json();
 
   const selCompany = document.getElementById('company');
