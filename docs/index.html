@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>SG Jobs — Latest</title>
+<style>
+  :root { --bg:#0b1020; --card:#121a2b; --muted:#9aa4b2; --fg:#e6edf3; --accent:#5bbcf6; --chip:#22324d; }
+  body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial;background:var(--bg);color:var(--fg);}
+  .wrap{max-width:1200px;margin:auto;padding:24px;}
+  h1{margin:0 0 6px 0;font-size:28px}
+  .muted{color:var(--muted);font-size:14px}
+  .cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0 20px}
+  .card{background:var(--card);border-radius:12px;padding:16px}
+  .card h3{margin:0;font-size:13px;color:var(--muted);font-weight:600}
+  .card .big{font-size:24px;font-weight:700;margin-top:6px}
+  .bar{display:flex;gap:12px;flex-wrap:wrap;margin:10px 0 14px}
+  input,select{background:var(--card);border:1px solid #1f2a44;color:var(--fg);border-radius:10px;padding:10px 12px;outline:none}
+  input{flex:1;min-width:220px}
+  .table{width:100%;border-collapse:collapse}
+  .table th,.table td{border-bottom:1px solid #19233a;padding:10px 8px;vertical-align:top}
+  .table th{color:var(--muted);text-align:left;font-size:12px;font-weight:600}
+  .title a{color:var(--fg);text-decoration:none}
+  .title a:hover{color:var(--accent)}
+  .chip{background:var(--chip);color:var(--fg);border-radius:999px;padding:2px 8px;font-size:12px;margin-right:6px;display:inline-block}
+  .pager{display:flex;gap:8px;align-items:center;justify-content:flex-end;margin-top:10px}
+  .pager button{background:var(--card);border:1px solid #1f2a44;color:var(--fg);border-radius:10px;padding:8px 12px;cursor:pointer}
+  .tagbar{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 2px}
+  .tagbtn{background:var(--chip);border:0;color:var(--fg);border-radius:999px;padding:4px 10px;cursor:pointer;font-size:12px}
+  .active{outline:2px solid var(--accent)}
+  @media (max-width:900px){ .cards{grid-template-columns:repeat(2,minmax(0,1fr));} }
+  @media (max-width:600px){ .cards{grid-template-columns:1fr;} .hide-sm{display:none} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Latest Jobs</h1>
+  <div class="muted">Last updated: 2025-10-18</div>
+
+  <div class="cards">
+    <div class="card"><h3>Total Jobs</h3><div class="big" id="stat-total">4041</div></div>
+    <div class="card"><h3>Companies</h3><div class="big" id="stat-companies">544</div></div>
+    <div class="card"><h3>Top Tag</h3><div class="big" id="stat-toptag">Technology</div></div>
+    <div class="card"><h3>Newest Day</h3><div class="big" id="stat-latest">2025-10-18</div></div>
+  </div>
+
+  <div class="bar">
+    <input id="q" placeholder="Search title, company or meta…" />
+    <select id="company">
+      <option value="">All companies</option>
+    </select>
+    <select id="tag">
+      <option value="">All tags</option>
+      <option>Consulting</option><option>Finance</option><option>Healthcare</option><option>Manufacturing</option><option>Others</option><option>Technology</option>
+    </select>
+    <select id="pagesize">
+      <option>25</option><option selected>50</option><option>100</option>
+    </select>
+  </div>
+
+  <div class="tagbar" id="tagbar">
+    <button class="tagbtn" data-tag="Technology">Technology · 1635</button><button class="tagbtn" data-tag="Others">Others · 1278</button><button class="tagbtn" data-tag="Finance">Finance · 775</button><button class="tagbtn" data-tag="Consulting">Consulting · 762</button><button class="tagbtn" data-tag="Manufacturing">Manufacturing · 210</button><button class="tagbtn" data-tag="Healthcare">Healthcare · 73</button>
+  </div>
+
+  <table class="table" id="tbl">
+    <thead>
+      <tr><th>Company</th><th>Title</th><th class="hide-sm">Meta</th><th class="hide-sm">Date</th><th>Tags</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <div class="pager">
+    <button id="prev">Prev</button>
+    <span id="pinfo" class="muted"></span>
+    <button id="next">Next</button>
+  </div>
+</div>
+
+<script>
+(async function(){
+  const res = await fetch('../data/jobs.min.json', {cache:'no-store'});
+  const jobs = await res.json();
+
+  const selCompany = document.getElementById('company');
+  const companies = Array.from(new Set(jobs.map(j=>j.c))).sort();
+  companies.forEach(c => {
+    const o = document.createElement('option'); o.value = c; o.textContent = c;
+    selCompany.appendChild(o);
+  });
+
+  let page = 1, pageSize = parseInt(document.getElementById('pagesize').value,10);
+  const q = document.getElementById('q');
+  const tagSel = document.getElementById('tag');
+  const tbody = document.querySelector('#tbl tbody');
+  const pinfo = document.getElementById('pinfo');
+  const btnPrev = document.getElementById('prev');
+  const btnNext = document.getElementById('next');
+
+  let activeTagBtn = null;
+  document.getElementById('tagbar').addEventListener('click', (e)=>{
+    if(e.target.matches('.tagbtn')){
+      if(activeTagBtn) activeTagBtn.classList.remove('active');
+      activeTagBtn = e.target; activeTagBtn.classList.add('active');
+      tagSel.value = e.target.dataset.tag;
+      page = 1; render();
+    }
+  });
+
+  q.addEventListener('input', ()=>{ page=1; render(); });
+  selCompany.addEventListener('change', ()=>{ page=1; render(); });
+  tagSel.addEventListener('change', ()=>{ page=1; render(); });
+  document.getElementById('pagesize').addEventListener('change', (e)=>{ pageSize=parseInt(e.target.value,10); page=1; render(); });
+  btnPrev.addEventListener('click', ()=>{ if(page>1){ page--; render(); }});
+  btnNext.addEventListener('click', ()=>{ const {pages}=filtered(); if(page<pages){ page++; render(); }});
+
+  function filtered(){
+    const text = q.value.trim().toLowerCase();
+    const company = selCompany.value;
+    const tag = tagSel.value;
+    let list = jobs;
+    if(text){
+      list = list.filter(j =>
+        (j.t||'').toLowerCase().includes(text) ||
+        (j.c||'').toLowerCase().includes(text) ||
+        (j.m||'').toLowerCase().includes(text)
+      );
+    }
+    if(company) list = list.filter(j => j.c === company);
+    if(tag) list = list.filter(j => (j.g||[]).includes(tag));
+    const total = list.length;
+    const pages = Math.max(1, Math.ceil(total/pageSize));
+    const start = (page-1)*pageSize, end = start + pageSize;
+    return {list: list.slice(start, end), total, pages};
+  }
+
+  function render(){
+    const {list, total, pages} = filtered();
+    tbody.innerHTML = list.map(j => 
+      '<tr>'
+      + '<td>' + (j.c||'').replace(/&/g,'&amp;') + '</td>'
+      + '<td class="title"><a href="' + j.u + '" target="_blank" rel="noopener">' + (j.t||'').replace(/&/g,'&amp;') + '</a></td>'
+      + '<td class="hide-sm">' + (j.m||'').replace(/&/g,'&amp;') + '</td>'
+      + '<td class="hide-sm">' + (j.d||'') + '</td>'
+      + '<td>' + (j.g||[]).map(g=>'<span class="chip">'+g+'</span>').join('') + '</td>'
+      + '</tr>'
+    ).join('');
+    pinfo.textContent = 'Page ' + page + ' / ' + pages + ' · ' + total + ' results';
+    btnPrev.disabled = page<=1;
+    btnNext.disabled = page>=pages;
+  }
+
+  render();
+})();
+</script>
+</body>
+</html>
