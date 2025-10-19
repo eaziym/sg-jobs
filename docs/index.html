@@ -30,6 +30,73 @@
   .active{outline:2px solid var(--accent)}
   @media (max-width:900px){ .cards{grid-template-columns:repeat(2,minmax(0,1fr));} }
   @media (max-width:600px){ .cards{grid-template-columns:1fr;} .hide-sm{display:none} }
+  .referral-section {
+  margin-top: 40px;
+  border-top: 1px solid #19233a;
+  padding-top: 40px;
+}
+
+.referral-header h2 {
+  margin: 0 0 8px 0;
+  font-size: 24px;
+}
+
+.referral-header p {
+  margin: 0 0 20px 0;
+}
+
+.form-tabs {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.tab-btn {
+  background: var(--card);
+  border: 1px solid #1f2a44;
+  color: var(--fg);
+  border-radius: 10px;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.tab-btn:hover {
+  border-color: var(--accent);
+}
+
+.tab-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+}
+
+.form-container-ref {
+  background: var(--card);
+  border: 1px solid #1f2a44;
+  border-radius: 12px;
+  padding: 24px;
+  min-height: 650px;
+}
+
+.form-frame {
+  display: none;
+  width: 100%;
+  height: 650px;
+  border: none;
+  border-radius: 8px;
+}
+
+.form-frame.active {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .form-tabs { flex-direction: column; }
+  .tab-btn { width: 100%; }
+}
 </style>
 </head>
 <body>
@@ -77,9 +144,54 @@
     <span id="pinfo" class="muted"></span>
     <button id="next">Next</button>
   </div>
+
+<!-- Referral Forms Section -->
+<div class="referral-section">
+  <div class="referral-header">
+    <h2>Submit a Referral</h2>
+    <p class="muted">Know someone who'd be a great fit? Submit a referral for Micron or GS opportunities.</p>
+    <p class="muted">Disclaimer: Resumes uploaded will be processed by OpenAI to check against job descriptions of selected job links!</p>
+  </div>
+  
+  <div class="form-tabs">
+    <button class="tab-btn active" data-form="micron">Micron Referral</button>
+    <button class="tab-btn" data-form="gs">GS Referral</button>
+  </div>
+  
+  <div class="form-container-ref">
+    <iframe 
+      id="micron-form"
+      class="form-frame active"
+      src="https://n8n.shiyao.dev/form/micron">
+    </iframe>
+    <iframe 
+      id="gs-form"
+      class="form-frame"
+      src="https://n8n.shiyao.dev/form/gs">
+    </iframe>
+  </div>
+</div>
+
+  
 </div>
 
 <script>
+
+const tabs = document.querySelectorAll('.tab-btn');
+const frames = document.querySelectorAll('.form-frame');
+
+tabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    const formName = tab.dataset.form;
+    
+    tabs.forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    
+    frames.forEach(f => f.classList.remove('active'));
+    document.getElementById(formName + '-form').classList.add('active');
+  });
+});
+
 (async function(){
   const res = await fetch('../sg-jobs/data/jobs.min.json', {cache:'no-store'});
   const jobs = await res.json();
