@@ -2,60 +2,60 @@
 
 _Last updated: 2025-10-20_
 
-**Total jobs:** 5506 • **Companies:** 593 • **Top tag:** Others
+**Total jobs:** 5673 • **Companies:** 595 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Deutsche Bank | [Chairman - Government &amp; Public Affairs Asia Pacific – VP](https://careers.db.com/professionals/search-roles/#/professional/job/65147) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CB IB Operations &amp; Controls - Commodities Middle Office - VP](https://careers.db.com/professionals/search-roles/#/professional/job/57329) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Information Technology &amp; Security Risk Specialist, Operational Risk - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/66991) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [TDI – Trade Finance Tech – Full Stack Java Engineer - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/57799) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [GSA (Global Strategic Analytics) – Corporate Bank Strat – Vice President](https://careers.db.com/professionals/search-roles/#/professional/job/63350) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [IB - GEM Asia Sales - Family Office Coverage - VP/D](https://careers.db.com/professionals/search-roles/#/professional/job/63664) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Talent &amp; Development Practitioner, APAC &amp; MEA - Vice President](https://careers.db.com/professionals/search-roles/#/professional/job/64891) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Investment Bank &amp; APAC Sanctions, Regulatory Advisory Specialist - VP](https://careers.db.com/professionals/search-roles/#/professional/job/67081) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CB IB Operations &amp; Controls – KYC &amp; Client Data Operations – NCT](https://careers.db.com/professionals/search-roles/#/professional/job/66478) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Night Dealer, Associate](https://careers.db.com/professionals/search-roles/#/professional/job/67743) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Risk Manager - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/66824) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [IB - GEM Asia Business Controls Unit - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66848) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [GSA (Global Strategic Analytics) - Quantitative Developer - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66990) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [GCOO - Facilities Manager  - Services Delivery Management - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66922) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CB IB Operations &amp; Controls – Manager of Trade Finance and Lending Operations – VP](https://careers.db.com/professionals/search-roles/#/professional/job/66323) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [TDI -Trade Finance Tech – Lead Engineer (Traydstream) - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66840) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [TDI - Technology Service Analyst - NCT](https://careers.db.com/professionals/search-roles/#/professional/job/67716) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Group Strategic Analytics – Kannon Franchise Pricing Strat – Associate / VP](https://careers.db.com/professionals/search-roles/#/professional/job/67522) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [TDI - QA Automation Testing Engineer](https://careers.db.com/professionals/search-roles/#/professional/job/64937) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Client Service Executive - Associate / Assistant Vice President](https://careers.db.com/professionals/search-roles/#/professional/job/18402) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank – Client Service Executive, EAM - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/66927) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Alternatives Specialist (Private Real Assets), APAC (Southeast Asia)](https://careers.db.com/professionals/search-roles/#/professional/job/64248) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Talent Acquisition - Early Careers (Campus Engagement &amp; Programmes) Specialist, – AVP](https://careers.db.com/professionals/search-roles/#/professional/job/66503) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Corporate Bank – Transaction Structurer- Associate](https://careers.db.com/professionals/search-roles/#/professional/job/67049) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank – Relationship Manager - Vice President/Director](https://careers.db.com/professionals/search-roles/#/professional/job/63530) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Senior Business Functional Analyst – Capital Markets Transformation - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/66879) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Corporate Bank - RMS Sales- Associate/VP](https://careers.db.com/professionals/search-roles/#/professional/job/67126) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [TDI - Divisional Control &amp; Oversight Analyst – AVP](https://careers.db.com/professionals/search-roles/#/professional/job/67365) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CRO - Information Technology &amp; Security Risk Lead – Operational Risk - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66928) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CB IB Operations &amp; Controls – ICM KYC Strategic Initiatives Lead - VP](https://careers.db.com/professionals/search-roles/#/professional/job/66525) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Corporate Bank - MNC Coverage - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/67432) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Operations Regulatory Expert - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/67343) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank – Client Service Executive, EAM, AVP](https://careers.db.com/professionals/search-roles/#/professional/job/67051) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CB IB Operations &amp; Controls- KYC Business management and support-Associate](https://careers.db.com/professionals/search-roles/#/professional/job/67579) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [CFO – Capital &amp; Liquidity Management Lead - VP](https://careers.db.com/professionals/search-roles/#/professional/job/64952) | Singapore… | 2025-10-20 |
-| Deutsche Bank | [Private Bank - Events and Marketing, Associate](https://careers.db.com/professionals/search-roles/#/professional/job/67742) | Singapore… | 2025-10-20 |
-| NTUC Health | [Internship (Talent Attraction, HR) 2025](https://www.internsg.com/job/ntuc-health-internship-talent-attraction-hr-2025-2/?f_pg=48) | Geylang, SG… | 2025-10-19 |
-| SEOCopilot Pte. Ltd. | [Full Stack Software Engineer Intern](https://www.internsg.com/job/seocopilot-pte-ltd-full-stack-software-engineer-intern-3/?f_pg=48) | Orchard, SG… | 2025-10-19 |
-| United Overseas Insurance Limited | [Administrative Assistant](https://www.internsg.com/job/united-overseas-insurance-limited-administrative-assistant-3-months/?f_pg=48) | SG… | 2025-10-19 |
-| Mighty Jaxx | [Sales Operations & Business Development Intern](https://www.internsg.com/job/mighty-jaxx-sales-operations-business-development-intern-2/?f_pg=48) | Hougang, SG… | 2025-10-19 |
-| Mighty Jaxx | [Investor Relations and Corporate Communications Intern](https://www.internsg.com/job/mighty-jaxx-investor-relations-and-corporate-communications-intern-3/?f_pg=48) | Hougang, SG… | 2025-10-19 |
-| Float Foods Pte Ltd | [Marketing Communications Intern](https://www.internsg.com/job/float-foods-pte-ltd-marketing-communications-intern/?f_pg=48) | Tampines, SG… | 2025-10-19 |
-| Givabit | [Web3 Intern](https://www.internsg.com/job/givabit-web3-intern-2/?f_pg=48) | SG… | 2025-10-19 |
-| Gusto Collective Singapore Pte Ltd | [PR Account Coordinator (Intern)](https://www.internsg.com/job/gusto-collective-singapore-pte-ltd-pr-account-coordinator-intern/?f_pg=48) | SG… | 2025-10-19 |
-| AtlasRobotics | [Underwater Robotics Deployment / Business Development Intern](https://www.internsg.com/job/atlasrobotics-underwater-robotics-deployment-business-development-intern-2/?f_pg=48) | Queenstown, SG… | 2025-10-19 |
-| Mediterranean Shipping Company South East Asia (Singapore) Pte Ltd | [Executive, Cost Control (Shipping, 1 Year Contract)](https://www.internsg.com/job/mediterranean-shipping-company-south-east-asia-singapore-pte-ltd-executive-cost-control-shipping-1-year-contract/?f_pg=47) | Downtown Core, SG… | 2025-10-19 |
-| The Mad Theories Pte Ltd | [Internship with The Mad Theories (Content Creation, Marketing, Operations)](https://www.internsg.com/job/the-mad-theories-pte-ltd-internship-with-the-mad-theories/?f_pg=47) | Woodlands, SG… | 2025-10-19 |
-| Total Process Systems Pte Ltd | [Cleanroom CFD Design Intern](https://www.internsg.com/job/total-process-systems-pte-ltd-cleanroom-cfd-design-intern/?f_pg=47) | Queenstown, SG… | 2025-10-19 |
-| Fenzo Digital | [Marketing Intern](https://www.internsg.com/job/fenzo-digital-marketing-intern/?f_pg=47) | Outram, SG… | 2025-10-19 |
-| J&D Tech | [Marketing cum Admin Intern (Quant Finance)](https://www.internsg.com/job/jd-tech-marketing-cum-admin-intern-quant-finance/?f_pg=47) | Bukit Merah, SG… | 2025-10-19 |
+| Thye Hua Kwan Moral Charities | [Early Intervention Teacher](https://www.internsg.com/job/thye-hua-kwan-moral-charities-early-intervention-teacher-toa-payoh-10/?f_pg=48) | Toa Payoh, SG… | 2025-10-20 |
+| Strides Digital | [Software Engineer Intern](https://www.internsg.com/job/strides-digital-software-engineer-intern-4/?f_pg=48) | Geylang, SG… | 2025-10-20 |
+| Extrusion | [3D Drafter (Interior Design)](https://www.internsg.com/job/extrusion-3d-drafter-interior-design/?f_pg=48) | Ang Mo Kio, SG… | 2025-10-20 |
+| Global Success Talent Pt Ltd | [Service Technician Internship](https://www.internsg.com/job/global-success-talent-pt-ltd-service-technician-internship-2/?f_pg=47) | Geylang, SG… | 2025-10-20 |
+| Tango Partners | [Private Equity / Search Fund Intern](https://www.internsg.com/job/tango-partners-private-equity-search-fund-intern/?f_pg=47) | TH… | 2025-10-20 |
+| Horizon Labs | [Partnerships Intern](https://www.internsg.com/job/horizon-labs-partnerships-intern-2/?f_pg=47) | SG… | 2025-10-20 |
+| Quartz Global | [Junior Marketing Events](https://www.internsg.com/job/quartz-global-junior-marketing-events-4/?f_pg=46) | Downtown Core, SG… | 2025-10-20 |
+| Poh Heng Jewellery (Private) Limited | [ESG Intern](https://www.internsg.com/job/poh-heng-jewellery-private-limited-esg-intern/?f_pg=46) | Geylang, SG… | 2025-10-20 |
+| Pinnacle Business Solutions Pte Ltd | [Marketing Intern (Accounting / Marketing)](https://www.internsg.com/job/pinnacle-business-solutions-pte-ltd-marketing-intern-accounting-marketing/?f_pg=46) | Outram, SG… | 2025-10-20 |
+| Fullerton Healthcare Group Pte. Limited | [HR Intern](https://www.internsg.com/job/fullerton-healthcare-group-pte-limited-hr-intern/?f_pg=45) | Downtown Core, SG… | 2025-10-20 |
+| Thye Hua Kwan Moral Charities | [Clinical Senior](https://www.internsg.com/job/thye-hua-kwan-moral-charities-clinical-senior-ang-mo-kio/?f_pg=45) | Ang Mo Kio, SG… | 2025-10-20 |
+| 2B Printing Solutions Pte Ltd | [Marketing & Customer Service Intern](https://www.internsg.com/job/2b-printing-solutions-pte-ltd-marketing-customer-service-intern/?f_pg=45) | Geylang, SG… | 2025-10-20 |
+| Being Kids Pte Ltd | [Digital Marketing Intern](https://www.internsg.com/job/being-kids-pte-ltd-digital-marketing-intern-3/?f_pg=44) | Kallang, SG… | 2025-10-20 |
+| NTUC Health | [Internship (Corporate Communications & Branding) 2025](https://www.internsg.com/job/ntuc-health-internship-corporate-communications-branding-2025-3/?f_pg=44) | Geylang, SG… | 2025-10-20 |
+| Mediacorp Pte. Ltd. | [Intern - Internal Audit (Oct 25 - Mar 26)](https://www.internsg.com/job/mediacorp-pte-ltd-intern-internal-audit-oct-25-mar-26/?f_pg=44) | Queenstown, SG… | 2025-10-20 |
+| Theia Health Pte. Ltd. | [Computing Science Intern](https://www.internsg.com/job/theia-health-pte-ltd-computing-science-intern/?f_pg=43) | Bukit Merah, SG… | 2025-10-20 |
+| Cynapse Pte Ltd | [AI Engineering Intern (Computer Vision & Deep Learning)](https://www.internsg.com/job/cynapse-pte-ltd-ai-engineering-intern-computer-vision-deep-learning-3/?f_pg=43) | Queenstown, SG… | 2025-10-20 |
+| INITIA Group SG | [F&B Intern](https://www.internsg.com/job/initia-group-sg-fb-intern-15/?f_pg=43) | Tanjong Pagar, SG… | 2025-10-20 |
+| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-63/?f_pg=42) | Tiong Bahru, SG… | 2025-10-20 |
+| ZEM Productions | [Business Development Intern](https://www.internsg.com/job/zem-productions-business-development-intern-33/?f_pg=42) | Geylang, SG… | 2025-10-20 |
+| INITIA Group | [Art Intern](https://www.internsg.com/job/initia-group-art-intern/?f_pg=42) | Orchard, SG… | 2025-10-20 |
+| Snaphunt Pte Ltd | [Live Streamer](https://www.internsg.com/job/snaphunt-pte-ltd-live-streamer/?f_pg=41) | SG… | 2025-10-20 |
+| Snaphunt Pte Ltd | [Azure DevOps Engineer](https://www.internsg.com/job/azure-devops-engineer-azure-devops-engineer/?f_pg=41) | SG… | 2025-10-20 |
+| Federated Cargo Line Pte Ltd | [Trade Officer](https://www.internsg.com/job/federated-cargo-line-pte-ltd-trade-officer/?f_pg=41) | Downtown Core, SG… | 2025-10-20 |
+| Jobs Network LLP | [Recruitment Officer](https://www.internsg.com/job/jobs-network-llp-recruitment-officer/?f_pg=40) | Queenstown, SG… | 2025-10-20 |
+| Jobs Network LLP | [Events Operation Assistant](https://www.internsg.com/job/jobs-network-llp-events-operation-assistant/?f_pg=40) | Queenstown, SG… | 2025-10-20 |
+| Advo Education Centre Pte Ltd | [Hybrid Exam Invigilators [Multiple Positions]](https://www.internsg.com/job/advo-education-centre-pte-ltd-hybrid-exam-invigilators-multiple-positions/?f_pg=40) | Novena, SG… | 2025-10-20 |
+| Killiney 88 Pte Ltd | [Marketing & Branding Intern](https://www.internsg.com/job/killiney-88-pte-ltd-marketing-branding-intern/?f_pg=39) | River Valley, SG… | 2025-10-20 |
+| Killiney 88 Pte Ltd | [Finance & Operations Intern](https://www.internsg.com/job/killiney-88-pte-ltd-finance-operations-intern/?f_pg=39) | River Valley, SG… | 2025-10-20 |
+| WildBrain CPLG Singapore Pte Ltd | [Business Support Coordinator Intern](https://www.internsg.com/job/wildbrain-cplg-singapore-pte-ltd-business-support-coordinator-intern/?f_pg=39) | SG… | 2025-10-20 |
+| Ransack Gamification Studios | [Creative Design Intern](https://www.internsg.com/job/ransack-gamification-studios-creative-design-intern-3/?f_pg=38) | Queenstown, SG… | 2025-10-20 |
+| Ransack Gamification Studios | [Tourism and Business Intern](https://www.internsg.com/job/ransack-gamification-studios-tourism-and-business-intern-3/?f_pg=38) | Queenstown, SG… | 2025-10-20 |
+| Ban Leong Technologies Pte Ltd | [Marketing Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-marketing-intern/?f_pg=38) | Geylang, SG… | 2025-10-20 |
+| Four Leaves Pte Ltd | [Accounts Executive](https://www.internsg.com/job/four-leaves-pte-ltd-accounts-executive-3/?f_pg=37) | Jurong West, SG… | 2025-10-20 |
+| Wpgroup Pte. Ltd. | [Marketing Intern](https://www.internsg.com/job/wpgroup-pte-ltd-marketing-intern/?f_pg=37) | Downtown Core, SG… | 2025-10-20 |
+| Altrocks Tech Pte Ltd | [Account Executive](https://www.internsg.com/job/altrocks-tech-pte-ltd-account-executive/?f_pg=37) | SG… | 2025-10-20 |
+| TELUS Digital AI Data Solutions | [Online Data Analyst - English Speaker (SG)](https://www.internsg.com/job/telus-digital-ai-data-solutions-online-data-analyst-english-speaker-sg/?f_pg=36) | SG… | 2025-10-20 |
+| TELUS Digital AI Data Solutions | [AI Data Annotation Specialist – Global Freelance Role, Flexible Hours](https://www.internsg.com/job/telus-digital-ai-data-solutions-ai-data-annotation-specialist-global-freelance-role-flexible-hours/?f_pg=36) | SG… | 2025-10-20 |
+| Jobs Network LLP | [Secretary / Personal Assistant](https://www.internsg.com/job/jobs-network-llp-secretary-personal-assistant/?f_pg=36) | Queenstown, SG… | 2025-10-20 |
+| Flashbob Studio | [Content Creator / Editor](https://www.internsg.com/job/flashbob-studio-content-creator-editor/?f_pg=35) | Bukit Merah, SG… | 2025-10-20 |
+| IQ-EQ Asia | [Business Intelligence Intern](https://www.internsg.com/job/iq-eq-asia-business-intelligence-intern/?f_pg=35) | Downtown Core, SG… | 2025-10-20 |
+| ACM Research Pte Ltd | [Field Service Engineer](https://www.internsg.com/job/acm-research-pte-ltd-field-service-engineer/?f_pg=35) | SG… | 2025-10-20 |
+| Archimedes Holdings | [Strategic Growth and Operations Intern](https://www.internsg.com/job/archimedes-holdings-strategic-growth-and-operations-intern-2/?f_pg=34) | Toa Payoh, SG… | 2025-10-20 |
+| Archimedes Holdings | [Digital Marketing Intern - Pet Industry](https://www.internsg.com/job/archimedes-holdings-digital-marketing-intern-pet-industry/?f_pg=34) | Toa Payoh, SG… | 2025-10-20 |
+| Rising Impact | [Roadshow Ambassador](https://www.internsg.com/job/rising-impact-roadshow-ambassador/?f_pg=34) | SG… | 2025-10-20 |
+| Ho Ho Engineering And Renovation Works | [Creative Content Creator Intern](https://www.internsg.com/job/ho-ho-engineering-and-renovation-works-creative-content-creator-intern/?f_pg=33) | Clementi, SG… | 2025-10-20 |
+| REC Group | [Senior Tax Specialist](https://www.internsg.com/job/rec-group-senior-tax-specialist-3/?f_pg=33) | Downtown Core, SG… | 2025-10-20 |
+| Global Innovation Education Group | [Social Media Admin Intern](https://www.internsg.com/job/global-innovation-education-group-social-media-admin-intern/?f_pg=33) | SG… | 2025-10-20 |
+| The Fun Empire | [Event Sales Executive](https://www.internsg.com/job/the-fun-empire-event-sales-executive-53/?f_pg=32) | Toa Payoh, SG… | 2025-10-20 |
+| Allied Container Group | [Web Developer Intern](https://www.internsg.com/job/allied-container-group-web-developer-intern/?f_pg=32) | Kallang, SG… | 2025-10-20 |
