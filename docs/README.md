@@ -1,6 +1,6 @@
 # Latest Jobs
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-21_
 
 **Total jobs:** 5673 • **Companies:** 595 • **Top tag:** Others
 
