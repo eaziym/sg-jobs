@@ -25,78 +25,71 @@
   .chip{background:var(--chip);color:var(--fg);border-radius:999px;padding:2px 8px;font-size:12px;margin-right:6px;display:inline-block}
   .pager{display:flex;gap:8px;align-items:center;justify-content:flex-end;margin-top:10px}
   .pager button{background:var(--card);border:1px solid #1f2a44;color:var(--fg);border-radius:10px;padding:8px 12px;cursor:pointer}
-  .tagbar{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 2px}
-  .tagbtn{background:var(--chip);border:0;color:var(--fg);border-radius:999px;padding:4px 10px;cursor:pointer;font-size:12px}
-  .active{outline:2px solid var(--accent)}
+  .section-label{color:var(--muted);font-size:12px;font-weight:600;margin:12px 0 6px 0;text-transform:uppercase;letter-spacing:0.5px}
+  .tagbar,.companybar{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 12px}
+  .tagbtn,.companybtn{background:var(--chip);border:0;color:var(--fg);border-radius:999px;padding:4px 10px;cursor:pointer;font-size:12px;transition:all 0.2s}
+  .tagbtn:hover,.companybtn:hover{background:#2d3f5f}
+  .tagbtn.active,.companybtn.active{outline:2px solid var(--accent);background:#1e3a52}
   @media (max-width:900px){ .cards{grid-template-columns:repeat(2,minmax(0,1fr));} }
   @media (max-width:600px){ .cards{grid-template-columns:1fr;} .hide-sm{display:none} }
+  
   .referral-section {
-  margin-top: 40px;
-  border-top: 1px solid #19233a;
-  padding-top: 40px;
-}
-
-.referral-header h2 {
-  margin: 0 0 8px 0;
-  font-size: 24px;
-}
-
-.referral-header p {
-  margin: 0 0 20px 0;
-}
-
-.form-tabs {
-  display: flex;
-  gap: 12px;
-  margin-bottom: 16px;
-}
-
-.tab-btn {
-  background: var(--card);
-  border: 1px solid #1f2a44;
-  color: var(--fg);
-  border-radius: 10px;
-  padding: 12px 20px;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 600;
-  transition: all 0.2s;
-}
-
-.tab-btn:hover {
-  border-color: var(--accent);
-}
-
-.tab-btn.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--bg);
-}
-
-.form-container-ref {
-  background: var(--card);
-  border: 1px solid #1f2a44;
-  border-radius: 12px;
-  padding: 24px;
-  min-height: 650px;
-}
-
-.form-frame {
-  display: none;
-  width: 100%;
-  height: 650px;
-  border: none;
-  border-radius: 8px;
-}
-
-.form-frame.active {
-  display: block;
-}
-
-@media (max-width: 600px) {
-  .form-tabs { flex-direction: column; }
-  .tab-btn { width: 100%; }
-}
+    margin-top: 40px;
+    border-top: 1px solid #19233a;
+    padding-top: 40px;
+  }
+  .referral-header h2 {
+    margin: 0 0 8px 0;
+    font-size: 24px;
+  }
+  .referral-header p {
+    margin: 0 0 20px 0;
+  }
+  .form-tabs {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .tab-btn {
+    background: var(--card);
+    border: 1px solid #1f2a44;
+    color: var(--fg);
+    border-radius: 10px;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.2s;
+  }
+  .tab-btn:hover {
+    border-color: var(--accent);
+  }
+  .tab-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
+  }
+  .form-container-ref {
+    background: var(--card);
+    border: 1px solid #1f2a44;
+    border-radius: 12px;
+    padding: 24px;
+    min-height: 650px;
+  }
+  .form-frame {
+    display: none;
+    width: 100%;
+    height: 650px;
+    border: none;
+    border-radius: 8px;
+  }
+  .form-frame.active {
+    display: block;
+  }
+  @media (max-width: 600px) {
+    .form-tabs { flex-direction: column; }
+    .tab-btn { width: 100%; }
+  }
 </style>
 </head>
 <body>
@@ -107,7 +100,7 @@
   <div class="cards">
     <div class="card"><h3>Total Jobs</h3><div class="big" id="stat-total">5673</div></div>
     <div class="card"><h3>Companies</h3><div class="big" id="stat-companies">595</div></div>
-    <div class="card"><h3>Top Tag</h3><div class="big" id="stat-toptag">Internship</div></div>
+    <div class="card"><h3>Top Tag</h3><div class="big" id="stat-toptag">Full-time</div></div>
     <div class="card"><h3>Newest Day</h3><div class="big" id="stat-latest">2025-10-21</div></div>
     <div class="card"><h3>Visits</h3><div class="big"><a href="https://hits.sh/eaziym.github.io/sg-jobs/"><img alt="visits"
                src="https://hits.sh/eaziym.github.io/sg-jobs.svg?style=flat-square&label=visits" /></a></div>
@@ -121,15 +114,21 @@
     </select>
     <select id="tag">
       <option value="">All tags</option>
-      <option>Consulting</option><option>Finance</option><option>Healthcare</option><option>Internship</option><option>Manufacturing</option><option>Others</option><option>Technology</option>
+      <option>Consulting</option><option>Finance</option><option>Full-time</option><option>Healthcare</option><option>Internship</option><option>Manufacturing</option><option>Others</option><option>Technology</option>
     </select>
     <select id="pagesize">
       <option>25</option><option selected>50</option><option>100</option>
     </select>
   </div>
 
+  <div class="section-label">Quick Filter by Tags (click to select multiple)</div>
   <div class="tagbar" id="tagbar">
-    <button class="tagbtn" data-tag="Internship">Internship · 2203</button><button class="tagbtn" data-tag="Technology">Technology · 1890</button><button class="tagbtn" data-tag="Others">Others · 1056</button><button class="tagbtn" data-tag="Consulting">Consulting · 912</button><button class="tagbtn" data-tag="Finance">Finance · 873</button><button class="tagbtn" data-tag="Manufacturing">Manufacturing · 322</button><button class="tagbtn" data-tag="Healthcare">Healthcare · 133</button>
+    <button class="tagbtn" data-tag="Full-time">Full-time · 3393</button><button class="tagbtn" data-tag="Internship">Internship · 2203</button><button class="tagbtn" data-tag="Technology">Technology · 1890</button><button class="tagbtn" data-tag="Consulting">Consulting · 912</button><button class="tagbtn" data-tag="Finance">Finance · 873</button><button class="tagbtn" data-tag="Healthcare">Healthcare · 133</button><button class="tagbtn" data-tag="Others">Others · 39</button><button class="tagbtn" data-tag="Manufacturing">Manufacturing · 36</button>
+  </div>
+
+  <div class="section-label">Quick Filter by Companies</div>
+  <div class="companybar" id="companybar">
+    <button class="companybtn" data-company="Grab">Grab · 398</button><button class="companybtn" data-company="Micron">Micron · 367</button><button class="companybtn" data-company="ByteDance">ByteDance · 366</button><button class="companybtn" data-company="OCBC">OCBC · 315</button><button class="companybtn" data-company="UOB">UOB · 275</button><button class="companybtn" data-company="EY">EY · 164</button><button class="companybtn" data-company="Deloitte">Deloitte · 149</button><button class="companybtn" data-company="KPMG">KPMG · 135</button><button class="companybtn" data-company="Snaphunt Pte Ltd">Snaphunt Pte Ltd · 126</button><button class="companybtn" data-company="JPMorgan Chase">JPMorgan Chase · 111</button>
   </div>
 
   <table class="table" id="tbl">
@@ -145,59 +144,56 @@
     <button id="next">Next</button>
   </div>
 
-<!-- Referral Forms Section -->
-<div class="referral-section">
-  <div class="referral-header">
-    <h2>Submit a Referral</h2>
-    <p class="muted">Know someone who'd be a great fit? Submit a referral for Micron, GS, Deutsche Bank opportunities.</p>
-    <p class="muted">Disclaimer: Resumes uploaded will be processed by OpenAI to check against job descriptions of selected job links for suitability!</p>
+  <!-- Referral Forms Section -->
+  <div class="referral-section">
+    <div class="referral-header">
+      <h2>Submit a Referral</h2>
+      <p class="muted">Know someone who'd be a great fit? Submit a referral for Micron, GS, or Deutsche Bank opportunities.</p>
+      <p class="muted">Disclaimer: Resumes uploaded will be processed by OpenAI to check against job descriptions of selected job links for suitability!</p>
+    </div>
+    
+    <div class="form-tabs">
+      <button class="tab-btn active" data-form="micron">Micron Referral</button>
+      <button class="tab-btn" data-form="gs">GS Referral</button>
+      <button class="tab-btn" data-form="db">Deutsche Bank Referral</button>
+    </div>
+    
+    <div class="form-container-ref">
+      <iframe 
+        id="micron-form"
+        class="form-frame active"
+        src="https://n8n.shiyao.dev/form/micron">
+      </iframe>
+      <iframe 
+        id="gs-form"
+        class="form-frame"
+        src="https://n8n.shiyao.dev/form/gs">
+      </iframe>
+      <iframe 
+        id="db-form"
+        class="form-frame"
+        src="https://n8n.shiyao.dev/form/db">
+      </iframe>
+    </div>
   </div>
-  
-  <div class="form-tabs">
-    <button class="tab-btn active" data-form="micron">Micron Referral</button>
-    <button class="tab-btn" data-form="gs">GS Referral</button>
-    <button class="tab-btn" data-form="db">Deutsche Bank Referral</button>
-  </div>
-  
-  <div class="form-container-ref">
-    <iframe 
-      id="micron-form"
-      class="form-frame active"
-      src="https://n8n.shiyao.dev/form/micron">
-    </iframe>
-    <iframe 
-      id="gs-form"
-      class="form-frame"
-      src="https://n8n.shiyao.dev/form/gs">
-    </iframe>
-    <iframe 
-      id="db-form"
-      class="form-frame"
-      src="https://n8n.shiyao.dev/form/db">
-    </iframe>
-  </div>
-</div>
-
-  
 </div>
 
 <script>
-
+// Referral form tabs
 const tabs = document.querySelectorAll('.tab-btn');
 const frames = document.querySelectorAll('.form-frame');
 
 tabs.forEach(tab => {
   tab.addEventListener('click', () => {
     const formName = tab.dataset.form;
-    
     tabs.forEach(t => t.classList.remove('active'));
     tab.classList.add('active');
-    
     frames.forEach(f => f.classList.remove('active'));
     document.getElementById(formName + '-form').classList.add('active');
   });
 });
 
+// Main job board functionality
 (async function(){
   const res = await fetch('../sg-jobs/data/jobs.min.json', {cache:'no-store'});
   const jobs = await res.json();
@@ -217,28 +213,93 @@ tabs.forEach(tab => {
   const btnPrev = document.getElementById('prev');
   const btnNext = document.getElementById('next');
 
-  let activeTagBtn = null;
+  // Track multiple selected tags and companies
+  let selectedTags = new Set();
+  let selectedCompanies = new Set();
+
+  // Tag bar click handler - toggle multiple selection
   document.getElementById('tagbar').addEventListener('click', (e)=>{
     if(e.target.matches('.tagbtn')){
-      if(activeTagBtn) activeTagBtn.classList.remove('active');
-      activeTagBtn = e.target; activeTagBtn.classList.add('active');
-      tagSel.value = e.target.dataset.tag;
-      page = 1; render();
+      const tag = e.target.dataset.tag;
+      
+      if(selectedTags.has(tag)){
+        selectedTags.delete(tag);
+        e.target.classList.remove('active');
+      } else {
+        selectedTags.add(tag);
+        e.target.classList.add('active');
+      }
+      
+      // Clear dropdown selection when using tag buttons
+      tagSel.value = '';
+      selCompany.value = '';
+      selectedCompanies.clear();
+      document.querySelectorAll('.companybtn').forEach(btn => btn.classList.remove('active'));
+      
+      page = 1;
+      render();
+    }
+  });
+
+  // Company bar click handler - toggle multiple selection
+  document.getElementById('companybar').addEventListener('click', (e)=>{
+    if(e.target.matches('.companybtn')){
+      const company = e.target.dataset.company;
+      
+      if(selectedCompanies.has(company)){
+        selectedCompanies.delete(company);
+        e.target.classList.remove('active');
+      } else {
+        selectedCompanies.add(company);
+        e.target.classList.add('active');
+      }
+      
+      // Clear dropdown selection when using company buttons
+      selCompany.value = '';
+      tagSel.value = '';
+      selectedTags.clear();
+      document.querySelectorAll('.tagbtn').forEach(btn => btn.classList.remove('active'));
+      
+      page = 1;
+      render();
     }
   });
 
   q.addEventListener('input', ()=>{ page=1; render(); });
-  selCompany.addEventListener('change', ()=>{ page=1; render(); });
-  tagSel.addEventListener('change', ()=>{ page=1; render(); });
-  document.getElementById('pagesize').addEventListener('change', (e)=>{ pageSize=parseInt(e.target.value,10); page=1; render(); });
+  
+  selCompany.addEventListener('change', ()=>{ 
+    // Clear quick filter selections when dropdown is used
+    selectedTags.clear();
+    selectedCompanies.clear();
+    document.querySelectorAll('.tagbtn, .companybtn').forEach(btn => btn.classList.remove('active'));
+    page=1; 
+    render(); 
+  });
+  
+  tagSel.addEventListener('change', ()=>{ 
+    // Clear quick filter selections when dropdown is used
+    selectedTags.clear();
+    selectedCompanies.clear();
+    document.querySelectorAll('.tagbtn, .companybtn').forEach(btn => btn.classList.remove('active'));
+    page=1; 
+    render(); 
+  });
+  
+  document.getElementById('pagesize').addEventListener('change', (e)=>{ 
+    pageSize=parseInt(e.target.value,10); 
+    page=1; 
+    render(); 
+  });
+  
   btnPrev.addEventListener('click', ()=>{ if(page>1){ page--; render(); }});
   btnNext.addEventListener('click', ()=>{ const {pages}=filtered(); if(page<pages){ page++; render(); }});
 
   function filtered(){
     const text = q.value.trim().toLowerCase();
-    const company = selCompany.value;
-    const tag = tagSel.value;
+    const companyDropdown = selCompany.value;
+    const tagDropdown = tagSel.value;
     let list = jobs;
+    
     if(text){
       list = list.filter(j =>
         (j.t||'').toLowerCase().includes(text) ||
@@ -246,8 +307,21 @@ tabs.forEach(tab => {
         (j.m||'').toLowerCase().includes(text)
       );
     }
-    if(company) list = list.filter(j => j.c === company);
-    if(tag) list = list.filter(j => (j.g||[]).includes(tag));
+    
+    // Use dropdown if set, otherwise use quick filter buttons
+    if(companyDropdown) {
+      list = list.filter(j => j.c === companyDropdown);
+    } else if(selectedCompanies.size > 0) {
+      list = list.filter(j => selectedCompanies.has(j.c));
+    }
+    
+    if(tagDropdown) {
+      list = list.filter(j => (j.g||[]).includes(tagDropdown));
+    } else if(selectedTags.size > 0) {
+      // Job must have at least one of the selected tags
+      list = list.filter(j => (j.g||[]).some(tag => selectedTags.has(tag)));
+    }
+    
     const total = list.length;
     const pages = Math.max(1, Math.ceil(total/pageSize));
     const start = (page-1)*pageSize, end = start + pageSize;
@@ -258,9 +332,9 @@ tabs.forEach(tab => {
     const {list, total, pages} = filtered();
     tbody.innerHTML = list.map(j => 
       '<tr>'
-      + '<td>' + (j.c||'').replace(/&/g,'&amp;') + '</td>'
-      + '<td class="title"><a href="' + j.u + '" target="_blank" rel="noopener">' + (j.t||'').replace(/&/g,'&amp;') + '</a></td>'
-      + '<td class="hide-sm">' + (j.m||'').replace(/&/g,'&amp;') + '</td>'
+      + '<td>' + (j.c||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</td>'
+      + '<td class="title"><a href="' + j.u + '" target="_blank" rel="noopener">' + (j.t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></td>'
+      + '<td class="hide-sm">' + (j.m||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</td>'
       + '<td class="hide-sm">' + (j.d||'') + '</td>'
       + '<td>' + (j.g||[]).map(g=>'<span class="chip">'+g+'</span>').join('') + '</td>'
       + '</tr>'
