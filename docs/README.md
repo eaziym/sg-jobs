@@ -1,61 +1,64 @@
 # Latest Jobs
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-10-22_
 
-**Total jobs:** 6637 • **Companies:** 607 • **Top tag:** Others
+**Total jobs:** 6705 • **Companies:** 607 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Theia Health Pte. Ltd. | [Computing Science Intern](https://www.internsg.com/job/theia-health-pte-ltd-computing-science-intern/?f_pg=44) | Bukit Merah, SG… | 2025-10-21 |
-| Snaphunt Pte Ltd | [Fullstack Software Engineer (AI/ML)](https://www.internsg.com/job/snaphunt-pte-ltd-fullstack-software-engineer-ai-ml/?f_pg=36) | SG… | 2025-10-21 |
-| MTAS | [Social Media & Video Production Intern](https://www.internsg.com/job/mtas-social-media-video-production-intern/?f_pg=27) | SG… | 2025-10-21 |
-| Snaphunt Pte Ltd | [Trade Finance Professional](https://www.internsg.com/job/snaphunt-pte-ltd-trade-finance-professional-17/?f_pg=39) | SG… | 2025-10-21 |
-| Thye Hua Kwan Moral Charities | [Counsellor](https://www.internsg.com/job/thye-hua-kwan-moral-charities-counsellor-8/?f_pg=44) | Queenstown, SG… | 2025-10-21 |
-| Stamford American International School | [Communications Intern](https://www.internsg.com/job/stamford-american-international-school-communications-intern/?f_pg=47) | Toa Payoh, SG… | 2025-10-21 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Credit Control Intern](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-credit-control-intern/?f_pg=25) | Downtown Core, SG… | 2025-10-21 |
-| Wu Song Capital | [Impact Investment and Startup Intern](https://www.internsg.com/job/wu-song-capital-impact-investment-and-startup-intern-3/?f_pg=40) | SG… | 2025-10-21 |
-| Persatuan Pemudi Islam Singapura | [Executive Assistant (4 Months)](https://www.internsg.com/job/persatuan-pemudi-islam-singapura-executive-assistant-4-months/?f_pg=42) | Geylang, SG… | 2025-10-21 |
-| Persatuan Pemudi Islam Singapura | [Assistant Manager](https://www.internsg.com/job/non-profit-organisation-assistant-manager/?f_pg=42) | Geylang, SG… | 2025-10-21 |
-| National Volunteer & Philanthropy Centre | [Intern, Corporate Marketing](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-corporate-marketing-6/?f_pg=38) | Singapore River, SG… | 2025-10-21 |
-| Iconz Pte Ltd | [Tele Sales Executive](https://www.internsg.com/job/iconz-pte-ltd-tele-sales-executive/?f_pg=41) | Bukit Batok, SG… | 2025-10-21 |
-| EPOS Pte Ltd | [Project Management Intern](https://www.internsg.com/job/epos-pte-ltd-project-management-intern-with-possibility-for-full-time-conversion-3/?f_pg=43) | SG… | 2025-10-21 |
-| Cinch | [Operations Intern](https://www.internsg.com/job/cinch-operations-intern/?f_pg=35) | SG… | 2025-10-21 |
-| League Advisors | [Recruitment Officer](https://www.internsg.com/job/league-advisors-recruitment-officer-4/?f_pg=38) | Geylang, SG… | 2025-10-21 |
-| Four Leaves Pte Ltd | [Accounts Executive](https://www.internsg.com/job/four-leaves-pte-ltd-accounts-executive-3/?f_pg=38) | Jurong West, SG… | 2025-10-21 |
-| ROMI Beauty | [Creative Intern](https://www.internsg.com/job/romi-beauty-creative-intern/?f_pg=42) | SG… | 2025-10-21 |
-| FOMO Pay Pte Ltd | [Sales Support Analyst Intern](https://www.internsg.com/job/fomo-pay-pte-ltd-sales-support-analyst-intern/?f_pg=38) | SG… | 2025-10-21 |
-| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-63/?f_pg=43) | Tiong Bahru, SG… | 2025-10-21 |
-| Quartz Global | [Junior Marketing Events](https://www.internsg.com/job/quartz-global-junior-marketing-events-5/?f_pg=33) | Downtown Core, SG… | 2025-10-21 |
-| Wipro Consumer Care Singapore Pte Ltd | [eCommerce Intern](https://www.internsg.com/job/wipro-consumer-care-singapore-pte-ltd-e-commerce-intern/?f_pg=39) | Serangoon, SG… | 2025-10-21 |
-| Verztec Consulting Pte Ltd | [Project Executive](https://www.internsg.com/job/verztec-consulting-pte-ltd-project-executive-12/?f_pg=37) | Rochor, SG… | 2025-10-21 |
-| Ochre Pictures Private Limited | [Internship - Second Assistant Director](https://www.internsg.com/job/ochre-pictures-private-limited-internship-second-assistant-director/?f_pg=30) | Bishan, SG… | 2025-10-21 |
-| Global Success Talent Pte Ltd | [Computer Service Technician (6-Month Contract)](https://www.internsg.com/job/global-success-talent-pte-ltd-computer-service-technician-6-month-contract/?f_pg=32) | Geylang, SG… | 2025-10-21 |
-| Lion Global Investors Limited | [Intern, Finance](https://www.internsg.com/job/lion-global-investors-limited-intern-finance-6/?f_pg=34) | Downtown Core, SG… | 2025-10-21 |
-| For The Love of Socials | [Social Media Marketing Intern](https://www.internsg.com/job/for-the-love-of-socials-social-media-marketing-intern-3/?f_pg=23) | Downtown Core, SG… | 2025-10-21 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Ray-Ban Business Brand Intern – APAC](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-ray-ban-business-brand-intern-apac/?f_pg=25) | Downtown Core, SG… | 2025-10-21 |
-| GAIA Lifestyle Holdings Pte Ltd | [Cook](https://www.internsg.com/job/gaia-lifestyle-holdings-pte-ltd-cook/?f_pg=40) | Central Area, SG… | 2025-10-21 |
-| Sembcorp Specialised Construction Pte. Ltd. | [Intern, Civil & Structural Operations](https://www.internsg.com/job/sembcorp-specialised-construction-pte-ltd-intern-civil-structural-operations/?f_pg=36) | Tampines, SG… | 2025-10-21 |
-| Accenture Pte Ltd | [Technology & Consulting Intern](https://www.internsg.com/job/accenture-pte-ltd-technology-consulting-intern-8/?f_pg=25) | Downtown Core, SG… | 2025-10-21 |
-| GreenA Consultants Pte Ltd | [ESD Intern](https://www.internsg.com/job/greena-consultants-pte-ltd-esd-intern/?f_pg=36) | Bishan, SG… | 2025-10-21 |
-| Thye Hua Kwan Moral Charities | [Teacher Aide](https://www.internsg.com/job/thye-hua-kwan-moral-charities-teacher-aide-toa-payoh-17/?f_pg=37) | Toa Payoh, SG… | 2025-10-21 |
-| Ban Leong Technologies Pte Ltd | [eCommerce Live Streamer Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-ecommerce-live-streamer-intern/?f_pg=38) | Geylang, SG… | 2025-10-21 |
-| Jobs Network LLP | [Events Operation Assistant](https://www.internsg.com/job/jobs-network-llp-events-operation-assistant/?f_pg=41) | Queenstown, SG… | 2025-10-21 |
-| Snaphunt Pte Ltd | [Experienced Link Builder](https://www.internsg.com/job/snaphunt-pte-ltd-experienced-link-builder-5/?f_pg=29) | SG… | 2025-10-21 |
-| Kensington Corporate Management (S) Pte. Ltd. | [Corporate Secretarial Assistant](https://www.internsg.com/job/kensington-corporate-management-s-pte-ltd-corporate-secretarial-assistant/?f_pg=29) | Downtown Core, SG… | 2025-10-21 |
-| The Fun Empire | [Event Operations Executive](https://www.internsg.com/job/the-fun-empire-event-operations-executive-52/?f_pg=45) | Toa Payoh, SG… | 2025-10-21 |
-| EduMO Academy Pte. Ltd. | [Academic Intern-Mentorship for Science Specialist Teacher (Primary/Secondary)](https://www.internsg.com/job/edumo-academy-pte-ltd-academic-intern-mentorship-for-science-specialist-teacher-primary-secondary/?f_pg=41) | Tampines, SG… | 2025-10-21 |
-| Ban Leong Technologies Pte Ltd | [Marketing Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-marketing-intern-2/?f_pg=31) | Geylang, SG… | 2025-10-21 |
-| RS Recruitment Agency | [HR Executive (Payroll)](https://www.internsg.com/job/rs-recruitment-agency-hr-executive-payroll-west/?f_pg=29) | Pioneer, SG… | 2025-10-21 |
-| Snaphunt Pte Ltd | [Crypto Payment Specialist (WFH)](https://www.internsg.com/job/snaphunt-pte-ltd-crypto-payment-specialist-wfh/?f_pg=36) | SG… | 2025-10-21 |
-| Prosegur Singapore Pte :td | [Marketing Intern](https://www.internsg.com/job/prosegur-singapore-pte-td-marketing-intern/?f_pg=30) | Toa Payoh, SG… | 2025-10-21 |
-| Cynapse Pte Ltd | [AI Research & Development Intern](https://www.internsg.com/job/cynapse-pte-ltd-ai-research-development-intern-5/?f_pg=18) | Queenstown, SG… | 2025-10-21 |
-| Xnew Edubridge Pte.Ltd. | [IB Tutor](https://www.internsg.com/job/xnew-edubridge-pte-ltd-ib-tutor/?f_pg=27) | Marine Parade, SG… | 2025-10-21 |
-| Lion Global Investors Limited | [Intern, Fund Services](https://www.internsg.com/job/lion-global-investors-limited-intern-fund-services-4/?f_pg=32) | Downtown Core, SG… | 2025-10-21 |
-| Excel Hardware Pte Ltd | [Digital Marketing Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-digital-marketing-junior-executive-intern-14/?f_pg=26) | Sembawang, SG… | 2025-10-21 |
-| Access Singapore | [Facilitator](https://www.internsg.com/job/access-singapore-facilitator/?f_pg=41) | Orchard, SG… | 2025-10-21 |
-| Prosegur Singapore Pte Ltd | [Marketing Intern - Project Management](https://www.internsg.com/job/prosegur-singapore-pte-ltd-marketing-intern-project-management/?f_pg=30) | Toa Payoh, SG… | 2025-10-21 |
-| Financial Media Group | [Marketing / Business Development](https://www.internsg.com/job/financial-media-group-marketing-business-development/?f_pg=22) | SG… | 2025-10-21 |
-| BW LPG Product Services Pte Ltd | [Commercial Desk Intern](https://www.internsg.com/job/bw-lpg-product-services-pte-ltd-commercial-desk-intern/?f_pg=42) | Queenstown, SG… | 2025-10-21 |
+| PricewaterhouseCoopers GHRS Pte Ltd | [Junior HR Business Partner](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Junior-HR-Business-Partner_675712WD) | Singapore… | 2025-10-22 |
+| UOB | [Officer, Account Operations (Contract)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Officer--Account-Operations--Contract-_JR69072) | Central Region (City Area)… | 2025-10-22 |
+| OCBC | [Network Engineer](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Network-Engineer_JR00003800) | OCBC Singapore… | 2025-10-22 |
+| HSBC | [VP, Product Management (Fund and Discretionary) - International Wealth & Premier Banking](https://portal.careers.hsbc.com/careers/job/563774607774111) | Singapore… | 2025-10-22 |
+| HSBC | [Client Service Executive - Global Private Banking](https://portal.careers.hsbc.com/careers/job/563774607744804) | Singapore… | 2025-10-22 |
+| HSBC | [Vice President, Product Proposition Development](https://portal.careers.hsbc.com/careers/job/563774607775039) | Singapore… | 2025-10-22 |
+| HSBC | [Associate Director, Premier Elite](https://portal.careers.hsbc.com/careers/job/563774607791570) | Singapore… | 2025-10-22 |
+| HSBC | [Relationship Manager (Indonesia Market) - Global Private Banking](https://portal.careers.hsbc.com/careers/job/563774607775145) | Singapore… | 2025-10-22 |
+| HSBC | [Digital Product Manager](https://portal.careers.hsbc.com/careers/job/563774607775470) | Singapore… | 2025-10-22 |
+| ByteDance | [Food Safety Manager - APAC](https://joinbytedance.com/search/7433987517189622027) | Team Introduction:
+At ByteDance, our commitment to fostering a safe, healthy, and sustainable workpl… | 2025-10-22 |
+| ByteDance | [Data Center Design Manager, Data Center Development](https://joinbytedance.com/search/7535820782757366023) | About the Team
+ByteDance Data Center Development team is responsible for building Data Center and Ne… | 2025-10-22 |
+| ByteDance | [General Procurement Manager - Catering Services](https://joinbytedance.com/search/7563589516595579189) | ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not … | 2025-10-22 |
+| ByteDance | [Performance & Incentive Project Manager - Singapore](https://joinbytedance.com/search/7563525498982074629) | Team Introduction
+The Performance & Incentives (P&I) Global Projects team drives the company’s inter… | 2025-10-22 |
+| Grab | [Assistant Manager, GFB Planning & Projects](https://www.grab.careers/en/jobs/744000089173485/assistant-manager-gfb-planning-projects/) | HCMC… | 2025-10-22 |
+| Grab | [Senior Product Analyst](https://www.grab.careers/en/jobs/744000089111645/senior-product-analyst/) | Singapore… | 2025-10-22 |
+| Grab | [Software Engineer, Backend](https://www.grab.careers/en/jobs/744000089196583/software-engineer-backend/) | Ho Chi Minh… | 2025-10-22 |
+| Grab | [Team Lead, Key Account Management (Grab Food Strategy-BKK)](https://www.grab.careers/en/jobs/744000089178432/team-lead-key-account-management-grab-food-strategy-bkk/) | Bangkok… | 2025-10-22 |
+| Grab | [Sales Operations Program Manager, Grab Commercial & Support](https://www.grab.careers/en/jobs/744000089205074/sales-operations-program-manager-grab-commercial-support/) | Petaling Jaya… | 2025-10-22 |
+| Grab | [Assistant Manager, Performance Management & Analytics (Customer Service)](https://www.grab.careers/en/jobs/744000089222376/assistant-manager-performance-management-analytics-customer-service/) | Petaling Jaya… | 2025-10-22 |
+| Grab | [Intern, Merchant Operations](https://www.grab.careers/en/jobs/744000089223535/intern-merchant-operations/) | Singapore… | 2025-10-22 |
+| Grab | [KAM GrabFood, Associate](https://www.grab.careers/en/jobs/744000089200435/kam-grabfood-associate/) | Jakarta… | 2025-10-22 |
+| Grab | [Senior Data Scientist (Analytics)](https://www.grab.careers/en/jobs/744000089109748/senior-data-scientist-analytics/) | Singapore… | 2025-10-22 |
+| Grab | [Data Scientist](https://www.grab.careers/en/jobs/744000089184191/data-scientist/) | Bengaluru… | 2025-10-22 |
+| Grab | [Principal Software Engineer, Developer Experience](https://www.grab.careers/en/jobs/744000089251515/principal-software-engineer-developer-experience/) | Singapore… | 2025-10-22 |
+| Micron | [Engineer, APTD CEM - Advanced Packaging Wafer Level Technology Engineering](https://micron.eightfold.ai/careers/apply?pid=38444937&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER - PEE CVD/PVD](https://micron.eightfold.ai/careers/apply?pid=38427636&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER - CMP](https://micron.eightfold.ai/careers/apply?pid=38427608&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [Fab10 Process and Equipment Engineering (ADTS_ATE/RegE)](https://micron.eightfold.ai/careers/apply?pid=38427550&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER- Process Dev - Diffusion / Cell films / Ion Implant](https://micron.eightfold.ai/careers/apply?pid=38497813&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER-PHOTO](https://micron.eightfold.ai/careers/apply?pid=38427549&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER - PEE CVD/PVD](https://micron.eightfold.ai/careers/apply?pid=38427637&domain=micron.com) | Singapore… | 2025-10-22 |
+| Micron | [ENGINEER-PHOTO](https://micron.eightfold.ai/careers/apply?pid=38427548&domain=micron.com) | Singapore… | 2025-10-22 |
+| Goldman Sachs | [Global Banking & Markets, Operations - Securities Settlement, Analyst/ Associate, Singapore](https://higher.gs.com/roles/154279) | Singapore… | 2025-10-22 |
+| Goldman Sachs | [Internal Audit, Asset Management Public Audit, Analyst, Singapore](https://higher.gs.com/roles/154251) | Singapore… | 2025-10-22 |
+| Goldman Sachs | [Global Banking & Markets, Commodities Sales, Analyst , Singapore](https://higher.gs.com/roles/154211) | Singapore… | 2025-10-22 |
+| JPMorgan Chase | [Prime Financial Services Operations - Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678367) | Singapore… | 2025-10-22 |
+| Morgan Stanley | [Investment Management Compliance, Director (Assistant VP)/Vice President](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549786020400&sort_by=timestamp) | Singapore… | 2025-10-22 |
+| Apple | [Software Engineer, Data Solutions & Initiatives](https://jobs.apple.com/en-sg/details/200626581) | Singapore… | 2025-10-22 |
+| Apple | [Regional Supplier Manager](https://jobs.apple.com/en-sg/details/200627291) | Singapore… | 2025-10-22 |
+| Apple | [Prompt Engineer, Data Solutions & Initiatives](https://jobs.apple.com/en-sg/details/200626579) | Singapore… | 2025-10-22 |
+| Apple | [AppleCare Technologies Project Manager](https://jobs.apple.com/en-sg/details/200627523) | Singapore… | 2025-10-22 |
+| Apple | [Cross-Functional Quality Engineer](https://jobs.apple.com/en-sg/details/200627528) | Singapore… | 2025-10-22 |
+| Accenture | [Management Consultant](https://www.accenture.com/sg-en/careers/jobdetails?id=13710488_en) | Singapore… | 2025-10-22 |
+| Google | [Cyber Defense Specialist, Mandiant Consulting](https://www.google.com/about/careers/applications/jobs/results/127759884115419846) |  | 2025-10-22 |
+| Google | [Strategic Partnership Development Manager](https://www.google.com/about/careers/applications/jobs/results/118438327614350022) |  | 2025-10-22 |
+| Google | [Top Customer Solutions Engineer, Databases/Storage, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/127110038383665862) |  | 2025-10-22 |
+| Google | [Data Center Mechanical Facilities Technician](https://www.google.com/about/careers/applications/jobs/results/112597721847603910) |  | 2025-10-22 |
+| Google | [Technical Program Manager, Offsite Infrastructure Delivery](https://www.google.com/about/careers/applications/jobs/results/88575591803953862) |  | 2025-10-22 |
+| GlobalFoundries | [Engineer - OPC Engineering](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/SGP---Woodlands/Engineer---OPC-Engineering_JR-2503162) | SGP - Woodlands… | 2025-10-22 |
+| GlobalFoundries | [Engineer Failure Analysis](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Engineer-Failure-Analysis_JR-2504015-1) | Singapore… | 2025-10-22 |
