@@ -3,7 +3,41 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>SG Jobs — Latest</title>
+  <title>Singapore Jobs & Internships — Latest Openings | SG Jobs</title>
+
+  <!-- Basic SEO -->
+  <meta name="description" content="Browse the latest full-time and internship job listings in Singapore — updated frequently. Filter by company, role, and tags." />
+  <meta name="keywords" content="Singapore jobs, SG internships, job board, tech jobs, finance jobs, consulting jobs, Micron, Goldman Sachs, Deutsche Bank, career, hiring" />
+  <meta name="author" content="EaziyM" />
+  <link rel="canonical" href="https://eaziym.github.io/sg-jobs/" />
+  <meta name="robots" content="index,follow" />
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+
+  <!-- Open Graph (no image) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="SG Jobs" />
+  <meta property="og:title" content="Singapore Jobs & Internships — SG Jobs" />
+  <meta property="og:description" content="Latest Singapore job listings, internships, and referrals." />
+  <meta property="og:url" content="https://eaziym.github.io/sg-jobs/" />
+  <meta property="og:locale" content="en_SG" />
+  <!-- Helpful freshness signal for crawlers/LLMs -->
+  <meta property="og:updated_time" content="2025-10-25" />
+
+  <!-- Twitter Card (no image) -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Singapore Jobs & Internships — SG Jobs" />
+  <meta name="twitter:description" content="Explore the latest job and internship openings in Singapore." />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="https://eaziym.github.io/sg-internship-listing/assets/images/favicon.ico" />
+
+  <!-- Optional PWA/UX niceties -->
+  <meta name="theme-color" content="#0b1020" />
+  <meta name="color-scheme" content="dark light" />
+
+  <!-- Hint to crawlers/LLMs: where the structured data-like JSON lives -->
+  <link rel="alternate" type="application/json" href="https://eaziym.github.io/sg-jobs/data/jobs.min.json" />
+
 <style>
   :root { --bg:#0b1020; --card:#121a2b; --muted:#9aa4b2; --fg:#e6edf3; --accent:#5bbcf6; --chip:#22324d; }
   body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial;background:var(--bg);color:var(--fg);}
@@ -98,8 +132,8 @@
   <div class="muted">Last updated: 2025-10-25</div>
 
   <div class="cards">
-    <div class="card"><h3>Total Jobs</h3><div class="big" id="stat-total">4041</div></div>
-    <div class="card"><h3>Companies</h3><div class="big" id="stat-companies">554</div></div>
+    <div class="card"><h3>Total Jobs</h3><div class="big" id="stat-total">4261</div></div>
+    <div class="card"><h3>Companies</h3><div class="big" id="stat-companies">557</div></div>
     <div class="card"><h3>Top Tag</h3><div class="big" id="stat-toptag">Full-time</div></div>
     <div class="card"><h3>Newest Day</h3><div class="big" id="stat-latest">2025-10-25</div></div>
     <div class="card"><h3>Visits</h3><div class="big"><a href="https://hits.sh/eaziym.github.io/sg-jobs/"><img alt="visits"
@@ -123,12 +157,12 @@
 
   <div class="section-label">Quick Filter by Tags (click to select multiple)</div>
   <div class="tagbar" id="tagbar">
-    <button class="tagbtn" data-tag="Full-time">Full-time · 2854</button><button class="tagbtn" data-tag="Technology">Technology · 1665</button><button class="tagbtn" data-tag="Internship">Internship · 1134</button><button class="tagbtn" data-tag="Finance">Finance · 781</button><button class="tagbtn" data-tag="Consulting">Consulting · 757</button><button class="tagbtn" data-tag="Healthcare">Healthcare · 71</button><button class="tagbtn" data-tag="Manufacturing">Manufacturing · 29</button><button class="tagbtn" data-tag="Others">Others · 21</button>
+    <button class="tagbtn" data-tag="Full-time">Full-time · 3067</button><button class="tagbtn" data-tag="Technology">Technology · 1751</button><button class="tagbtn" data-tag="Internship">Internship · 1141</button><button class="tagbtn" data-tag="Finance">Finance · 793</button><button class="tagbtn" data-tag="Consulting">Consulting · 757</button><button class="tagbtn" data-tag="Healthcare">Healthcare · 71</button><button class="tagbtn" data-tag="Manufacturing">Manufacturing · 29</button><button class="tagbtn" data-tag="Others">Others · 21</button>
   </div>
 
   <div class="section-label">Quick Filter by Companies</div>
   <div class="companybar" id="companybar">
-    <button class="companybtn" data-company="Grab">Grab · 385</button><button class="companybtn" data-company="Micron">Micron · 372</button><button class="companybtn" data-company="ByteDance">ByteDance · 368</button><button class="companybtn" data-company="OCBC">OCBC · 297</button><button class="companybtn" data-company="UOB">UOB · 266</button><button class="companybtn" data-company="EY">EY · 164</button><button class="companybtn" data-company="KPMG">KPMG · 154</button><button class="companybtn" data-company="Deloitte">Deloitte · 144</button><button class="companybtn" data-company="Apple">Apple · 109</button><button class="companybtn" data-company="JPMorgan Chase">JPMorgan Chase · 106</button>
+    <button class="companybtn" data-company="Grab">Grab · 385</button><button class="companybtn" data-company="Micron">Micron · 372</button><button class="companybtn" data-company="ByteDance">ByteDance · 368</button><button class="companybtn" data-company="OCBC">OCBC · 297</button><button class="companybtn" data-company="UOB">UOB · 266</button><button class="companybtn" data-company="OKX">OKX · 196</button><button class="companybtn" data-company="EY">EY · 164</button><button class="companybtn" data-company="KPMG">KPMG · 154</button><button class="companybtn" data-company="Deloitte">Deloitte · 144</button><button class="companybtn" data-company="Apple">Apple · 109</button>
   </div>
 
   <table class="table" id="tbl">
