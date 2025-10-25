@@ -1,61 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-25_
 
-**Total jobs:** 4041 • **Companies:** 554 • **Top tag:** Others
+**Total jobs:** 4261 • **Companies:** 557 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Outscayle | [Social Commerce (Live Streamer) and Content Creation (Short Video) Intern](https://www.internsg.com/job/outscayle-outscayle-social-commerce-live-streamer-and-content-creation-short-video-intern-2/?f_pg=45) | SG… | 2025-10-24 |
-| Genie Health Pte Ltd | [Data Science Intern](https://www.internsg.com/job/genie-health-pte-ltd-data-science-intern/?f_pg=48) | SG… | 2025-10-24 |
-| Cynapse Pte Ltd | [AI Research & Development Intern](https://www.internsg.com/job/cynapse-pte-ltd-ai-research-development-intern-4/?f_pg=48) | Queenstown, SG… | 2025-10-24 |
-| Cynapse Pte Ltd | [Project Management Officer (PMO) / Quality Assurance (QA) Intern](https://www.internsg.com/job/cynapse-pte-ltd-project-management-officer-pmo-quality-assurance-qa-intern-11/?f_pg=48) | Queenstown, SG… | 2025-10-24 |
-| FUJIFILM Business Innovation Asia Pacific | [HR Intern](https://www.internsg.com/job/fujifilm-business-innovation-asia-pacific-hr-intern/?f_pg=48) | Queenstown, SG… | 2025-10-24 |
-| Bandwagon Pte. Ltd. | [Social Media Intern](https://www.internsg.com/job/bandwagon-pte-ltd-social-media-intern-5/?f_pg=48) | SG… | 2025-10-24 |
-| EPOS Pte Ltd | [Project Management Intern](https://www.internsg.com/job/epos-pte-ltd-project-management-intern-with-possibility-for-full-time-conversion-3/?f_pg=48) | SG… | 2025-10-24 |
-| NEU Battery Materials | [R&D Intern](https://www.internsg.com/job/neu-battery-materials-rd-intern/?f_pg=48) | SG… | 2025-10-24 |
-| Marina Bay Sands | [Intern, Uniform Project Support](https://www.internsg.com/job/marina-bay-sands-intern-uniform-project-support-2/?f_pg=48) | Downtown Core, SG… | 2025-10-24 |
-| Infinity Assurance Management | [Market Surveyor](https://www.internsg.com/job/infinity-assurance-management-market-surveyor/?f_pg=48) | Queenstown, SG… | 2025-10-24 |
-| Youtrip | [Data Analytics Intern](https://www.internsg.com/job/youtrip-data-analytics-intern/?f_pg=48) | SG… | 2025-10-24 |
-| The American Chamber of Commerce in Singapore | [Marketing and Events Executive](https://www.internsg.com/job/the-american-chamber-of-commerce-in-singapore-marketing-and-events-executive/?f_pg=48) | Central Area, SG… | 2025-10-24 |
-| HBSC Life | [Investment Management Trainee](https://www.internsg.com/job/hbsc-life-investment-management-trainee/?f_pg=48) | Central Area, SG… | 2025-10-24 |
-| Fintra Pte Ltd. | [Project Assistant](https://www.internsg.com/job/fintra-pte-ltd-project-assistant/?f_pg=48) | Downtown Core, SG… | 2025-10-24 |
-| Snaphunt Pte Ltd | [Account Manager](https://www.internsg.com/job/snaphunt-pte-ltd-account-manager-16/?f_pg=48) | SG… | 2025-10-24 |
-| Snaphunt Pte Ltd | [Senior Influencer Marketing Manager](https://www.internsg.com/job/snaphunt-pte-ltd-senior-influencer-marketing-manager/?f_pg=48) | SG… | 2025-10-24 |
-| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-63/?f_pg=48) | Tiong Bahru, SG… | 2025-10-24 |
-| TPC System Technology (Singapore) Pte. Ltd. | [Safety Coordinator / Supervisor](https://www.internsg.com/job/tpc-system-technology-singapore-pte-ltd-safety-coordinator-supervisor-2/?f_pg=48) | Tampines, SG… | 2025-10-24 |
-| Infosec Market Insights LLC | [Sales Intern – Global Sales](https://www.internsg.com/job/infosec-market-insights-llc-sales-intern-global-sales/?f_pg=48) | SG… | 2025-10-24 |
-| INITIA Group | [Art Intern](https://www.internsg.com/job/initia-group-art-intern/?f_pg=48) | Orchard, SG… | 2025-10-24 |
-| ZEM Productions | [Business Development Intern](https://www.internsg.com/job/zem-productions-business-development-intern-33/?f_pg=48) | Geylang, SG… | 2025-10-24 |
-| INITIA Group | [Ceramic / Art Studio Intern](https://www.internsg.com/job/initia-group-ceramic-art-studio-intern/?f_pg=47) | Orchard, SG… | 2025-10-24 |
-| ZEM Productions | [Production Intern](https://www.internsg.com/job/zem-productions-zem-productions-production-intern-108/?f_pg=47) | Geylang, SG… | 2025-10-24 |
-| Thye Hua Kwan Moral Charities | [Assistant Teacher](https://www.internsg.com/job/thye-hua-kwan-moral-charities-assistant-teacher-pioneer-12/?f_pg=47) | Jurong West, SG… | 2025-10-24 |
-| Persatuan Pemudi Islam Singapura | [Assistant Manager](https://www.internsg.com/job/non-profit-organisation-assistant-manager/?f_pg=47) | Geylang, SG… | 2025-10-24 |
-| Sunmi Global Pte. Ltd. | [Sales & Marketing Intern](https://www.internsg.com/job/sunmi-global-pte-ltd-sales-marketing-intern/?f_pg=47) | SG… | 2025-10-24 |
-| ROMI Beauty | [Creative Intern](https://www.internsg.com/job/romi-beauty-creative-intern/?f_pg=47) | SG… | 2025-10-24 |
-| Initia Group SG | [F&B Intern](https://www.internsg.com/job/initia-group-sg-fb-intern-16/?f_pg=47) | Orchard, SG… | 2025-10-24 |
-| One Seven Consulting Pte. Ltd. | [Business / HR Intern](https://www.internsg.com/job/one-seven-consulting-pte-ltd-business-hr-intern/?f_pg=47) | Queenstown, SG… | 2025-10-24 |
-| Jobs Network LLP | [Creative Marketing Executive](https://www.internsg.com/job/jobs-network-llp-creative-marketing-executive/?f_pg=47) | Queenstown, SG… | 2025-10-24 |
-| Initia Group SG | [F&B and Project Intern](https://www.internsg.com/job/initia-group-sg-fb-and-project-intern-7/?f_pg=47) | Downtown Core, SG… | 2025-10-24 |
-| A.B.T. Medical Products Pte Ltd | [Part-time Telemarketer](https://www.internsg.com/job/a-b-t-medical-products-pte-ltd-part-time-telemarketer-work-from-home-part-time-telemarketer-work-from-home-2/?f_pg=47) | Ang Mo Kio, SG… | 2025-10-24 |
-| Initia Group SG | [HR Intern](https://www.internsg.com/job/initia-group-sg-hr-intern-28/?f_pg=47) | Central Area, SG… | 2025-10-24 |
-| Persatuan Pemudi Islam Singapura | [Executive Assistant (4 Months)](https://www.internsg.com/job/persatuan-pemudi-islam-singapura-executive-assistant-4-months/?f_pg=47) | Geylang, SG… | 2025-10-24 |
-| BW LPG Product Services Pte Ltd | [Commercial Desk Intern](https://www.internsg.com/job/bw-lpg-product-services-pte-ltd-commercial-desk-intern/?f_pg=47) | Queenstown, SG… | 2025-10-24 |
-| Adecco Personnel Pte Ltd | [Intern, APAC President’s Office](https://www.internsg.com/job/adecco-personnel-pte-ltd-intern-apac-presidents-office/?f_pg=47) | Central Area, SG… | 2025-10-24 |
-| Persatuan Pemudi Islam Singapura | [Assistant Senior Social Worker - Oasis](https://www.internsg.com/job/persatuan-pemudi-islam-singapura-assistant-senior-social-worker-oasis/?f_pg=47) | Bedok, SG… | 2025-10-24 |
-| Federated Cargo Line Pte Ltd | [Trade Officer](https://www.internsg.com/job/federated-cargo-line-pte-ltd-trade-officer/?f_pg=47) | Downtown Core, SG… | 2025-10-24 |
-| Jobs Network LLP | [Executive Assistant](https://www.internsg.com/job/jobs-network-llp-executive-assistant/?f_pg=47) | Queenstown, SG… | 2025-10-24 |
-| Snaphunt Pte Ltd | [Azure DevOps Engineer](https://www.internsg.com/job/azure-devops-engineer-azure-devops-engineer/?f_pg=47) | SG… | 2025-10-24 |
-| Snaphunt Pte Ltd | [Live Streamer](https://www.internsg.com/job/snaphunt-pte-ltd-live-streamer/?f_pg=47) | SG… | 2025-10-24 |
-| HOYA Electronics | [Learning & Development Intern](https://www.internsg.com/job/hoya-electronics-learning-development-intern-3/?f_pg=46) | Paya Lebar, SG… | 2025-10-24 |
-| Advo Education Centre Pte Ltd | [Admin Assistant](https://www.internsg.com/job/advo-education-centre-pte-ltd-admin-assistance-contract-part-time-multiple-positions/?f_pg=45) | Novena, SG… | 2025-10-24 |
-| Tian Ma Group Holding Pte Ltd | [eCommerce Intern (Shopify Operations)](https://www.internsg.com/job/tian-ma-group-holding-pte-ltd-e-commerce-intern-shopify-operations/?f_pg=46) | Tampines, SG… | 2025-10-24 |
-| SATS Ltd. | [Intern, Social Media](https://www.internsg.com/job/sats-ltd-intern-social-media/?f_pg=46) | Changi, SG… | 2025-10-24 |
-| EduMO Academy Pte. Ltd. | [Academic Intern-Mentorship for Science Specialist Teacher (Primary/Secondary)](https://www.internsg.com/job/edumo-academy-pte-ltd-academic-intern-mentorship-for-science-specialist-teacher-primary-secondary/?f_pg=46) | Tampines, SG… | 2025-10-24 |
-| Jobs Network LLP | [Agency Support Officer](https://www.internsg.com/job/jobs-network-llp-agency-support-officer/?f_pg=46) | Queenstown, SG… | 2025-10-24 |
-| Iconz Pte Ltd | [Live Streamer](https://www.internsg.com/job/iconz-pte-ltd-live-streamer/?f_pg=46) | Bukit Batok, SG… | 2025-10-24 |
-| Singapore G Pte Ltd | [Temporary Data Entry Assistants](https://www.internsg.com/job/singapore-g-pte-ltd-temporary-data-entry-assistants/?f_pg=46) | Ang Mo Kio, SG… | 2025-10-24 |
-| Sharp Singapore Electronics Corporation Pte Ltd | [Part Time Promoter (Mobile Phone)](https://www.internsg.com/job/sharp-singapore-electronics-corporation-pte-ltd-part-time-promoter-mobile-phone-weekends-ph/?f_pg=46) | SG… | 2025-10-24 |
+| Jump Trading | [Security Engineer](https://www.jumptrading.com/hr/job) | Singapore and Sydney… | 2025-10-25 |
+| Jump Trading | [Financial Operations Associate, Derivatives](https://www.jumptrading.com/hr/job) | Hong Kong or  Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Quantitative Developer \| Market Risk](https://www.jumptrading.com/hr/job) | Singapore or Shanghai… | 2025-10-25 |
+| Jump Trading | [Risk Associate (Weekend support)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Tech Ops Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Software Engineer \| Trading Team](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Quantitative Researcher \| Trading Team](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus AI/ML Researcher (Fall 2025/Spring 2026 Intern)](https://www.jumptrading.com/hr/job) | Shanghai; Singapore; Hong Kong… | 2025-10-25 |
+| Coinbase | [Product Manager, Consumer/Product Quality AI](https://www.coinbase.com/careers/positions/7316982) | Singapore… | 2025-10-25 |
+| Coinbase | [Staff Product Designer, Advanced Trade](https://www.coinbase.com/careers/positions/7270725) | Singapore… | 2025-10-25 |
+| Coinbase | [Concierge, Customer Success Team](https://www.coinbase.com/careers/positions/7282606) | Singapore… | 2025-10-25 |
+| Coinbase | [Supervisor, Executive Escalation Support](https://www.coinbase.com/careers/positions/7217536) | Singapore… | 2025-10-25 |
+| Coinbase | [Software Engineer, Frontend](https://www.coinbase.com/careers/positions/6893916) | Singapore… | 2025-10-25 |
+| Coinbase | [Product Manager II](https://www.coinbase.com/careers/positions/7273896) | Singapore… | 2025-10-25 |
+| Coinbase | [Lead Compliance Analyst](https://www.coinbase.com/careers/positions/7297335) | Singapore… | 2025-10-25 |
+| Coinbase | [Associate Manager, Compliance](https://www.coinbase.com/careers/positions/7182073) | Singapore… | 2025-10-25 |
+| Coinbase | [Lead Complaints and Training Analyst](https://www.coinbase.com/careers/positions/7027270) | SG… | 2025-10-25 |
+| Coinbase | [Software Engineer Intern](https://www.coinbase.com/careers/positions/7294091) | Singapore… | 2025-10-25 |
+| Coinbase | [Software Engineer, Frontend (Advanced Trading Team)](https://www.coinbase.com/careers/positions/7351678) | Singapore… | 2025-10-25 |
+| Coinbase | [CX Incident and Bug Analyst](https://www.coinbase.com/careers/positions/7300810) | Singapore… | 2025-10-25 |
+| OKX | [Design Operations Lead](https://job-boards.greenhouse.io/okx/jobs/6242748003) | Singapore… | 2025-10-24 |
+| OKX | [(Senior) Product Director, Tokenisation](https://job-boards.greenhouse.io/okx/jobs/6675627003) | Singapore… | 2025-10-24 |
+| OKX | [Vice President of Artificial Intelligence](https://job-boards.greenhouse.io/okx/jobs/6651116003) | Hong Kong… | 2025-10-24 |
+| OKX | [Principal / Senior Product Manager, Payment](https://job-boards.greenhouse.io/okx/jobs/6194768003) | Hong Kong… | 2025-10-24 |
+| OKX | [Senior/Staff Software Engineer Mobile (iOS) - Compliance & KYC](https://job-boards.greenhouse.io/okx/jobs/6628055003) | Singapore… | 2025-10-24 |
+| OKX | [Principal / Senior Trading Data Analyst](https://job-boards.greenhouse.io/okx/jobs/6639527003) | Singapore… | 2025-10-24 |
+| OKX | [Product Director, Viral User Acquisition](https://job-boards.greenhouse.io/okx/jobs/6668213003) | Hong Kong… | 2025-10-24 |
+| OKX | [Senior Data Analytics Engineer, Compliance (Senior Business Analysis Manager)](https://job-boards.greenhouse.io/okx/jobs/6949968003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Design Producer](https://job-boards.greenhouse.io/okx/jobs/6555369003) | Singapore… | 2025-10-24 |
+| OKX | [Product Lead, Options Trading](https://job-boards.greenhouse.io/okx/jobs/7489085003) | Hong Kong… | 2025-10-24 |
+| OKX | [Senior Data Analyst, Trading Product](https://job-boards.greenhouse.io/okx/jobs/7489938003) | Hong Kong… | 2025-10-24 |
+| OKX | [Senior Data Analyst, Trading Product](https://job-boards.greenhouse.io/okx/jobs/6225586003) | Singapore… | 2025-10-24 |
+| OKX | [Lead Product Designer](https://job-boards.greenhouse.io/okx/jobs/6278888003) | Singapore… | 2025-10-24 |
+| OKX | [Vice President of Artificial Intelligence](https://job-boards.greenhouse.io/okx/jobs/6651115003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Product Designer, Wallets](https://job-boards.greenhouse.io/okx/jobs/6545604003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Staff Software Engineer, Trading Service (Retail Trading)](https://job-boards.greenhouse.io/okx/jobs/6664617003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Product Designer](https://job-boards.greenhouse.io/okx/jobs/6246527003) | Singapore… | 2025-10-24 |
+| OKX | [Product Manager / Director, User Growth (Push / Email)](https://job-boards.greenhouse.io/okx/jobs/7450425003) | Singapore… | 2025-10-24 |
+| OKX | [Design Director, Design Systems & Visual Experience](https://job-boards.greenhouse.io/okx/jobs/7488275003) | Singapore… | 2025-10-24 |
+| OKX | [Head of Product Design, Web3](https://job-boards.greenhouse.io/okx/jobs/7488260003) | Singapore… | 2025-10-24 |
+| OKX | [Staff Engineer, Rust Blockchain](https://job-boards.greenhouse.io/okx/jobs/5812160003) | Singapore… | 2025-10-24 |
+| OKX | [Product Design Manager](https://job-boards.greenhouse.io/okx/jobs/6246528003) | Singapore… | 2025-10-24 |
+| OKX | [(Senior) Product Director, Compliance](https://job-boards.greenhouse.io/okx/jobs/6481233003) | Hong Kong… | 2025-10-24 |
+| OKX | [Product Manager / Director, Global Trading](https://job-boards.greenhouse.io/okx/jobs/6668208003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Content Designer (Chinese)](https://job-boards.greenhouse.io/okx/jobs/7494035003) | Singapore… | 2025-10-24 |
+| OKX | [(Senior) Web3 Business Intelligence Analyst](https://job-boards.greenhouse.io/okx/jobs/6514733003) | Hong Kong… | 2025-10-24 |
