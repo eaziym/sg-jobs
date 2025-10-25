@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-02CYDHNZMG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-02CYDHNZMG');
+  </script>
+  
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Singapore Jobs & Internships — Latest Openings | SG Jobs</title>
@@ -8,7 +17,7 @@
   <!-- Basic SEO -->
   <meta name="description" content="Browse the latest full-time and internship job listings in Singapore — updated frequently. Filter by company, role, and tags." />
   <meta name="keywords" content="Singapore jobs, SG internships, job board, tech jobs, finance jobs, consulting jobs, Micron, Goldman Sachs, Deutsche Bank, career, hiring" />
-  <meta name="author" content="EaziyM" />
+  <meta name="author" content="eaziym" />
   <link rel="canonical" href="https://eaziym.github.io/sg-jobs/" />
   <meta name="robots" content="index,follow" />
   <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
@@ -21,7 +30,7 @@
   <meta property="og:url" content="https://eaziym.github.io/sg-jobs/" />
   <meta property="og:locale" content="en_SG" />
   <!-- Helpful freshness signal for crawlers/LLMs -->
-  <meta property="og:updated_time" content="2025-10-25" />
+  <meta property="og:updated_time" content="2025-10-25T14:27:57.176Z" />
 
   <!-- Twitter Card (no image) -->
   <meta name="twitter:card" content="summary" />
@@ -380,6 +389,20 @@ tabs.forEach(tab => {
 
   render();
 })();
+
+
+  document.addEventListener('click', function(e){
+    const a = e.target.closest('a[href]');
+    if (!a) return;
+    // Only track clicks inside the jobs table
+    if (!a.closest('#tbl')) return;
+
+    gtag('event', 'click_job_link', {
+      link_url: a.href,
+      link_text: a.textContent.trim()
+    });
+  });
+  
 </script>
 </body>
 </html>
