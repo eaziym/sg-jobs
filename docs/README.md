@@ -2,13 +2,14 @@
 
 _Last updated: 2025-10-25_
 
-**Total jobs:** 4261 • **Companies:** 557 • **Top tag:** Others
+**Total jobs:** 4232 • **Companies:** 555 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Amazon | [Machine Learning Engineer, Generative AI Innovation Center](https://www.amazon.jobs/en/jobs/2943066/machine-learning-engineer-generative-ai-innovation-center) | SGP… | 2025-10-25 |
 | Jump Trading | [Security Engineer](https://www.jumptrading.com/hr/job?gh_jid=6826011) | Singapore and Sydney… | 2025-10-25 |
 | Jump Trading | [Financial Operations Associate, Derivatives](https://www.jumptrading.com/hr/job?gh_jid=7340122) | Hong Kong or  Singapore… | 2025-10-25 |
 | Jump Trading | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122882) | Singapore… | 2025-10-25 |
@@ -21,18 +22,6 @@ _Last updated: 2025-10-25_
 | Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122922) | Singapore… | 2025-10-25 |
 | Jump Trading | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122845) | Singapore… | 2025-10-25 |
 | Jump Trading | [Campus AI/ML Researcher (Fall 2025/Spring 2026 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7282220) | Shanghai; Singapore; Hong Kong… | 2025-10-25 |
-| Coinbase | [Product Manager, Consumer/Product Quality AI](https://www.coinbase.com/careers/positions/7316982) | Singapore… | 2025-10-25 |
-| Coinbase | [Staff Product Designer, Advanced Trade](https://www.coinbase.com/careers/positions/7270725) | Singapore… | 2025-10-25 |
-| Coinbase | [Concierge, Customer Success Team](https://www.coinbase.com/careers/positions/7282606) | Singapore… | 2025-10-25 |
-| Coinbase | [Supervisor, Executive Escalation Support](https://www.coinbase.com/careers/positions/7217536) | Singapore… | 2025-10-25 |
-| Coinbase | [Software Engineer, Frontend](https://www.coinbase.com/careers/positions/6893916) | Singapore… | 2025-10-25 |
-| Coinbase | [Product Manager II](https://www.coinbase.com/careers/positions/7273896) | Singapore… | 2025-10-25 |
-| Coinbase | [Lead Compliance Analyst](https://www.coinbase.com/careers/positions/7297335) | Singapore… | 2025-10-25 |
-| Coinbase | [Associate Manager, Compliance](https://www.coinbase.com/careers/positions/7182073) | Singapore… | 2025-10-25 |
-| Coinbase | [Lead Complaints and Training Analyst](https://www.coinbase.com/careers/positions/7027270) | SG… | 2025-10-25 |
-| Coinbase | [Software Engineer Intern](https://www.coinbase.com/careers/positions/7294091) | Singapore… | 2025-10-25 |
-| Coinbase | [Software Engineer, Frontend (Advanced Trading Team)](https://www.coinbase.com/careers/positions/7351678) | Singapore… | 2025-10-25 |
-| Coinbase | [CX Incident and Bug Analyst](https://www.coinbase.com/careers/positions/7300810) | Singapore… | 2025-10-25 |
 | OKX | [Design Operations Lead](https://job-boards.greenhouse.io/okx/jobs/6242748003) | Singapore… | 2025-10-24 |
 | OKX | [(Senior) Product Director, Tokenisation](https://job-boards.greenhouse.io/okx/jobs/6675627003) | Singapore… | 2025-10-24 |
 | OKX | [Vice President of Artificial Intelligence](https://job-boards.greenhouse.io/okx/jobs/6651116003) | Hong Kong… | 2025-10-24 |
@@ -59,3 +48,14 @@ _Last updated: 2025-10-25_
 | OKX | [Product Manager / Director, Global Trading](https://job-boards.greenhouse.io/okx/jobs/6668208003) | Singapore… | 2025-10-24 |
 | OKX | [Senior Content Designer (Chinese)](https://job-boards.greenhouse.io/okx/jobs/7494035003) | Singapore… | 2025-10-24 |
 | OKX | [(Senior) Web3 Business Intelligence Analyst](https://job-boards.greenhouse.io/okx/jobs/6514733003) | Hong Kong… | 2025-10-24 |
+| OKX | [Product Director / Manager, Institutional Trading API](https://job-boards.greenhouse.io/okx/jobs/6057536003) | Singapore… | 2025-10-24 |
+| OKX | [Product Director, Token Listing](https://job-boards.greenhouse.io/okx/jobs/6616106003) | Hong Kong… | 2025-10-24 |
+| OKX | [Chain Lead, X-layer](https://job-boards.greenhouse.io/okx/jobs/7016453003) | Singapore… | 2025-10-24 |
+| OKX | [Design Director, Design Systems & Visual Experience](https://job-boards.greenhouse.io/okx/jobs/7488277003) | APAC; Hong Kong… | 2025-10-24 |
+| OKX | [Senior Product Designer, Web3](https://job-boards.greenhouse.io/okx/jobs/6278887003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Staff Engineer, Observability Platform](https://job-boards.greenhouse.io/okx/jobs/7320256003) | Singapore… | 2025-10-24 |
+| OKX | [Product Manager / Director, Financial (Earn / Loan)](https://job-boards.greenhouse.io/okx/jobs/6629175003) | Hong Kong… | 2025-10-24 |
+| OKX | [Senior/Staff Android Developer](https://job-boards.greenhouse.io/okx/jobs/6034068003) | Singapore… | 2025-10-24 |
+| OKX | [Senior Product Designer, Chat Experience](https://job-boards.greenhouse.io/okx/jobs/6578374003) | Singapore… | 2025-10-24 |
+| OKX | [Product Manager / Director, User Growth (Notifications)](https://job-boards.greenhouse.io/okx/jobs/7506118003) | Hong Kong… | 2025-10-24 |
+| OKX | [Product Expert / Director, DeFi Products](https://job-boards.greenhouse.io/okx/jobs/6656279003) | Hong Kong… | 2025-10-24 |
