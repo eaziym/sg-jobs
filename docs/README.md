@@ -9,18 +9,18 @@ _Last updated: 2025-10-25_
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Jump Trading | [Security Engineer](https://www.jumptrading.com/hr/job) | Singapore and Sydney… | 2025-10-25 |
-| Jump Trading | [Financial Operations Associate, Derivatives](https://www.jumptrading.com/hr/job) | Hong Kong or  Singapore… | 2025-10-25 |
-| Jump Trading | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Quantitative Developer \| Market Risk](https://www.jumptrading.com/hr/job) | Singapore or Shanghai… | 2025-10-25 |
-| Jump Trading | [Risk Associate (Weekend support)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Campus Tech Ops Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Software Engineer \| Trading Team](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Quantitative Researcher \| Trading Team](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job) | Singapore… | 2025-10-25 |
-| Jump Trading | [Campus AI/ML Researcher (Fall 2025/Spring 2026 Intern)](https://www.jumptrading.com/hr/job) | Shanghai; Singapore; Hong Kong… | 2025-10-25 |
+| Jump Trading | [Security Engineer](https://www.jumptrading.com/hr/job?gh_jid=6826011) | Singapore and Sydney… | 2025-10-25 |
+| Jump Trading | [Financial Operations Associate, Derivatives](https://www.jumptrading.com/hr/job?gh_jid=7340122) | Hong Kong or  Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122882) | Singapore… | 2025-10-25 |
+| Jump Trading | [Quantitative Developer \| Market Risk](https://www.jumptrading.com/hr/job?gh_jid=6920747) | Singapore or Shanghai… | 2025-10-25 |
+| Jump Trading | [Risk Associate (Weekend support)](https://www.jumptrading.com/hr/job?gh_jid=6648897) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Tech Ops Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=6476934) | Singapore… | 2025-10-25 |
+| Jump Trading | [Software Engineer \| Trading Team](https://www.jumptrading.com/hr/job?gh_jid=6084822) | Singapore… | 2025-10-25 |
+| Jump Trading | [Quantitative Researcher \| Trading Team](https://www.jumptrading.com/hr/job?gh_jid=5870589) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122916) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122922) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7122845) | Singapore… | 2025-10-25 |
+| Jump Trading | [Campus AI/ML Researcher (Fall 2025/Spring 2026 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7282220) | Shanghai; Singapore; Hong Kong… | 2025-10-25 |
 | Coinbase | [Product Manager, Consumer/Product Quality AI](https://www.coinbase.com/careers/positions/7316982) | Singapore… | 2025-10-25 |
 | Coinbase | [Staff Product Designer, Advanced Trade](https://www.coinbase.com/careers/positions/7270725) | Singapore… | 2025-10-25 |
 | Coinbase | [Concierge, Customer Success Team](https://www.coinbase.com/careers/positions/7282606) | Singapore… | 2025-10-25 |
