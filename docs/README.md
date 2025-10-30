@@ -1,14 +1,24 @@
 # Latest Jobs
 
-_Last updated: 2025-10-29_
+_Last updated: 2025-10-30_
 
-**Total jobs:** 3862 • **Companies:** 573 • **Top tag:** Others
+**Total jobs:** 4248 • **Companies:** 574 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Grab | [Lead Technical Content Developer](https://www.grab.careers/en/jobs/744000090554125/lead-technical-content-developer/) | Petaling Jaya… | 2025-10-30 |
+| Grab | [Regional Program Manager - Lending](https://www.grab.careers/en/jobs/744000090533755/regional-program-manager-lending/) | Kuala Lumpur… | 2025-10-30 |
+| Grab | [Assistant Manager, GFB Planning & Projects](https://www.grab.careers/en/jobs/744000090553916/assistant-manager-gfb-planning-projects/) | Petaling Jaya… | 2025-10-30 |
+| Grab | [Senior Product Analyst](https://www.grab.careers/en/jobs/744000090602981/senior-product-analyst/) | HCMC… | 2025-10-30 |
+| Grab | [Lead AI Agent Engineer, Consumer AI](https://www.grab.careers/en/jobs/744000090537140/lead-ai-agent-engineer-consumer-ai/) | Singapore… | 2025-10-30 |
+| Grab | [Body Repair Adjuster Associate](https://www.grab.careers/en/jobs/744000090576915/body-repair-adjuster-associate/) | Kecamatan Serpong… | 2025-10-30 |
+| Grab | [Regional Manager, Consumer Loyalty Strategy](https://www.grab.careers/en/jobs/744000090556477/regional-manager-consumer-loyalty-strategy/) | Petaling Jaya… | 2025-10-30 |
+| Grab | [Assistant Manager, GFB Planning & Projects](https://www.grab.careers/en/jobs/744000090554215/assistant-manager-gfb-planning-projects/) | HCMC… | 2025-10-30 |
+| Grab | [Partner Engagement Associate](https://www.grab.careers/en/jobs/744000090753388/partner-engagement-associate/) | Kecamatan Denpasar Utara… | 2025-10-30 |
+| Grab | [Senior Software Engineer, Backend](https://www.grab.careers/en/jobs/744000090555906/senior-software-engineer-backend/) | Petaling Jaya… | 2025-10-30 |
 | OKX | [Software Engineer (Android) -  Mobile Infrastructure (Performance Optimization)](https://job-boards.greenhouse.io/okx/jobs/5681881003) | Singapore… | 2025-10-29 |
 | OKX | [Senior Staff Software Engineer, Web3](https://job-boards.greenhouse.io/okx/jobs/6653262003) | Singapore… | 2025-10-29 |
 | OKX | [Growth Operations Specialist, OKX SG](https://job-boards.greenhouse.io/okx/jobs/7511631003) | Singapore… | 2025-10-29 |
@@ -49,13 +59,3 @@ _Last updated: 2025-10-29_
 | Sinotron United Pte Ltd | [Sales Executive / Internship](https://www.internsg.com/job/sinotron-united-pte-ltd-sales-executive-internship/?f_pg=48) | Bishan, SG… | 2025-10-29 |
 | Snaphunt Pte Ltd | [Crypto Payment Specialist (WFH)](https://www.internsg.com/job/snaphunt-pte-ltd-crypto-payment-specialist-wfh/?f_pg=48) | SG… | 2025-10-29 |
 | Snaphunt Pte Ltd | [Administrative](https://www.internsg.com/job/snaphunt-pte-ltd-administrative-2/?f_pg=48) | SG… | 2025-10-29 |
-| Snaphunt Pte Ltd | [Fullstack Software Engineer (AI/ML)](https://www.internsg.com/job/snaphunt-pte-ltd-fullstack-software-engineer-ai-ml/?f_pg=48) | SG… | 2025-10-29 |
-| National Volunteer & Philanthropy Centre | [Intern, Marketing](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-marketing-3/?f_pg=48) | Singapore River, SG… | 2025-10-29 |
-| Generation: You Employed, Singapore Ltd. | [Employer Partnerships and Placement Intern](https://www.internsg.com/job/generation-you-employed-singapore-ltd-employer-partnerships-and-placement-intern-2/?f_pg=48) | SG… | 2025-10-29 |
-| Generation: You Employed, Singapore | [Marketing and Recruitment Intern](https://www.internsg.com/job/generation-you-employed-singapore-marketing-and-recruitment-intern/?f_pg=47) | SG… | 2025-10-29 |
-| IQ-EQ Asia | [Business Intelligence Intern](https://www.internsg.com/job/iq-eq-asia-business-intelligence-intern/?f_pg=47) | Downtown Core, SG… | 2025-10-29 |
-| Rave Football Institute Pte Ltd | [Media Intern](https://www.internsg.com/job/rave-football-institute-pte-ltd-media-intern/?f_pg=48) | Sembawang, SG… | 2025-10-29 |
-| Flashbob Studio | [Content Creator / Editor](https://www.internsg.com/job/flashbob-studio-content-creator-editor/?f_pg=47) | Bukit Merah, SG… | 2025-10-29 |
-| ACM Research Pte Ltd | [Field Service Engineer](https://www.internsg.com/job/acm-research-pte-ltd-field-service-engineer/?f_pg=47) | SG… | 2025-10-29 |
-| Realion Group Pte Ltd | [Research Assistant](https://www.internsg.com/job/realion-group-pte-ltd-research-assistant/?f_pg=47) | Toa Payoh, SG… | 2025-10-29 |
-| PAZZION Group | [Marketing Intern](https://www.internsg.com/job/pazzion-group-marketing-intern-7/?f_pg=47) | Bedok, SG… | 2025-10-29 |
