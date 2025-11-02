@@ -1,61 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-02_
 
-**Total jobs:** 4222 • **Companies:** 566 • **Top tag:** Others
+**Total jobs:** 4209 • **Companies:** 564 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| OKX | [Senior Compliance Manager, MLRO, Eurasia Desk](https://job-boards.greenhouse.io/okx/jobs/7513902003) | Hong Kong… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=48) | Chinatown, SG… | 2025-11-01 |
-| G3 (SG) Pte Ltd. | [Sales and Service Associate](https://www.internsg.com/job/g3-sg-pte-ltd-sales-and-service-associate/?f_pg=48) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=47) | Chinatown, SG… | 2025-11-01 |
-| Global Success Talent Pte Ltd | [Warehouse & Logistics Administrator](https://www.internsg.com/job/global-success-talent-pte-ltd-warehouse-logistics-administrator-office-job-full-time-job/?f_pg=47) | Geylang, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=46) | Chinatown, SG… | 2025-11-01 |
-| SPH Media Limited | [Intern Journalist at Straits Times Editorial Life](https://www.internsg.com/job/sph-media-limited-intern-journalist-at-straits-times-editorial-life/?f_pg=46) | Toa Payoh, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=45) | Chinatown, SG… | 2025-11-01 |
-| CyberQuote Pte Ltd | [Operations Executive](https://www.internsg.com/job/cyberquote-pte-ltd-operations-executive/?f_pg=45) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=44) | Chinatown, SG… | 2025-11-01 |
-| Cornerstone Global Partners Pte Ltd | [HR Intern](https://www.internsg.com/job/cornerstone-global-partners-pte-ltd-hr-intern-immediate/?f_pg=44) | SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=43) | Chinatown, SG… | 2025-11-01 |
-| Alta Alternative Investments | [Strategy Intern](https://www.internsg.com/job/alta-alternative-investments-strategy-intern/?f_pg=43) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=42) | Chinatown, SG… | 2025-11-01 |
-| Initia Group SG | [HR Intern](https://www.internsg.com/job/initia-group-sg-hr-intern-29/?f_pg=42) | Central Area, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=41) | Chinatown, SG… | 2025-11-01 |
-| RS Recruitment Agency | [Civil & Structural Engineer (Construction)](https://www.internsg.com/job/rs-recruitment-agency-civil-structural-engineer-freshconstruction/?f_pg=41) | Kallang, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=40) | Chinatown, SG… | 2025-11-01 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Credit Control Intern](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-credit-control-intern/?f_pg=40) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=39) | Chinatown, SG… | 2025-11-01 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Trade Marketing Intern - Frames (SG)](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-trade-marketing-intern-frames-sg/?f_pg=39) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=38) | Chinatown, SG… | 2025-11-01 |
-| Quartz Global | [Junior Marketing Executive](https://www.internsg.com/job/quartz-global-junior-marketing-executive/?f_pg=38) | Downtown Core, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=37) | Chinatown, SG… | 2025-11-01 |
-| Feel Fresh Pte Ltd | [Content Creation Intern](https://www.internsg.com/job/feel-fresh-pte-ltd-content-creation-intern/?f_pg=37) | SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=36) | Chinatown, SG… | 2025-11-01 |
-| Mummys Market Pte Ltd | [AI Content Creator \| AI Multimedia Creator](https://www.internsg.com/job/mummys-market-pte-ltd-ai-content-creator-ai-multimedia-creator/?f_pg=36) | Geylang, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=35) | Chinatown, SG… | 2025-11-01 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Retail Marketing Intern, SEA Retail](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-retail-marketing-intern-sea-retail/?f_pg=35) | Kallang, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=34) | Chinatown, SG… | 2025-11-01 |
-| The Fun Empire | [Creative / Videography Intern](https://www.internsg.com/job/the-fun-empire-creative-videography-intern-127/?f_pg=34) | Toa Payoh, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=33) | Chinatown, SG… | 2025-11-01 |
-| Hoya Surgical Optics | [Intern, Data Analytics](https://www.internsg.com/job/hoya-surgical-optics-intern-data-analytics/?f_pg=33) | Queenstown, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=32) | Chinatown, SG… | 2025-11-01 |
-| Annabelle Psychology Pte Ltd | [Associate Psychologist (Remote / Night Shift)](https://www.internsg.com/job/annabelle-psychology-pte-ltd-associate-psychologist-remote-night-shift/?f_pg=32) | Toa Payoh, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=31) | Chinatown, SG… | 2025-11-01 |
-| VCUS Pte Ltd | [Internship (Client Servicing / Operations)](https://www.internsg.com/job/vcus-pte-ltd-director-3/?f_pg=31) | Serangoon, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=30) | Chinatown, SG… | 2025-11-01 |
-| Hustle Institute Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/hustle-institute-pte-ltd-content-creator-intern/?f_pg=30) | Orchard, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=29) | Chinatown, SG… | 2025-11-01 |
-| Creative For More | [Social Media Marketing Intern](https://www.internsg.com/job/creative-for-more-social-media-marketing-intern-8/?f_pg=29) | SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=28) | Chinatown, SG… | 2025-11-01 |
-| Ascensus Health Group Pte. Ltd. | [Staff / Enrolled Nurse](https://www.internsg.com/job/ascensus-health-group-pte-ltd-staff-enrolled-nurse-10/?f_pg=28) | SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=27) | Chinatown, SG… | 2025-11-01 |
-| To Live Freely | [Social Media Internship](https://www.internsg.com/job/to-live-freely-social-media-internship/?f_pg=27) | Clementi, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=26) | Chinatown, SG… | 2025-11-01 |
-| AnneeMatthew | [Creative Design Marketing Intern](https://www.internsg.com/job/anneematthew-creative-design-marketing-intern-work-from-home/?f_pg=26) | Tampines, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=25) | Chinatown, SG… | 2025-11-01 |
-| Activa Media Pte Ltd | [Digital Marketing Intern](https://www.internsg.com/job/activa-media-pte-ltd-digital-marketing-intern-11/?f_pg=25) | Geylang, SG… | 2025-11-01 |
-| Fenzo Digital | [Digital Marketing Internship](https://www.internsg.com/job/fenzo-digital-digital-marketing-internship/?f_pg=24) | Chinatown, SG… | 2025-11-01 |
+| Global Angle Pte Ltd | [Strategy & Market Research Internship](https://www.internsg.com/job/global-angle-pte-ltd-strategy-market-research-internship-2/?f_pg=48) | SG… | 2025-11-02 |
+| Allied Container Group | [Web Developer Intern](https://www.internsg.com/job/allied-container-group-web-developer-intern/?f_pg=48) | Kallang, SG… | 2025-11-02 |
+| The Fun Empire | [Event Sales Executive](https://www.internsg.com/job/the-fun-empire-event-sales-executive-53/?f_pg=48) | Toa Payoh, SG… | 2025-11-02 |
+| The Fun Empire | [Event Operations Intern](https://www.internsg.com/job/the-fun-empire-event-operations-intern-75/?f_pg=48) | Toa Payoh, SG… | 2025-11-02 |
+| The Fun Empire | [Creative / Videography Intern](https://www.internsg.com/job/the-fun-empire-creative-videography-intern-126/?f_pg=48) | Toa Payoh, SG… | 2025-11-02 |
+| The Fun Empire | [Event Operations Executive](https://www.internsg.com/job/the-fun-empire-event-operations-executive-53/?f_pg=48) | Toa Payoh, SG… | 2025-11-02 |
+| Bio-Globe Singapore Pte Ltd | [Business and Sales Trainee](https://www.internsg.com/job/bio-globe-singapore-pte-ltd-business-and-sales-trainee-3/?f_pg=48) | Kallang, SG… | 2025-11-02 |
+| Lion Global Investors Limited | [Intern, Trade & Database Services](https://www.internsg.com/job/lion-global-investors-limited-intern-trade-database-services-13/?f_pg=48) | Downtown Core, SG… | 2025-11-02 |
+| Yobbi Consultancy Pte Ltd | [Accounts Intern](https://www.internsg.com/job/yobbi-consultancy-pte-ltd-accounts-intern/?f_pg=47) | Downtown Core, SG… | 2025-11-02 |
+| Yobbi Consultancy Pte Ltd | [Finance Intern](https://www.internsg.com/job/yobbi-consultancy-pte-ltd-finance-intern-3/?f_pg=47) | Downtown Core, SG… | 2025-11-02 |
+| Aeon Search Consulting Pte Ltd | [Student Care Teacher](https://www.internsg.com/job/aeon-search-consulting-pte-ltd-student-care-teacher-x-2-macpherson-2/?f_pg=47) | Geylang, SG… | 2025-11-02 |
+| Aeon Search Consulting Pte Ltd | [Student Care Teacher (Mandarin)](https://www.internsg.com/job/aeon-search-consulting-pte-ltd-student-care-teacher-mandarin-macpherson/?f_pg=47) | MacPherson, SG… | 2025-11-02 |
+| Rakuten Asia Pte Ltd | [Data Analyst Intern](https://www.internsg.com/job/rakuten-asia-pte-ltd-data-analyst-intern/?f_pg=47) | SG… | 2025-11-02 |
+| AIA Singapore | [Winter Internship (Financial Services)](https://www.internsg.com/job/aia-singapore-winter-internship/?f_pg=47) | SG… | 2025-11-02 |
+| RS Recruitment Agency | [Associate Manufacturing Engineer (Mechatronics) (Electronics)](https://www.internsg.com/job/rs-recruitment-agency-associate-manufacturing-engineer-kallangmechatronicselectronics/?f_pg=47) | Kallang, SG… | 2025-11-02 |
+| Xacco Global Hospitalities Pte. Ltd. | [Operations Intern](https://www.internsg.com/job/xacco-global-hospitalities-pte-ltd-operations-intern/?f_pg=47) | Downtown Core, SG… | 2025-11-02 |
+| GB Helios Pte Ltd | [Intern (Business)](https://www.internsg.com/job/gb-helios-pte-ltd-intern-business/?f_pg=46) | Newton, SG… | 2025-11-02 |
+| Raffles Hospital Pte Ltd | [Claims Intern](https://www.internsg.com/job/raffles-hospital-pte-ltd-claims-intern/?f_pg=46) | Geylang, SG… | 2025-11-02 |
+| Raffles Hospital Pte Ltd | [Policy Admin](https://www.internsg.com/job/raffles-hospital-pte-ltd-policy-admin/?f_pg=46) | Geylang, SG… | 2025-11-02 |
+| Tracyeinny Company Pte Ltd | [Fashion Creative Intern](https://www.internsg.com/job/tracyeinny-company-pte-ltd-fashion-creative-intern-3/?f_pg=46) | Geylang, SG… | 2025-11-02 |
+| Ochre Pictures Private Limited | [Internship - Second Assistant Director](https://www.internsg.com/job/ochre-pictures-private-limited-internship-second-assistant-director/?f_pg=46) | Bishan, SG… | 2025-11-02 |
+| TPGI Pte. Ltd. | [Marketing Intern](https://www.internsg.com/job/tpgi-pte-ltd-marketing-intern/?f_pg=46) | Serangoon, SG… | 2025-11-02 |
+| Arkema Pte Ltd | [Logistics Intern (Jurong Island)](https://www.internsg.com/job/arkema-pte-ltd-logistics-intern-jurong-island/?f_pg=46) | Western Islands, SG… | 2025-11-02 |
+| Recruit Express Pte Ltd | [Finance Assistant (AP)](https://www.internsg.com/job/recruit-express-pte-ltd-finance-assistant-ap-esy/?f_pg=46) | Tampines, SG… | 2025-11-02 |
+| Prosegur Singapore Pte Ltd | [Marketing Intern - Project Management](https://www.internsg.com/job/prosegur-singapore-pte-ltd-marketing-intern-project-management/?f_pg=45) | Toa Payoh, SG… | 2025-11-02 |
+| Libeara (Singapore) Pte Ltd | [Tech Intern](https://www.internsg.com/job/libeara-singapore-pte-ltd-tech-intern/?f_pg=45) | Outram, SG… | 2025-11-02 |
+| Garlic Equity Capital | [M&A and BD Internship](https://www.internsg.com/job/garlic-equity-capital-3-month-ma-and-bd-internship/?f_pg=45) | Queenstown, SG… | 2025-11-02 |
+| Tisch Global Private Limited | [Business Development & Operations Intern](https://www.internsg.com/job/tisch-global-private-limited-business-development-operations-intern/?f_pg=45) | Downtown Core, SG… | 2025-11-02 |
+| Killiney 88 Pte Ltd (MamaShelter Hotel Singapore) | [Intern – Business Operations & SOP Development (Owner’s Office)](https://www.internsg.com/job/killiney-88-pte-ltd-mamashelter-hotel-singapore-intern-business-operations-sop-development-owners-office/?f_pg=45) | River Valley, SG… | 2025-11-02 |
+| A*STAR Singapore Institute of Manufacturing Technology (SIMTech) | [Intern (Materials Science and Engineering, Aerospace Engineering, Robotics)](https://www.internsg.com/job/astar-singapore-institute-of-manufacturing-technology-simtech-intern-2/?f_pg=45) | Western Water Catchment, SG… | 2025-11-02 |
+| KLASS Engineering & Solutions Pte Ltd | [Digital Design & Marketing Intern](https://www.internsg.com/job/klass-engineering-solutions-pte-ltd-digital-design-marketing-intern-2/?f_pg=45) | Kallang, SG… | 2025-11-02 |
+| Kensington Corporate Management (S) Pte. Ltd. | [Corporate Secretarial Assistant](https://www.internsg.com/job/kensington-corporate-management-s-pte-ltd-corporate-secretarial-assistant/?f_pg=45) | Downtown Core, SG… | 2025-11-02 |
+| VCUS Pte Ltd | [Intern (Furniture Design and Production)](https://www.internsg.com/job/vcus-pte-ltd-director-2/?f_pg=44) | Serangoon, SG… | 2025-11-02 |
+| Alliance Gloibal Distribution | [Marketing Intern (6 Months)](https://www.internsg.com/job/alliance-gloibal-distribution-marketing-intern-6-months/?f_pg=44) | SG… | 2025-11-02 |
+| My Queen | [Digital Marketing Intern](https://www.internsg.com/job/my-queen-digital-marketing-intern/?f_pg=44) | Ang Mo Kio, SG… | 2025-11-02 |
+| Brass Lion Distillery | [Corporate Sales & Events Intern](https://www.internsg.com/job/brass-lion-distillery-corporate-sales-events-intern/?f_pg=44) | Queenstown, SG… | 2025-11-02 |
+| RS Recruitment Agency | [HR Executive (Payroll)](https://www.internsg.com/job/rs-recruitment-agency-hr-executive-payroll-west/?f_pg=44) | Pioneer, SG… | 2025-11-02 |
+| Brass Lion Distillery | [Content Creation (Marketing Intern)](https://www.internsg.com/job/brass-lion-distillery-content-creation-marketing-intern/?f_pg=44) | Queenstown, SG… | 2025-11-02 |
+| Chupitos | [Content Creation (Marketing Intern)](https://www.internsg.com/job/chupitos-content-creation-marketing-intern/?f_pg=44) | Singapore River, SG… | 2025-11-02 |
+| Mashwire Pte. Ltd. | [Web Development Intern](https://www.internsg.com/job/mashwire-pte-ltd-web-development-intern/?f_pg=44) | Toa Payoh, SG… | 2025-11-02 |
+| Tangspac Recruitment | [Trade Processing Specialist](https://www.internsg.com/job/tangspac-recruitment-trade-processing-specialist/?f_pg=43) | Tampines, SG… | 2025-11-02 |
+| We are Solstice | [Social Media Intern (2026 Intake)](https://www.internsg.com/job/we-are-solstice-social-media-intern-2026-intake/?f_pg=43) | Museum, SG… | 2025-11-02 |
+| Snaphunt Pte Ltd | [Technical Lead](https://www.internsg.com/job/snaphunt-pte-ltd-technical-lead/?f_pg=43) | SG… | 2025-11-02 |
+| Snaphunt Pte Ltd | [Graphic Designer](https://www.internsg.com/job/snaphunt-pte-ltd-graphic-designer-9/?f_pg=43) | SG… | 2025-11-02 |
+| Snaphunt Pte Ltd | [Web Designer](https://www.internsg.com/job/snaphunt-pte-ltd-web-designer-4/?f_pg=43) | SG… | 2025-11-02 |
+| The Arcade People Pte Ltd | [Creative Intern](https://www.internsg.com/job/the-arcade-people-pte-ltd-creative-intern/?f_pg=43) | Geylang, SG… | 2025-11-02 |
+| Mercedes-Benz Singapore | [Cloud & AI Marketing Communications Intern](https://www.internsg.com/job/mercedes-benz-singapore-cloud-ai-marketing-communications-intern/?f_pg=43) | Jurong East, SG… | 2025-11-02 |
+| The Arcade People Pte Ltd | [Ops Support](https://www.internsg.com/job/the-arcade-people-pte-ltd-ops-support-2/?f_pg=43) | Geylang, SG… | 2025-11-02 |
+| MTAS | [Social Media & Video Production Intern](https://www.internsg.com/job/mtas-social-media-video-production-intern/?f_pg=42) | SG… | 2025-11-02 |
+| Atelier Tang (Pte.) Ltd. | [Intern Interior Designer](https://www.internsg.com/job/atelier-tang-pte-ltd-intern-interior-designer/?f_pg=42) | Toa Payoh, SG… | 2025-11-02 |
