@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-08_
 
-**Total jobs:** 4261 • **Companies:** 571 • **Top tag:** Others
+**Total jobs:** 4260 • **Companies:** 571 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [Talent Acquisition Intern (6 months)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Talent-Acquisition-Intern--6-months-_JR70471) | Central Region (City Area)… | 2025-11-08 |
+| Deloitte | [T&T Manager - Deloitte Digital (Solution Architect - Retail Media Network) - TH/ MY](https://jobs.sea.deloitte.com/job/Singapore-T&T-Manager-Deloitte-Digital-%28Solution-Architect-Retail-Media-Network%29-TH-MY-Sing/1329989866) | Singapore, Singapore… | 2025-11-08 |
 | OKX | [Product Director, VIP Products](https://job-boards.greenhouse.io/okx/jobs/6656277003) | Hong Kong… | 2025-11-07 |
 | OKX | [Product Director, VIP Products](https://job-boards.greenhouse.io/okx/jobs/6656276003) | Singapore… | 2025-11-07 |
 | OKX | [Operations Lead, Emerging Market](https://job-boards.greenhouse.io/okx/jobs/6655086003) | Singapore… | 2025-11-07 |
@@ -57,5 +59,3 @@ _Last updated: 2025-11-07_
 | Papa Palheta Pte Ltd | [Pastry Assistant](https://www.internsg.com/job/papa-palheta-pte-ltd-pastry-assistant-part-time/?f_pg=46) | SG… | 2025-11-07 |
 | Papa Palheta Pte Ltd | [Retail Associate](https://www.internsg.com/job/papa-palheta-pte-ltd-retail-associate-part-time-2/?f_pg=46) | SG… | 2025-11-07 |
 | Cove | [Creative & Content Marketing Intern](https://www.internsg.com/job/cove-creative-content-marketing-intern-5/?f_pg=46) | Outram, SG… | 2025-11-07 |
-| HOYA Electronics | [Learning & Development Intern](https://www.internsg.com/job/hoya-electronics-learning-development-intern-4/?f_pg=46) | Paya Lebar, SG… | 2025-11-07 |
-| Barghest Building Performance | [Safety Engineering Intern](https://www.internsg.com/job/barghest-building-performance-safety-engineering-intern/?f_pg=46) | Queenstown, SG… | 2025-11-07 |
