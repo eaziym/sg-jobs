@@ -1,39 +1,22 @@
 # Latest Jobs
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-09_
 
-**Total jobs:** 4260 • **Companies:** 571 • **Top tag:** Others
+**Total jobs:** 4220 • **Companies:** 564 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [Senior Officer, Account Services](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Account-Services_JR70380) | Central Region (City Area)… | 2025-11-09 |
+| OCBC | [Operations Analyst/Specialist, Asset Services, Corporate Action (Contract)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/BOS-Singapore/Operations-Analyst-Specialist--Asset-Services--Corporate-Action--Contract-_JR00004146) | BOS Singapore… | 2025-11-09 |
 | UOB | [Talent Acquisition Intern (6 months)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Talent-Acquisition-Intern--6-months-_JR70471) | Central Region (City Area)… | 2025-11-08 |
 | Deloitte | [T&T Manager - Deloitte Digital (Solution Architect - Retail Media Network) - TH/ MY](https://jobs.sea.deloitte.com/job/Singapore-T&T-Manager-Deloitte-Digital-%28Solution-Architect-Retail-Media-Network%29-TH-MY-Sing/1329989866) | Singapore, Singapore… | 2025-11-08 |
 | OKX | [Product Director, VIP Products](https://job-boards.greenhouse.io/okx/jobs/6656277003) | Hong Kong… | 2025-11-07 |
 | OKX | [Product Director, VIP Products](https://job-boards.greenhouse.io/okx/jobs/6656276003) | Singapore… | 2025-11-07 |
 | OKX | [Operations Lead, Emerging Market](https://job-boards.greenhouse.io/okx/jobs/6655086003) | Singapore… | 2025-11-07 |
 | Deutsche Bank | [Private Bank – Client Service Executive, North Asia, Associate](https://careers.db.com/professionals/search-roles/#/professional/job/65572) | Singapore… | 2025-11-07 |
-| YTL PowerSeraya Pte. Limited | [Transformation Intern (Plant Innovation & Transformation)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-transformation-intern-plant-innovation-transformation/?f_pg=48) | Western Islands, SG… | 2025-11-07 |
-| YTL PowerSeraya Pte. Limited | [Engineering Intern (Plant Innovation & Transformation)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-engineering-intern-plant-innovation-transformation/?f_pg=48) | Western Islands, SG… | 2025-11-07 |
-| Helicap Pte Ltd | [PCS Investment Analyst Internship Spring 2026](https://www.internsg.com/job/helicap-pte-ltd-pcs-investment-analyst-internship-spring-2026/?f_pg=48) | SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Travel Retail Intern](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-travel-retail-intern/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| 366 Group Pte Ltd | [Content Creation (Marketing Intern)](https://www.internsg.com/job/366-group-pte-ltd-content-creation-marketing-intern/?f_pg=48) | Bishan, SG… | 2025-11-07 |
-| EDL Pte Ltd | [Marketing Intern](https://www.internsg.com/job/edl-pte-ltd-marketing-intern-2/?f_pg=48) | Sembawang, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [APAC Prestige Portfolio Business Strategy Intern](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-apac-prestige-portfolio-business-strategy-intern/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Portfolio Business Brand Manager Intern – APAC](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-portfolio-business-brand-manager-intern-apac/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| Accenture Pte Ltd | [Change Management Intern](https://www.internsg.com/job/accenture-pte-ltd-change-management-intern-3/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| Accenture Pte Ltd | [Technology & Consulting Intern](https://www.internsg.com/job/accenture-pte-ltd-technology-consulting-intern-8/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Public Relations Intern, SEAK](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-public-relations-intern-seak/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-65/?f_pg=48) | Tiong Bahru, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Credit Control Intern](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-credit-control-intern/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Ray-Ban Business Brand Intern – APAC](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-ray-ban-business-brand-intern-apac/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| Julian Grey Corporate Advisory Pte. Ltd. | [Technician](https://www.internsg.com/job/julian-grey-corporate-advisory-pte-ltd-technician-2/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
-| Shangri-La Rasa Sentosa, Singapore | [Human Resources Trainee](https://www.internsg.com/job/shangri-la-rasa-sentosa-singapore-human-resources-trainee/?f_pg=48) | Southern Islands, SG… | 2025-11-07 |
-| YAMADA Consulting & Spire Singapore Ptd Ltd | [Business Analyst Intern – M&A Consulting (Jan – Apr 2026)](https://www.internsg.com/job/yamada-consulting-spire-singapore-ptd-ltd-business-analyst-intern-ma-consulting-jan-apr-2026/?f_pg=48) | SG… | 2025-11-07 |
-| 9 Solar Fintech Pte Ltd | [Administration and Billing Executive](https://www.internsg.com/job/9-solar-fintech-pte-ltd-administration-and-billing-executive/?f_pg=48) | Singapore River, SG… | 2025-11-07 |
-| EssilorLuxottica Asia Pacific Pte Ltd | [Brand Marketing Intern, SEAK](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-brand-marketing-intern-seak/?f_pg=48) | Downtown Core, SG… | 2025-11-07 |
 | Creative For More | [Copywriting & Communications Internship](https://www.internsg.com/job/creative-for-more-copywriting-communications-internship-3/?f_pg=47) | SG… | 2025-11-07 |
 | EssilorLuxottica Asia Pacific Pte Ltd | [Trade Marketing Intern - Lens (SG)](https://www.internsg.com/job/essilorluxottica-asia-pacific-pte-ltd-trade-marketing-intern-lens-sg/?f_pg=47) | Downtown Core, SG… | 2025-11-07 |
 | Creative For More | [Digital Marketing Intern](https://www.internsg.com/job/creative-for-more-digital-marketing-intern-17/?f_pg=47) | SG… | 2025-11-07 |
@@ -43,7 +26,6 @@ _Last updated: 2025-11-08_
 | Merry Bees Pte. Ltd. | [Audio Production Intern](https://www.internsg.com/job/merry-bees-pte-ltd-audio-production-intern-3/?f_pg=47) | Geylang, SG… | 2025-11-07 |
 | Business Edge Personnel Services | [Warehouse Assistant](https://www.internsg.com/job/business-edge-personnel-services-warehouse-assistant/?f_pg=47) | Jurong West, SG… | 2025-11-07 |
 | Gradiant International Holding Pte Ltd | [M&A Intern](https://www.internsg.com/job/gradiant-international-holding-pte-ltd-ma-intern/?f_pg=47) | Western Water Catchment, SG… | 2025-11-07 |
-| EDL Pte Ltd | [Graphic Design Intern](https://www.internsg.com/job/edl-pte-ltd-graphic-design-intern-2/?f_pg=48) | Sembawang, SG… | 2025-11-07 |
 | SGInnovate Pte Ltd | [Intern, Strategic Projects](https://www.internsg.com/job/sginnovate-pte-ltd-intern-strategic-projects-2/?f_pg=47) | SG… | 2025-11-07 |
 | Snaphunt Pte Ltd | [Marketing and Sales Representative](https://www.internsg.com/job/snaphunt-pte-ltd-marketing-and-sales-representative/?f_pg=47) | SG… | 2025-11-07 |
 | Snaphunt Pte Ltd | [Coordinator (Chinese Speaking)](https://www.internsg.com/job/snaphunt-pte-ltd-coordinator-chinese-speaking/?f_pg=47) | SG… | 2025-11-07 |
@@ -59,3 +41,21 @@ _Last updated: 2025-11-08_
 | Papa Palheta Pte Ltd | [Pastry Assistant](https://www.internsg.com/job/papa-palheta-pte-ltd-pastry-assistant-part-time/?f_pg=46) | SG… | 2025-11-07 |
 | Papa Palheta Pte Ltd | [Retail Associate](https://www.internsg.com/job/papa-palheta-pte-ltd-retail-associate-part-time-2/?f_pg=46) | SG… | 2025-11-07 |
 | Cove | [Creative & Content Marketing Intern](https://www.internsg.com/job/cove-creative-content-marketing-intern-5/?f_pg=46) | Outram, SG… | 2025-11-07 |
+| HOYA Electronics | [Learning & Development Intern](https://www.internsg.com/job/hoya-electronics-learning-development-intern-4/?f_pg=46) | Paya Lebar, SG… | 2025-11-07 |
+| Barghest Building Performance | [Safety Engineering Intern](https://www.internsg.com/job/barghest-building-performance-safety-engineering-intern/?f_pg=46) | Queenstown, SG… | 2025-11-07 |
+| ONE°15 Marina Sentosa Cove, Singapore | [Accounts Intern (AP)](https://www.internsg.com/job/one15-marina-sentosa-cove-singapore-accounts-intern-ap/?f_pg=46) | Southern Islands, SG… | 2025-11-07 |
+| Manulife (Singapore) Pte. Ltd. | [Financial Student Advisor](https://www.internsg.com/job/manulife-singapore-pte-ltd-financial-student-advisor-2/?f_pg=46) | Downtown Core, SG… | 2025-11-07 |
+| Fish & Co | [Management Trainee](https://www.internsg.com/job/fish-co-management-trainee/?f_pg=46) | Kallang, SG… | 2025-11-07 |
+| For The Love of Socials | [Social Media Marketing Intern](https://www.internsg.com/job/for-the-love-of-socials-social-media-marketing-intern-3/?f_pg=46) | Downtown Core, SG… | 2025-11-07 |
+| Wardrobe Of Joy | [Social Media Intern](https://www.internsg.com/job/wardrobe-of-joy-social-media-intern/?f_pg=46) | Geylang, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Merchandising Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-merchandising-intern-6/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Client Development Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-client-development-intern-3/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Quartz Global | [Junior Marketing Executive](https://www.internsg.com/job/quartz-global-junior-marketing-executive/?f_pg=46) | Downtown Core, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Public Relations & Communications Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-public-relations-communications-intern/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Retail Operations Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-retail-operations-intern-2/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Retail Performance & Operations Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-retail-performance-operations-intern/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Sales Planning Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-sales-planning-intern/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Christian Dior Singapore Pte Ltd | [Visual Merchandising Intern](https://www.internsg.com/job/christian-dior-singapore-pte-ltd-visual-merchandising-intern-4/?f_pg=46) | Central Area, SG… | 2025-11-07 |
+| Fenzo Digtial | [Digital Marketing- Internship](https://www.internsg.com/job/fenzo-digtial-digital-marketing-internship/?f_pg=46) | Chinatown, SG… | 2025-11-07 |
+| Rakuten Asia Pte Ltd | [FullStack Engineer Intern](https://www.internsg.com/job/rakuten-asia-pte-ltd-fullstack-engineer-intern-2/?f_pg=45) | SG… | 2025-11-07 |
+| Rakuten Asia Pte Ltd | [Android Developer Intern](https://www.internsg.com/job/rakuten-asia-pte-ltd-android-developer-intern/?f_pg=45) | SG… | 2025-11-07 |
