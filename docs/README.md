@@ -1,14 +1,20 @@
 # Latest Jobs
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-15_
 
-**Total jobs:** 3983 • **Companies:** 557 • **Top tag:** Others
+**Total jobs:** 4251 • **Companies:** 559 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=23) | Downtown Core, SG… | 2025-11-15 |
+| Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=10) | Downtown Core, SG… | 2025-11-15 |
+| Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=47) | Downtown Core, SG… | 2025-11-15 |
+| Apple | [Products and Programs Marketing Lead](https://jobs.apple.com/en-sg/details/200631997) | Singapore… | 2025-11-15 |
+| Deloitte | [DUAP Intern - HR Engagement](https://jobs.sea.deloitte.com/job/Singapore-DUAP-Intern-HR-Engagement-Sing/1214237966) | Singapore, Singapore… | 2025-11-15 |
+| KPMG | [Anti Money Laundering (AML), Associate Director](https://careers.kpmg.com.sg/job/Anti-Money-Laundering-%28AML%29%2C-Associate-Director/48700144) | Advisory… | 2025-11-15 |
 | OKX | [(Senior) Chain Product Manager, Defi](https://job-boards.greenhouse.io/okx/jobs/7528407003) | Hong Kong… | 2025-11-14 |
 | OKX | [Senior Compliance Manager, Monitoring & Testing](https://job-boards.greenhouse.io/okx/jobs/7528399003) | Singapore… | 2025-11-14 |
 | Deutsche Bank | [TDI - Lead Business Functional Analyst (Securities Services Tech) - VP](https://careers.db.com/professionals/search-roles/#/professional/job/68323) | Singapore… | 2025-11-14 |
@@ -53,9 +59,3 @@ _Last updated: 2025-11-14_
 | Thye Hua Kwan Moral Charities | [Early Intervention Teacher](https://www.internsg.com/job/thye-hua-kwan-moral-charities-early-intervention-teacher-tampines-3/?f_pg=44) | Tampines, SG… | 2025-11-14 |
 | Wipro Consumer Care Singapore Pte Ltd | [Marketing Intern](https://www.internsg.com/job/wipro-consumer-care-singapore-pte-ltd-marketing-intern/?f_pg=44) | Serangoon, SG… | 2025-11-14 |
 | Thye Hua Kwan Moral Charities | [Teacher Aide](https://www.internsg.com/job/thye-hua-kwan-moral-charities-teacher-aide-tampines-19/?f_pg=44) | Tampines, SG… | 2025-11-14 |
-| F&B Management Trainee | [Management Trainee](https://www.internsg.com/job/fb-management-trainee-management-trainee/?f_pg=44) | Downtown Core, SG… | 2025-11-14 |
-| Snaphunt Pte Ltd | [Influencer Community Specialist](https://www.internsg.com/job/snaphunt-pte-ltd-influencer-community-specialist/?f_pg=44) | SG… | 2025-11-14 |
-| Jobs Network LLP | [Events Operation Assistant](https://www.internsg.com/job/jobs-network-llp-events-operation-assistant-2/?f_pg=44) | Queenstown, SG… | 2025-11-14 |
-| TIG | [Partnerships Intern (China Markets)](https://www.internsg.com/job/tig-partnerships-intern-china-markets/?f_pg=44) | SG… | 2025-11-14 |
-| Dear Diary Co. | [Marketing and eCommerce Intern](https://www.internsg.com/job/dear-diary-co-marketing-and-e-commerce-intern/?f_pg=44) | Yishun, SG… | 2025-11-14 |
-| On Well, Being | [Business Development & Marketing Executive](https://www.internsg.com/job/on-well-being-business-development-marketing-executive/?f_pg=44) | Central Area, SG… | 2025-11-14 |
