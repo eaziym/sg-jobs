@@ -1,14 +1,18 @@
 # Latest Jobs
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-11-16_
 
-**Total jobs:** 4251 • **Companies:** 559 • **Top tag:** Others
+**Total jobs:** 4248 • **Companies:** 559 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [VP1 Project Manager, Retail Credit, GRCTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP1-Project-Manager--Retail-Credit--GRCTO_JR70526) | Central Region (City Area)… | 2025-11-16 |
+| UOB | [Mgr Business Continuity Management (BCM), TOGA](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Mgr-Business-Continuity-Management--BCM---TOGA_JR71647) | Central Region (City Area)… | 2025-11-16 |
+| Grab | [Head, GrabAds - Grab Indonesia](https://www.grab.careers/en/jobs/744000093874185/head-grabads-grab-indonesia/) | Jakarta… | 2025-11-16 |
+| KPMG | [Associate Manager, HRBP](https://careers.kpmg.com.sg/job/Associate-Manager%2C-HRBP/48859944) | Corporate Services… | 2025-11-16 |
 | Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=23) | Downtown Core, SG… | 2025-11-15 |
 | Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=10) | Downtown Core, SG… | 2025-11-15 |
 | Advisors Alliance Group | [Wealth Management Intern](https://www.internsg.com/job/advisors-alliance-group-wealth-management-intern-2/?f_pg=47) | Downtown Core, SG… | 2025-11-15 |
@@ -55,7 +59,3 @@ _Last updated: 2025-11-15_
 | Keysight Technologies | [Sales Development Intern](https://www.internsg.com/job/keysight-technologies-sales-development-intern/?f_pg=45) | Yishun, SG… | 2025-11-14 |
 | Keysight Technologies | [Sales & Marketing Intern](https://www.internsg.com/job/keysight-technologies-sales-marketing-intern/?f_pg=45) | Yishun, SG… | 2025-11-14 |
 | Scoop Social Pte Ltd | [[Early Childhood] Tiny Foot Trails Deployment](https://www.internsg.com/job/scoop-social-pte-ltd-early-childhood-tiny-foot-trails-deployment/?f_pg=44) | Orchard, SG… | 2025-11-14 |
-| Recruit Express Pte Ltd | [Part-time Retail Assistant](https://www.internsg.com/job/recruit-express-pte-ltd-fast-hire-part-time-retail-assistant-13-hour-no-experience-needed-bts/?f_pg=44) | Downtown Core, SG… | 2025-11-14 |
-| Thye Hua Kwan Moral Charities | [Early Intervention Teacher](https://www.internsg.com/job/thye-hua-kwan-moral-charities-early-intervention-teacher-tampines-3/?f_pg=44) | Tampines, SG… | 2025-11-14 |
-| Wipro Consumer Care Singapore Pte Ltd | [Marketing Intern](https://www.internsg.com/job/wipro-consumer-care-singapore-pte-ltd-marketing-intern/?f_pg=44) | Serangoon, SG… | 2025-11-14 |
-| Thye Hua Kwan Moral Charities | [Teacher Aide](https://www.internsg.com/job/thye-hua-kwan-moral-charities-teacher-aide-tampines-19/?f_pg=44) | Tampines, SG… | 2025-11-14 |
