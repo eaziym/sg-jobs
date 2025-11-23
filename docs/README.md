@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-11-23_
 
-**Total jobs:** 4228 • **Companies:** 542 • **Top tag:** Others
+**Total jobs:** 4108 • **Companies:** 541 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [VP, GSAT](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--GSAT_JR71968) | Central Region (City Area)… | 2025-11-23 |
+| UOB | [VP, Group Strategy and Transformation-2](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Group-Strategy-and-Transformation-2_JR71969) | Central Region (City Area)… | 2025-11-23 |
 | Sodexo Singapore | [Receptionist (Mandarin Speaking)](https://www.internsg.com/job/sodexo-singapore-receptionist-mandarin-speaking-2/?f_pg=36) | Queenstown, SG… | 2025-11-22 |
 | MediaOne | [Social Media Marketing Intern (Video / Design Production)](https://www.internsg.com/job/mediaone-social-media-marketing-intern-video-design-production-2/?f_pg=43) | Outram, SG… | 2025-11-22 |
 | Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-4/?f_pg=46) | Geylang, SG… | 2025-11-22 |
@@ -18,8 +20,8 @@ _Last updated: 2025-11-22_
 | Plaza Premium Lounge Singapore Pte Ltd | [Global Management Trainee](https://www.internsg.com/job/plaza-premium-lounge-singapore-pte-ltd-global-management-trainee-2/?f_pg=46) | Changi, SG… | 2025-11-22 |
 | Global Success Talent Pte Ltd | [Bartender Internship](https://www.internsg.com/job/global-success-talent-pte-ltd-bartender-internship-5-star-hotel/?f_pg=46) | Central Area, SG… | 2025-11-22 |
 | Global Success Talent Pte Ltd | [Hotel F&B Services Internship](https://www.internsg.com/job/global-success-talent-pte-ltd-hotel-fb-services-internship-2/?f_pg=46) | Central Area, SG… | 2025-11-22 |
-| Global Innovation Education Group | [Video-Production Freelancer](https://www.internsg.com/job/global-innovation-education-group-video-production-freelancer/?f_pg=46) | Downtown Core, SG… | 2025-11-22 |
 | AGP Law LLC | [Legal Intern](https://www.internsg.com/job/agp-law-llc-legal-intern-98/?f_pg=46) | Downtown Core, SG… | 2025-11-22 |
+| Global Innovation Education Group | [Video-Production Freelancer](https://www.internsg.com/job/global-innovation-education-group-video-production-freelancer/?f_pg=46) | Downtown Core, SG… | 2025-11-22 |
 | CFTE | [Fintech and AI Intern](https://www.internsg.com/job/cfte-fintech-and-ai-intern-2/?f_pg=46) | Downtown Core, SG… | 2025-11-22 |
 | Global Innovation Education Group | [Japanese Liaison & Administrative Intern (Education Travel Coordination)](https://www.internsg.com/job/global-innovation-education-group-japanese-liaison-administrative-intern-education-travel-coordination/?f_pg=46) | Downtown Core, SG… | 2025-11-22 |
 | The Fun Empire | [Event Sales Executive](https://www.internsg.com/job/the-fun-empire-event-sales-executive-55/?f_pg=46) | Toa Payoh, SG… | 2025-11-22 |
@@ -44,8 +46,8 @@ _Last updated: 2025-11-22_
 | Ocktolife Pte Ltd. | [Inside Sales Intern](https://www.internsg.com/job/ocktolife-pte-ltd-inside-sales-intern/?f_pg=45) | SG… | 2025-11-22 |
 | Pepperl+Fuchs Asia Pte. Ltd. | [Technical Specialist, Maintenance & Service](https://www.internsg.com/job/pepperlfuchs-asia-pte-ltd-technical-specialist-maintenance-service/?f_pg=45) | Queenstown, SG… | 2025-11-22 |
 | Aid Pte. Ltd. | [Business Executive Intern](https://www.internsg.com/job/aid-pte-ltd-business-executive-intern-40/?f_pg=45) | Geylang, SG… | 2025-11-22 |
-| Aid Pte. Ltd. | [Architectural Coordinator](https://www.internsg.com/job/aid-pte-ltd-architectural-coordinator/?f_pg=45) | Geylang, SG… | 2025-11-22 |
 | Aid Pte. Ltd. | [Administrative Executive](https://www.internsg.com/job/aid-pte-ltd-administrative-executive-5/?f_pg=45) | Geylang, SG… | 2025-11-22 |
+| Aid Pte. Ltd. | [Architectural Coordinator](https://www.internsg.com/job/aid-pte-ltd-architectural-coordinator/?f_pg=45) | Geylang, SG… | 2025-11-22 |
 | Geodyssey | [Operations Manager](https://www.internsg.com/job/geodyssey-operations-manager/?f_pg=45) | CA… | 2025-11-22 |
 | Graduate Advisory Group | [Telemarketer](https://www.internsg.com/job/graduate-advisory-group-telemarketer/?f_pg=45) | SG… | 2025-11-22 |
 | Outscayle | [Social Media and Content Creation Intern](https://www.internsg.com/job/outscayle-social-media-and-content-creation-intern-2/?f_pg=45) | SG… | 2025-11-22 |
@@ -57,5 +59,3 @@ _Last updated: 2025-11-22_
 | SGInnovate Pte Ltd | [Intern, Learning](https://www.internsg.com/job/sginnovate-pte-ltd-intern-learning-3/?f_pg=44) | Singapore River, SG… | 2025-11-22 |
 | SGInnovate Pte Ltd | [Intern, Communications and Content](https://www.internsg.com/job/sginnovate-pte-ltd-intern-communications-and-content-2/?f_pg=44) | Singapore River, SG… | 2025-11-22 |
 | Fish & Co. Restaurants Pte. Ltd. | [F&B Management Trainee – Management Trainee](https://www.internsg.com/job/fish-co-restaurants-pte-ltd-fb-management-trainee-management-trainee/?f_pg=44) | Downtown Core, SG… | 2025-11-22 |
-| Tisch Global Private Limited | [Finance Intern](https://www.internsg.com/job/tisch-global-private-limited-finance-intern-8/?f_pg=44) | Downtown Core, SG… | 2025-11-22 |
-| Tisch Global Private Limited | [Business Development (Lead Generation) Intern](https://www.internsg.com/job/tisch-global-private-limited-business-development-lead-generation-intern/?f_pg=44) | Downtown Core, SG… | 2025-11-22 |
