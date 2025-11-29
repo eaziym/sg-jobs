@@ -1,14 +1,15 @@
 # Latest Jobs
 
-_Last updated: 2025-11-28_
+_Last updated: 2025-11-29_
 
-**Total jobs:** 4243 • **Companies:** 537 • **Top tag:** Others
+**Total jobs:** 4201 • **Companies:** 528 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Amazon | [Technical Infrastructure Program Manager , SCFM](https://www.amazon.jobs/en/jobs/3133985/technical-infrastructure-program-manager-scfm) | SGP… | 2025-11-29 |
 | OKX | [Senior Software Engineer, Trading Service](https://job-boards.greenhouse.io/okx/jobs/6610607003) | Singapore… | 2025-11-28 |
 | OKX | [Senior Growth Strategy Manager, VIP Programs](https://job-boards.greenhouse.io/okx/jobs/7541990003) | Singapore… | 2025-11-28 |
 | OKX | [Senior Growth Strategy Manager, VIP Programs](https://job-boards.greenhouse.io/okx/jobs/7541991003) | Hong Kong… | 2025-11-28 |
@@ -58,4 +59,3 @@ _Last updated: 2025-11-28_
 | Bright Culture Tuition Centre | [Academic Internship Program](https://www.internsg.com/job/bright-culture-tuition-centre-bright-culture-academic-internship-program-5/?f_pg=30) | Novena, SG… | 2025-11-28 |
 | World Scientific Publishing Co Pte Ltd | [Accounts Assistant](https://www.internsg.com/job/world-scientific-publishing-co-pte-ltd-accounts-assistant-10/?f_pg=32) | Clementi, SG… | 2025-11-28 |
 | Bright Culture Tuition Centre | [Social Media and Marketing Internship](https://www.internsg.com/job/bright-culture-tuition-centre-bright-culture-social-media-and-marketing-internship/?f_pg=29) | Novena, SG… | 2025-11-28 |
-| A.Menarini Asia Pacific Pte Ltd | [Regional Marketing Operations Intern](https://www.internsg.com/job/a-menarini-asia-pacific-pte-ltd-regional-marketing-operations-intern/?f_pg=31) | SG… | 2025-11-28 |
