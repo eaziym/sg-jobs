@@ -1,19 +1,19 @@
 # Latest Jobs
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-07_
 
-**Total jobs:** 4122 • **Companies:** 502 • **Top tag:** Others
+**Total jobs:** 4081 • **Companies:** 496 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OCBC | [CyberArk Privileged Access Management (PAM) Engineer](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/CyberArk-Privileged-Access-Management--PAM--Engineer_JR00004682) | OCBC Singapore… | 2025-12-07 |
 | Pa-tata-tata | [Creative Marketing & Communications Intern](https://www.internsg.com/job/pa-tata-tata-creative-marketing-communications-intern-2/?f_pg=38) | SG… | 2025-12-06 |
 | Advisors Clique | [Financial Advisor](https://www.internsg.com/job/advisors-clique-financial-advisor-19/?f_pg=41) | Central Area, SG… | 2025-12-06 |
 | Hashbrown Media | [Videographer / Editor Intern](https://www.internsg.com/job/hashbrown-media-videographer-editor-intern/?f_pg=36) | Downtown Core, SG… | 2025-12-06 |
 | TIG | [TIG Global Ambassador Manager](https://www.internsg.com/job/tig-tig-global-ambassador-manager/?f_pg=40) | SG… | 2025-12-06 |
-| Premium Leads Pte. Ltd. | [Delivery, Collection, Processing - Intern](https://www.internsg.com/job/premium-leads-pte-ltd-delivery-collection-processing-intern/?f_pg=42) | Museum, SG… | 2025-12-06 |
 | Instamedia Labs | [Media Assistant](https://www.internsg.com/job/instamedia-labs-media-assistant-2/?f_pg=37) | Kallang, SG… | 2025-12-06 |
 | Far East Organization | [Technician](https://www.internsg.com/job/far-east-organization-technician/?f_pg=39) | Orchard, SG… | 2025-12-06 |
 | Micron | [Staff/Principal Engineer - CMP Advanced NAND](https://micron.eightfold.ai/careers/apply?pid=39182091&domain=micron.com) | Singapore… | 2025-12-06 |
@@ -25,8 +25,8 @@ _Last updated: 2025-12-06_
 | Yobbi Consultancy Pte Ltd | [Accounts Intern](https://www.internsg.com/job/yobbi-consultancy-pte-ltd-accounts-intern-4/?f_pg=34) | Downtown Core, SG… | 2025-12-05 |
 | Snaphunt Pte Ltd | [Lead Product UX / UI Designer](https://www.internsg.com/job/snaphunt-pte-ltd-lead-product-ux-ui-designer-3/?f_pg=36) | SG… | 2025-12-05 |
 | Snaphunt Pte Ltd | [Software Engineer](https://www.internsg.com/job/snaphunt-pte-ltd-software-engineer-17/?f_pg=35) | SG… | 2025-12-05 |
-| Integrated Dna Technologies Pte Ltd | [Laboratory Technician I](https://www.internsg.com/job/integrated-dna-technologies-pte-ltd-laboratory-technician-i/?f_pg=35) | Queenstown, SG… | 2025-12-05 |
 | Kydz International LLP | [Administrative Intern](https://www.internsg.com/job/kydz-international-llp-administrative-intern-15/?f_pg=33) | Bukit Merah, SG… | 2025-12-05 |
+| Integrated Dna Technologies Pte Ltd | [Laboratory Technician I](https://www.internsg.com/job/integrated-dna-technologies-pte-ltd-laboratory-technician-i/?f_pg=35) | Queenstown, SG… | 2025-12-05 |
 | Han Productions | [Social Media Producer Trainee](https://www.internsg.com/job/han-productions-social-media-producer-trainee/?f_pg=32) | Geylang, SG… | 2025-12-05 |
 | Yhingthai Palace Restaurant Pte Ltd | [Marketing & Communications Intern](https://www.internsg.com/job/yhingthai-palace-restaurant-pte-ltd-marketing-communications-intern/?f_pg=41) | Downtown Core, SG… | 2025-12-05 |
 | Bash Party Store | [eCommerce Deisgn & Operations Intern](https://www.internsg.com/job/bash-party-store-e-commerce-deisgn-operations-intern/?f_pg=37) | Sengkang, SG… | 2025-12-05 |
