@@ -1,61 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
 
-**Total jobs:** 3965 • **Companies:** 483 • **Top tag:** Others
+**Total jobs:** 3980 • **Companies:** 487 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| OKX | [Product Manager, DevOps](https://job-boards.greenhouse.io/okx/jobs/6545646003) | Singapore… | 2025-12-16 |
-| Deutsche Bank | [GRE - APAC Head of Facilities Management – Director](https://careers.db.com/professionals/search-roles/#/professional/job/68937) | Singapore… | 2025-12-16 |
-| Deutsche Bank | [CRO – Credit Risk Senior Specialist – AVP](https://careers.db.com/professionals/search-roles/#/professional/job/68941) | Singapore… | 2025-12-16 |
-| Recruit Express | [HR Intern (Healthcare and Lifescience)](https://www.internsg.com/job/recruit-express-hr-intern-healthcare-and-lifescience-7/?f_pg=22) | Central Area, SG… | 2025-12-16 |
-| HomePaySG | [Product Management Intern](https://www.internsg.com/job/homepaysg-product-management-intern/?f_pg=29) | Kallang, SG… | 2025-12-16 |
-| Silverspoon Communications Pte Ltd | [Marketing and PR Intern](https://www.internsg.com/job/silverspoon-communications-pte-ltd-marketing-and-pr-intern/?f_pg=26) | Singapore River, SG… | 2025-12-16 |
-| Onlysun Pte. Ltd. | [Photography Intern](https://www.internsg.com/job/onlysun-pte-ltd-photography-intern/?f_pg=28) | Geylang, SG… | 2025-12-16 |
-| Talentwerkz Services | [Part Time Admin Executive](https://www.internsg.com/job/talentwerkz-services-part-time-admin-executive/?f_pg=6) | SG… | 2025-12-16 |
-| Mockbyrd Games Pte. Ltd. | [UGC Community Operations Intern](https://www.internsg.com/job/mockbyrd-games-pte-ltd-ugc-community-operations-intern/?f_pg=20) | Downtown Core, SG… | 2025-12-16 |
-| Sembcorp Specialised Construction Pte. Ltd | [Intern, Contracts](https://www.internsg.com/job/sembcorp-specialised-construction-pte-ltd-intern-contracts-2/?f_pg=25) | Tampines, SG… | 2025-12-16 |
-| UniCredit Bank GmbH | [Post Trade Operations Intern](https://www.internsg.com/job/unicredit-bank-gmbh-post-trade-operations-intern-6/?f_pg=27) | SG… | 2025-12-16 |
-| PR Newswire | [Marketing Intern](https://www.internsg.com/job/pr-newswire-marketing-intern-4/?f_pg=9) | Kallang, SG… | 2025-12-16 |
-| Growth Innovations Pte Ltd | [eCommerce Operations & AI Intern](https://www.internsg.com/job/growth-innovations-pte-ltd-ecommerce-operations-ai-intern/?f_pg=22) | Ang Mo Kio, SG… | 2025-12-16 |
-| Pan Pacific Hotels and Resorts Pte Ltd | [Corporate Business Development Intern](https://www.internsg.com/job/pan-pacific-hotels-and-resorts-pte-ltd-corporate-business-development-intern/?f_pg=8) | Kallang, SG… | 2025-12-16 |
-| Barghest Building Performance Pte Ltd | [Human Resource Intern](https://www.internsg.com/job/barghest-building-performance-pte-ltd-human-resource-intern-3/?f_pg=9) | SG… | 2025-12-16 |
-| Recruit Express Pte Ltd | [Compliance Associate](https://www.internsg.com/job/recruit-express-pte-ltd-entry-level-compliance-associate-up-to-3500-bts/?f_pg=30) | Central Area, SG… | 2025-12-16 |
-| NatSteel Holdings Pte Ltd | [HR Intern](https://www.internsg.com/job/natsteel-holdings-pte-ltd-hr-intern-3/?f_pg=7) | Boon Lay, SG… | 2025-12-16 |
-| Snaphunt Pte Ltd | [Public Relation Business Development Consultant](https://www.internsg.com/job/snaphunt-pte-ltd-public-relation-business-development-consultant-part-time-freelance/?f_pg=8) | SG… | 2025-12-16 |
-| Elite Asia | [Remote Freelance Indonesian>English Translator (Legal Industry)](https://www.internsg.com/job/elite-asia-remote-freelance-indonesianenglish-translator-legal-industry/?f_pg=13) | Jakarta, ID… | 2025-12-16 |
-| Dr Wolff | [Marketing Intern](https://www.internsg.com/job/dr-wolff-marketing-intern/?f_pg=9) | Downtown Core, SG… | 2025-12-16 |
-| Lion Global Investors Limited | [Intern, ESG](https://www.internsg.com/job/lion-global-investors-limited-intern-esg-3/?f_pg=19) | Downtown Core, SG… | 2025-12-16 |
-| The Solutions Space | [Digital & Telemarketing Intern](https://www.internsg.com/job/the-solutions-space-digital-telemarketing-intern/?f_pg=19) | SG… | 2025-12-16 |
-| TEAM PLC / NEBA Private Clients | [PR Intern](https://www.internsg.com/job/team-plc-neba-private-clients-pr-intern/?f_pg=17) | Downtown Core, SG… | 2025-12-16 |
-| Papa Palheta Pte Ltd | [Service Crew / Barista](https://www.internsg.com/job/papa-palheta-pte-ltd-service-crew-barista-part-time-5/?f_pg=38) | SG… | 2025-12-16 |
-| TherapistSG | [Counselling Psychologist](https://www.internsg.com/job/trainee-psychologist-counselling-psychologist/?f_pg=35) | SG… | 2025-12-16 |
-| Youtrip | [Performance Marketing Intern](https://www.internsg.com/job/youtrip-performance-marketing-intern-2/?f_pg=30) | Queenstown, SG… | 2025-12-16 |
-| Snaphunt Pte Ltd | [Back-End API Developer](https://www.internsg.com/job/snaphunt-pte-ltd-back-end-api-developer-3/?f_pg=32) | SG… | 2025-12-16 |
-| Snaphunt Pte Ltd | [Brand Marketing Manager](https://www.internsg.com/job/snaphunt-pte-ltd-brand-marketing-manager-offline-experiential/?f_pg=33) | SG… | 2025-12-16 |
-| Snaphunt Pte Ltd | [Broker Enablement Team Lead](https://www.internsg.com/job/snaphunt-pte-ltd-broker-enablement-team-lead/?f_pg=33) | SG… | 2025-12-16 |
-| NTUC Health | [Internship (Corporate Communications & Branding)](https://www.internsg.com/job/ntuc-health-internship-corporate-communications-branding-2025-4/?f_pg=33) | Serangoon, SG… | 2025-12-16 |
-| The Chembridge Institution | [O-Level; A-Level Chemistry Tuition Teacher](https://www.internsg.com/job/the-chembridge-institution-o-level-a-level-chemistry-tuition-teacher-online-singapore-based-2/?f_pg=33) | Geylang, SG… | 2025-12-16 |
-| Advisors Clique | [Financial Consultant](https://www.internsg.com/job/advisors-clique-financial-consultant-31/?f_pg=34) | SG… | 2025-12-16 |
-| Thye Hua Kwan Moral Charities | [Research Assistant](https://www.internsg.com/job/thye-hua-kwan-moral-charities-research-assistant-6/?f_pg=33) | Woodlands, SG… | 2025-12-16 |
-| Royal Secrets Wellness Pte Ltd | [Sales Consultant](https://www.internsg.com/job/royal-secrets-wellness-pte-ltd-sales-consultant/?f_pg=7) | Central Area, SG… | 2025-12-16 |
-| Math Prodigies Learning Centre Pte. Ltd. | [Curriculum Development Intern](https://www.internsg.com/job/math-prodigies-learning-centre-pte-ltd-curriculum-development-intern-11/?f_pg=19) | Bedok, SG… | 2025-12-16 |
-| Aid Pte. Ltd. | [Copywriting Intern](https://www.internsg.com/job/aid-pte-ltd-copywriting-intern-41/?f_pg=18) | Geylang, SG… | 2025-12-16 |
-| Call Lade Enterprises | [Executive - Project & Admin](https://www.internsg.com/job/call-lade-enterprises-executive-project-admin-5-day/?f_pg=33) | Queenstown, SG… | 2025-12-16 |
-| Ransack SG Pte. Ltd. | [Web & Game Development Intern](https://www.internsg.com/job/ransack-sg-pte-ltd-web-game-development-intern-2/?f_pg=11) | Queenstown, SG… | 2025-12-16 |
-| Bellman Foundry | [Software Engineer Intern](https://www.internsg.com/job/bellman-foundry-software-engineer-intern/?f_pg=11) | SG… | 2025-12-16 |
-| Derek Koh Organisation | [Candidate Engagement Internship](https://www.internsg.com/job/derek-koh-organisation-candidate-engagement-internship/?f_pg=19) | SG… | 2025-12-16 |
-| Aircon Spare Parts Pte Ltd | [Business Development Intern (Buyback & Group Buy Projects)](https://www.internsg.com/job/aircon-spare-parts-pte-ltd-business-development-intern-buyback-group-buy-projects/?f_pg=28) | Sungei Kadut, SG… | 2025-12-16 |
-| Adecco Personnel Pte Ltd | [Regional Finance Intern](https://www.internsg.com/job/adecco-personnel-pte-ltd-regional-finance-intern-2/?f_pg=27) | SG… | 2025-12-16 |
-| Maxhunt Resource Pte Ltd | [HR / Recruitment Intern](https://www.internsg.com/job/maxhunt-resource-pte-ltd-hr-recruitment-intern/?f_pg=14) | Toa Payoh, SG… | 2025-12-16 |
-| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-72/?f_pg=24) | Tiong Bahru, SG… | 2025-12-16 |
-| SPH Media Limited | [Security Operations Intern](https://www.internsg.com/job/sph-media-limited-security-operations-intern/?f_pg=25) | Toa Payoh, SG… | 2025-12-16 |
-| AiChat Pte Ltd | [Management Trainee Intern](https://www.internsg.com/job/aichat-pte-ltd-management-trainee-intern-2/?f_pg=8) | SG… | 2025-12-16 |
-| Accenture Pte Ltd | [Change Management Intern](https://www.internsg.com/job/accenture-pte-ltd-change-management-intern-4/?f_pg=19) | Downtown Core, SG… | 2025-12-16 |
-| Starr Wealth Advisory | [Business Ops Intern](https://www.internsg.com/job/starr-wealth-advisory-business-ops-intern/?f_pg=33) | Central Area, SG… | 2025-12-16 |
-| We. Communications | [Intern, PR & Communications](https://www.internsg.com/job/we-communications-intern-pr-communications/?f_pg=12) | Bukit Merah, SG… | 2025-12-16 |
-| IL Lido Pte Ltd | [HR Assistant](https://www.internsg.com/job/il-lido-pte-ltd-hr-assistant/?f_pg=25) | Singapore River, SG… | 2025-12-16 |
+| Jump Trading | [Quantamental Research Analyst](https://www.jumptrading.com/hr/job?gh_jid=7460950) | Singapore… | 2025-12-17 |
+| OKX | [Senior Strategy & Operations Manager (Demand Generation), OKX SG](https://job-boards.greenhouse.io/okx/jobs/7565627003) | Singapore… | 2025-12-17 |
+| OKX | [Expert Frontend Engineer (Node.js/SSR)](https://job-boards.greenhouse.io/okx/jobs/7565660003) | Singapore… | 2025-12-17 |
+| Deutsche Bank | [CB - Cash Management Knowledge &amp; Positioning Specialist - AVP](https://careers.db.com/professionals/search-roles/#/professional/job/68991) | Singapore… | 2025-12-17 |
+| UniCredit Bank GmbH | [Compliance Intern](https://www.internsg.com/job/unicredit-bank-gmbh-compliance-intern-part-time-2/?f_pg=32) | SG… | 2025-12-17 |
+| Jessica Lee Associates | [2 Week Finance Intern](https://www.internsg.com/job/jessica-lee-associates-2-week-finance-intern/?f_pg=18) | Outram, SG… | 2025-12-17 |
+| Itialus Corpserv Pte. Ltd. | [Corporate Finance Intern](https://www.internsg.com/job/itialus-corpserv-pte-ltd-corporate-finance-intern-4/?f_pg=39) | Downtown Core, SG… | 2025-12-17 |
+| Valores Global | [Data and Operations Intern](https://www.internsg.com/job/valores-global-data-and-operations-intern-3/?f_pg=35) | SG… | 2025-12-17 |
+| Singapore Institute of Directors | [Executive, Grant and Programme Administration](https://www.internsg.com/job/singapore-institute-of-directors-executive-grant-and-programme-administration/?f_pg=38) | Downtown Core, SG… | 2025-12-17 |
+| Launchpad | [Event Promoter](https://www.internsg.com/job/launchpad-event-promoter/?f_pg=37) | SG… | 2025-12-17 |
+| Replicast AI Pte Ltd | [Video & Media Intern](https://www.internsg.com/job/replicast-ai-pte-ltd-video-media-intern-2/?f_pg=30) | Ang Mo Kio, SG… | 2025-12-17 |
+| Thye Hua Kwan Moral Charities | [Research Assistant](https://www.internsg.com/job/thye-hua-kwan-moral-charities-research-assistant-6/?f_pg=35) | Woodlands, SG… | 2025-12-17 |
+| Tuition International Group | [Student Ambassador](https://www.internsg.com/job/tuition-international-group-student-ambassador/?f_pg=27) | SG… | 2025-12-17 |
+| Recruit Express Pte Ltd | [12 Months Contract Bank Associate](https://www.internsg.com/job/recruit-express-pte-ltd-entry-level-12-months-contract-bank-associate-up-to-3500-bts/?f_pg=31) | Central Area, SG… | 2025-12-17 |
+| Lianlian Global | [Compliance Intern](https://www.internsg.com/job/lianlian-global-compliance-intern/?f_pg=19) | Downtown Core, SG… | 2025-12-17 |
+| ACP Computer Training & Consultancy Pte Ltd | [Digital Marketing Intern](https://www.internsg.com/job/acp-computer-training-consultancy-pte-ltd-digital-marketing-intern/?f_pg=17) | Ang Mo Kio, SG… | 2025-12-17 |
+| League Advisor | [Financial Services Development Internship](https://www.internsg.com/job/league-advisor-financial-services-development-internship/?f_pg=34) | Geylang, SG… | 2025-12-17 |
+| Nested Technologies Pte. Ltd. | [Front-End Development Internship](https://www.internsg.com/job/nested-technologies-pte-ltd-front-end-development-internship-2/?f_pg=33) | Geylang, SG… | 2025-12-17 |
+| Hashbrown Media | [Social Media Executive Intern](https://www.internsg.com/job/hashbrown-media-social-media-executive-intern-23/?f_pg=24) | Downtown Core, SG… | 2025-12-17 |
+| Recruit Express Pte Ltd | [Bank Officer](https://www.internsg.com/job/recruit-express-pte-ltd-12-months-contract-bank-officer-up-to-2500-bts/?f_pg=31) | Central Area, SG… | 2025-12-17 |
+| Ristoire | [Marketing & Business Development Intern](https://www.internsg.com/job/ristoire-marketing-business-development-intern/?f_pg=33) | Central Area, SG… | 2025-12-17 |
+| Cuddlefish Divers | [Divemaster Trainee](https://www.internsg.com/job/cuddlefish-divers-divemaster-trainee-internship-with-pathway-to-full-time-role/?f_pg=37) | Bishan, SG… | 2025-12-17 |
+| SPH Media Limited | [Enterprise Database Intern](https://www.internsg.com/job/sph-media-limited-enterprise-database-intern/?f_pg=27) | Toa Payoh, SG… | 2025-12-17 |
+| Kino Biotech Pte Ltd | [Marketing Intern](https://www.internsg.com/job/kino-biotech-pte-ltd-marketing-interns/?f_pg=26) | Toa Payoh, SG… | 2025-12-17 |
+| AI Finance | [Business Development Intern](https://www.internsg.com/job/ai-finance-business-development-intern-2/?f_pg=30) | SG… | 2025-12-17 |
+| Acolistic Pte Ltd | [Beauty & Wellness Content Creator](https://www.internsg.com/job/acolistic-pte-ltd-beauty-wellness-content-creator/?f_pg=35) | Jurong West, SG… | 2025-12-17 |
+| YTL PowerSeraya Pte. Limited | [Digital Transformation Intern (WSH & Security)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-digital-transformation-intern-wsh-security/?f_pg=36) | Western Islands, SG… | 2025-12-17 |
+| Great Eastern Financial Advisors | [5 Day Finance Intern](https://www.internsg.com/job/great-eastern-financial-advisors-5-day-finance-intern/?f_pg=24) | Outram, SG… | 2025-12-17 |
+| Recruit Express Pte Ltd | [Compliance Associate](https://www.internsg.com/job/recruit-express-pte-ltd-entry-level-compliance-associate-up-to-3500-bts/?f_pg=31) | Central Area, SG… | 2025-12-17 |
+| Digital Hawker Pte Ltd | [Printer Technician](https://www.internsg.com/job/digital-hawker-pte-ltd-printer-technician/?f_pg=23) | Rochor, SG… | 2025-12-17 |
+| AWM Group Pte Ltd | [Wealth Management Internship](https://www.internsg.com/job/awm-group-pte-ltd-wealth-management-internship/?f_pg=29) | Novena, SG… | 2025-12-17 |
+| Biohackk SG | [Marketing / PR Intern](https://www.internsg.com/job/biohackk-sg-marketing-pr-intern-7/?f_pg=26) | SG… | 2025-12-17 |
+| Come Here TCM Clinic | [Admin / Marketing Assistant](https://www.internsg.com/job/come-here-tcm-clinic-admin-marketing-assistant/?f_pg=26) | Geylang, SG… | 2025-12-17 |
+| A ONE Translation Pte. Ltd. | [Digital Marketing Intern](https://www.internsg.com/job/a-one-translation-pte-ltd-digital-marketing-intern/?f_pg=24) | Downtown Core, SG… | 2025-12-17 |
+| BCD Meetings & Events Asia Pacific Pte Ltd | [People & Culture Intern](https://www.internsg.com/job/bcd-meetings-events-asia-pacific-pte-ltd-people-culture-intern/?f_pg=23) | Downtown Core, SG… | 2025-12-17 |
+| YTL PowerSeraya Pte. Limited | [Intern (Facilities)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-intern-facilities-2/?f_pg=36) | Western Islands, SG… | 2025-12-17 |
+| GetGo Technologies Pte Ltd | [Intern, Design](https://www.internsg.com/job/getgo-technologies-pte-ltd-intern-design/?f_pg=26) | Queenstown, SG… | 2025-12-17 |
+| Stratagem Consultants Pte Ltd | [Intern (Media, Public and Investor Relations)](https://www.internsg.com/job/stratagem-consultants-pte-ltd-intern/?f_pg=18) | SG… | 2025-12-17 |
+| Scal Academy Pte Ltd | [Course Coordinator (6 Months Contract)](https://www.internsg.com/job/scal-academy-pte-ltd-course-coordinator-6-months-contract/?f_pg=39) | Pioneer, SG… | 2025-12-17 |
+| Sysmex Asia Pacific Pte Ltd | [Media Assistant (3 - 4 Months)](https://www.internsg.com/job/sysmex-asia-pacific-pte-ltd-media-assistant-3-4-months/?f_pg=39) | Geylang, SG… | 2025-12-17 |
+| Allen & Nic Co. | [Management Associate Program](https://www.internsg.com/job/allen-nic-co-management-associate-program/?f_pg=29) | Toa Payoh, SG… | 2025-12-17 |
+| Aunty Pte Ltd | [Business Analyst Intern](https://www.internsg.com/job/aunty-pte-ltd-business-analyst-intern/?f_pg=26) | SG… | 2025-12-17 |
+| Prestige BioPharma limited | [Intern (Product Quality)](https://www.internsg.com/job/prestige-biopharma-limited-intern-product-quality-3/?f_pg=19) | Queenstown, SG… | 2025-12-17 |
+| Sembcorp Specialised Construction Pte. Ltd | [Intern, Contracts](https://www.internsg.com/job/sembcorp-specialised-construction-pte-ltd-intern-contracts-2/?f_pg=27) | Tampines, SG… | 2025-12-17 |
+| SPH Media Limited | [Human Resource Intern (Talent Management)](https://www.internsg.com/job/sph-media-limited-human-resource-intern-talent-management-6/?f_pg=35) | Toa Payoh, SG… | 2025-12-17 |
+| Fingertips 365 Pte Ltd | [Marketing Intern](https://www.internsg.com/job/fingertips-365-pte-ltd-marketing-intern-4/?f_pg=33) | SG… | 2025-12-17 |
+| Thye Hua Kwan Moral Charities | [Early Intervention Teacher](https://www.internsg.com/job/thye-hua-kwan-moral-charities-early-intervention-teacher-ang-mo-kio/?f_pg=26) | Ang Mo Kio, SG… | 2025-12-17 |
+| Snaphunt Pte Ltd | [eCommerce Executive](https://www.internsg.com/job/snaphunt-pte-ltd-e-commerce-executive-2/?f_pg=28) | SG… | 2025-12-17 |
+| The Copy Boy Pte Ltd | [Graphics Design Intern](https://www.internsg.com/job/the-copy-boy-pte-ltd-graphics-design-intern-3/?f_pg=36) | Geylang, SG… | 2025-12-17 |
+| SPH Media Limited | [Enterprise Marketing Intern](https://www.internsg.com/job/sph-media-limited-enterprise-marketing-intern-2/?f_pg=32) | Toa Payoh, SG… | 2025-12-17 |
