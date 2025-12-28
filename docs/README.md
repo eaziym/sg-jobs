@@ -1,8 +1,8 @@
 # Latest Jobs
 
-_Last updated: 2025-12-27_
+_Last updated: 2025-12-28_
 
-**Total jobs:** 3938 • **Companies:** 468 • **Top tag:** Others
+**Total jobs:** 3929 • **Companies:** 468 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
