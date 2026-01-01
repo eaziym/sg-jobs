@@ -1,26 +1,20 @@
 # Latest Jobs
 
-_Last updated: 2025-12-31_
+_Last updated: 2026-01-01_
 
-**Total jobs:** 3894 • **Companies:** 471 • **Top tag:** Others
+**Total jobs:** 3816 • **Companies:** 464 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Micron | [ENGINEER - PEE WET](https://micron.eightfold.ai/careers/apply?pid=38343371&domain=micron.com) | Singapore… | 2026-01-01 |
+| Google | [User Experience Design Summer Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/104570288921813702) |  | 2026-01-01 |
+| Google | [Data Center Technician Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/142445440841720518) |  | 2026-01-01 |
+| Google | [Associate Product Marketing Manager Intern, Summer 2026 (English)](https://www.google.com/about/careers/applications/jobs/results/80916770151375558) |  | 2026-01-01 |
 | OKX | [Product Manager / Director, Institutional Trading](https://job-boards.greenhouse.io/okx/jobs/7575505003) | Hong Kong… | 2025-12-31 |
 | OKX | [Product Manager / Director, Institutional Trading](https://job-boards.greenhouse.io/okx/jobs/7575504003) | Singapore… | 2025-12-31 |
-| PRSPCTV LLP | [Video Editor Intern](https://www.internsg.com/job/prspctv-llp-video-editor-intern-2/?f_pg=40) | Bukit Batok, SG… | 2025-12-31 |
-| Initia Group SG | [F&B Intern](https://www.internsg.com/job/initia-group-sg-fb-intern-18/?f_pg=40) | Orchard, SG… | 2025-12-31 |
-| Snaphunt Pte Ltd | [Shipping Executive](https://www.internsg.com/job/snaphunt-pte-ltd-shipping-executive/?f_pg=40) | SG… | 2025-12-31 |
-| Creative For More | [Content Production & Videography Intern](https://www.internsg.com/job/creative-for-more-content-production-videography-intern-7/?f_pg=40) | SG… | 2025-12-31 |
-| Initia Group SG | [F&B and Project Intern](https://www.internsg.com/job/initia-group-sg-fb-and-project-intern-9/?f_pg=40) | Orchard, SG… | 2025-12-31 |
-| Initia Group SG | [Art Intern](https://www.internsg.com/job/initia-group-sg-art-intern-17/?f_pg=40) | Orchard, SG… | 2025-12-31 |
-| Initia Group SG | [Ceramic / Art Studio Intern](https://www.internsg.com/job/initia-group-sg-ceramic-art-studio-intern-5/?f_pg=40) | Orchard, SG… | 2025-12-31 |
-| SPH Media Limited | [Project Management Intern](https://www.internsg.com/job/sph-media-limited-project-management-intern/?f_pg=40) | Toa Payoh, SG… | 2025-12-31 |
-| Ban Leong Technologies Pte Ltd | [eCommerce Live Streamer Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-ecommerce-live-streamer-intern-9/?f_pg=40) | Geylang, SG… | 2025-12-31 |
-| Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-9/?f_pg=40) | Geylang, SG… | 2025-12-31 |
 | Silverspoon Communications Pte Ltd | [Marketing and PR Intern](https://www.internsg.com/job/silverspoon-communications-pte-ltd-marketing-and-pr-intern/?f_pg=39) | Singapore River, SG… | 2025-12-31 |
 | SPH Media Limited | [Cybersecurity Intern](https://www.internsg.com/job/sph-media-limited-cybersecurity-intern-2/?f_pg=39) | Toa Payoh, SG… | 2025-12-31 |
 | IL Lido Pte Ltd | [HR Assistant](https://www.internsg.com/job/il-lido-pte-ltd-hr-assistant/?f_pg=39) | Singapore River, SG… | 2025-12-31 |
@@ -59,3 +53,9 @@ _Last updated: 2025-12-31_
 | GB Helios Pte Ltd | [Intern (Business II)](https://www.internsg.com/job/gb-helios-pte-ltd-intern-business-ii-2/?f_pg=36) | Newton, SG… | 2025-12-31 |
 | Meeedly | [Account Manager Internship](https://www.internsg.com/job/meeedly-account-manager-apac-singapore-internship/?f_pg=36) | SG… | 2025-12-31 |
 | Hashbrown Media | [Social Media Executive Intern](https://www.internsg.com/job/hashbrown-media-social-media-executive-intern-23/?f_pg=36) | Downtown Core, SG… | 2025-12-31 |
+| Game Reign Pte Ltd | [Creative Designer](https://www.internsg.com/job/game-reign-pte-ltd-creative-designer-3/?f_pg=36) | Outram, SG… | 2025-12-31 |
+| Persatuan Pemudi Islam Singapura | [Intern / Executive Assistant (6 Months)](https://www.internsg.com/job/persatuan-pemudi-islam-singapura-intern-executive-assistant-6-months/?f_pg=36) | Geylang, SG… | 2025-12-31 |
+| EA Research & Consulting Pte Ltd | [Project Intern (Market Research)](https://www.internsg.com/job/ea-research-consulting-pte-ltd-project-intern-market-research-3/?f_pg=35) | Toa Payoh, SG… | 2025-12-31 |
+| Growth Innovations Pte Ltd | [eCommerce Operations & AI Intern](https://www.internsg.com/job/growth-innovations-pte-ltd-ecommerce-operations-ai-intern/?f_pg=35) | Ang Mo Kio, SG… | 2025-12-31 |
+| B&H Worldwide (SG) Pte Ltd | [Operations & Logistics Intern](https://www.internsg.com/job/bh-worldwide-sg-pte-ltd-operations-logistics-intern/?f_pg=35) | Changi, SG… | 2025-12-31 |
+| Herbert Smith Freehills Kramer LLP | [Business Development Intern](https://www.internsg.com/job/herbert-smith-freehills-kramer-llp-business-development-intern/?f_pg=35) | Downtown Core, SG… | 2025-12-31 |
