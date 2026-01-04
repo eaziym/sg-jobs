@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2026-01-03_
+_Last updated: 2026-01-04_
 
-**Total jobs:** 3771 • **Companies:** 466 • **Top tag:** Others
+**Total jobs:** 3786 • **Companies:** 466 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Apple | [Lead Complier Engineer (Neural Engine)](https://jobs.apple.com/en-sg/details/200639599) | Singapore… | 2026-01-04 |
+| Deloitte | [T&L: Tax & Legal Intern - Transfer Pricing (Summer 2026)](https://jobs.sea.deloitte.com/job/Singapore-T&L-Tax-&-Legal-Intern-Transfer-Pricing-%28Summer-2026%29-Sing/1331959466) | Singapore, Singapore… | 2026-01-04 |
 | OKX | [Senior Data Scientist, Risk](https://job-boards.greenhouse.io/okx/jobs/7575853003) | Singapore… | 2026-01-02 |
 | The Fun Empire | [Event Operations Intern](https://www.internsg.com/job/the-fun-empire-event-operations-intern-79/?f_pg=39) | Toa Payoh, SG… | 2026-01-02 |
 | Mikomiko Pte. Ltd. | [AI Engineer (Machine Learning)](https://www.internsg.com/job/mikomiko-pte-ltd-ai-engineer-machine-learning/?f_pg=32) | Queenstown, SG… | 2026-01-02 |
@@ -57,5 +59,3 @@ _Last updated: 2026-01-03_
 | Canvas Living | [Intern, Executive Assistant](https://www.internsg.com/job/canvas-living-intern-executive-assistant/?f_pg=24) | Novena, SG… | 2026-01-02 |
 | Creative For More | [Graphic Design & Illustration Intern](https://www.internsg.com/job/creative-for-more-graphic-design-illustration-intern-3/?f_pg=37) | SG… | 2026-01-02 |
 | Recruit Express Pte Ltd | [6 Months Call Centre Agent](https://www.internsg.com/job/recruit-express-pte-ltd-entry-level-6-months-call-centre-agent-office-hours/?f_pg=37) | Geylang, SG… | 2026-01-02 |
-| TechFin Global | [Business Development Intern](https://www.internsg.com/job/techfin-global-business-development-intern/?f_pg=35) | Newton, SG… | 2026-01-02 |
-| Ascensus Health Group Pte. Ltd. | [Account Assistant / Intern (6 Month Contract)](https://www.internsg.com/job/ascensus-health-group-pte-ltd-account-assistant-intern-6-month-contract-3/?f_pg=25) | Geylang, SG… | 2026-01-02 |
