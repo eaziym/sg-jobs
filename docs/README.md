@@ -1,65 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-09_
 
-**Total jobs:** 3813 • **Companies:** 461 • **Top tag:** Others
+**Total jobs:** 3846 • **Companies:** 479 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| OKX | [Total Rewards Expert, Cash Compensation](https://job-boards.greenhouse.io/okx/jobs/7581962003) | Singapore… | 2026-01-08 |
-| PricewaterhouseCoopers Risk Services Pte. Ltd. | [Executive Assistant](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Executive-Assistant_694839WD) | Singapore… | 2026-01-08 |
-| UOB | [GIM Foreign Direct Investment Advisory Intern ( Apr- Aug)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GIM-Foreign-Direct-Investment-Advisory-Intern---Apr--Aug-_JR76488) | Central Region (City Area)… | 2026-01-08 |
-| UOB | [Manager, AML Controls Analyst](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--AML-Controls-Analyst_JR72828) | Central Region (City Area)… | 2026-01-08 |
-| UOB | [Senior Officer, Chargeback, Card Operations Processing Center](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Chargeback--Card-Operations-Processing-Center_JR73741) | Central Region (City Area)… | 2026-01-08 |
-| UOB | [Group Wholesale Banking Intern ( Jan- June)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Group-Wholesale-Banking-Intern---Jan--June-_JR76614) | Central Region (City Area)… | 2026-01-08 |
-| HSBC | [Transfer Agency Specialist](https://portal.careers.hsbc.com/careers/job/563774609127332) | Singapore… | 2026-01-08 |
-| HSBC | [Transfer Agency Processor](https://portal.careers.hsbc.com/careers/job/563774609127426) | Singapore… | 2026-01-08 |
-| ByteDance | [Software Engineer - Inference (Singapore)](https://joinbytedance.com/search/7592834111418566965) | About Us
-The Machine Learning (ML) System sub-team combines system engineering and the art of machin… | 2026-01-08 |
-| ByteDance | [Forward Deployed Engineer, BytePlus - Singapore](https://joinbytedance.com/search/7592868401652615477) | Join the Fast-Growing BytePlus Team
-BytePlus is one of the newer Business Units formed to serve glob… | 2026-01-08 |
-| ByteDance | [Security Compliance Engineer](https://joinbytedance.com/search/7592742562229569797) | About the Team
-As a part of ByteDance's Security Department, the Security Governance and Compliance … | 2026-01-08 |
-| ByteDance | [Backend Engineer - Model Training Infra (Singapore)](https://joinbytedance.com/search/7592808672637094197) | About The Team
-The mission of our AML team is to push the next-generation AI infrastructure and reco… | 2026-01-08 |
-| Grab | [Client Partner, GrabAds](https://www.grab.careers/en/jobs/744000102145645/client-partner-grabads/) | Jakarta… | 2026-01-08 |
-| Grab | [Manager, Value Creation - Telco](https://www.grab.careers/en/jobs/744000102143216/manager-value-creation-telco/) | Jakarta… | 2026-01-08 |
-| Grab | [GRIT Trainee, Corporate Security (Systems and Technology)](https://www.grab.careers/en/jobs/744000102205875/grit-trainee-corporate-security-systems-and-technology/) | 3 Media Close… | 2026-01-08 |
-| Grab | [Lead Technical Program Manager](https://www.grab.careers/en/jobs/744000102204475/lead-technical-program-manager/) | Singapore… | 2026-01-08 |
-| Grab | [GRIT Trainee, B2G Product Manager](https://www.grab.careers/en/jobs/744000102206796/grit-trainee-b2g-product-manager/) | Singapore… | 2026-01-08 |
-| Grab | [Assistant Manager, Operations Excellence & Process Improvement](https://www.grab.careers/en/jobs/744000102206887/assistant-manager-operations-excellence-process-improvement/) | Petaling Jaya… | 2026-01-08 |
-| Grab | [Senior Software Engineer, Backend - Business Platform](https://www.grab.careers/en/jobs/744000102227255/senior-software-engineer-backend-business-platform/) | Jakarta Selatan… | 2026-01-08 |
-| Grab | [GRIT Trainee, Merchant Sales](https://www.grab.careers/en/jobs/744000102214960/grit-trainee-merchant-sales/) | Singapore… | 2026-01-08 |
-| Grab | [Senior Software Engineer, Mobile (Flutter) - Merchant Experience](https://www.grab.careers/en/jobs/744000102224935/senior-software-engineer-mobile-flutter-merchant-experience/) | Jakarta… | 2026-01-08 |
-| Grab | [Lead Systems Engineer, Security Systems](https://www.grab.careers/en/jobs/744000102227861/lead-systems-engineer-security-systems/) | First Avenue… | 2026-01-08 |
-| Grab | [Lead Software Engineer, Backend (Ads)](https://www.grab.careers/en/jobs/744000102256575/lead-software-engineer-backend-ads/) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - F10 FAC MECHANICAL](https://micron.eightfold.ai/careers/apply?pid=39549123&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - PROBE SOFTWARE & ANALYTICAL](https://micron.eightfold.ai/careers/apply?pid=39549187&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Assembly Process Engineer](https://micron.eightfold.ai/careers/apply?pid=39554681&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Test Engineer](https://micron.eightfold.ai/careers/apply?pid=39554993&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - PLANNING IE](https://micron.eightfold.ai/careers/apply?pid=39549218&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer - Change Management](https://micron.eightfold.ai/careers/apply?pid=39549161&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Shift Equipment Engineer](https://micron.eightfold.ai/careers/apply?pid=39555012&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [New Product Introduction (NPI) Planning Engineer](https://micron.eightfold.ai/careers/apply?pid=39549176&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Environment Health Safety Engineer - Safety](https://micron.eightfold.ai/careers/apply?pid=39549134&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - QEM CHEMLAB](https://micron.eightfold.ai/careers/apply?pid=39549210&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - QEM QMS/DOC MGMT](https://micron.eightfold.ai/careers/apply?pid=39549154&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer, Metrology & Real Time Defects Analysis](https://micron.eightfold.ai/careers/apply?pid=38471425&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer - QEM Process Control System(PCS)](https://micron.eightfold.ai/careers/apply?pid=39553325&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Principal/Senior Process Integration Engineer, NAND NTI](https://micron.eightfold.ai/careers/apply?pid=39549479&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer, Shift Manufacturing](https://micron.eightfold.ai/careers/apply?pid=39554750&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer, Process & Equipment Engineering](https://micron.eightfold.ai/careers/apply?pid=39554559&domain=micron.com) | Singapore, Singapore, Singapore, Singapore, Singapore… | 2026-01-08 |
-| Micron | [F10 Planning Site Inventory Control (SIC) Engineer](https://micron.eightfold.ai/careers/apply?pid=39549169&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - PROBE SHIFT EQUIPMENT](https://micron.eightfold.ai/careers/apply?pid=39549137&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer, Process & Equipment Engineering](https://micron.eightfold.ai/careers/apply?pid=39320622&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [ENGINEER - FAC OPERATION](https://micron.eightfold.ai/careers/apply?pid=39549133&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [FAC ENGINEER - UPW & WWTP](https://micron.eightfold.ai/careers/apply?pid=39549046&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Senior Business Intelligence Analyst](https://micron.eightfold.ai/careers/apply?pid=39536625&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Engineer, Incoming Quality Control](https://micron.eightfold.ai/careers/apply?pid=39554755&domain=micron.com) | Singapore… | 2026-01-08 |
-| Micron | [Equipment Engineer](https://micron.eightfold.ai/careers/apply?pid=39554640&domain=micron.com) | Singapore… | 2026-01-08 |
-| JPMorgan Chase | [Kinexys Product Manager, On-Partior Services - Payments – Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699461) | Singapore… | 2026-01-08 |
-| JPMorgan Chase | [Credit Administration - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698827) | Singapore… | 2026-01-08 |
-| JPMorgan Chase | [FinTech/Third Party Payment Processors (TP3) Sales - Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699475) | Singapore… | 2026-01-08 |
+| OKX | [Software Architect, Liquidity Platform](https://job-boards.greenhouse.io/okx/jobs/7583761003) | Singapore… | 2026-01-09 |
+| OKX | [Engineering Director, Liquidity Platform, Risk & Analytics](https://job-boards.greenhouse.io/okx/jobs/7583706003) | Singapore… | 2026-01-09 |
+| OKX | [Senior / Staff Software Engineer, Liquidity Platform, Risk & Analytics](https://job-boards.greenhouse.io/okx/jobs/7583678003) | Singapore… | 2026-01-09 |
+| Deutsche Bank | [TDI – COBOL Lead Engineer – Cash Management - VP](https://careers.db.com/professionals/search-roles/#/professional/job/69263) | Singapore… | 2026-01-09 |
+| Deutsche Bank | [C&amp;AFC - Frameworks &amp; Programs (F&amp;P) Change Management - VP](https://careers.db.com/professionals/search-roles/#/professional/job/69265) | Singapore… | 2026-01-09 |
+| Deutsche Bank | [C&amp;AFC - Frameworks &amp; Programs (F&amp;P) Change Management - Director](https://careers.db.com/professionals/search-roles/#/professional/job/69262) | Singapore… | 2026-01-09 |
+| Thye Hua Kwan Moral Charities | [Teacher Aide](https://www.internsg.com/job/thye-hua-kwan-moral-charities-teacher-aide-woodlands-12/?f_pg=35) | Woodlands, SG… | 2026-01-09 |
+| Cloudengine Digital Pte. Ltd. | [Project Assistant (Intern)](https://www.internsg.com/job/cloudengine-digital-pte-ltd-project-assistant-intern/?f_pg=35) | Geylang, SG… | 2026-01-09 |
+| Verztec Consulting Pte Ltd | [Web & Data Science Engineer Internship](https://www.internsg.com/job/verztec-consulting-pte-ltd-web-data-science-engineer-internship/?f_pg=40) | Rochor, SG… | 2026-01-09 |
+| Super Mall Pte Ltd | [eCommerce Operations & Marketing Internship](https://www.internsg.com/job/super-mall-pte-ltd-ecommerce-operations-marketing-internship-11/?f_pg=31) | Yishun, SG… | 2026-01-09 |
+| Super Cuddles Pte Ltd | [Part Time Dog Care Specialist](https://www.internsg.com/job/super-cuddles-pte-ltd-part-time-dog-care-specialist/?f_pg=35) | Kallang, SG… | 2026-01-09 |
+| The Nibble Network Pte Ltd | [Sales Intern](https://www.internsg.com/job/the-nibble-network-pte-ltd-sales-intern/?f_pg=31) | SG… | 2026-01-09 |
+| Lianlian Global | [Compliance Intern](https://www.internsg.com/job/lianlian-global-compliance-intern/?f_pg=40) | Downtown Core, SG… | 2026-01-09 |
+| SG Car Choice Pte Ltd | [Business Development Intern](https://www.internsg.com/job/sg-car-choice-pte-ltd-business-development-intern/?f_pg=30) | Ang Mo Kio, SG… | 2026-01-09 |
+| Logiscool | [Coding and Robotics Teacher](https://www.internsg.com/job/logiscool-coding-and-robotics-teacher/?f_pg=33) | Jurong West, SG… | 2026-01-09 |
+| Royal Secrets Wellness Pte Ltd | [Spa Trainer](https://www.internsg.com/job/royal-secrets-wellness-pte-ltd-spa-trainer/?f_pg=30) | Central Area, SG… | 2026-01-09 |
+| ITA Consultancy & Solutions Pte Ltd | [Accounting Internship](https://www.internsg.com/job/ita-consultancy-solutions-pte-ltd-accounting-internship-2/?f_pg=33) | Geylang, SG… | 2026-01-09 |
+| House of Nuance | [Interior Design Intern](https://www.internsg.com/job/house-of-nuance-interior-design-intern-2/?f_pg=40) | Geylang, SG… | 2026-01-09 |
+| HackerTrail | [Marketing Intern](https://www.internsg.com/job/hackertrail-marketing-intern-2/?f_pg=32) | Downtown Core, SG… | 2026-01-09 |
+| Snaphunt Pte Ltd | [Project Analyst – Digital Channels](https://www.internsg.com/job/snaphunt-pte-ltd-project-analyst-digital-channels/?f_pg=34) | SG… | 2026-01-09 |
+| Upsight | [Marketing & Communications Intern](https://www.internsg.com/job/upsight-marketing-communications-intern-3/?f_pg=25) | SG… | 2026-01-09 |
+| Educare Human Capital | [Digital Marketing Intern](https://www.internsg.com/job/educare-human-capital-digital-marketing-intern/?f_pg=31) | Toa Payoh, SG… | 2026-01-09 |
+| Tanah Merah Country Club | [F&B Internship](https://www.internsg.com/job/tanah-merah-country-club-fb-internship/?f_pg=35) | Tampines, SG… | 2026-01-09 |
+| Mothers Work Pte Ltd | [Procurement Ops / Buying Intern](https://www.internsg.com/job/mothers-work-pte-ltd-procurement-ops-buying-intern/?f_pg=39) | SG… | 2026-01-09 |
+| Han Productions | [Internship Assistant Video Editor and Assistant Producer](https://www.internsg.com/job/han-productions-internship-assistant-video-editor-and-assistant-producer-3/?f_pg=30) | Geylang, SG… | 2026-01-09 |
+| Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-10/?f_pg=36) | Geylang, SG… | 2026-01-09 |
+| Assembly Works Pte Ltd | [Accounts Intern](https://www.internsg.com/job/assembly-works-pte-ltd-accounts-intern-5/?f_pg=38) | Outram, SG… | 2026-01-09 |
+| We. Communications | [Intern, PR & Communications](https://www.internsg.com/job/we-communications-intern-pr-communications/?f_pg=35) | Bukit Merah, SG… | 2026-01-09 |
+| Horizon Labs | [Human Resource Intern](https://www.internsg.com/job/horizon-labs-human-resource-intern/?f_pg=26) | SG… | 2026-01-09 |
+| Snaphunt Pte Ltd | [Software Developer (Java Spring Boot)](https://www.internsg.com/job/snaphunt-pte-ltd-software-developer-java-spring-boot/?f_pg=37) | SG… | 2026-01-09 |
+| Nested Technologies Pte. Ltd. | [Software Development Internship](https://www.internsg.com/job/nested-technologies-pte-ltd-software-development-internship-2/?f_pg=39) | Geylang, SG… | 2026-01-09 |
+| Aerea Pte Ltd | [Android Developer](https://www.internsg.com/job/aerea-pte-ltd-android-developer/?f_pg=31) | Geylang, SG… | 2026-01-09 |
+| ClearSK Healthcare Pte Ltd | [AI Business App Developer Intern – Healthcare](https://www.internsg.com/job/clearsk-healthcare-pte-ltd-ai-business-app-developer-intern-healthcare/?f_pg=38) | Novena, SG… | 2026-01-09 |
+| Welo Data | [Multilingual Safety Content Contributor – Malay (Singapore)](https://www.internsg.com/job/welo-data-multilingual-safety-content-contributor-malay-singapore/?f_pg=38) | SG… | 2026-01-09 |
+| Singapore Cruise Centre | [Marketing Communications Intern](https://www.internsg.com/job/singapore-cruise-centre-marketing-communications-intern/?f_pg=37) | Bukit Merah, SG… | 2026-01-09 |
+| Global Innovation Education Group | [Short Film Scriptwriter Intern](https://www.internsg.com/job/global-innovation-education-group-short-film-scriptwriter-intern-part-time-ai-education-project/?f_pg=38) | Downtown Core, SG… | 2026-01-09 |
+| Global Innovation Education Group | [Social Media Content Intern](https://www.internsg.com/job/global-innovation-education-group-social-media-content-intern-part-time-ai-education-community-growth/?f_pg=38) | Downtown Core, SG… | 2026-01-09 |
+| Snaphunt Pte Ltd | [Virtual Assistant](https://www.internsg.com/job/snaphunt-pte-ltd-virtual-assistant-4/?f_pg=30) | SG… | 2026-01-09 |
+| Lions Befrienders Service Association (Singapore) | [Youth Task Force (YTF) Member](https://www.internsg.com/job/lions-befrienders-service-association-singapore-youth-task-force-ytf-member/?f_pg=36) | Queenstown, SG… | 2026-01-09 |
+| Dr Wolff | [Marketing Intern](https://www.internsg.com/job/dr-wolff-marketing-intern/?f_pg=32) | Downtown Core, SG… | 2026-01-09 |
+| Nefertum Fragrances Pte Ltd | [Business Development Intern](https://www.internsg.com/job/nefertum-fragrances-pte-ltd-business-development-intern-13/?f_pg=33) | Downtown Core, SG… | 2026-01-09 |
+| Japfa Pte Ltd | [Sustainability Intern](https://www.internsg.com/job/japfa-pte-ltd-sustainability-intern/?f_pg=25) | Central Area, SG… | 2026-01-09 |
+| Molly Tea Singapore Pte. Ltd. | [Tea Barista](https://www.internsg.com/job/molly-tea-singapore-pte-ltd-tea-barista/?f_pg=34) | Central Area, SG… | 2026-01-09 |
+| ComfortDelGro Corporation Limited | [Group Procurement Intern](https://www.internsg.com/job/comfortdelgro-corporation-limited-group-procurement-intern/?f_pg=36) | SG… | 2026-01-09 |
+| TEAM PLC / NEBA Private Clients | [PR Intern](https://www.internsg.com/job/team-plc-neba-private-clients-pr-intern/?f_pg=39) | Downtown Core, SG… | 2026-01-09 |
+| Trustytech Pte. Ltd. | [Business Development Executive (B2B Saas)](https://www.internsg.com/job/trustytech-pte-ltd-business-development-executive-b2b-saas-2/?f_pg=31) | Pasir Ris, SG… | 2026-01-09 |
+| GetGo Technologies Pte Ltd | [Intern, Copywriter](https://www.internsg.com/job/getgo-technologies-pte-ltd-intern-copywriter-2/?f_pg=31) | Queenstown, SG… | 2026-01-09 |
+| Elite Asia | [Remote Freelance Indonesian>English Translator (Legal Industry)](https://www.internsg.com/job/elite-asia-remote-freelance-indonesianenglish-translator-legal-industry/?f_pg=36) | Jakarta, ID… | 2026-01-09 |
+| Allied Container Group | [Web Developer Intern](https://www.internsg.com/job/allied-container-group-web-developer-intern-2/?f_pg=36) | Kallang, SG… | 2026-01-09 |
+| Arty Learning @ HG Pte Ltd | [Human Resource Executive](https://www.internsg.com/job/arty-learning-hg-pte-ltd-human-resource-executive-3/?f_pg=26) | Hougang, SG… | 2026-01-09 |
