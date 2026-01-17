@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2026-01-16_
+_Last updated: 2026-01-17_
 
-**Total jobs:** 4041 • **Companies:** 495 • **Top tag:** Others
+**Total jobs:** 4037 • **Companies:** 495 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Google | [Data Center Technician Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/107377003878851270) |  | 2026-01-17 |
+| Google | [User Experience Design Summer Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/139465151223866054) |  | 2026-01-17 |
 | OKX | [Principal/Senior Product Manager, Crypto Consumer Trading](https://job-boards.greenhouse.io/okx/jobs/7594227003) | Hong Kong… | 2026-01-16 |
 | OKX | [Principal/Senior Product Manager, Crypto Consumer Trading](https://job-boards.greenhouse.io/okx/jobs/7594229003) | Singapore… | 2026-01-16 |
 | OKX | [Staff Software Engineer, Web3 (Dex Growth)](https://job-boards.greenhouse.io/okx/jobs/7594226003) | Singapore… | 2026-01-16 |
@@ -57,5 +59,3 @@ _Last updated: 2026-01-16_
 | Embrya Productions Inc Pte Ltd | [Events Intern](https://www.internsg.com/job/embrya-productions-inc-pte-ltd-events-intern-8/?f_pg=37) | Outram, SG… | 2026-01-16 |
 | SG Car Choice Pte Ltd | [Business Development Intern](https://www.internsg.com/job/sg-car-choice-pte-ltd-business-development-intern/?f_pg=37) | Ang Mo Kio, SG… | 2026-01-16 |
 | Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-11/?f_pg=36) | Geylang, SG… | 2026-01-16 |
-| Snaphunt Pte Ltd | [Virtual Assistant](https://www.internsg.com/job/snaphunt-pte-ltd-virtual-assistant-4/?f_pg=37) | SG… | 2026-01-16 |
-| Ban Leong Technologies Pte Ltd | [eCommerce Live Streamer Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-ecommerce-live-streamer-intern-11/?f_pg=36) | Geylang, SG… | 2026-01-16 |
