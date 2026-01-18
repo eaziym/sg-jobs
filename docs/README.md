@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2026-01-17_
+_Last updated: 2026-01-18_
 
-**Total jobs:** 4037 • **Companies:** 495 • **Top tag:** Others
+**Total jobs:** 4034 • **Companies:** 496 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [Mgr FO PCG System Analyst](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Mgr-FO-PCG-System-Analyst_JR76554) | Central Region (City Area)… | 2026-01-18 |
+| Micron | [Equipment Maintenance Technician](https://micron.eightfold.ai/careers/apply?pid=38712232&domain=micron.com) | Singapore… | 2026-01-18 |
 | Google | [Data Center Technician Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/107377003878851270) |  | 2026-01-17 |
 | Google | [User Experience Design Summer Intern, 2026](https://www.google.com/about/careers/applications/jobs/results/139465151223866054) |  | 2026-01-17 |
 | OKX | [Principal/Senior Product Manager, Crypto Consumer Trading](https://job-boards.greenhouse.io/okx/jobs/7594227003) | Hong Kong… | 2026-01-16 |
@@ -28,7 +30,6 @@ _Last updated: 2026-01-17_
 | Snaphunt Pte Ltd | [Project Analyst – Digital Channels](https://www.internsg.com/job/snaphunt-pte-ltd-project-analyst-digital-channels/?f_pg=41) | SG… | 2026-01-16 |
 | Wetec Pte Ltd | [Engineering Intern (E&E or CE)](https://www.internsg.com/job/wetec-pte-ltd-engineering-intern-ee-or-ce/?f_pg=41) | Bukit Batok, SG… | 2026-01-16 |
 | Motion Solution Pte Ltd | [Customer Service / Sales Co-ordinator](https://www.internsg.com/job/motion-solution-pte-ltd-customer-service-sales-co-ordinator/?f_pg=40) | Kallang, SG… | 2026-01-16 |
-| The Music Shed | [Receptionist / Administrator](https://www.internsg.com/job/the-music-shed-receptionist-administrator-3/?f_pg=41) | Novena, SG… | 2026-01-16 |
 | National Volunteer & Philanthropy Centre | [Intern, Corporate Marketing](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-corporate-marketing-8/?f_pg=39) | Singapore River, SG… | 2026-01-16 |
 | Ascensus Health Group Pte. Ltd. | [Staff / Enrolled Nurse](https://www.internsg.com/job/ascensus-health-group-pte-ltd-staff-enrolled-nurse-13/?f_pg=40) | SG… | 2026-01-16 |
 | Ascensus Health Group Pte. Ltd. | [Clinic Assistant](https://www.internsg.com/job/ascensus-health-group-pte-ltd-clinic-assistant-11/?f_pg=40) | SG… | 2026-01-16 |
@@ -37,7 +38,6 @@ _Last updated: 2026-01-17_
 | Dan's Bites | [Mall Event Sales Crew](https://www.internsg.com/job/dans-bites-mall-event-sales-crew/?f_pg=40) | Serangoon, SG… | 2026-01-16 |
 | Logiscool | [Coding and Robotics Teacher](https://www.internsg.com/job/logiscool-coding-and-robotics-teacher/?f_pg=40) | Jurong West, SG… | 2026-01-16 |
 | Intuition Production Pte Ltd | [Retail Assistant @ Jewel](https://www.internsg.com/job/intuition-production-pte-ltd-retail-assistant-jewel/?f_pg=40) | Changi, SG… | 2026-01-16 |
-| ITA Consultancy & Solutions Pte Ltd | [Accounting Internship](https://www.internsg.com/job/ita-consultancy-solutions-pte-ltd-accounting-internship-2/?f_pg=40) | Geylang, SG… | 2026-01-16 |
 | Thirst Quenchers Pte Ltd | [Tea Barista and Cashiers - Bingxue Singapore](https://www.internsg.com/job/thirst-quenchers-pte-ltd-tea-barista-and-cashiers-bingxue-singapore-3/?f_pg=40) | Bukit Batok, SG… | 2026-01-16 |
 | Intuition Production Pte Ltd | [Events Intern](https://www.internsg.com/job/intuition-production-pte-ltd-events-intern-10/?f_pg=40) | Bukit Merah, SG… | 2026-01-16 |
 | Bio-Globe Singapore Pte Ltd | [Sales / Business Development Trainee](https://www.internsg.com/job/bio-globe-singapore-pte-ltd-sales-business-development-trainee-5/?f_pg=39) | Kallang, SG… | 2026-01-16 |
@@ -46,7 +46,6 @@ _Last updated: 2026-01-17_
 | The Woof Agency Pte Ltd | [Social Media & Marketing Intern](https://www.internsg.com/job/the-woof-agency-pte-ltd-social-media-marketing-intern/?f_pg=39) | SG… | 2026-01-16 |
 | League Advisors | [Part-time Financial Advisor](https://www.internsg.com/job/league-advisors-part-time-financial-advisor/?f_pg=39) | Geylang, SG… | 2026-01-16 |
 | Queen's Market | [Lash / Nail Technician](https://www.internsg.com/job/queens-market-lash-nail-technician/?f_pg=39) | Central Area, SG… | 2026-01-16 |
-| HackerTrail | [Marketing Intern](https://www.internsg.com/job/hackertrail-marketing-intern-2/?f_pg=39) | Downtown Core, SG… | 2026-01-16 |
 | Educare Human Capital | [Digital Marketing Intern](https://www.internsg.com/job/educare-human-capital-digital-marketing-intern/?f_pg=38) | Toa Payoh, SG… | 2026-01-16 |
 | Lion Global Investors Limited | [Intern, Client Solutions Office](https://www.internsg.com/job/lion-global-investors-limited-intern-client-solutions-office-15/?f_pg=38) | Downtown Core, SG… | 2026-01-16 |
 | Trilogy Technologies Pte Ltd | [Quality and Process Engineer](https://www.internsg.com/job/trilogy-technologies-pte-ltd-quality-and-process-engineer-3/?f_pg=38) | SG… | 2026-01-16 |
@@ -55,7 +54,8 @@ _Last updated: 2026-01-17_
 | Ascensus Health Group Pte. Ltd. | [Staff / Enrolled Nurse (Derm)](https://www.internsg.com/job/ascensus-health-group-pte-ltd-staff-enrolled-nurse-derm/?f_pg=38) | SG… | 2026-01-16 |
 | NatSteel Holdings Pte Ltd | [HR Intern](https://www.internsg.com/job/natsteel-holdings-pte-ltd-hr-intern-3/?f_pg=37) | Boon Lay, SG… | 2026-01-16 |
 | The Nibble Network Pte Ltd | [Sales Intern](https://www.internsg.com/job/the-nibble-network-pte-ltd-sales-intern/?f_pg=38) | SG… | 2026-01-16 |
-| SPH Media Limited | [Multimedia Intern Journalist](https://www.internsg.com/job/sph-media-limited-multimedia-intern-journalist-2/?f_pg=38) | Toa Payoh, SG… | 2026-01-16 |
 | Embrya Productions Inc Pte Ltd | [Events Intern](https://www.internsg.com/job/embrya-productions-inc-pte-ltd-events-intern-8/?f_pg=37) | Outram, SG… | 2026-01-16 |
 | SG Car Choice Pte Ltd | [Business Development Intern](https://www.internsg.com/job/sg-car-choice-pte-ltd-business-development-intern/?f_pg=37) | Ang Mo Kio, SG… | 2026-01-16 |
 | Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-11/?f_pg=36) | Geylang, SG… | 2026-01-16 |
+| Snaphunt Pte Ltd | [Virtual Assistant](https://www.internsg.com/job/snaphunt-pte-ltd-virtual-assistant-4/?f_pg=37) | SG… | 2026-01-16 |
+| Ban Leong Technologies Pte Ltd | [eCommerce Live Streamer Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-ecommerce-live-streamer-intern-11/?f_pg=36) | Geylang, SG… | 2026-01-16 |
