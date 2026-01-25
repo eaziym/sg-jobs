@@ -1,15 +1,19 @@
 # Latest Jobs
 
-_Last updated: 2026-01-24_
+_Last updated: 2026-01-25_
 
-**Total jobs:** 4143 • **Companies:** 528 • **Top tag:** Others
+**Total jobs:** 4122 • **Companies:** 517 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Ochre Pictures Private Limited | [Internship - Research (Fiction)](https://www.internsg.com/job/ochre-pictures-private-limited-internship-research-fiction/?f_pg=44) | Bishan, SG… | 2026-01-24 |
+| UOB | [VP, Blockchain & Digital Assets, Innovation Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Blockchain---Digital-Assets--Innovation-Group_JR77545) | Central Region (City Area)… | 2026-01-25 |
+| UOB | [FVP/SVP Functional Business Analyst - Finance (AI/Blockchain/Digital Assets), GETO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/FVP-SVP-Functional-Business-Analyst---Finance--AI-Blockchain-Digital-Assets---GETO_JR76427-3) | Central Region (City Area)… | 2026-01-25 |
+| UOB | [VP, Blockchain & Digital Assets, Innovation Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Blockchain---Digital-Assets--Innovation-Group_JR77540) | Central Region (City Area)… | 2026-01-25 |
+| GlobalFoundries | [Senior Engineer Integration & Yield](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Senior-Engineer-Integration---Yield_JR-2504392) | Singapore… | 2026-01-25 |
+| GlobalFoundries | [Assoc Eng Process Engineering](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Assoc-Eng-Process-Engineering_JR-2503831) | Singapore… | 2026-01-25 |
 | Arq by Allyvate Limited | [Research Intern (YCCI Internship)](https://www.internsg.com/job/arq-by-allyvate-limited-research-intern-singapore-permanent-resident-ycci-internship/?f_pg=43) | Ang Mo Kio, SG… | 2026-01-24 |
 | Snaphunt Pte Ltd | [Data Engineer](https://www.internsg.com/job/snaphunt-pte-ltd-data-engineer-10/?f_pg=42) | SG… | 2026-01-24 |
 | Directions Group Inc Pte Ltd | [Communications Intern](https://www.internsg.com/job/directions-group-inc-pte-ltd-communications-intern-10/?f_pg=41) | Bukit Merah, SG… | 2026-01-24 |
@@ -55,7 +59,3 @@ _Last updated: 2026-01-24_
 | Grab | [Associate, Key Account Management (Grab Food - SMB merchants)](https://www.grab.careers/en/jobs/744000105343195/associate-key-account-management-grab-food-smb-merchants/) | Bangkok… | 2026-01-24 |
 | Grab | [Marketing Operation Specialist](https://www.grab.careers/en/jobs/744000105343305/marketing-operation-specialist/) | Bangkok… | 2026-01-24 |
 | Google | [Software Engineer, Cloud GPU, PhD, Early Careers, 2026](https://www.google.com/about/careers/applications/jobs/results/101477578534986438) |  | 2026-01-24 |
-| Google | [Program Manager, Subsea Commercial](https://www.google.com/about/careers/applications/jobs/results/100231866220454598) |  | 2026-01-24 |
-| Google | [Program Manager, Partnerships](https://www.google.com/about/careers/applications/jobs/results/72192704804463302) |  | 2026-01-24 |
-| Google | [Communications Manager, Technical Infrastructure](https://www.google.com/about/careers/applications/jobs/results/118536656058753734) |  | 2026-01-24 |
-| Google | [Technical Program Manager, Longhaul Planning](https://www.google.com/about/careers/applications/jobs/results/125167312469664454) |  | 2026-01-24 |
