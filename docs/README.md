@@ -1,14 +1,15 @@
 # Latest Jobs
 
-_Last updated: 2026-01-30_
+_Last updated: 2026-01-31_
 
-**Total jobs:** 4359 • **Companies:** 560 • **Top tag:** Others
+**Total jobs:** 4347 • **Companies:** 560 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Amazon | [Sr. Mfg Eng -Servers- On Site, Hardware Engineering - Manufacturing](https://www.amazon.jobs/en/jobs/3171100/sr-mfg-eng-servers-on-site-hardware-engineering-manufacturing) | SGP… | 2026-01-31 |
 | Coinbase | [Director, APAC Policy](https://www.coinbase.com/careers/positions/7565155) | &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re … | 2026-01-30 |
 | Coinbase | [Specialist, CDE & INTX](https://www.coinbase.com/careers/positions/7571812) | &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re … | 2026-01-30 |
 | OKX | [Senior/Staff Software Engineer, Quality Assurance (End to End)](https://job-boards.greenhouse.io/okx/jobs/6534031003) | Singapore… | 2026-01-30 |
@@ -58,4 +59,3 @@ _Last updated: 2026-01-30_
 | The Red Pencil (Singapore) | [Programmes Administrative Intern](https://www.internsg.com/job/the-red-pencil-singapore-programmes-administrative-intern/?f_pg=45) | Bukit Merah, SG… | 2026-01-30 |
 | Snaphunt Pte Ltd | [Youtube Product Manager AI](https://www.internsg.com/job/snaphunt-pte-ltd-youtube-product-manager-ai/?f_pg=45) | SG… | 2026-01-30 |
 | Mediacorp Pte. Ltd. | [Internship - Social Media/TCA](https://www.internsg.com/job/mediacorp-pte-ltd-internship-social-media-tca-apr-2026-dec-2026/?f_pg=41) | Queenstown, SG… | 2026-01-30 |
-| Ransack Gamification Studios | [Tourism and Business Intern](https://www.internsg.com/job/ransack-gamification-studios-tourism-and-business-intern-4/?f_pg=40) | Queenstown, SG… | 2026-01-30 |
