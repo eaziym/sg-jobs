@@ -1,14 +1,15 @@
 # Latest Jobs
 
-_Last updated: 2026-01-31_
+_Last updated: 2026-02-01_
 
-**Total jobs:** 4347 • **Companies:** 560 • **Top tag:** Others
+**Total jobs:** 4318 • **Companies:** 546 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Grab | [Business Development Lead](https://www.grab.careers/en/jobs/744000106700665/business-development-lead/) | Johor Bahru… | 2026-02-01 |
 | Amazon | [Sr. Mfg Eng -Servers- On Site, Hardware Engineering - Manufacturing](https://www.amazon.jobs/en/jobs/3171100/sr-mfg-eng-servers-on-site-hardware-engineering-manufacturing) | SGP… | 2026-01-31 |
 | Coinbase | [Director, APAC Policy](https://www.coinbase.com/careers/positions/7565155) | &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re … | 2026-01-30 |
 | Coinbase | [Specialist, CDE & INTX](https://www.coinbase.com/careers/positions/7571812) | &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re … | 2026-01-30 |
@@ -45,7 +46,6 @@ _Last updated: 2026-01-31_
 | Lion Global Investors Ltd | [Content Marketing Intern](https://www.internsg.com/job/lion-global-investors-ltd-content-marketing-intern/?f_pg=46) | Downtown Core, SG… | 2026-01-30 |
 | MSI Global Private Limited | [Junior Software Developer Intern (6-Month)](https://www.internsg.com/job/msi-global-private-limited-junior-software-developer-intern-6-month-internship-starting-jan-or-feb-2026/?f_pg=43) | Bedok, SG… | 2026-01-30 |
 | Snaphunt Pte Ltd | [Sales Executive](https://www.internsg.com/job/snaphunt-pte-ltd-sales-executive-62/?f_pg=46) | SG… | 2026-01-30 |
-| MindChamps Singapore | [Weekend Assistant Teacher Support](https://www.internsg.com/job/mindchamps-singapore-weekend-assistant-teacher-support/?f_pg=47) | SG… | 2026-01-30 |
 | Jenfi Pte Ltd | [Bank Statement Parsing & Credit Analysis Intern](https://www.internsg.com/job/jenfi-pte-ltd-bank-statement-parsing-credit-analysis-intern/?f_pg=43) | Downtown Core, SG… | 2026-01-30 |
 | Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-12/?f_pg=39) | Geylang, SG… | 2026-01-30 |
 | CPO Pte Ltd | [AI Engineer Intern](https://www.internsg.com/job/cpo-pte-ltd-ai-engineer-intern/?f_pg=44) | Changi, SG… | 2026-01-30 |
