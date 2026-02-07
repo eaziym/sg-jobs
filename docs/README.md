@@ -1,14 +1,18 @@
 # Latest Jobs
 
-_Last updated: 2026-02-06_
+_Last updated: 2026-02-07_
 
-**Total jobs:** 4347 • **Companies:** 543 • **Top tag:** Others
+**Total jobs:** 4410 • **Companies:** 544 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [AVP, Data Engineer, UOB Asset Management - Business Technology](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--Data-Engineer--UOB-Asset-Management---Business-Technology_JR61076) | Central Region (City Area)… | 2026-02-07 |
+| UOB | [AVP, Financial Controls & Operations (GL), Group Finance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--Financial-Controls---Operations--GL---Group-Finance_JR78935) | Central Region (City Area)… | 2026-02-07 |
+| Tencent | [Senior Legal Counsel, Employment](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Legal-Counsel--Employment_R106503) | Business Unit
+The S1 Legal & Administration Line functions as the backbone support system for corpor… | 2026-02-07 |
 | Deutsche Bank | [Private Bank – AI Analyst - VP](https://careers.db.com/professionals/search-roles/#/professional/job/69842) | Singapore… | 2026-02-06 |
 | The International French School (Singapore) | [Events Assistant Intern](https://www.internsg.com/job/the-international-french-school-singapore-events-assistant-intern/?f_pg=39) | Serangoon, SG… | 2026-02-06 |
 | Bhavna Pte Ltd | [Compliance Intern (Supply Chain)](https://www.internsg.com/job/bhavna-pte-ltd-compliance-intern-supply-chain-2/?f_pg=42) | Toa Payoh, SG… | 2026-02-06 |
@@ -47,8 +51,8 @@ _Last updated: 2026-02-06_
 | Tiger Brokers Singapore | [Marketing Intern (Social Media & Marketing Support)](https://www.internsg.com/job/tiger-brokers-singapore-marketing-intern-social-media-marketing-support/?f_pg=45) | Downtown Core, SG… | 2026-02-06 |
 | Embed Financial Group Holdings | [AI Software Engineer Intern](https://www.internsg.com/job/embed-financial-group-holdings-ai-software-engineer-intern/?f_pg=35) | SG… | 2026-02-06 |
 | ComfortDelGro Corporation Limited | [Group Corporate Affairs Intern](https://www.internsg.com/job/comfortdelgro-corporation-limited-group-corporate-affairs-intern/?f_pg=39) | Bukit Merah, SG… | 2026-02-06 |
-| Singapore Book Council | [Programmes Assistant](https://www.internsg.com/job/singapore-book-council-programmes-assistant/?f_pg=39) | Marine Parade, SG… | 2026-02-06 |
 | The ReFormd Group | [Marketing Intern](https://www.internsg.com/job/the-reformd-group-marketing-intern/?f_pg=31) | Downtown Core, SG… | 2026-02-06 |
+| Singapore Book Council | [Programmes Assistant](https://www.internsg.com/job/singapore-book-council-programmes-assistant/?f_pg=39) | Marine Parade, SG… | 2026-02-06 |
 | Infiniti Kids | [Kids Multi Sports Coach](https://www.internsg.com/job/infiniti-kids-kids-multi-sports-coach-2/?f_pg=33) | Toa Payoh, SG… | 2026-02-06 |
 | Talk of the Town | [PR & Social Media Coordinator](https://www.internsg.com/job/talk-of-the-town-pr-social-media-coordinator/?f_pg=43) | Geylang, SG… | 2026-02-06 |
 | Ark Media Productions | [Media Production Intern](https://www.internsg.com/job/ark-media-productions-media-production-intern/?f_pg=37) | Geylang, SG… | 2026-02-06 |
@@ -56,6 +60,3 @@ _Last updated: 2026-02-06_
 | Orfeostory Pte Ltd | [Digital Project Manager](https://www.internsg.com/job/orfeostory-pte-ltd-digital-project-manager-7/?f_pg=45) | Bedok, SG… | 2026-02-06 |
 | CampusImpact | [Programme Intern](https://www.internsg.com/job/campusimpact-programme-intern-2/?f_pg=37) | Yishun, SG… | 2026-02-06 |
 | Goidelic Pte Ltd | [Data Entry](https://www.internsg.com/job/goidelic-pte-ltd-data-entry/?f_pg=38) | Queenstown, SG… | 2026-02-06 |
-| Horizon Labs | [Product Management Intern](https://www.internsg.com/job/horizon-labs-product-management-intern-3/?f_pg=44) | SG… | 2026-02-06 |
-| Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-13/?f_pg=37) | Geylang, SG… | 2026-02-06 |
-| FOMO Pay Pte. Ltd. | [Accounting Intern](https://www.internsg.com/job/fomo-pay-pte-ltd-accounting-intern-4/?f_pg=40) | Downtown Core, SG… | 2026-02-06 |
