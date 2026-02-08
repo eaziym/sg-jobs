@@ -1,14 +1,21 @@
 # Latest Jobs
 
-_Last updated: 2026-02-07_
+_Last updated: 2026-02-08_
 
-**Total jobs:** 4410 • **Companies:** 544 • **Top tag:** Others
+**Total jobs:** 4385 • **Companies:** 537 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [VP1 Team Head, Control & Support, CMOC](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP1-Team-Head--Control---Support--CMOC_JR77254) | Central Region (City Area)… | 2026-02-08 |
+| UOB | [First VP, Convergence Services & Partnership, Innovation Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/First-VP--Convergence-Services---Partnership--Innovation-Group_JR77346) | Central Region (City Area)… | 2026-02-08 |
+| UOB | [VP,  GenAI Knowledge Layer Specialist, Innovation Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP---GenAI-Knowledge-Layer-Specialist--Innovation-Group_JR77637) | Central Region (City Area)… | 2026-02-08 |
+| Grab | [Assistant Manager, Regional Loyalty Strategy - Markets](https://www.grab.careers/en/jobs/744000108006460/assistant-manager-regional-loyalty-strategy-markets/) | Petaling Jaya… | 2026-02-08 |
+| Micron | [Advanced NAND Process Integration Group Lead](https://micron.eightfold.ai/careers/apply?pid=39985267&domain=micron.com) | Singapore… | 2026-02-08 |
+| Micron | [Principal/Staff Engineer, Firmware Test, SSD](https://micron.eightfold.ai/careers/apply?pid=39998001&domain=micron.com) | Singapore… | 2026-02-08 |
+| Deloitte | [T&T Intern - Finance - SG](https://jobs.sea.deloitte.com/job/Singapore-T&T-Intern-Finance-SG-Sing/1356893366) | Singapore, Singapore… | 2026-02-08 |
 | UOB | [AVP, Data Engineer, UOB Asset Management - Business Technology](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--Data-Engineer--UOB-Asset-Management---Business-Technology_JR61076) | Central Region (City Area)… | 2026-02-07 |
 | UOB | [AVP, Financial Controls & Operations (GL), Group Finance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--Financial-Controls---Operations--GL---Group-Finance_JR78935) | Central Region (City Area)… | 2026-02-07 |
 | Tencent | [Senior Legal Counsel, Employment](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Legal-Counsel--Employment_R106503) | Business Unit
@@ -16,10 +23,7 @@ The S1 Legal & Administration Line functions as the backbone support system for 
 | Deutsche Bank | [Private Bank – AI Analyst - VP](https://careers.db.com/professionals/search-roles/#/professional/job/69842) | Singapore… | 2026-02-06 |
 | The International French School (Singapore) | [Events Assistant Intern](https://www.internsg.com/job/the-international-french-school-singapore-events-assistant-intern/?f_pg=39) | Serangoon, SG… | 2026-02-06 |
 | Bhavna Pte Ltd | [Compliance Intern (Supply Chain)](https://www.internsg.com/job/bhavna-pte-ltd-compliance-intern-supply-chain-2/?f_pg=42) | Toa Payoh, SG… | 2026-02-06 |
-| Mediacorp Pte. Ltd. | [Internship - CTO Office](https://www.internsg.com/job/mediacorp-pte-ltd-internship-cto-office-apr-2026-aug-2027/?f_pg=46) | Queenstown, SG… | 2026-02-06 |
 | Maxhunt Resource Pte Ltd | [HR Intern](https://www.internsg.com/job/maxhunt-resource-pte-ltd-hr-intern-4/?f_pg=45) | Toa Payoh, SG… | 2026-02-06 |
-| Snaphunt Pte Ltd | [Python Developer](https://www.internsg.com/job/snaphunt-pte-ltd-python-developer-2/?f_pg=46) | SG… | 2026-02-06 |
-| DSTNCT Pte Ltd | [Creative (Video) Internship](https://www.internsg.com/job/dstnct-pte-ltd-creative-video-internship/?f_pg=46) | Geylang, SG… | 2026-02-06 |
 | ZEM Productions | [Production Intern](https://www.internsg.com/job/zem-productions-production-intern-33/?f_pg=36) | Geylang, SG… | 2026-02-06 |
 | Tilt Pte Ltd | [Design Intern](https://www.internsg.com/job/tilt-pte-ltd-design-intern/?f_pg=38) | SG… | 2026-02-06 |
 | KiteSense Pte Ltd | [Science Curriculum Intern](https://www.internsg.com/job/kitesense-pte-ltd-science-curriculum-intern/?f_pg=45) | Bishan, SG… | 2026-02-06 |
@@ -45,18 +49,14 @@ The S1 Legal & Administration Line functions as the backbone support system for 
 | Hong Shin Builders Pte Ltd | [Intern - Admin Assistant](https://www.internsg.com/job/hong-shin-builders-pte-ltd-intern-admin-assistant/?f_pg=33) | Hougang, SG… | 2026-02-06 |
 | Tam Kah Shark's Fin | [CNY Event Promoter Takashimaya](https://www.internsg.com/job/tam-kah-sharks-fin-cny-event-promotertakashimaya-15jan-15feb-12-hr/?f_pg=43) | Orchard, SG… | 2026-02-06 |
 | The Copy Boy Pte Ltd | [Graphics Design Intern](https://www.internsg.com/job/the-copy-boy-pte-ltd-graphics-design-intern-4/?f_pg=39) | Geylang, SG… | 2026-02-06 |
-| SIPMM | [Management Associate](https://www.internsg.com/job/sipmm-management-associate/?f_pg=46) | Jurong East, SG… | 2026-02-06 |
 | Ark Media Productions | [Audio Visual Junior (Events)](https://www.internsg.com/job/ark-media-productions-audio-visual-junior-events/?f_pg=37) | Geylang, SG… | 2026-02-06 |
-| Mediacorp Pte. Ltd. | [Internship - Commercial / Motion Graphics](https://www.internsg.com/job/mediacorp-pte-ltd-internship-commercial-motion-graphics-may-2026-dec-2026/?f_pg=46) | Queenstown, SG… | 2026-02-06 |
 | Tiger Brokers Singapore | [Marketing Intern (Social Media & Marketing Support)](https://www.internsg.com/job/tiger-brokers-singapore-marketing-intern-social-media-marketing-support/?f_pg=45) | Downtown Core, SG… | 2026-02-06 |
 | Embed Financial Group Holdings | [AI Software Engineer Intern](https://www.internsg.com/job/embed-financial-group-holdings-ai-software-engineer-intern/?f_pg=35) | SG… | 2026-02-06 |
 | ComfortDelGro Corporation Limited | [Group Corporate Affairs Intern](https://www.internsg.com/job/comfortdelgro-corporation-limited-group-corporate-affairs-intern/?f_pg=39) | Bukit Merah, SG… | 2026-02-06 |
-| The ReFormd Group | [Marketing Intern](https://www.internsg.com/job/the-reformd-group-marketing-intern/?f_pg=31) | Downtown Core, SG… | 2026-02-06 |
 | Singapore Book Council | [Programmes Assistant](https://www.internsg.com/job/singapore-book-council-programmes-assistant/?f_pg=39) | Marine Parade, SG… | 2026-02-06 |
+| The ReFormd Group | [Marketing Intern](https://www.internsg.com/job/the-reformd-group-marketing-intern/?f_pg=31) | Downtown Core, SG… | 2026-02-06 |
 | Infiniti Kids | [Kids Multi Sports Coach](https://www.internsg.com/job/infiniti-kids-kids-multi-sports-coach-2/?f_pg=33) | Toa Payoh, SG… | 2026-02-06 |
 | Talk of the Town | [PR & Social Media Coordinator](https://www.internsg.com/job/talk-of-the-town-pr-social-media-coordinator/?f_pg=43) | Geylang, SG… | 2026-02-06 |
 | Ark Media Productions | [Media Production Intern](https://www.internsg.com/job/ark-media-productions-media-production-intern/?f_pg=37) | Geylang, SG… | 2026-02-06 |
 | Craft Communications | [Public Relations & Social Media Assistant](https://www.internsg.com/job/craft-communications-public-relations-social-media-assistant-13/?f_pg=42) | Downtown Core, SG… | 2026-02-06 |
 | Orfeostory Pte Ltd | [Digital Project Manager](https://www.internsg.com/job/orfeostory-pte-ltd-digital-project-manager-7/?f_pg=45) | Bedok, SG… | 2026-02-06 |
-| CampusImpact | [Programme Intern](https://www.internsg.com/job/campusimpact-programme-intern-2/?f_pg=37) | Yishun, SG… | 2026-02-06 |
-| Goidelic Pte Ltd | [Data Entry](https://www.internsg.com/job/goidelic-pte-ltd-data-entry/?f_pg=38) | Queenstown, SG… | 2026-02-06 |
