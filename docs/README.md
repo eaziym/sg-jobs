@@ -1,14 +1,60 @@
 # Latest Jobs
 
-_Last updated: 2026-02-16_
+_Last updated: 2026-02-17_
 
-**Total jobs:** 4498 • **Companies:** 535 • **Top tag:** Others
+**Total jobs:** 4525 • **Companies:** 535 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| ByteDance | [MLLM Algorithm Engineer Graduate (Search) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607036668617591045) | Team Introduction
+Search-Multimodel Team focuses on building industry-leading large model-based sear… | 2026-02-17 |
+| ByteDance | [Machine Learning Engineer Graduate (Local Service Search) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607036671372347701) | Team Introduction
+Our Search Team enhances local services by improving user discovery of hospitality… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607039243965810949) | Team Introduction
+The Search team is mainly responsible for the search algorithm innovation and arch… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607040573501081909) | About the Team
+E-commerce is a new and fast growing business that aims at connecting all customers t… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (ShortText Recommendation Infrastructure) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607043731571312901) | About the team
+Our Recommendation Architecture Team is responsible for building up and optimizing th… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607039550971463989) | About the Team
+Our Recommendation Architecture Team is responsible for building and optimizing the a… | 2026-02-17 |
+| ByteDance | [Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607040213206632757) | About the Team
+Our Recommendation Architecture Team is responsible for building and optimizing the a… | 2026-02-17 |
+| ByteDance | [Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607042100439271685) | About The Team
+Recommendation Architecture Team is responsible for designing and developing the arch… | 2026-02-17 |
+| ByteDance | [Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607041193453488437) | About the Team
+E-commerce is a new and fast growing business that aims at connecting all customers t… | 2026-02-17 |
+| ByteDance | [Model Infrastructure Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607039561286650165) | About the Team
+The Recommendation Architecture team is responsible for building up and optimizing ou… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Vertical Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607043285778909445) | About the Team
+Our Recommendation Architecture Team is responsible for building and optimizing the a… | 2026-02-17 |
+| ByteDance | [Software Engineer Graduate (Recommendation Ecosystem Infrastructure) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607041560090446133) | Team Introduction
+The Data Ecosystem Team has the vital role of crafting and implementing a storage … | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (PhD)](https://joinbytedance.com/search/7607045497370937653) | Team Introduction
+Our Recommendation Architecture Team is responsible for building and optimizing th… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Recommendation Foundation Infrastructure) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607044416944965893) | About the Team
+The Recommendation Architecture Team is responsible for designing and developing reco… | 2026-02-17 |
+| ByteDance | [Backend Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607044048046688517) | About the Team
+Our Live Recommendation Architecture Team is responsible for building up and optimizi… | 2026-02-17 |
+| ByteDance | [Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7607044418899331333) | About the Team
+Our Live Recommendation Architecture Team is responsible for building up and optimizi… | 2026-02-17 |
+| ByteDance | [AI Machine Learning Engineer Graduate (Search) - 2026 Start (PhD)](https://joinbytedance.com/search/7607045118566484277) | Team Introduction
+Our Search Team is responsible for building and owning our search engine which pro… | 2026-02-17 |
+| Grab | [Assistant Manager, Strategy Analytics & Insights](https://www.grab.careers/en/jobs/744000109646886/assistant-manager-strategy-analytics-insights/) | Bangkok… | 2026-02-17 |
+| Grab | [Central Warehouse Operation Associate](https://www.grab.careers/en/jobs/744000109735615/central-warehouse-operation-associate/) | Jakarta… | 2026-02-17 |
+| Grab | [TH Summer Internship Program 2026](https://www.grab.careers/en/jobs/744000109683935/th-summer-internship-program-2026/) | Bangkok… | 2026-02-17 |
+| Google | [Network Implementation Engineer, Fiber Quality, Automation (English, Japanese)](https://www.google.com/about/careers/applications/jobs/results/137232381068092102) |  | 2026-02-17 |
+| Google | [Data Center Operations Manager, Server Operations](https://www.google.com/about/careers/applications/jobs/results/121328563847602886) |  | 2026-02-17 |
+| Google | [Senior Lead Strategic Negotiator, Clean Energy and Power](https://www.google.com/about/careers/applications/jobs/results/122670792667210438) |  | 2026-02-17 |
+| Google | [Lead Strategic Negotiator, Clean Energy and Power](https://www.google.com/about/careers/applications/jobs/results/132919065671803590) |  | 2026-02-17 |
+| Google | [Direct Response Media Manager, APAC](https://www.google.com/about/careers/applications/jobs/results/143159642095002310) |  | 2026-02-17 |
+| Google | [Senior Outcome Customer Engineer, GCP, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/121767543864992454) |  | 2026-02-17 |
+| Google | [AI Sales Specialist, Startups and Digital Native Pursuits](https://www.google.com/about/careers/applications/jobs/results/121057018835280582) |  | 2026-02-17 |
+| Google | [Customer Engineering Manager, AI, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/101203584049128134) |  | 2026-02-17 |
+| Amazon | [Technical Account Manager, Enterprise Support](https://www.amazon.jobs/en/jobs/3182486/technical-account-manager-enterprise-support) | SGP… | 2026-02-17 |
 | Deutsche Bank | [TDI – Business Functional Analyst – AVP](https://careers.db.com/professionals/search-roles/#/professional/job/70896) | Singapore… | 2026-02-16 |
 | JCPartners PAC | [Audit Internship](https://www.internsg.com/job/jcpartners-pac-audit-internship-4/?f_pg=45) | Novena, SG… | 2026-02-16 |
 | Tictag | [AI Demo Engineer](https://www.internsg.com/job/tictag-ai-demo-engineer/?f_pg=38) | Queenstown, SG… | 2026-02-16 |
@@ -30,32 +76,3 @@ _Last updated: 2026-02-16_
 | Propnex Realty (Division Level) | [Real Estate Marketing Intern](https://www.internsg.com/job/propnex-realty-division-level-real-estate-marketing-intern-4/?f_pg=41) | Toa Payoh, SG… | 2026-02-16 |
 | Cloudengine Digital Pte. Ltd. | [Project Assistant (Intern)](https://www.internsg.com/job/cloudengine-digital-pte-ltd-project-assistant-intern-2/?f_pg=39) | Geylang, SG… | 2026-02-16 |
 | ASE Education Group Pte Ltd | [Tuition Center Teacher](https://www.internsg.com/job/ase-education-group-pte-ltd-tuition-center-teacher/?f_pg=33) | Orchard, SG… | 2026-02-16 |
-| Singapore Medical Group | [Healthcare Assistant](https://www.internsg.com/job/singapore-medical-group-healthcare-assistant/?f_pg=33) | Orchard, SG… | 2026-02-16 |
-| Univers Pte. Ltd. | [Business Development Intern](https://www.internsg.com/job/univers-pte-ltd-business-development-intern-4/?f_pg=36) | Bukit Merah, SG… | 2026-02-16 |
-| Varsity Holdings | [Crypto Quant Researcher (Strategy Development & Data)](https://www.internsg.com/job/varsity-holdings-crypto-quant-researcher-strategy-development-data/?f_pg=31) | Downtown Core, SG… | 2026-02-16 |
-| Clifford Capital | [Intern, Human Resources (Jan to Jun 2026)](https://www.internsg.com/job/clifford-capital-intern-human-resources-jan-to-jun-2026/?f_pg=37) | SG… | 2026-02-16 |
-| MDI Fortune Pte. Ltd. | [Hospital Porter](https://www.internsg.com/job/mdi-fortune-pte-ltd-hospital-porter-3/?f_pg=37) | Woodlands, SG… | 2026-02-16 |
-| Segovia Financial Services Pte. Ltd. | [Marketing Intern](https://www.internsg.com/job/segovia-financial-services-pte-ltd-marketing-intern/?f_pg=32) | SG… | 2026-02-16 |
-| Jobs Network LLP | [Human Resources Assistant](https://www.internsg.com/job/jobs-network-llp-human-resources-assistant-part-time%ef%bc%89-2/?f_pg=32) | Queenstown, SG… | 2026-02-16 |
-| CareForWe | [Logistics Team](https://www.internsg.com/job/careforwe-logistics-team/?f_pg=34) | SG… | 2026-02-16 |
-| 1103 Studios Private Limited | [Content Creator Intern](https://www.internsg.com/job/1103-studios-private-limited-content-creator-intern/?f_pg=14) | SG… | 2026-02-16 |
-| The Standard, Singapore | [HR Intern](https://www.internsg.com/job/the-standard-singapore-hr-intern/?f_pg=26) | Tanglin, SG… | 2026-02-16 |
-| MindChamps Early Intervention Therapy | [Assistant Teacher Locum](https://www.internsg.com/job/mindchamps-early-intervention-therapy-assistant-teacher-locum/?f_pg=11) | Downtown Core, SG… | 2026-02-16 |
-| ONE°15 Marina Sentosa Cove, Singapore | [Customer Relations Intern](https://www.internsg.com/job/one15-marina-sentosa-cove-singapore-customer-relations-intern-2/?f_pg=13) | Southern Islands, SG… | 2026-02-16 |
-| ISS International School Pte Ltd | [Marketing Intern](https://www.internsg.com/job/iss-international-school-pte-ltd-marketing-intern/?f_pg=27) | Bukit Merah, SG… | 2026-02-16 |
-| Annabella Patisserie Trading Pte Ltd | [Corporate Sales Executive](https://www.internsg.com/job/annabella-patisserie-trading-pte-ltd-corporate-sales-executive-4/?f_pg=30) | Bukit Batok, SG… | 2026-02-16 |
-| Singapore Art Museum | [Intern, Marketing Communications](https://www.internsg.com/job/singapore-art-museum-intern-marketing-communications/?f_pg=21) | Bukit Merah, SG… | 2026-02-16 |
-| Gary Tay Group | [Personal Assistant](https://www.internsg.com/job/gary-tay-group-personal-assistant/?f_pg=24) | Bukit Merah, SG… | 2026-02-16 |
-| JCPartners PAC | [Audit Internship](https://www.internsg.com/job/jcpartners-pac-audit-internship-5/?f_pg=22) | Novena, SG… | 2026-02-16 |
-| Varsity Holdings | [Content Creator Intern (Fintech / AI / Quant)](https://www.internsg.com/job/varsity-holdings-content-creator-intern-fintech-ai-quant/?f_pg=19) | Downtown Core, SG… | 2026-02-16 |
-| National Volunteer & Philanthropy Centre | [Intern, Strategic Communications](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-strategic-communications-4/?f_pg=20) | Singapore River, SG… | 2026-02-16 |
-| Jobs Network LLP | [Sales & Marketing Executive](https://www.internsg.com/job/jobs-network-llp-sales-marketing-executive/?f_pg=18) | Queenstown, SG… | 2026-02-16 |
-| Ninemer Communications Pte Ltd | [Digital Marketing and Social Media Intern](https://www.internsg.com/job/ninemer-communications-pte-ltd-digital-marketing-and-social-media-intern-2/?f_pg=16) | Toa Payoh, SG… | 2026-02-16 |
-| National Gallery Singapore | [Intern (People Analytics & HR Operations Support)](https://www.internsg.com/job/national-gallery-singapore-intern-people-analytics-hr-operations-support/?f_pg=17) | Downtown Core, SG… | 2026-02-16 |
-| Smart Door Pte. Ltd. | [Admin](https://www.internsg.com/job/smart-door-pte-ltd-admin/?f_pg=29) | Sembawang, SG… | 2026-02-16 |
-| Kan & Wong Pte. Ltd. | [Researcher cum Copywriter Associate](https://www.internsg.com/job/kan-wong-pte-ltd-researcher-cum-copywriter-associate/?f_pg=28) | SG… | 2026-02-16 |
-| Goal360 | [SEO & Content Growth Intern](https://www.internsg.com/job/goal360-seo-content-growth-intern/?f_pg=25) | Geylang, SG… | 2026-02-16 |
-| KosmodeHealth Singapore | [Business Development and Marketing Intern](https://www.internsg.com/job/kosmodehealth-singapore-business-development-and-marketing-intern/?f_pg=23) | SG… | 2026-02-16 |
-| MCI Career Services Pte. Ltd. | [Assembly Technician](https://www.internsg.com/job/mci-career-services-pte-ltd-assembly-technician/?f_pg=35) | Woodlands, SG… | 2026-02-16 |
-| Activa Media Pte Ltd | [Digital Media Designer & Video Editor](https://www.internsg.com/job/activa-media-pte-ltd-digital-media-designer-video-editor/?f_pg=15) | Geylang, SG… | 2026-02-16 |
-| SPH Media Limited | [Berita Harian Visual Journalist Intern](https://www.internsg.com/job/sph-media-limited-berita-harian-visual-journalist-intern/?f_pg=10) | Toa Payoh, SG… | 2026-02-16 |
