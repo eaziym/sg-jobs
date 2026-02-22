@@ -1,14 +1,20 @@
 # Latest Jobs
 
-_Last updated: 2026-02-21_
+_Last updated: 2026-02-22_
 
-**Total jobs:** 4537 • **Companies:** 524 • **Top tag:** Others
+**Total jobs:** 4532 • **Companies:** 524 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OKX | [Senior Business Intelligence Manager, Growth](https://job-boards.greenhouse.io/okx/jobs/7639675003) | Hong Kong… | 2026-02-22 |
+| OKX | [Senior Business Intelligence Manager, Growth](https://job-boards.greenhouse.io/okx/jobs/7639677003) | Singapore… | 2026-02-22 |
+| UOB | [SVP Credit Administration & Control Head, GWBGMTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/SVP-Credit-Administration---Control-Head--GWBGMTO_JR79537) | Central Region (City Area)… | 2026-02-22 |
+| OCBC | [Relationship Manager, Global Real Estate (VP/ AVP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Relationship-Manager--Global-Real-Estate--VP--AVP-_JR00005733) | OCBC Singapore… | 2026-02-22 |
+| Micron | [Engineer - HIG HBM - PE Design Validation](https://micron.eightfold.ai/careers/apply?pid=40380422&domain=micron.com) | Singapore… | 2026-02-22 |
+| Amazon | [Cloud Sales Representative, Startups](https://www.amazon.jobs/en/jobs/3186522/cloud-sales-representative-startups) | SGP… | 2026-02-22 |
 | OCBC | [Group Credit Policy Manager (ED/MD)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Group-Credit-Policy-Manager--ED-MD-_JR00005862) | OCBC Singapore… | 2026-02-21 |
 | Amazon | [Principal Corporate Strategy and Business Development, AWS](https://www.amazon.jobs/en/jobs/3186442/principal-corporate-strategy-and-business-development-aws) | SGP… | 2026-02-21 |
 | Deutsche Bank | [IB - Credit Solutions Asia Financing - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/71129) | Singapore… | 2026-02-20 |
@@ -53,9 +59,3 @@ _Last updated: 2026-02-21_
 | Vertis Digital Pte. Ltd. | [Full Stack Developer Intern](https://www.internsg.com/job/vertis-digital-pte-ltd-full-stack-developer-intern/?f_pg=27) | SG… | 2026-02-20 |
 | Cloudengine Digital Pte. Ltd. | [Project Assistant (Intern)](https://www.internsg.com/job/cloudengine-digital-pte-ltd-project-assistant-intern-2/?f_pg=42) | Geylang, SG… | 2026-02-20 |
 | ASUS Global Pte Ltd | [Retail Promoter](https://www.internsg.com/job/asus-global-pte-ltd-retail-promoter-4/?f_pg=34) | SG… | 2026-02-20 |
-| Tiger Muay Thai Singapore | [Service Experience and Ops Intern](https://www.internsg.com/job/tiger-muay-thai-singapore-service-experience-and-ops-intern/?f_pg=11) | SG… | 2026-02-20 |
-| Aspire Hub Education Centre (Thomson) | [Teaching / Tutor Intern](https://www.internsg.com/job/aspire-hub-education-centre-thomson-teaching-tutor-intern-6/?f_pg=41) | Bishan, SG… | 2026-02-20 |
-| Generation: You Employed, Singapore | [Recruitment and Programmes Intern](https://www.internsg.com/job/generation-you-employed-singapore-recruitment-and-programmes-intern-2/?f_pg=41) | SG… | 2026-02-20 |
-| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-80/?f_pg=33) | Tiong Bahru, SG… | 2026-02-20 |
-| Nova Furnishing Centre Pte Ltd | [Intern, Business Operations & Automation](https://www.internsg.com/job/nova-furnishing-centre-pte-ltd-intern-business-operations-automation/?f_pg=40) | Tampines, SG… | 2026-02-20 |
-| Verztec Consulting Pte Ltd | [Freelance Transcriber QA (English)](https://www.internsg.com/job/verztec-consulting-pte-ltd-freelance-transcriber-qa-english-2/?f_pg=38) | Rochor, SG… | 2026-02-20 |
