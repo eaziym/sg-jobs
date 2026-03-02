@@ -1,62 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2026-03-01_
+_Last updated: 2026-03-02_
 
-**Total jobs:** 4443 • **Companies:** 532 • **Top tag:** Others
+**Total jobs:** 4362 • **Companies:** 512 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| UOB | [Manager](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager_JR78872) | Central Region (City Area)… | 2026-03-01 |
-| Grab | [Senior Engineering Manager – Mobile, Backend Frameworks & Build/Test
-Infrastructure](https://www.grab.careers/en/jobs/744000111259014/senior-engineering-manager-mobile-backend-frameworks-buildtest-infrastructure/) | Singapore… | 2026-03-01 |
-| Grab | [Senior Manager, Group Sustainability Reporting](https://www.grab.careers/en/jobs/744000111309794/senior-manager-group-sustainability-reporting/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Senior Data Engineer, GrabX (Experimentation & Config Management)](https://www.grab.careers/en/jobs/744000111559991/senior-data-engineer-grabx-experimentation-config-management/) | HCMC… | 2026-03-01 |
-| Grab | [Principal Planning Engineer (Autonomous Vehicle)](https://www.grab.careers/en/jobs/744000111298105/principal-planning-engineer-autonomous-vehicle/) | Singapore… | 2026-03-01 |
-| Grab | [Lead Data Engineer, GrabX (Experimentation & Config Management)](https://www.grab.careers/en/jobs/744000111559815/lead-data-engineer-grabx-experimentation-config-management/) | HCMC… | 2026-03-01 |
-| Grab | [Software Engineer, Backend](https://www.grab.careers/en/jobs/744000111279515/software-engineer-backend/) | Singapore… | 2026-03-01 |
-| Grab | [Senior Data Scientist (Business & Transaction Platform)](https://www.grab.careers/en/jobs/744000111304642/senior-data-scientist-business-transaction-platform/) | Singapore… | 2026-03-01 |
-| Grab | [Project Manager & GTM, Self-Serve Business](https://www.grab.careers/en/jobs/744000111288486/project-manager-gtm-self-serve-business/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Senior Manager, Group Sustainability Reporting](https://www.grab.careers/en/jobs/744000111308502/senior-manager-group-sustainability-reporting/) | Bangkok… | 2026-03-01 |
-| Grab | [Senior Principal Data Scientist (Fulfilment)](https://www.grab.careers/en/jobs/744000111304165/senior-principal-data-scientist-fulfilment/) | Singapore… | 2026-03-01 |
-| Grab | [Senior Manager, Group Sustainability Reporting](https://www.grab.careers/en/jobs/744000111309675/senior-manager-group-sustainability-reporting/) | Pasig City… | 2026-03-01 |
-| Grab | [Principal Maps & Localization Engineer (Autonomous Vehicle)](https://www.grab.careers/en/jobs/744000111526045/principal-maps-localization-engineer-autonomous-vehicle/) | Singapore… | 2026-03-01 |
-| Grab | [Assistant Manager, Project & Content Management](https://www.grab.careers/en/jobs/744000111514466/assistant-manager-project-content-management/) | Singapore… | 2026-03-01 |
-| Grab | [Senior Specialist, Commercial Process](https://www.grab.careers/en/jobs/744000111337201/senior-specialist-commercial-process/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Manager, Group Business Development & Strategic Partnerships - GrabMaps](https://www.grab.careers/en/jobs/744000111387825/manager-group-business-development-strategic-partnerships-grabmaps/) | Singapore… | 2026-03-01 |
-| Grab | [Software Engineer, Backend](https://www.grab.careers/en/jobs/744000111296915/software-engineer-backend/) | HCMC… | 2026-03-01 |
-| Grab | [Regional Manager, Category Management](https://www.grab.careers/en/jobs/744000111537625/regional-manager-category-management/) | Singapore… | 2026-03-01 |
-| Grab | [Manager, Learning and Inclusion](https://www.grab.careers/en/jobs/744000111763670/manager-learning-and-inclusion/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Regional Lead, Commercial Process](https://www.grab.careers/en/jobs/744000111416551/regional-lead-commercial-process/) | Jakarta… | 2026-03-01 |
-| Grab | [Manager, Group Sustainability Reporting](https://www.grab.careers/en/jobs/744000111308350/manager-group-sustainability-reporting/) | Singapore… | 2026-03-01 |
-| Grab | [Regional Manager, Category Management](https://www.grab.careers/en/jobs/744000111537765/regional-manager-category-management/) | Jakarta… | 2026-03-01 |
-| Grab | [Lead Engineer, AI Agents & Backend Platforms](https://www.grab.careers/en/jobs/744000111560136/lead-engineer-ai-agents-backend-platforms/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Senior Machine Learning Engineer (Deliveries & ACE)](https://www.grab.careers/en/jobs/744000111330900/senior-machine-learning-engineer-deliveries-ace/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Senior Analyst, Sales Operations System](https://www.grab.careers/en/jobs/744000111339321/senior-analyst-sales-operations-system/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Lead Product Manager, Driver In-Trip Experience](https://www.grab.careers/en/jobs/744000111799871/lead-product-manager-driver-in-trip-experience/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Regional Manager, Category Management](https://www.grab.careers/en/jobs/744000111537685/regional-manager-category-management/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Machine Learning Engineer](https://www.grab.careers/en/jobs/744000111525865/machine-learning-engineer/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Senior Machine Learning Engineer](https://www.grab.careers/en/jobs/744000111332585/senior-machine-learning-engineer/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Team Lead, Centre Operations](https://www.grab.careers/en/jobs/744000111770025/team-lead-centre-operations/) | Singapore… | 2026-03-01 |
-| Grab | [Assistant Manager, Risk Policy](https://www.grab.careers/en/jobs/744000112045367/assistant-manager-risk-policy/) | Bangkok… | 2026-03-01 |
-| Grab | [Assistant Manager, Risk Policy](https://www.grab.careers/en/jobs/744000112045317/assistant-manager-risk-policy/) | Petaling Jaya… | 2026-03-01 |
-| Grab | [Marketing Associate (Digital Goods)](https://www.grab.careers/en/jobs/744000111769547/marketing-associate-digital-goods/) | Jakarta… | 2026-03-01 |
-| Grab | [Merchant Sales Executive, GrabMart & GrabPay](https://www.grab.careers/en/jobs/744000111860989/merchant-sales-executive-grabmart-grabpay/) | Singapore… | 2026-03-01 |
-| Grab | [Senior Data Analyst](https://www.grab.careers/en/jobs/744000111791612/senior-data-analyst/) | Bengaluru… | 2026-03-01 |
-| Grab | [Assistant Manager, Risk Policy](https://www.grab.careers/en/jobs/744000112045307/assistant-manager-risk-policy/) | Pasig City… | 2026-03-01 |
-| Grab | [Assistant Manager, Risk Policy](https://www.grab.careers/en/jobs/744000112045377/assistant-manager-risk-policy/) | Jakarta… | 2026-03-01 |
-| Grab | [QA Automation Engineer](https://www.grab.careers/en/jobs/744000111783540/qa-automation-engineer/) | Ho Chi Minh… | 2026-03-01 |
-| Grab | [Assistant Manager, Risk Policy](https://www.grab.careers/en/jobs/744000112045427/assistant-manager-risk-policy/) | HCMC… | 2026-03-01 |
-| First Page Digital | [Brand Marketing Intern](https://www.internsg.com/job/first-page-digital-brand-marketing-intern/?f_pg=44) | SG… | 2026-02-28 |
-| Snaphunt Pte Ltd | [Food Writer](https://www.internsg.com/job/snaphunt-pte-ltd-food-writer/?f_pg=34) | SG… | 2026-02-28 |
-| Quartz Global | [Junior Marketing Events](https://www.internsg.com/job/quartz-global-junior-marketing-events-11/?f_pg=33) | Downtown Core, SG… | 2026-02-28 |
-| Allinton Engineering & Trading Pte Ltd | [Marketing Intern](https://www.internsg.com/job/allinton-engineering-trading-pte-ltd-marketing-intern-2/?f_pg=38) | Kallang, SG… | 2026-02-28 |
-| YTL PowerSeraya Pte. Limited | [Intern (Facilities)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-intern-facilities-4/?f_pg=41) | Western Islands, SG… | 2026-02-28 |
-| Retykle Pte Ltd | [eCommerce Operations Intern](https://www.internsg.com/job/retykle-pte-ltd-ecommerce-operations-intern/?f_pg=36) | Bukit Merah, SG… | 2026-02-28 |
-| Big 3 Group | [HR Intern](https://www.internsg.com/job/big-3-group-hr-intern-2/?f_pg=27) | Toa Payoh, SG… | 2026-02-28 |
-| Advisors Alliance Group AIA FA | [Management Associate Intern](https://www.internsg.com/job/advisors-alliance-group-aia-fa-management-associate-intern/?f_pg=45) | Downtown Core, SG… | 2026-02-28 |
-| Jobs Network LLP | [Personal Assistant](https://www.internsg.com/job/jobs-network-llp-personal-assistant-part-time/?f_pg=44) | Queenstown, SG… | 2026-02-28 |
-| Confetti Marketing Pte Ltd | [Livestream Ops Intern](https://www.internsg.com/job/confetti-marketing-pte-ltd-livestream-ops-intern/?f_pg=45) | SG… | 2026-02-28 |
-| Cheil Singapore Pte Ltd | [Creative Design Intern](https://www.internsg.com/job/cheil-singapore-pte-ltd-creative-design-intern-4/?f_pg=35) | Queenstown, SG… | 2026-02-28 |
+| OKX | [Growth General Manager, OKX DEX](https://job-boards.greenhouse.io/okx/jobs/7648695003) | Hong Kong… | 2026-03-02 |
+| OKX | [Staff AI Engineer, Model Post-Training and Alignment](https://job-boards.greenhouse.io/okx/jobs/7648835003) | Singapore… | 2026-03-02 |
+| OKX | [Principal Engineer, Agent Infrastructure & Memory Architecture](https://job-boards.greenhouse.io/okx/jobs/7648794003) | Singapore… | 2026-03-02 |
+| OKX | [Principal AI Engineer, Chatbot Development](https://job-boards.greenhouse.io/okx/jobs/7648781003) | Singapore… | 2026-03-02 |
+| UOB | [Travel Concierge Service Manager](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Travel-Concierge-Service-Manager_JR78869) | Central Region (City Area)… | 2026-03-02 |
+| OCBC | [Managing Director, Corporate Treasury](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Managing-Director--Corporate-Treasury_JR00005974) | OCBC Singapore… | 2026-03-02 |
+| OCBC | [Internship: Group Human Resource, Emerging Talent Acquisition, Campus Recruitment [Dec 2025 to May 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Group-Human-Resource--Emerging-Talent-Acquisition--Campus-Recruitment--Dec-2025-to-May-2026-_JR00005978) | OCBC Singapore… | 2026-03-02 |
+| HSBC | [Head of Premier & Wealth Distribution - IWPB](https://portal.careers.hsbc.com/careers/job/563774608384374) | Central… | 2026-03-02 |
+| HSBC | [Senior Corporate Banking Manager, International Mid-Market](https://portal.careers.hsbc.com/careers/job/563774609589234) | Singapore… | 2026-03-02 |
+| HSBC | [Alternatives Transformation Business Analyst](https://portal.careers.hsbc.com/careers/job/563774609772160) | Singapore… | 2026-03-02 |
+| ByteDance | [Project Management Office Manager - Global Payment](https://joinbytedance.com/search/7515336537354701074) | The Global Payment team of ByteDance provides payment solutions - including payment acquisitions, di… | 2026-03-02 |
+| Grab | [Assistant Manager, Deliveries Marketplace](https://www.grab.careers/en/jobs/744000112132684/assistant-manager-deliveries-marketplace/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [Data Scientist (Analytics)](https://www.grab.careers/en/jobs/744000112047312/data-scientist-analytics/) | Singapore… | 2026-03-02 |
+| Grab | [Senior Software Engineer, Backend (Java) - Insurance](https://www.grab.careers/en/jobs/744000112088572/senior-software-engineer-backend-java-insurance/) | Jakarta… | 2026-03-02 |
+| Grab | [Senior Principal Engineer, Platform & AI Transformation (Business Ecosystem)](https://www.grab.careers/en/jobs/744000112086417/senior-principal-engineer-platform-ai-transformation-business-ecosystem/) | Singapore… | 2026-03-02 |
+| Grab | [Manager, Procurement Governance, Strategy & Risk](https://www.grab.careers/en/jobs/744000112074882/manager-procurement-governance-strategy-risk/) | Jakarta… | 2026-03-02 |
+| Grab | [Senior Systems Engineer (Mobile Device Management)](https://www.grab.careers/en/jobs/744000112088117/senior-systems-engineer-mobile-device-management/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [Manager, Procurement Governance, Strategy & Risk](https://www.grab.careers/en/jobs/744000112074987/manager-procurement-governance-strategy-risk/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [Lead Product Manager, eCommerce - WMS](https://www.grab.careers/en/jobs/744000112074517/lead-product-manager-ecommerce-wms/) | Beijing… | 2026-03-02 |
+| Grab | [Software Engineer, Backend](https://www.grab.careers/en/jobs/744000112092547/software-engineer-backend/) | Jakarta… | 2026-03-02 |
+| Grab | [Merchant Partnership Specialist](https://www.grab.careers/en/jobs/744000112075497/merchant-partnership-specialist/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [Manager, Procurement Governance, Strategy & Risk](https://www.grab.careers/en/jobs/744000112074663/manager-procurement-governance-strategy-risk/) | HCMC… | 2026-03-02 |
+| Grab | [Assistant Manager, Project & Content Management (Contract)](https://www.grab.careers/en/jobs/744000112075643/assistant-manager-project-content-management-contract/) | Singapore… | 2026-03-02 |
+| Grab | [Software Engineer, Backend](https://www.grab.careers/en/jobs/744000112077135/software-engineer-backend/) | HCMC… | 2026-03-02 |
+| Grab | [Intern, Special Projects & Strategy](https://www.grab.careers/en/jobs/744000112078937/intern-special-projects-strategy/) | Phnom Penh… | 2026-03-02 |
+| Grab | [Intern, GrabAds](https://www.grab.careers/en/jobs/744000112078157/intern-grabads/) | Phnom Penh… | 2026-03-02 |
+| Grab | [Associate, Merchant Acquisition - GrabMart](https://www.grab.careers/en/jobs/744000112076449/associate-merchant-acquisition-grabmart/) | HCMC… | 2026-03-02 |
+| Grab | [Associate Marketing, Omnicommerce](https://www.grab.careers/en/jobs/744000112077677/associate-marketing-omnicommerce/) | Jakarta… | 2026-03-02 |
+| Grab | [Team Lead, Centre Operations](https://www.grab.careers/en/jobs/744000112113594/team-lead-centre-operations/) | Singapore… | 2026-03-02 |
+| Grab | [Lead Machine Learning Platform Engineer](https://www.grab.careers/en/jobs/744000112099588/lead-machine-learning-platform-engineer/) | Singapore… | 2026-03-02 |
+| Grab | [Manager, Planning & Operations - GrabMart](https://www.grab.careers/en/jobs/744000112128993/manager-planning-operations-grabmart/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [City Associate Outer Bali and Labuan Bajo](https://www.grab.careers/en/jobs/744000112078417/city-associate-outer-bali-and-labuan-bajo/) | Bali… | 2026-03-02 |
+| Grab | [Manager, Planning & Operations - GrabMart](https://www.grab.careers/en/jobs/744000112130937/manager-planning-operations-grabmart/) | Jakarta… | 2026-03-02 |
+| Grab | [Senior Software Engineer, Fullstack](https://www.grab.careers/en/jobs/744000112092334/senior-software-engineer-fullstack/) | Petaling Jaya… | 2026-03-02 |
+| Grab | [Country Strategy & Special Projects Assistant Manager](https://www.grab.careers/en/jobs/744000112134468/country-strategy-special-projects-assistant-manager/) | Bangkok… | 2026-03-02 |
+| Micron | [Senior Engineer, PD SG, Dry Etch, NAND](https://micron.eightfold.ai/careers/apply?pid=40463545&domain=micron.com) | Singapore… | 2026-03-02 |
+| Micron | [Senior Engineer, NAND Silicon Design Validation](https://micron.eightfold.ai/careers/apply?pid=40595720&domain=micron.com) | Singapore… | 2026-03-02 |
+| Micron | [Program Manager, Construction – Project Controls](https://micron.eightfold.ai/careers/apply?pid=40484539&domain=micron.com) | Singapore… | 2026-03-02 |
+| Micron | [ENGINEER, NAND SILICON DESIGN VALIDATION](https://micron.eightfold.ai/careers/apply?pid=40535883&domain=micron.com) | Singapore… | 2026-03-02 |
+| Micron | [Senior Engineer, PD SG, Dry Etch, NAND](https://micron.eightfold.ai/careers/apply?pid=40457044&domain=micron.com) | Singapore… | 2026-03-02 |
+| JPMorgan Chase | [Communications - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718797) | Singapore… | 2026-03-02 |
+| JPMorgan Chase | [Asset Management - ETF Capital Markets - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718795) | Singapore… | 2026-03-02 |
+| JPMorgan Chase | [Software Engineer III, Java - Equities Prime Securities Lending Technology Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718273) | Singapore… | 2026-03-02 |
+| JPMorgan Chase | [Asset Management – Emerging Markets & Asia Pacific (EMAP) Equities Investment Specialist – Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717205) | Singapore… | 2026-03-02 |
+| JPMorgan Chase | [Software Engineer III - Equities Prime Sec Lending Technology Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718272) | Singapore… | 2026-03-02 |
+| Apple | [Operations Engineer, Crypto Services](https://jobs.apple.com/en-sg/details/200649307) | Singapore… | 2026-03-02 |
+| Apple | [Optical Sensing Product Design - Mechanical Engineer](https://jobs.apple.com/en-sg/details/200649295) | Singapore… | 2026-03-02 |
+| Apple | [Camera Active Alignment Process Engineer -](https://jobs.apple.com/en-sg/details/200649296) | Singapore… | 2026-03-02 |
+| Accenture | [Recruiting Specialist](https://www.accenture.com/sg-en/careers/jobdetails?id=R00315390_en) | Singapore… | 2026-03-02 |
+| Google | [Creator Partnerships Associate (Fixed-Term Contract)](https://www.google.com/about/careers/applications/jobs/results/117188179940778694) |  | 2026-03-02 |
