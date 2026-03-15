@@ -1,17 +1,17 @@
 # Latest Jobs
 
-_Last updated: 2026-03-14_
+_Last updated: 2026-03-15_
 
-**Total jobs:** 4743 • **Companies:** 507 • **Top tag:** Others
+**Total jobs:** 4723 • **Companies:** 501 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Hong Shin Builders Pte Ltd | [Intern - Accounts Executive](https://www.internsg.com/job/hong-shin-builders-pte-ltd-intern-accounts-executive-21/?f_pg=43) | Hougang, SG… | 2026-03-14 |
-| AMO | [10days Finance Internship](https://www.internsg.com/job/amo-10days-finance-internship/?f_pg=43) | Queenstown, SG… | 2026-03-14 |
-| Innowave Tech Pte. Ltd | [Software Engineer Intern – PHP](https://www.internsg.com/job/innowave-tech-pte-ltd-software-engineer-intern-php-3/?f_pg=43) | Geylang, SG… | 2026-03-14 |
+| UOB | [Executive Director, Group Governance, Risk & Compliance Office](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Executive-Director--Group-Governance--Risk---Compliance-Office_JR78908) | Central Region (City Area)… | 2026-03-15 |
+| Micron | [Staff/ Senior Engineer, Firmware Test (SSD)](https://micron.eightfold.ai/careers/apply?pid=40777712&domain=micron.com) | Singapore… | 2026-03-15 |
+| Agoda | [[Tax 2026] Indirect Tax Manager- Advisory Focused [SHP]](https://job-boards.greenhouse.io/agoda/jobs/7720663) | Singapore… | 2026-03-15 |
 | Creative For More | [Sales Qualification Specialist (Intro Calls & Routing)](https://www.internsg.com/job/creative-for-more-sales-qualification-specialist-intro-calls-routing/?f_pg=42) | Marine Parade, SG… | 2026-03-14 |
 | Daimler Truck South East Asia Pte. Ltd. | [Social Media Intern](https://www.internsg.com/job/daimler-truck-south-east-asia-pte-ltd-social-media-intern/?f_pg=42) | Jurong East, SG… | 2026-03-14 |
 | Truewatch Technology Inc Pte. Ltd. | [Marketing Intern](https://www.internsg.com/job/truewatch-technology-inc-pte-ltd-marketing-intern/?f_pg=42) | Geylang, SG… | 2026-03-14 |
