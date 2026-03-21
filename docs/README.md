@@ -1,14 +1,19 @@
 # Latest Jobs
 
-_Last updated: 2026-03-20_
+_Last updated: 2026-03-21_
 
-**Total jobs:** 4773 • **Companies:** 507 • **Top tag:** Others
+**Total jobs:** 4788 • **Companies:** 506 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Tencent | [Tencent Cloud- IDC Procurement Business Manager (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud--IDC-Procurement-Business-Manager--Singapore-_R107119) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-03-21 |
+| Tencent | [Tencent Cloud- SMS & Voice Product Operations Manager (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud--SMS---Voice-Product-Operations-Manager--Singapore-_R107117-1) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-03-21 |
+| Accenture | [Architect (Infra & Dev Ops) Copy 01](https://www.accenture.com/sg-en/careers/jobdetails?id=14235362_en) | Singapore… | 2026-03-21 |
 | OKX | [Senior Machine Learning Engineer, Compliance](https://job-boards.greenhouse.io/okx/jobs/7673486003) | Singapore… | 2026-03-20 |
 | YTL PowerSeraya Pte. Limited | [Intern (Human Capital)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-intern-human-capital-4/?f_pg=33) | Queenstown, SG… | 2026-03-20 |
 | TRU Technologies (Singapore) Pte. Ltd. | [Engineer / Assistant Engineer (Electrical & Electronics / PLC / Automation /Control)](https://www.internsg.com/job/tru-technologies-singapore-pte-ltd-engineer-assistant-engineer-electrical-electronics-plc-automation-control/?f_pg=35) | Ang Mo Kio, SG… | 2026-03-20 |
@@ -56,6 +61,3 @@ _Last updated: 2026-03-20_
 | Louken Group Pte Ltd | [Brand Design Intern](https://www.internsg.com/job/louken-group-pte-ltd-brand-design-intern/?f_pg=36) | SG… | 2026-03-20 |
 | Mighty Jaxx | [Investor Relations and Corporate Communications Intern](https://www.internsg.com/job/mighty-jaxx-investor-relations-and-corporate-communications-intern-4/?f_pg=27) | Hougang, SG… | 2026-03-20 |
 | Tomorrow Grp Pte Ltd | [Sales Executive Intern](https://www.internsg.com/job/tomorrow-grp-pte-ltd-sales-executive-intern/?f_pg=32) | Bedok, SG… | 2026-03-20 |
-| Talentwerkz Services | [Sales Associate](https://www.internsg.com/job/talentwerkz-services-sales-associate-2/?f_pg=42) | SG… | 2026-03-20 |
-| Lion Global Investors Ltd | [Intern, International & Institutional Business](https://www.internsg.com/job/lion-global-investors-ltd-intern-international-institutional-business/?f_pg=41) | Downtown Core, SG… | 2026-03-20 |
-| Invigilo Technologies Pte. Ltd. | [Software & AI Tester (QA Engineer – AI Systems)](https://www.internsg.com/job/invigilo-technologies-pte-ltd-software-ai-tester-qa-engineer-ai-systems/?f_pg=31) | Queenstown, SG… | 2026-03-20 |
