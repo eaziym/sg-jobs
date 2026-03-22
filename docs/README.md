@@ -1,14 +1,30 @@
 # Latest Jobs
 
-_Last updated: 2026-03-21_
+_Last updated: 2026-03-22_
 
-**Total jobs:** 4788 • **Companies:** 506 • **Top tag:** Others
+**Total jobs:** 4568 • **Companies:** 506 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Trio-Tech International Pte Ltd | [Internal Audit Assistant Intern](https://www.internsg.com/job/trio-tech-international-pte-ltd-internal-audit-assistant-intern-6/?f_pg=42) | Toa Payoh, SG… | 2026-03-22 |
+| SmartLab Education Centre Pte Ltd | [JC Chemistry Tutor](https://www.internsg.com/job/smartlab-education-centre-pte-ltd-jc-chemistry-tutor/?f_pg=41) | Woodlands, SG… | 2026-03-22 |
+| Strides Digital | [Software Engineer Intern](https://www.internsg.com/job/strides-digital-software-engineer-intern-5/?f_pg=40) | Geylang, SG… | 2026-03-22 |
+| SPH Media Limited | [Product Management Intern](https://www.internsg.com/job/sph-media-limited-product-management-intern-3/?f_pg=39) | Toa Payoh, SG… | 2026-03-22 |
+| T1 Glass Systems Pte Ltd | [Graphic Designer](https://www.internsg.com/job/t1-glass-systems-pte-ltd-graphic-designer/?f_pg=38) | Toa Payoh, SG… | 2026-03-22 |
+| Flint Labs Pte. Ltd. | [Accounting Intern](https://www.internsg.com/job/flint-labs-pte-ltd-accounting-intern/?f_pg=37) | Western Water Catchment, SG… | 2026-03-22 |
+| Subra Govinda Photography | [Social Media & Content Creator Intern](https://www.internsg.com/job/subra-govinda-photography-social-media-content-creator-intern/?f_pg=36) | Geylang, SG… | 2026-03-22 |
+| Healing Hands Chiropractic Singapore | [On-Site Spinal Screening Specialist (No Medical Background Required)](https://www.internsg.com/job/healing-hands-chiropractic-singapore-on-site-spinal-screening-specialist-no-medical-background-required/?f_pg=35) | Rochor, SG… | 2026-03-22 |
+| REACH Community Services Ltd. | [Social Service Intern](https://www.internsg.com/job/reach-community-services-ltd-social-service-intern-4/?f_pg=34) | Bukit Batok, SG… | 2026-03-22 |
+| UOB | [AVP Business Continuity Management (BCM), TOGA](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP-Business-Continuity-Management--BCM---TOGA_JR81954) | Central Region (City Area)… | 2026-03-22 |
+| Grab | [Senior Software Engineer, Backend](https://www.grab.careers/en/jobs/744000116025517/senior-software-engineer-backend/) | Singapore… | 2026-03-22 |
+| Grab | [Senior Software Engineer, Backend (LiDAR / 3D)](https://www.grab.careers/en/jobs/744000116025527/senior-software-engineer-backend-lidar-3d/) | Singapore… | 2026-03-22 |
+| Grab | [Senior Principal Engineer, Platform & AI Transformation (Business Ecosystem)](https://www.grab.careers/en/jobs/744000116064607/senior-principal-engineer-platform-ai-transformation-business-ecosystem/) | Singapore… | 2026-03-22 |
+| Micron | [Intern - NTI Metrology](https://micron.eightfold.ai/careers/apply?pid=40979893&domain=micron.com) | Singapore… | 2026-03-22 |
+| Micron | [Intern – ML/AI Engineer (Product Engineering, STPG)](https://micron.eightfold.ai/careers/apply?pid=40980510&domain=micron.com) | Singapore… | 2026-03-22 |
+| Deloitte | [T&L: Talent Acquisition, Assistant Manager/Manager](https://jobs.sea.deloitte.com/job/Singapore-T&L-Talent-Acquisition%2C-Assistant-ManagerManager-Sing/1358943266) | Singapore, Singapore… | 2026-03-22 |
 | Tencent | [Tencent Cloud- IDC Procurement Business Manager (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud--IDC-Procurement-Business-Manager--Singapore-_R107119) | Business Unit
 Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-03-21 |
 | Tencent | [Tencent Cloud- SMS & Voice Product Operations Manager (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud--SMS---Voice-Product-Operations-Manager--Singapore-_R107117-1) | Business Unit
@@ -45,19 +61,3 @@ Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's
 | 360F (Singapore) Pte Ltd | [Sales and Marketing Intern](https://www.internsg.com/job/360f-singapore-pte-ltd-sales-and-marketing-intern-2/?f_pg=30) | SG… | 2026-03-20 |
 | ZEM Productions | [Production Intern](https://www.internsg.com/job/zem-productions-production-intern-34/?f_pg=35) | Geylang, SG… | 2026-03-20 |
 | Websavvy Pte Ltd | [IT Support & Helpdesk Internship](https://www.internsg.com/job/websavvy-pte-ltd-it-support-helpdesk-internship-10/?f_pg=42) | Bukit Merah, SG… | 2026-03-20 |
-| YTL PowerSeraya Pte. Limited | [Intern (Facilities)](https://www.internsg.com/job/ytl-powerseraya-pte-limited-intern-facilities-5/?f_pg=35) | Western Islands, SG… | 2026-03-20 |
-| Perx Technologies | [Sales and Marketing Intern](https://www.internsg.com/job/perx-technologies-sales-and-marketing-intern-2/?f_pg=33) | SG… | 2026-03-20 |
-| Estetica Group | [Digital Content Creator](https://www.internsg.com/job/estetica-group-digital-content-creator/?f_pg=32) | MacPherson, SG… | 2026-03-20 |
-| Novartis Singapore Pte Ltd | [Marketing Intern](https://www.internsg.com/job/novartis-singapore-pte-ltd-marketing-intern-7/?f_pg=35) | Queenstown, SG… | 2026-03-20 |
-| Habib Bank Limited (Singapore) | [Human Resources Intern](https://www.internsg.com/job/habib-bank-limited-singapore-human-resources-intern/?f_pg=38) | SG… | 2026-03-20 |
-| Nanyang Beverage Pte Ltd | [Creative Marketing Intern](https://www.internsg.com/job/nanyang-beverage-pte-ltd-creative-marketing-intern-10/?f_pg=41) | Central Area, SG… | 2026-03-20 |
-| Comfortdelgro Corporation Limited | [Group Risk Intern](https://www.internsg.com/job/comfortdelgro-corporation-limited-group-risk-intern-4/?f_pg=31) | Bukit Merah, SG… | 2026-03-20 |
-| Real Estate Analytics Pte Ltd | [Marketing Intern](https://www.internsg.com/job/real-estate-analytics-pte-ltd-marketing-intern/?f_pg=32) | Downtown Core, SG… | 2026-03-20 |
-| MEC Global Partners Asia | [Intern, Finance](https://www.internsg.com/job/mec-global-partners-asia-intern-finance-4/?f_pg=32) | SG… | 2026-03-20 |
-| Lion Global Investors Ltd | [Intern, ESG](https://www.internsg.com/job/lion-global-investors-ltd-intern-esg-2/?f_pg=36) | Downtown Core, SG… | 2026-03-20 |
-| SmartLab Education Centre Pte Ltd | [JC Chemistry Tutor](https://www.internsg.com/job/smartlab-education-centre-pte-ltd-jc-chemistry-tutor/?f_pg=42) | Woodlands, SG… | 2026-03-20 |
-| Crimson (S) Pte Ltd | [Admin Intern](https://www.internsg.com/job/crimson-s-pte-ltd-admin-intern/?f_pg=38) | Tuas, SG… | 2026-03-20 |
-| Creative Hamlet (House of Scenes) | [Photo and Video Intern](https://www.internsg.com/job/creative-hamlet-house-of-scenes-photo-and-video-intern/?f_pg=28) | Geylang, SG… | 2026-03-20 |
-| Louken Group Pte Ltd | [Brand Design Intern](https://www.internsg.com/job/louken-group-pte-ltd-brand-design-intern/?f_pg=36) | SG… | 2026-03-20 |
-| Mighty Jaxx | [Investor Relations and Corporate Communications Intern](https://www.internsg.com/job/mighty-jaxx-investor-relations-and-corporate-communications-intern-4/?f_pg=27) | Hougang, SG… | 2026-03-20 |
-| Tomorrow Grp Pte Ltd | [Sales Executive Intern](https://www.internsg.com/job/tomorrow-grp-pte-ltd-sales-executive-intern/?f_pg=32) | Bedok, SG… | 2026-03-20 |
