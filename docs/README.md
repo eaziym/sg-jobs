@@ -1,14 +1,25 @@
 # Latest Jobs
 
-_Last updated: 2026-03-27_
+_Last updated: 2026-03-28_
 
-**Total jobs:** 4728 • **Companies:** 516 • **Top tag:** Others
+**Total jobs:** 4746 • **Companies:** 516 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OCBC | [Internship: Global Markets, Securities Finance [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Securities-Finance--Jul-to-Dec-2026-_JR00006620) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Digital Platforms [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Digital-Platforms--Jul-to-Dec-2026-_JR00006621) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Digital Markets [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Digital-Markets--Jul-to-Dec-2026-_JR00006627) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Digital Projects [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Digital-Projects--Jul-to-Dec-2026-_JR00006622) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Asset Liability Management, Portfolio Intelligence Unit [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Asset-Liability-Management--Portfolio-Intelligence-Unit--Jul-to-Dec-2026-_JR00006623) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Digital Assets [Ju; to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Digital-Assets--Ju--to-Dec-2026-_JR00006629) | OCBC Singapore… | 2026-03-28 |
+| OCBC | [Internship: Global Markets, Emerging Markets, Rates & NDF, SGD Rates [Jul to Dec 2026]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Markets--Emerging-Markets--Rates---NDF--SGD-Rates--Jul-to-Dec-2026-_JR00006631) | OCBC Singapore… | 2026-03-28 |
+| Micron | [F10 DAST Material Handling and Automation Engineer](https://micron.eightfold.ai/careers/apply?pid=41054506&domain=micron.com) | Singapore… | 2026-03-28 |
+| Micron | [Staff Recruiter](https://micron.eightfold.ai/careers/apply?pid=41104512&domain=micron.com) | Singapore… | 2026-03-28 |
+| Micron | [F10 DAST Material Handling and Automation Engineer](https://micron.eightfold.ai/careers/apply?pid=41054471&domain=micron.com) | Singapore… | 2026-03-28 |
+| Grab | [GrabAds Solution, Expansion & Tier 4 Territory Partner Associate](https://www.grab.careers/en/jobs/744000117447697/grabads-solution-expansion-tier-4-territory-partner-associate/) | Jakarta… | 2026-03-28 |
 | Deutsche Bank | [TDI - Software Engineer - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/72315) | Singapore… | 2026-03-27 |
 | Deutsche Bank | [TDI - Software Engineer - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/72314) | Singapore… | 2026-03-27 |
 | Deutsche Bank | [IB - Metals Origination - VP](https://careers.db.com/professionals/search-roles/#/professional/job/72362) | Singapore… | 2026-03-27 |
@@ -48,14 +59,3 @@ _Last updated: 2026-03-27_
 | Flyco Travel | [Business Development Internship](https://www.internsg.com/job/flyco-travel-business-development-internship-2/?f_pg=40) | SG… | 2026-03-27 |
 | Tomorrow Grp Pte Ltd | [Business Development Executive Intern](https://www.internsg.com/job/tomorrow-grp-pte-ltd-business-development-executive-intern/?f_pg=39) | Bedok, SG… | 2026-03-27 |
 | One Macrayan Pte Ltd | [Event Crew](https://www.internsg.com/job/one-macrayan-pte-ltd-event-crew-6/?f_pg=37) | SG… | 2026-03-27 |
-| Invigilo Technologies Pte. Ltd. | [Software & AI Tester (QA Engineer – AI Systems)](https://www.internsg.com/job/invigilo-technologies-pte-ltd-software-ai-tester-qa-engineer-ai-systems/?f_pg=38) | Queenstown, SG… | 2026-03-27 |
-| Univers Pte. Ltd. | [Sales Development Representative Intern](https://www.internsg.com/job/univers-pte-ltd-sales-development-representative-intern-immediate/?f_pg=39) | Bukit Merah, SG… | 2026-03-27 |
-| Future Fields Pte Ltd | [HR Intern](https://www.internsg.com/job/future-fields-pte-ltd-hr-intern/?f_pg=38) | Bukit Merah, SG… | 2026-03-27 |
-| Greater Green Pte Ltd | [eCommerce Fulfilment Assistant](https://www.internsg.com/job/greater-green-pte-ltd-e-commerce-fulfilment-assistant/?f_pg=42) | Changi, SG… | 2026-03-27 |
-| REACH Community Services Ltd. | [Social Service Intern](https://www.internsg.com/job/reach-community-services-ltd-social-service-intern-4/?f_pg=41) | Bukit Batok, SG… | 2026-03-27 |
-| Recruitment Support Pte. Ltd. | [Business Development Executive](https://www.internsg.com/job/recruitment-support-pte-ltd-business-development-executive/?f_pg=37) | Downtown Core, SG… | 2026-03-27 |
-| Altrocks Tech Pte Ltd | [Oracle NetSuite Support Consultant](https://www.internsg.com/job/altrocks-tech-pte-ltd-oracle-netsuite-support-consultant/?f_pg=41) | SG… | 2026-03-27 |
-| EventNook Pte Ltd | [Event Management & Marketing (Internship)](https://www.internsg.com/job/eventnook-pte-ltd-event-management-marketing-internship/?f_pg=40) | SG… | 2026-03-27 |
-| Activa Media Pte Ltd | [Content Writer Intern](https://www.internsg.com/job/activa-media-pte-ltd-content-writer-intern-6/?f_pg=36) | Geylang, SG… | 2026-03-27 |
-| MiAO Worlds | [HR Executive](https://www.internsg.com/job/miao-worlds-hr-executive/?f_pg=36) | Orchard, SG… | 2026-03-27 |
-| Nexus Core | [Network Engineer](https://www.internsg.com/job/nexus-core-network-engineer/?f_pg=41) | SG… | 2026-03-27 |
