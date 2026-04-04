@@ -1,14 +1,18 @@
 # Latest Jobs
 
-_Last updated: 2026-04-03_
+_Last updated: 2026-04-04_
 
-**Total jobs:** 4741 • **Companies:** 505 • **Top tag:** Others
+**Total jobs:** 4740 • **Companies:** 505 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Micron | [Frontend Central Product Integration Engineering (cPIE) Transformative HVB (high-value-bits) Engineer/Senior Engineer](https://micron.eightfold.ai/careers/apply?pid=41210446&domain=micron.com) | Singapore… | 2026-04-04 |
+| Grab | [Senior Machine Learning Engineer (Fulfilment ETA)](https://www.grab.careers/en/jobs/744000118694967/senior-machine-learning-engineer-fulfilment-eta/) | Singapore… | 2026-04-04 |
+| Grab | [Lead Product Manager, Data Platform](https://www.grab.careers/en/jobs/744000118699187/lead-product-manager-data-platform/) | Petaling Jaya… | 2026-04-04 |
+| Google | [Security Engineering Manager, Enterprise Data Protection](https://www.google.com/about/careers/applications/jobs/results/126267654368305862) |  | 2026-04-04 |
 | Creative Hamlet (House of Scenes) | [Photo and Video Intern](https://www.internsg.com/job/creative-hamlet-house-of-scenes-photo-and-video-intern/?f_pg=40) | Geylang, SG… | 2026-04-03 |
 | Creative Hamlet (Design Praxis) | [Branding and Design Intern](https://www.internsg.com/job/creative-hamlet-design-praxis-branding-and-design-intern/?f_pg=40) | Geylang, SG… | 2026-04-03 |
 | Thye Hua Kwan Moral Charities | [Music Therapist](https://www.internsg.com/job/thye-hua-kwan-moral-charities-music-therapist-ang-mo-kio-5/?f_pg=39) | Ang Mo Kio, SG… | 2026-04-03 |
@@ -55,7 +59,3 @@ _Last updated: 2026-04-03_
 | YSM Commercial Services Pte Ltd | [Admin and Accounting Intern](https://www.internsg.com/job/ysm-commercial-services-pte-ltd-admin-and-accounting-intern/?f_pg=30) | Geylang, SG… | 2026-04-03 |
 | Papa Palheta Pte Ltd | [Content Marketing Executive](https://www.internsg.com/job/papa-palheta-pte-ltd-content-marketing-executive-5/?f_pg=4) | SG… | 2026-04-03 |
 | Safran Singapore Pte. Ltd. | [Purchasing Intern](https://www.internsg.com/job/safran-singapore-pte-ltd-purchasing-intern-5/?f_pg=27) | Seletar, SG… | 2026-04-03 |
-| Qinetic Wellness | [Clinic Assistant](https://www.internsg.com/job/qinetic-wellness-clinic-assistant/?f_pg=30) | Bukit Timah, SG… | 2026-04-03 |
-| TechFin Global | [Digital Marketing & Social Media Intern](https://www.internsg.com/job/techfin-global-digital-marketing-social-media-intern-2/?f_pg=14) | Newton, SG… | 2026-04-03 |
-| National Volunteer & Philanthropy Centre | [Intern, Pre-Charities & Ground-Up Partnerships (Programmes, BAGUS Together)](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-pre-charities-ground-up-partnerships-programmes-bagus-together/?f_pg=26) | Singapore River, SG… | 2026-04-03 |
-| ConcreteAI | [Project Intern (Civil)](https://www.internsg.com/job/concreteai-project-intern-civil-2/?f_pg=23) | Queenstown, SG… | 2026-04-03 |
