@@ -1,14 +1,20 @@
 # Latest Jobs
 
-_Last updated: 2026-04-04_
+_Last updated: 2026-04-05_
 
-**Total jobs:** 4740 • **Companies:** 505 • **Top tag:** Others
+**Total jobs:** 4708 • **Companies:** 505 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OCBC | [Vice President, Competency Building](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Vice-President--Competency-Building_JR00006845) | OCBC Singapore… | 2026-04-05 |
+| OCBC | [Change Analyst, Regional and Synergy Initiatives (AVP/VP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Change-Analyst--Regional-and-Synergy-Initiatives--AVP-VP-_JR00006843) | OCBC Singapore… | 2026-04-05 |
+| Micron | [Intern - NAND Memory Cell](https://micron.eightfold.ai/careers/apply?pid=41131016&domain=micron.com) | Singapore… | 2026-04-05 |
+| Micron | [Intern- dry etch process dev](https://micron.eightfold.ai/careers/apply?pid=40872548&domain=micron.com) | Singapore… | 2026-04-05 |
+| Deloitte | [Deloitte Finance Intern](https://jobs.sea.deloitte.com/job/Singapore-Deloitte-Finance-Intern-Sing/948824810) | Singapore, Singapore… | 2026-04-05 |
+| Amazon | [Data Center Engineering Ops Engineer, DCEO](https://www.amazon.jobs/en/jobs/10383579/data-center-engineering-ops-engineer-dceo) | SGP… | 2026-04-05 |
 | Micron | [Frontend Central Product Integration Engineering (cPIE) Transformative HVB (high-value-bits) Engineer/Senior Engineer](https://micron.eightfold.ai/careers/apply?pid=41210446&domain=micron.com) | Singapore… | 2026-04-04 |
 | Grab | [Senior Machine Learning Engineer (Fulfilment ETA)](https://www.grab.careers/en/jobs/744000118694967/senior-machine-learning-engineer-fulfilment-eta/) | Singapore… | 2026-04-04 |
 | Grab | [Lead Product Manager, Data Platform](https://www.grab.careers/en/jobs/744000118699187/lead-product-manager-data-platform/) | Petaling Jaya… | 2026-04-04 |
@@ -53,9 +59,3 @@ _Last updated: 2026-04-04_
 | Niam Niam Things LLP | [Brand & Marketing Intern](https://www.internsg.com/job/niam-niam-things-llp-brand-marketing-intern/?f_pg=32) | Rochor, SG… | 2026-04-03 |
 | Talentwerkz Services | [Sales Associate](https://www.internsg.com/job/talentwerkz-services-sales-associate-3/?f_pg=29) | SG… | 2026-04-03 |
 | JT Management | [Wealth Management Internship](https://www.internsg.com/job/jt-management-wealth-management-internship/?f_pg=31) | Bukit Merah, SG… | 2026-04-03 |
-| Snaphunt Pte Ltd | [Manager-Mobile Acquisition & Growth](https://www.internsg.com/job/snaphunt-pte-ltd-manager-mobile-acquisition-growth/?f_pg=18) | SG… | 2026-04-03 |
-| Abiel | [Operations](https://www.internsg.com/job/abiel-operations/?f_pg=31) | Aljunied, SG… | 2026-04-03 |
-| Horizon Labs | [AI Venture Builder Intern](https://www.internsg.com/job/horizon-labs-ai-venture-builder-intern/?f_pg=23) | SG… | 2026-04-03 |
-| YSM Commercial Services Pte Ltd | [Admin and Accounting Intern](https://www.internsg.com/job/ysm-commercial-services-pte-ltd-admin-and-accounting-intern/?f_pg=30) | Geylang, SG… | 2026-04-03 |
-| Papa Palheta Pte Ltd | [Content Marketing Executive](https://www.internsg.com/job/papa-palheta-pte-ltd-content-marketing-executive-5/?f_pg=4) | SG… | 2026-04-03 |
-| Safran Singapore Pte. Ltd. | [Purchasing Intern](https://www.internsg.com/job/safran-singapore-pte-ltd-purchasing-intern-5/?f_pg=27) | Seletar, SG… | 2026-04-03 |
