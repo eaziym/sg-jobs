@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-11_
 
-**Total jobs:** 4734 • **Companies:** 491 • **Top tag:** Others
+**Total jobs:** 4709 • **Companies:** 491 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| GlobalFoundries | [Early Talent & University Relations Specialist](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Early-Talent---University-Relations-Specialist_JR-2601142) | Singapore… | 2026-04-11 |
+| Amazon | [Senior Product Manager, AWS Server Supply Chain](https://www.amazon.jobs/en/jobs/10389114/senior-product-manager-aws-server-supply-chain) | SGP… | 2026-04-11 |
 | Deutsche Bank | [Private Bank – Client Lifecycle Management (CLM) Data Analytics &amp; Reporting, AVP](https://careers.db.com/professionals/search-roles/#/professional/job/72660) | Singapore… | 2026-04-10 |
 | Activa Media Pte Ltd | [Senior SEO Strategist (Organic Growth)](https://www.internsg.com/job/activa-media-pte-ltd-senior-seo-strategist-organic-growth/?f_pg=35) | Geylang, SG… | 2026-04-10 |
 | Toyota Tsusho Asia Pacific Pte. Ltd. | [Supply Chain Intern - Sales and Marketing](https://www.internsg.com/job/toyota-tsusho-asia-pacific-pte-ltd-supply-chain-intern-sales-and-marketing/?f_pg=33) | Downtown Core, SG… | 2026-04-10 |
@@ -59,5 +61,3 @@ As part of BytePlus, you'll help enterprise customers build what's next for thei
 | Grab | [Senior Software Engineer, Backend](https://www.grab.careers/en/jobs/744000119935293/senior-software-engineer-backend/) | Singapore… | 2026-04-10 |
 | Micron | [Front End Cost Operation Strategic(FECOS) Inventory Control - High Volume Manufacturing(HVM) Manager](https://micron.eightfold.ai/careers/apply?pid=41281499&domain=micron.com) | Singapore… | 2026-04-10 |
 | Micron | [Global Facilities Senior Program Manager (PMO)](https://micron.eightfold.ai/careers/apply?pid=41281500&domain=micron.com) | Singapore… | 2026-04-10 |
-| Micron | [Principal data scientist](https://micron.eightfold.ai/careers/apply?pid=41287345&domain=micron.com) | Singapore… | 2026-04-10 |
-| Micron | [Intern- PIE PI (Product Integration Engineering, Process Integration)](https://micron.eightfold.ai/careers/apply?pid=41281272&domain=micron.com) | Singapore… | 2026-04-10 |
