@@ -1,14 +1,15 @@
 # Latest Jobs
 
-_Last updated: 2026-04-11_
+_Last updated: 2026-04-12_
 
-**Total jobs:** 4709 • **Companies:** 491 • **Top tag:** Others
+**Total jobs:** 4680 • **Companies:** 482 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OCBC | [AI Product Builder](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/AI-Product-Builder_JR00007026) | OCBC Singapore… | 2026-04-12 |
 | GlobalFoundries | [Early Talent & University Relations Specialist](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Early-Talent---University-Relations-Specialist_JR-2601142) | Singapore… | 2026-04-11 |
 | Amazon | [Senior Product Manager, AWS Server Supply Chain](https://www.amazon.jobs/en/jobs/10389114/senior-product-manager-aws-server-supply-chain) | SGP… | 2026-04-11 |
 | Deutsche Bank | [Private Bank – Client Lifecycle Management (CLM) Data Analytics &amp; Reporting, AVP](https://careers.db.com/professionals/search-roles/#/professional/job/72660) | Singapore… | 2026-04-10 |
@@ -22,7 +23,6 @@ _Last updated: 2026-04-11_
 | Singapore Institute of Manufacturing Technology (SIMTech) | [4D Printing Materials Research Intern](https://www.internsg.com/job/singapore-institute-of-manufacturing-technology-simtech-intern/?f_pg=30) | Western Water Catchment, SG… | 2026-04-10 |
 | The Curators Collective | [Retail Experience & Content Creation Intern](https://www.internsg.com/job/the-curators-collective-retail-experience-content-creation-intern/?f_pg=34) | Orchard, SG… | 2026-04-10 |
 | Pawkit Pte. Ltd. | [Customer Experience & Operations Intern at Pawkit (Pet-Tech Startup)](https://www.internsg.com/job/pawkit-pte-ltd-customer-experience-operations-intern-at-pawkit-pet-tech-startup/?f_pg=24) | Geylang, SG… | 2026-04-10 |
-| Yobbi Consultancy Pte Ltd | [Accounts Intern](https://www.internsg.com/job/yobbi-consultancy-pte-ltd-accounts-intern-8/?f_pg=40) | Downtown Core, SG… | 2026-04-10 |
 | Orapi Applied (S) Pte Ltd | [Marketing Intern](https://www.internsg.com/job/orapi-applied-s-pte-ltd-marketing-intern/?f_pg=38) | Tuas, SG… | 2026-04-10 |
 | BizSaver Pte Ltd | [Business Development Executive - Property and Business Finance Solutions](https://www.internsg.com/job/bizsaver-pte-ltd-business-development-executive-property-and-business-finance-solutions/?f_pg=37) | Bishan, SG… | 2026-04-10 |
 | inCall systems | [Digital Marketing Intern](https://www.internsg.com/job/incall-systems-digital-marketing-intern/?f_pg=31) | Bishan, SG… | 2026-04-10 |
@@ -37,10 +37,8 @@ _Last updated: 2026-04-11_
 | PricewaterhouseCoopers GHRS Pte Ltd | [Human Resources - Talent Acquisition Coordinator Off-Cycle Internship (Jul - Dec 26)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Human-Resources---Talent-Acquisition-Coordinator-Off-Cycle-Internship--Jul---Dec-26-_720506WD) | Singapore… | 2026-04-10 |
 | UOB | [AML Reviewer, Affluent Client Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AML-Reviewer--Affluent-Client-Group_JR83934) | Central Region (City Area)… | 2026-04-10 |
 | UOB | [Senior Officer, AML Control Ops](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer_JR83305) | Central Region (City Area)… | 2026-04-10 |
-| UOB | [2026 SIT Interns-3 (Cycle 2)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/XMLNAME-2026-SIT-Interns-3--Cycle-2-_JR83740) | Central Region (City Area)… | 2026-04-10 |
 | UOB | [Senior Officer - Data Analytics Specialist, Group Retail – R&C Analytics, Group Retail - Risk & Control](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer---Data-Analytics-Specialist--Group-Retail---R-C-Analytics--Group-Retail---Risk---Control_JR83915) | Central Region (City Area)… | 2026-04-10 |
 | UOB | [AVP/Manager/SO, Portfolio Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP-Manager-SO--Portfolio-Management_JR83679) | Central Region (City Area)… | 2026-04-10 |
-| UOB | [2026 SIT Interns-2 (Cycle 2)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/XMLNAME-2026-SIT-Interns-2--Cycle-2-_JR83739) | Central Region (City Area)… | 2026-04-10 |
 | OCBC | [VP, Senior Audit Manager - Data Governance & AI Audit](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/VP--Senior-Audit-Manager---Data-Governance---AI-Audit_JR00006998) | OCBC Singapore… | 2026-04-10 |
 | OCBC | [VP, Sustainability Advisory - Global Corporate Banking Division](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/VP--Sustainability-Advisory---Global-Corporate-Banking-Division_JR00006951) | OCBC Singapore… | 2026-04-10 |
 | OCBC | [AVP, Information Security and Digital Risk Management](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/AVP--Information-Security-and-Digital-Risk-Management_JR00006942) | OCBC Singapore… | 2026-04-10 |
@@ -61,3 +59,5 @@ As part of BytePlus, you'll help enterprise customers build what's next for thei
 | Grab | [Senior Software Engineer, Backend](https://www.grab.careers/en/jobs/744000119935293/senior-software-engineer-backend/) | Singapore… | 2026-04-10 |
 | Micron | [Front End Cost Operation Strategic(FECOS) Inventory Control - High Volume Manufacturing(HVM) Manager](https://micron.eightfold.ai/careers/apply?pid=41281499&domain=micron.com) | Singapore… | 2026-04-10 |
 | Micron | [Global Facilities Senior Program Manager (PMO)](https://micron.eightfold.ai/careers/apply?pid=41281500&domain=micron.com) | Singapore… | 2026-04-10 |
+| Micron | [Principal data scientist](https://micron.eightfold.ai/careers/apply?pid=41287345&domain=micron.com) | Singapore… | 2026-04-10 |
+| Micron | [Intern- PIE PI (Product Integration Engineering, Process Integration)](https://micron.eightfold.ai/careers/apply?pid=41281272&domain=micron.com) | Singapore… | 2026-04-10 |
