@@ -1,14 +1,18 @@
 # Latest Jobs
 
-_Last updated: 2026-04-17_
+_Last updated: 2026-04-18_
 
-**Total jobs:** 4928 • **Companies:** 525 • **Top tag:** Others
+**Total jobs:** 4900 • **Companies:** 525 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Grab | [Upmarket & Local Legend Kalimantan](https://www.grab.careers/en/jobs/744000121566827/upmarket-local-legend-kalimantan/) | Balikpapan… | 2026-04-18 |
+| Grab | [Regional Sales Compensation Manager](https://www.grab.careers/en/jobs/744000121573897/regional-sales-compensation-manager/) | Jakarta… | 2026-04-18 |
+| Grab | [Assistant Manager, Kios Retail Strategy](https://www.grab.careers/en/jobs/744000121578757/assistant-manager-kios-retail-strategy/) | Jakarta… | 2026-04-18 |
+| Grab | [Senior_Associate, Strategic Finance](https://www.grab.careers/en/jobs/744000121579807/senior_associate-strategic-finance/) | Petaling Jaya… | 2026-04-18 |
 | Jump Trading | [Clearing Associate (Weekend Support)](https://www.jumptrading.com/hr/job?gh_jid=7822869) | Shanghai or Singapore… | 2026-04-17 |
 | Real Estate Analytics Pte Ltd | [Business Analyst Intern](https://www.internsg.com/job/real-estate-analytics-pte-ltd-business-analyst-intern/?f_pg=21) | Downtown Core, SG… | 2026-04-17 |
 | SPH Media Limited | [Video Journalist Intern - English Media](https://www.internsg.com/job/sph-media-limited-video-journalist-intern-english-media/?f_pg=36) | Toa Payoh, SG… | 2026-04-17 |
@@ -55,7 +59,3 @@ _Last updated: 2026-04-17_
 | Snaphunt Pte Ltd | [.NET Backend Developer](https://www.internsg.com/job/snaphunt-pte-ltd-net-backend-developer/?f_pg=34) | SG… | 2026-04-17 |
 | Best Of Me Pte. Ltd. | [Executive Associate to CEO](https://www.internsg.com/job/best-of-me-pte-ltd-executive-associate-to-ceo/?f_pg=22) | Geylang, SG… | 2026-04-17 |
 | Zero1 Pte Ltd | [Brand Marketing Intern](https://www.internsg.com/job/zero1-pte-ltd-brand-marketing-intern-3/?f_pg=37) | 大巴窑, SG… | 2026-04-17 |
-| Horizon Labs | [Software Developer Intern](https://www.internsg.com/job/horizon-labs-software-developer-intern/?f_pg=41) | SG… | 2026-04-17 |
-| Amfuture Pte Ltd | [Intern - Digital Marketing Specialist](https://www.internsg.com/job/amfuture-pte-ltd-intern-digital-marketing-specialist/?f_pg=43) | Geylang, SG… | 2026-04-17 |
-| The Arcade People Pte Ltd | [Events Sales Executive](https://www.internsg.com/job/the-arcade-people-pte-ltd-events-sales-executive/?f_pg=41) | Geylang, SG… | 2026-04-17 |
-| Zenith Career Summit | [Marketing Promoter](https://www.internsg.com/job/zenith-career-summit-marketing-promoter/?f_pg=40) | SG… | 2026-04-17 |
