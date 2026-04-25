@@ -1,14 +1,21 @@
 # Latest Jobs
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-04-25_
 
-**Total jobs:** 4882 • **Companies:** 529 • **Top tag:** Others
+**Total jobs:** 4437 • **Companies:** 527 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Lion Global Investors Ltd | [Intern, Fund Services](https://www.internsg.com/job/lion-global-investors-ltd-intern-fund-services/?f_pg=40) | Downtown Core, SG… | 2026-04-25 |
+| Direct Wholesale Ltd. | [Retail Assistant](https://www.internsg.com/job/direct-wholesale-ltd-retail-assistant/?f_pg=39) | Museum, SG… | 2026-04-25 |
+| NTUC Health | [Y2S - Youth2Seniors Internship (Active Ageing Centre)](https://www.internsg.com/job/ntuc-health-y2s-youth2seniors-internship-active-ageing-centre-6/?f_pg=43) | SG… | 2026-04-25 |
+| Papilla Hair Pte Ltd | [Hair Therapist](https://www.internsg.com/job/papilla-hair-pte-ltd-hair-therapist/?f_pg=42) | Central Area, SG… | 2026-04-25 |
+| House of 28 | [Retail Supervisor](https://www.internsg.com/job/house-of-28-retail-supervisor/?f_pg=41) | Orchard, SG… | 2026-04-25 |
+| Long Bridge Securities Pte. Ltd. | [Social & Content Marketing Intern](https://www.internsg.com/job/long-bridge-securities-pte-ltd-social-content-marketing-intern/?f_pg=38) | SG… | 2026-04-25 |
+| Rajah & Tann Singapore LLP | [HR Intern](https://www.internsg.com/job/rajah-tann-singapore-llp-hr-intern/?f_pg=37) | Downtown Core, SG… | 2026-04-25 |
 | OKX | [Product Manager / Director, AI Trading](https://job-boards.greenhouse.io/okx/jobs/7712844003) | Singapore… | 2026-04-24 |
 | OKX | [Staff/Senior Staff Frontend Engineer - Growth](https://job-boards.greenhouse.io/okx/jobs/7712939003) | Singapore… | 2026-04-24 |
 | OKX | [Staff/Senior Staff Frontend Engineer - Customer Genius & BOSS](https://job-boards.greenhouse.io/okx/jobs/7712938003) | Singapore… | 2026-04-24 |
@@ -52,10 +59,3 @@ _Last updated: 2026-04-24_
 | Adecco | [Talent Acquisition Intern](https://www.internsg.com/job/adecco-talent-acquisition-intern/?f_pg=43) | Central Area, SG… | 2026-04-24 |
 | ACE Ascentia Pte. Ltd. | [Asset Management Consultant](https://www.internsg.com/job/ace-ascentia-pte-ltd-asset-management-consultant/?f_pg=26) | Downtown Core, SG… | 2026-04-24 |
 | Vocare Media Production | [Videographer](https://www.internsg.com/job/vocare-media-production-videographer-2/?f_pg=18) | Hougang, SG… | 2026-04-24 |
-| AMO | [Finance Internship](https://www.internsg.com/job/amo-finance-internship-2/?f_pg=37) | Queenstown, SG… | 2026-04-24 |
-| Mad Hat Asia | [PR Intern Pte Ltd](https://www.internsg.com/job/mad-hat-asia-pr-intern-4/?f_pg=35) | SG… | 2026-04-24 |
-| Barry Callebaut Asia Pacific | [Corporate Communications Intern (Content)](https://www.internsg.com/job/barry-callebaut-asia-pacific-corporate-communications-intern-content-2/?f_pg=16) | Downtown Core, SG… | 2026-04-24 |
-| Barghest Building Performance Pte Ltd (bbp) | [Safety & Compliance Engineer Intern](https://www.internsg.com/job/barghest-building-performance-pte-ltd-bbp-safety-compliance-engineer-intern/?f_pg=41) | Queenstown, SG… | 2026-04-24 |
-| Explorer Academy | [Social Media Content Creator](https://www.internsg.com/job/explorer-academy-social-media-content-creator-part-time-3/?f_pg=21) | SG… | 2026-04-24 |
-| Century Artisan Pte Ltd | [Marketing Creative / Social Media Executive](https://www.internsg.com/job/century-artisan-pte-ltd-marketing-creative-social-media-executive-2/?f_pg=41) | Geylang, SG… | 2026-04-24 |
-| Arty Learning Group Pte Ltd | [English Language Teacher (Part-Time)](https://www.internsg.com/job/arty-learning-group-pte-ltd-english-language-teacher-part-time-2/?f_pg=18) | Hougang, SG… | 2026-04-24 |
