@@ -1,14 +1,19 @@
 # Latest Jobs
 
-_Last updated: 2026-05-22_
+_Last updated: 2026-05-23_
 
-**Total jobs:** 5052 • **Companies:** 534 • **Top tag:** Others
+**Total jobs:** 5036 • **Companies:** 533 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Grab | [Manager, HR Strategic Workforce Planning](https://www.grab.careers/en/jobs/744000127993619/manager-hr-strategic-workforce-planning/) | Singapore… | 2026-05-23 |
+| Accenture | [Technology Strategy Consultant - Control Tower Governance](https://www.accenture.com/sg-en/careers/jobdetails?id=13900266_en) | Singapore… | 2026-05-23 |
+| Accenture | [Management Consultant - Change Management Resource](https://www.accenture.com/sg-en/careers/jobdetails?id=14343232_en) | Singapore… | 2026-05-23 |
+| Accenture | [Management Consultant - Change Management Resource](https://www.accenture.com/sg-en/careers/jobdetails?id=14343233_en) | Singapore… | 2026-05-23 |
+| Amazon | [Sr. SQL Analytics Specialist Solutions Architect, WWSO Data & AI, AWS](https://www.amazon.jobs/en/jobs/10428621/sr-sql-analytics-specialist-solutions-architect-wwso-data-ai-aws) | SGP… | 2026-05-23 |
 | Jump Trading | [Site Reliability Engineer](https://www.jumptrading.com/hr/job?gh_jid=7946643) | Singapore… | 2026-05-22 |
 | OKX | [Senior Strategy Project Manager, VIP/Institutions](https://job-boards.greenhouse.io/okx/jobs/7739162003) | Singapore… | 2026-05-22 |
 | Mighty Jaxx International | [Sales Operations Intern](https://www.internsg.com/job/mighty-jaxx-international-sales-operations-intern/?f_pg=38) | Hougang, SG… | 2026-05-22 |
@@ -19,7 +24,6 @@ _Last updated: 2026-05-22_
 | Yonyou (Singapore) Pte Ltd | [Enterprise Resource Planning Consultant Intern](https://www.internsg.com/job/yonyou-singapore-pte-ltd-enterprise-resource-planning-consultant-intern/?f_pg=35) | Downtown Core, SG… | 2026-05-22 |
 | Bob the Baker Boy Pte Ltd | [Digital Marketing Intern](https://www.internsg.com/job/bob-the-baker-boy-pte-ltd-digital-marketing-intern-5/?f_pg=42) | Clementi, SG… | 2026-05-22 |
 | Ransack SG Pte Ltd | [Business Ops Intern](https://www.internsg.com/job/ransack-sg-pte-ltd-business-ops-intern/?f_pg=39) | Queenstown, SG… | 2026-05-22 |
-| Rapsodo Pte. Ltd. | [IT Intern](https://www.internsg.com/job/rapsodo-pte-ltd-it-intern-2/?f_pg=43) | Queenstown, SG… | 2026-05-22 |
 | Sembcorp Specialised Construction Pte Ltd | [Intern, BIM Modeller](https://www.internsg.com/job/sembcorp-specialised-construction-pte-ltd-intern-bim-modeller/?f_pg=31) | Tampines, SG… | 2026-05-22 |
 | SPH Media Limited | [Multimedia Intern Journalist](https://www.internsg.com/job/sph-media-limited-multimedia-intern-journalist-3/?f_pg=36) | Toa Payoh, SG… | 2026-05-22 |
 | Deco Builders Singapore Pte Ltd | [Marketing Executive](https://www.internsg.com/job/deco-builders-singapore-pte-ltd-marketing/?f_pg=27) | Toa Payoh, SG… | 2026-05-22 |
@@ -38,7 +42,6 @@ _Last updated: 2026-05-22_
 | Snaphunt Pte Ltd | [Content Coordinator](https://www.internsg.com/job/snaphunt-pte-ltd-content-coordinator-work-from-home/?f_pg=33) | SG… | 2026-05-22 |
 | Christopher Lim & Associates | [Financial Services Consultant](https://www.internsg.com/job/christopher-lim-associates-financial-services-consultant-4/?f_pg=34) | Bukit Merah, SG… | 2026-05-22 |
 | Excel Hardware Pte Ltd | [Customer Service Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-customer-service-junior-executive-intern-23/?f_pg=42) | Sembawang, SG… | 2026-05-22 |
-| Inspiration Design International School | [Administration Intern](https://www.internsg.com/job/inspiration-design-international-school-administration-intern-5/?f_pg=34) | Rochor, SG… | 2026-05-22 |
 | Ley Choon Constructions and Engineering Pte Ltd | [Human Resource Assistant](https://www.internsg.com/job/ley-choon-constructions-and-engineering-pte-ltd-human-resource-assistant/?f_pg=35) | Sungei Kadut, SG… | 2026-05-22 |
 | Aid | [Social Media Intern](https://www.internsg.com/job/aid-social-media-intern/?f_pg=23) | Geylang, SG… | 2026-05-22 |
 | Excel Hardware Pte Ltd | [Digital Marketing Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-digital-marketing-junior-executive-intern-21/?f_pg=42) | Sembawang, SG… | 2026-05-22 |
@@ -54,8 +57,5 @@ _Last updated: 2026-05-22_
 | Pawkit Pte. Ltd. | [Social Media Content Creator Intern (Pet Industry)](https://www.internsg.com/job/pawkit-pte-ltd-social-media-content-creator-intern-pet-industry/?f_pg=39) | Geylang, SG… | 2026-05-22 |
 | AIA FA | [Student Advisor](https://www.internsg.com/job/aia-fa-student-advisor/?f_pg=32) | Bukit Merah, SG… | 2026-05-22 |
 | Lion Global Investors Ltd | [Intern, HR & Corporate Services](https://www.internsg.com/job/lion-global-investors-ltd-intern-hr-corporate-services/?f_pg=44) | Downtown Core, SG… | 2026-05-22 |
-| Ransack Pte Ltd | [Business Development & Operations Intern](https://www.internsg.com/job/ransack-pte-ltd-business-development-operations-intern/?f_pg=35) | Queenstown, SG… | 2026-05-22 |
 | Adept Business Consultancy | [Investment & Portfolio Construction Insights Program](https://www.internsg.com/job/adept-business-consultancy-investment-portfolio-construction-insights-program/?f_pg=31) | Serangoon, SG… | 2026-05-22 |
 | Gloo | [Social Media Intern](https://www.internsg.com/job/gloo-social-media-intern-6/?f_pg=43) | Singapore River, SG… | 2026-05-22 |
-| Lion Global Investors Ltd | [Intern, Portfolio Risk & Performance](https://www.internsg.com/job/lion-global-investors-ltd-intern-portfolio-risk-performance-2/?f_pg=34) | Downtown Core, SG… | 2026-05-22 |
-| Singapore Association of the Visually Handicapped | [Orientation & Mobility Trainees](https://www.internsg.com/job/singapore-association-of-the-visually-handicapped-orientation-mobility-trainees/?f_pg=41) | Toa Payoh, SG… | 2026-05-22 |
