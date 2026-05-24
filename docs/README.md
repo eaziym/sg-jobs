@@ -1,14 +1,18 @@
 # Latest Jobs
 
-_Last updated: 2026-05-23_
+_Last updated: 2026-05-24_
 
-**Total jobs:** 5036 • **Companies:** 533 • **Top tag:** Others
+**Total jobs:** 5033 • **Companies:** 533 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [VP2 Domain Architect (Trade/Supply Chain Finance), GMET](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-Domain-Architect--Trade-Supply-Chain-Finance---GMET_JR87032) | Central Region (City Area)… | 2026-05-24 |
+| UOB | [Assistant VP, HR Business Partner, Group HR](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-VP--HR-Business-Partner--Group-HR_JR87160-1) | Central Region (City Area)… | 2026-05-24 |
+| Micron | [Intern - NAND Device Engineering AI](https://micron.eightfold.ai/careers/apply?pid=41970266&domain=micron.com) | Singapore… | 2026-05-24 |
+| Micron | [Technologist - QEM Quality Management System (QMS)](https://micron.eightfold.ai/careers/apply?pid=42036439&domain=micron.com) | Singapore… | 2026-05-24 |
 | Grab | [Manager, HR Strategic Workforce Planning](https://www.grab.careers/en/jobs/744000127993619/manager-hr-strategic-workforce-planning/) | Singapore… | 2026-05-23 |
 | Accenture | [Technology Strategy Consultant - Control Tower Governance](https://www.accenture.com/sg-en/careers/jobdetails?id=13900266_en) | Singapore… | 2026-05-23 |
 | Accenture | [Management Consultant - Change Management Resource](https://www.accenture.com/sg-en/careers/jobdetails?id=14343232_en) | Singapore… | 2026-05-23 |
@@ -55,7 +59,3 @@ _Last updated: 2026-05-23_
 | Singapore Food Service Pte Ltd | [AI / Automation Intern](https://www.internsg.com/job/singapore-food-service-pte-ltd-ai-automation-intern/?f_pg=15) | Tampines, SG… | 2026-05-22 |
 | Medicare (S) Pte Ltd | [Graphic Designer and Social Media Marketing Intern](https://www.internsg.com/job/medicare-s-pte-ltd-graphic-designer-and-social-media-marketing-intern/?f_pg=30) | Bishan, SG… | 2026-05-22 |
 | Pawkit Pte. Ltd. | [Social Media Content Creator Intern (Pet Industry)](https://www.internsg.com/job/pawkit-pte-ltd-social-media-content-creator-intern-pet-industry/?f_pg=39) | Geylang, SG… | 2026-05-22 |
-| AIA FA | [Student Advisor](https://www.internsg.com/job/aia-fa-student-advisor/?f_pg=32) | Bukit Merah, SG… | 2026-05-22 |
-| Lion Global Investors Ltd | [Intern, HR & Corporate Services](https://www.internsg.com/job/lion-global-investors-ltd-intern-hr-corporate-services/?f_pg=44) | Downtown Core, SG… | 2026-05-22 |
-| Adept Business Consultancy | [Investment & Portfolio Construction Insights Program](https://www.internsg.com/job/adept-business-consultancy-investment-portfolio-construction-insights-program/?f_pg=31) | Serangoon, SG… | 2026-05-22 |
-| Gloo | [Social Media Intern](https://www.internsg.com/job/gloo-social-media-intern-6/?f_pg=43) | Singapore River, SG… | 2026-05-22 |
