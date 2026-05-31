@@ -1,14 +1,16 @@
 # Latest Jobs
 
-_Last updated: 2026-05-30_
+_Last updated: 2026-05-31_
 
-**Total jobs:** 5051 • **Companies:** 523 • **Top tag:** Others
+**Total jobs:** 5024 • **Companies:** 523 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Tencent | [Tencent Cloud - Senior Channel Sales Executive (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Channel-Sales-Executive--Singapore-_R107568) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-05-31 |
 | Grab | [Lead Software Engineer](https://www.grab.careers/en/jobs/744000129290349/lead-software-engineer/) | Singapore… | 2026-05-30 |
 | Micron | [INTERN - POST ELECTRICAL EQUIPMENT SUPPORT](https://micron.eightfold.ai/careers/apply?pid=42067388&domain=micron.com) | Singapore… | 2026-05-30 |
 | Micron | [Sr Engineer, SPMO Construction](https://micron.eightfold.ai/careers/apply?pid=41967320&domain=micron.com) | Singapore… | 2026-05-30 |
@@ -58,4 +60,3 @@ _Last updated: 2026-05-30_
 | Atomic Events Global Pte Ltd | [Marketing & Content Intern](https://www.internsg.com/job/atomic-events-global-pte-ltd-marketing-content-intern/?f_pg=39) | Kallang, SG… | 2026-05-29 |
 | Aramco Trading Singapore | [Analytics Intern (6 Months Full Time)](https://www.internsg.com/job/aramco-trading-singapore-analytics-intern-6-months-full-time/?f_pg=31) | Downtown Core, SG… | 2026-05-29 |
 | Sunlink Engineering Pte Ltd | [Digital Marketing Internship](https://www.internsg.com/job/sunlink-engineering-pte-ltd-digital-marketing-internship/?f_pg=33) | Jurong West, SG… | 2026-05-29 |
-| Lion Global Investors Ltd | [Quant Research, Data Engineering, NLP, and Generative AI Intern](https://www.internsg.com/job/lion-global-investors-ltd-quant-research-data-engineering-nlp-and-generative-ai-intern-2/?f_pg=44) | Downtown Core, SG… | 2026-05-29 |
