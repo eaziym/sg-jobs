@@ -1,14 +1,39 @@
 # Latest Jobs
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-06-01_
 
-**Total jobs:** 5024 • **Companies:** 523 • **Top tag:** Others
+**Total jobs:** 4958 • **Companies:** 523 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| OCBC | [GTS-Infrastructure Services, Network Infrastructure Engineer-DC Core, Assistant Vice President](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/GTS-Infrastructure-Services--Network-Infrastructure-Engineer-DC-Core--Assistant-Vice-President_JR00008309) | OCBC Singapore… | 2026-06-01 |
+| Grab | [Senior Engineering Manager](https://www.grab.careers/en/jobs/744000129391793/senior-engineering-manager/) | Bangalore… | 2026-06-01 |
+| Grab | [Senior Market Insights Analyst](https://www.grab.careers/en/jobs/744000129375149/senior-market-insights-analyst/) | Pasig City… | 2026-06-01 |
+| Grab | [Senior Software Engineer in Test](https://www.grab.careers/en/jobs/744000129442789/senior-software-engineer-in-test/) | Bangalore… | 2026-06-01 |
+| Grab | [Lead Product Manager, Ad Serving & Ranking, Demand and Ads Team](https://www.grab.careers/en/jobs/744000129376955/lead-product-manager-ad-serving-ranking-demand-and-ads-team/) | Beijing… | 2026-06-01 |
+| Grab | [Specialist, HR Operations (People Experience)](https://www.grab.careers/en/jobs/744000129388342/specialist-hr-operations-people-experience/) | Pasig City… | 2026-06-01 |
+| Grab | [Communications Manager / Senior Manager (Product)](https://www.grab.careers/en/jobs/744000129459859/communications-manager-senior-manager-product/) | Petaling Jaya… | 2026-06-01 |
+| Micron | [Intern - AI / Data Science Engineering](https://micron.eightfold.ai/careers/apply?pid=42151042&domain=micron.com) | Singapore… | 2026-06-01 |
+| Micron | [Intern - Metrology (Data Analytics)](https://micron.eightfold.ai/careers/apply?pid=41847486&domain=micron.com) | Singapore… | 2026-06-01 |
+| Micron | [Intern - PEE](https://micron.eightfold.ai/careers/apply?pid=42118537&domain=micron.com) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Commercial & Investment Bank - Global Payments Program -  Summer Analyst  - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749751) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Summer Analyst - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749762) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Commercial & Investment Bank - Markets Summer Analyst Program - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747429) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Global Private Bank Investment Solutions Program – Summer Internship - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745323) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Asset Management Program – Summer Internship - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745305) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [2027 Global Private Bank Advisor Program – Summer Internship – Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745202) | Singapore… | 2026-06-01 |
+| JPMorgan Chase | [Product Manager - Kinexys Payments, Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750232) | Singapore… | 2026-06-01 |
+| Google | [Network Implementation Engineer, Edge Delivery - Singapore or Bengaluru](https://www.google.com/about/careers/applications/jobs/results/108935643584701126) |  | 2026-06-01 |
+| Google | [Growth Consultant, AppDev, Google Customer Solutions (English, Japanese)](https://www.google.com/about/careers/applications/jobs/results/94923123802940102) |  | 2026-06-01 |
+| Google | [AI Adoption Customer Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/110466988404286150) |  | 2026-06-01 |
+| Google | [Staff Software Engineer, Information Security Engineering](https://www.google.com/about/careers/applications/jobs/results/129635805403456198) |  | 2026-06-01 |
+| Google | [Strategic Partner Development Manager, TV Platform and Monetization](https://www.google.com/about/careers/applications/jobs/results/87958817152606918) |  | 2026-06-01 |
+| Google | [International Growth Consultant, App Developer Sales (Chinese, English)](https://www.google.com/about/careers/applications/jobs/results/88307362338611910) |  | 2026-06-01 |
+| Google | [Software Engineering Manager, Acceleration Platform](https://www.google.com/about/careers/applications/jobs/results/143944299971519174) |  | 2026-06-01 |
+| Amazon | [調達オペレーションスペシャリスト/ Procurement Operations Specialist, Data Center Services Procurement](https://www.amazon.jobs/en/jobs/10435373/procurement-operations-specialist-data-center-services-procurement) | SGP… | 2026-06-01 |
 | Tencent | [Tencent Cloud - Senior Channel Sales Executive (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Channel-Sales-Executive--Singapore-_R107568) | Business Unit
 Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-05-31 |
 | Grab | [Lead Software Engineer](https://www.grab.careers/en/jobs/744000129290349/lead-software-engineer/) | Singapore… | 2026-05-30 |
@@ -35,28 +60,3 @@ Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's
 | Halogen Singapore | [Consultant](https://www.internsg.com/job/halogen-singapore-consultant/?f_pg=40) | SG… | 2026-05-29 |
 | COMO Pte Ltd | [eCommerce Intern](https://www.internsg.com/job/como-pte-ltd-ecommerce-intern-2/?f_pg=34) | Newton, SG… | 2026-05-29 |
 | Gourmet Supplies Pte Ltd | [Marketing Intern](https://www.internsg.com/job/gourmet-supplies-pte-ltd-marketing-intern-2/?f_pg=39) | Sembawang, SG… | 2026-05-29 |
-| Skynet Assurance Agency Pte Ltd | [Finance and Marketing Intern](https://www.internsg.com/job/skynet-assurance-agency-pte-ltd-finance-and-marketing-intern/?f_pg=39) | Tanjong Pagar, SG… | 2026-05-29 |
-| Archangel Digital Studios | [Marketing Coordinator](https://www.internsg.com/job/archangel-digital-studios-marketing-coordinator/?f_pg=25) | SG… | 2026-05-29 |
-| Mediacorp Pte. Ltd. | [Internship - Entertainment Products](https://www.internsg.com/job/mediacorp-pte-ltd-internship-entertainment-products/?f_pg=24) | Queenstown, SG… | 2026-05-29 |
-| Click Cartel | [Social Media Content Creator Intern](https://www.internsg.com/job/click-cartel-social-media-content-creator-intern-3/?f_pg=24) | Woodlands, SG… | 2026-05-29 |
-| AIA FA | [Student Advisor](https://www.internsg.com/job/aia-fa-student-advisor/?f_pg=38) | Bukit Merah, SG… | 2026-05-29 |
-| Snaphunt Pte Ltd | [Digital Growth & Performance Manager](https://www.internsg.com/job/snaphunt-pte-ltd-digital-growth-performance-manager/?f_pg=44) | SG… | 2026-05-29 |
-| Enible | [Projects & Business Development Intern](https://www.internsg.com/job/enible-projects-business-development-intern/?f_pg=42) | Geylang, SG… | 2026-05-29 |
-| Snaphunt Pte Ltd | [AI Automation Engineer (.NET)](https://www.internsg.com/job/snaphunt-pte-ltd-ai-automation-engineer-net/?f_pg=26) | SG… | 2026-05-29 |
-| B Alliance Pte Ltd | [IT Movers](https://www.internsg.com/job/b-alliance-pte-ltd-it-movers/?f_pg=38) | Downtown Core, SG… | 2026-05-29 |
-| Ransack Studios | [Social Media Content and Video Editing Intern](https://www.internsg.com/job/ransack-studios-social-media-content-and-video-editing-intern/?f_pg=41) | Queenstown, SG… | 2026-05-29 |
-| Sodexo Singapore Pte Ltd | [Food Safety Intern](https://www.internsg.com/job/sodexo-singapore-pte-ltd-food-safety-intern/?f_pg=33) | Geylang, SG… | 2026-05-29 |
-| Recruit Express Pte Ltd | [Recruitment Consultant (Banking and Finance Specialisation)](https://www.internsg.com/job/recruit-express-pte-ltd-recruitment-consultant-banking-and-finance-specialisation-2/?f_pg=39) | SG… | 2026-05-29 |
-| Mediacorp Pte. Ltd. | [Internship - Chinese Drama - Production Support](https://www.internsg.com/job/mediacorp-pte-ltd-internship-chinese-drama-production-support/?f_pg=32) | Queenstown, SG… | 2026-05-29 |
-| Mighty Jaxx International Pte. Ltd. | [Sales Operations Intern](https://www.internsg.com/job/mighty-jaxx-international-pte-ltd-sales-operations-intern-3/?f_pg=22) | Hougang, SG… | 2026-05-29 |
-| Thye Hua Kwan Moral Charities | [Executive, Procurement](https://www.internsg.com/job/thye-hua-kwan-moral-charities-executive-procurement/?f_pg=20) | Downtown Core, SG… | 2026-05-29 |
-| Ban Leong Technologies Pte Ltd | [Data Analyst Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-data-analyst-intern-2/?f_pg=26) | Geylang, SG… | 2026-05-29 |
-| Camp Beaumont Asia | [English in Action Tutor](https://www.internsg.com/job/camp-beaumont-asia-english-in-action-tutor/?f_pg=35) | Geylang, SG… | 2026-05-29 |
-| Mediacorp Pte. Ltd. | [Internship - Chinese Drama Productions / Scriptwriting](https://www.internsg.com/job/mediacorp-pte-ltd-internship-chinese-drama-productions-scriptwriting/?f_pg=32) | Queenstown, SG… | 2026-05-29 |
-| Raffles Medical Group Pte Ltd | [Internship \| Raffles Medical Clinic (NTU)](https://www.internsg.com/job/raffles-medical-group-pte-ltd-internship-raffles-medical-clinic-ntu/?f_pg=33) | Western Water Catchment, SG… | 2026-05-29 |
-| NEBA Private Clients Pte Ltd | [Administration Intern](https://www.internsg.com/job/neba-private-clients-pte-ltd-administration-intern-2/?f_pg=39) | Downtown Core, SG… | 2026-05-29 |
-| 1103 Studios Private Limited | [Marketing Intern](https://www.internsg.com/job/1103-studios-private-limited-marketing-intern/?f_pg=43) | SG… | 2026-05-29 |
-| 1-Group | [Marketing Intern](https://www.internsg.com/job/1-group-marketing-intern/?f_pg=33) | Bukit Merah, SG… | 2026-05-29 |
-| Atomic Events Global Pte Ltd | [Marketing & Content Intern](https://www.internsg.com/job/atomic-events-global-pte-ltd-marketing-content-intern/?f_pg=39) | Kallang, SG… | 2026-05-29 |
-| Aramco Trading Singapore | [Analytics Intern (6 Months Full Time)](https://www.internsg.com/job/aramco-trading-singapore-analytics-intern-6-months-full-time/?f_pg=31) | Downtown Core, SG… | 2026-05-29 |
-| Sunlink Engineering Pte Ltd | [Digital Marketing Internship](https://www.internsg.com/job/sunlink-engineering-pte-ltd-digital-marketing-internship/?f_pg=33) | Jurong West, SG… | 2026-05-29 |
