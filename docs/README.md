@@ -1,14 +1,22 @@
 # Latest Jobs
 
-_Last updated: 2026-06-06_
+_Last updated: 2026-06-07_
 
-**Total jobs:** 5021 • **Companies:** 517 • **Top tag:** Others
+**Total jobs:** 5012 • **Companies:** 516 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| UOB | [VP2 Technology Risk Governance & Third Party, TOGA](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-Technology-Risk-Governance---Third-Party--TOGA_JR85522-1) | Central Region (City Area)… | 2026-06-07 |
+| Tencent | [Tencent Cloud – Executive Assistant (Graduate / Early-Career Professionals)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Executive-Assistant--Graduate---Early-Career-Professionals-_R107611) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-06-07 |
+| Grab | [Lead Software Engineer, Mobile (Flutter) - Merchant Experience](https://www.grab.careers/en/jobs/744000130664919/lead-software-engineer-mobile-flutter-merchant-experience/) | Jakarta… | 2026-06-07 |
+| Grab | [Assistant Manager, Communications](https://www.grab.careers/en/jobs/744000130670729/assistant-manager-communications/) | Jakarta… | 2026-06-07 |
+| Goldman Sachs | [Asset & Wealth Management, Equity Structuring & Managed Strategies, Executive Director, Singapore](https://higher.gs.com/roles/175511) | Singapore… | 2026-06-07 |
+| Deloitte | [A&A - Amplify Program Audit & Assurance - Singapore](https://jobs.sea.deloitte.com/job/Singapore-A&A-Amplify-Program-Audit-&-Assurance-Singapore-Sing/1362465366) | Singapore, Singapore… | 2026-06-07 |
+| Amazon | [Technical Account Manager, ES – APJC-ASEAN](https://www.amazon.jobs/en/jobs/10441630/technical-account-manager-es-apjc-asean) | SGP… | 2026-06-07 |
 | Jump Trading | [Software Engineer \| Trading Team](https://www.jumptrading.com/hr/job?gh_jid=6084822) | Singapore… | 2026-06-06 |
 | Jump Trading | [Trader \| Crypto](https://www.jumptrading.com/hr/job?gh_jid=4862925) | Singapore… | 2026-06-06 |
 | Jump Trading | [Security Engineer](https://www.jumptrading.com/hr/job?gh_jid=6826011) | Singapore and Sydney… | 2026-06-06 |
@@ -52,10 +60,3 @@ _Last updated: 2026-06-06_
 | OKX | [Senior/Principal Product Manager, DEX Trading](https://job-boards.greenhouse.io/okx/jobs/7671614003) | Singapore… | 2026-06-06 |
 | OKX | [Growth & AI Initiatives Manager](https://job-boards.greenhouse.io/okx/jobs/7668551003) | Singapore… | 2026-06-06 |
 | OKX | [Senior Product Manager - Risk Platform](https://job-boards.greenhouse.io/okx/jobs/6642975003) | Singapore… | 2026-06-06 |
-| OKX | [Senior Product Designer, User Growth](https://job-boards.greenhouse.io/okx/jobs/6582362003) | Singapore… | 2026-06-06 |
-| OKX | [Senior Product Designer](https://job-boards.greenhouse.io/okx/jobs/6246527003) | Singapore… | 2026-06-06 |
-| OKX | [Principal / Senior Product Manager, Institution Onboarding Experience (KYB)](https://job-boards.greenhouse.io/okx/jobs/6584033003) | Singapore… | 2026-06-06 |
-| OKX | [HR Business Partner Director](https://job-boards.greenhouse.io/okx/jobs/7699821003) | Singapore… | 2026-06-06 |
-| OKX | [Vice President, AI Strategy & Transformation](https://job-boards.greenhouse.io/okx/jobs/7684887003) | Singapore… | 2026-06-06 |
-| OKX | [Senior Data Analyst, Trading Product (AI-Native)](https://job-boards.greenhouse.io/okx/jobs/6225586003) | Singapore… | 2026-06-06 |
-| OKX | [Product Manager / Director, Global Payment Partnerships](https://job-boards.greenhouse.io/okx/jobs/7527252003) | Singapore… | 2026-06-06 |
