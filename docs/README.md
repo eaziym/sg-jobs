@@ -1,18 +1,19 @@
 # Latest Jobs
 
-_Last updated: 2026-06-13_
+_Last updated: 2026-06-14_
 
-**Total jobs:** 5089 • **Companies:** 513 • **Top tag:** Others
+**Total jobs:** 5058 • **Companies:** 506 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Micron | [Senior Engineer, Process Development, Diffusion, NTI](https://micron.eightfold.ai/careers/apply?pid=41897048&domain=micron.com) | Singapore… | 2026-06-14 |
+| GlobalFoundries | [Snr Eng Test Engineering](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/Snr-Eng-Test-Engineering_JR-2602535) | Singapore… | 2026-06-14 |
 | Thereafter Pte. Ltd. | [Investment & Financial Literacy Research Intern](https://www.internsg.com/job/thereafter-pte-ltd-investment-financial-literacy-research-intern/?f_pg=20) | SG… | 2026-06-13 |
 | LoonGlobal Engineering Pte. Ltd. | [Project Engineer](https://www.internsg.com/job/loonglobal-engineering-pte-ltd-project-engineer-fresh-graduates-no-experience-needed/?f_pg=43) | Clementi, SG… | 2026-06-13 |
 | MEML Technologies Pte. Ltd. | [Business Development and Marketing Intern](https://www.internsg.com/job/meml-technologies-pte-ltd-business-development-and-marketing-intern/?f_pg=37) | SG… | 2026-06-13 |
-| Nested Technologies Pte. Ltd. | [Front-End Development Intern](https://www.internsg.com/job/nested-technologies-pte-ltd-front-end-development-intern-49/?f_pg=44) | Geylang, SG… | 2026-06-13 |
 | Mediacorp Pte. Ltd. | [Internship Product & Marketing merewards](https://www.internsg.com/job/mediacorp-pte-ltd-internship-product-marketing-merewards/?f_pg=31) | Queenstown, SG… | 2026-06-13 |
 | GetGo Technologies Pte Ltd | [Intern, Strategic Partnerships](https://www.internsg.com/job/getgo-technologies-pte-ltd-intern-strategic-partnerships/?f_pg=34) | SG… | 2026-06-13 |
 | SPH Media Limited | [Writing Intern - ICON Magazines](https://www.internsg.com/job/sph-media-limited-writing-intern-icon-magazines/?f_pg=40) | Toa Payoh, SG… | 2026-06-13 |
@@ -48,7 +49,6 @@ _Last updated: 2026-06-13_
 | Heavenly Pte Ltd | [Marketing Intern](https://www.internsg.com/job/heavenly-pte-ltd-marketing-intern-for-a-healthy-food-brand/?f_pg=27) | Sungei Kadut, SG… | 2026-06-13 |
 | A P Beauty Private Limited | [Front Desk](https://www.internsg.com/job/a-p-beauty-private-limited-front-desk/?f_pg=35) | Toa Payoh, SG… | 2026-06-13 |
 | Mediacorp Pte. Ltd. | [Internship - Indian Content Marketing](https://www.internsg.com/job/mediacorp-pte-ltd-internship-indian-content-marketing/?f_pg=28) | Queenstown, SG… | 2026-06-13 |
-| Nested Technologies Pte. Ltd. | [Software Development Intern](https://www.internsg.com/job/nested-technologies-pte-ltd-software-development-intern-49/?f_pg=44) | Geylang, SG… | 2026-06-13 |
 | MindChamps Singapore Pte Limited | [Part Time Admin (Saturday)](https://www.internsg.com/job/mindchamps-singapore-pte-limited-part-time-admin-saturday/?f_pg=37) | Downtown Core, SG… | 2026-06-13 |
 | Global Success Talent Pte Ltd | [Office Admin Executive (Internship)](https://www.internsg.com/job/global-success-talent-pte-ltd-office-admin-executive-internship/?f_pg=33) | SG… | 2026-06-13 |
 | Mighty Jaxx International Pte. Ltd. | [Product Management Intern](https://www.internsg.com/job/mighty-jaxx-international-pte-ltd-product-management-intern-2/?f_pg=28) | Hougang, SG… | 2026-06-13 |
