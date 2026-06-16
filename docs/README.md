@@ -1,61 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-06-16_
 
-**Total jobs:** 5071 • **Companies:** 506 • **Top tag:** Others
+**Total jobs:** 5098 • **Companies:** 513 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| OKX | [Product Director, Internal HR & Finance Systems](https://job-boards.greenhouse.io/okx/jobs/7773206003) | Singapore… | 2026-06-15 |
-| MOI Beauty Private Limited | [Massage Therapist](https://www.internsg.com/job/moi-beauty-private-limited-massage-therapist/?f_pg=37) | Orchard, SG… | 2026-06-15 |
-| Big 3 Group | [Tech Product Management Intern](https://www.internsg.com/job/big-3-group-tech-product-management-intern-2/?f_pg=10) | Toa Payoh, SG… | 2026-06-15 |
-| O2genes Private Limited | [Search Engine Optimisation (SEO) Intern](https://www.internsg.com/job/o2genes-private-limited-search-engine-optimisation-seo-intern/?f_pg=19) | SG… | 2026-06-15 |
-| Fingertips 365 Pte Ltd | [Marketing Intern](https://www.internsg.com/job/fingertips-365-pte-ltd-marketing-intern-6/?f_pg=37) | SG… | 2026-06-15 |
-| Explorer Academy | [Customer Support Specialist (Part-time)](https://www.internsg.com/job/explorer-academy-customer-support-specialist-part-time-2/?f_pg=13) | SG… | 2026-06-15 |
-| Precious Thoughts Retail Pte Ltd | [Social Media & Marketing Intern](https://www.internsg.com/job/precious-thoughts-retail-pte-ltd-social-media-marketing-intern/?f_pg=43) | Toa Payoh, SG… | 2026-06-15 |
-| Mighty Jaxx International Pte. Ltd. | [3D Art Intern](https://www.internsg.com/job/mighty-jaxx-international-pte-ltd-3d-art-intern-3/?f_pg=41) | Hougang, SG… | 2026-06-15 |
-| Explorer Academy | [Primary School Science Tutor / Tuition Teacher (Full-time)](https://www.internsg.com/job/explorer-academy-primary-school-science-tutor-tuition-teacher-full-time/?f_pg=13) | SG… | 2026-06-15 |
-| HOYA Surgical Optics | [Intern, Quality Assurance](https://www.internsg.com/job/hoya-surgical-optics-intern-quality-assurance/?f_pg=10) | Queenstown, SG… | 2026-06-15 |
-| OH! Open House | [Communications and Engagement Executive](https://www.internsg.com/job/oh-open-house-communications-and-engagement-executive/?f_pg=5) | SG… | 2026-06-15 |
-| Brillianaire Group Pte Ltd | [Marketing Intern](https://www.internsg.com/job/brillianaire-group-pte-ltd-marketing-intern/?f_pg=7) | Paya Lebar, SG… | 2026-06-15 |
-| Cynapse Pte Ltd | [Project Management Officer (PMO) / Quality Assurance (QA) Intern](https://www.internsg.com/job/cynapse-pte-ltd-project-management-officer-pmo-quality-assurance-qa-intern-14/?f_pg=10) | Queenstown, SG… | 2026-06-15 |
-| The Makers Creative Agency | [Design Nerd Intern (2D & Animation)](https://www.internsg.com/job/the-makers-creative-agency-design-nerd-intern-2d-animation/?f_pg=6) | Geylang, SG… | 2026-06-15 |
-| Recruit Express Pte Ltd | [Talent Acquisition Intern](https://www.internsg.com/job/recruit-express-pte-ltd-summer-break-talent-acquisition-intern-full-training-mentorship-provided/?f_pg=43) | Orchard, SG… | 2026-06-15 |
-| Break The Wheel Ltd | [Coaching for Interns](https://www.internsg.com/job/break-the-wheel-ltd-coaching-for-interns/?f_pg=43) | SG… | 2026-06-15 |
-| Mediacorp Pte. Ltd. | [Internship Chinese Drama Productions Research](https://www.internsg.com/job/mediacorp-pte-ltd-internship-chinese-drama-productions-research/?f_pg=43) | Queenstown, SG… | 2026-06-15 |
-| Lionmind AI | [Product Manager / UI Designer](https://www.internsg.com/job/lionmind-ai-product-manager-ui-designer/?f_pg=43) | Central Area, SG… | 2026-06-15 |
-| Quiver | [Mobile Software Engineer Intern](https://www.internsg.com/job/quiver-mobile-software-engineer-intern-2/?f_pg=43) | SG… | 2026-06-15 |
-| EchoVista Radar Pte.Ltd | [Accounting Manager](https://www.internsg.com/job/echovista-radar-pte-ltd-accounting-manager/?f_pg=42) | SG… | 2026-06-15 |
-| PulseActiv Pte Ltd | [Events Executive](https://www.internsg.com/job/pulseactiv-pte-ltd-events-executive-2/?f_pg=42) | Kallang, SG… | 2026-06-15 |
-| Singapore Medical Group | [Patient Service Intern (Dental)](https://www.internsg.com/job/singapore-medical-group-patient-service-intern-dental/?f_pg=42) | Newton, SG… | 2026-06-15 |
-| CPO Pte Ltd | [Customer Service Intern](https://www.internsg.com/job/cpo-pte-ltd-customer-service-intern-2/?f_pg=42) | Changi, SG… | 2026-06-15 |
-| Singapore Law Advisory | [Legal Researcher & Writer](https://www.internsg.com/job/singapore-law-advisory-legal-researcher-writer/?f_pg=41) | SG… | 2026-06-15 |
-| Mediacorp Pte. Ltd. | [Internship - Media Research Consultants](https://www.internsg.com/job/mediacorp-pte-ltd-internship-media-research-consultants-2/?f_pg=41) | Queenstown, SG… | 2026-06-15 |
-| Mighty Jaxx International Pte. Ltd. | [Sales Operations Intern](https://www.internsg.com/job/mighty-jaxx-international-pte-ltd-sales-operations-intern-3/?f_pg=41) | Hougang, SG… | 2026-06-15 |
-| Seng Hua Hng Foodstuff Pte Ltd (Camelnuts) | [Food QA / R&D Intern](https://www.internsg.com/job/seng-hua-hng-foodstuff-pte-ltd-camelnuts-food-qa-rd-intern-4/?f_pg=41) | Hougang, SG… | 2026-06-15 |
-| National Volunteer & Philanthropy Centre | [Intern, Charity Relationship Management](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-charity-relationship-management-2/?f_pg=41) | Singapore River, SG… | 2026-06-15 |
-| MVCI Asia Pacific Pte. Ltd. | [Guest Relations Officer](https://www.internsg.com/job/mvci-asia-pacific-pte-ltd-guest-relations-officer/?f_pg=41) | Downtown Core, SG… | 2026-06-15 |
-| Seng Hua Hng Foodstuff Pte Ltd | [Food QA / R&D Intern](https://www.internsg.com/job/seng-hua-hng-foodstuff-pte-ltd-food-qa-rd-intern-4/?f_pg=40) | Hougang, SG… | 2026-06-15 |
-| Musical Touch Pte Ltd | [Content Writer](https://www.internsg.com/job/musical-touch-pte-ltd-content-writer/?f_pg=40) | Geylang, SG… | 2026-06-15 |
-| Eversendai Engineering Pte Ltd | [Assistant Project Engineer](https://www.internsg.com/job/eversendai-engineering-pte-ltd-assistant-project-engineer/?f_pg=40) | Bukit Merah, SG… | 2026-06-15 |
-| Warely Technology Pte Ltd | [Business Operation Intern](https://www.internsg.com/job/warely-technology-pte-ltd-business-operation-intern/?f_pg=40) | Woodlands, SG… | 2026-06-15 |
-| Eversendai Engineering Pte Ltd | [Procurement Assistant](https://www.internsg.com/job/eversendai-engineering-pte-ltd-procurement-assistant/?f_pg=40) | Bukit Merah, SG… | 2026-06-15 |
-| Raffles Medical Group Pte Ltd | [Intern \| Rehabilitation Centre](https://www.internsg.com/job/raffles-medical-group-pte-ltd-intern-rehabilitation-centre-june-september-intake/?f_pg=40) | Downtown Core, SG… | 2026-06-15 |
-| Farmio SG | [Business Growth Intern (Sales Support)](https://www.internsg.com/job/farmio-sg-business-growth-intern-sales-support-2/?f_pg=40) | SG… | 2026-06-15 |
-| SPH Media Limited | [Cybersecurity and Data Privacy Intern](https://www.internsg.com/job/sph-media-limited-cybersecurity-and-data-privacy-intern-2/?f_pg=40) | Toa Payoh, SG… | 2026-06-15 |
-| Comopack Pte Ltd | [Tech Intern](https://www.internsg.com/job/comopack-pte-ltd-tech-intern-2/?f_pg=39) | Novena, SG… | 2026-06-15 |
-| AgileAsia Pte Ltd | [Customer Service cum Marketing Intern](https://www.internsg.com/job/agileasia-pte-ltd-customer-service-cum-marketing-intern/?f_pg=39) | Museum, SG… | 2026-06-15 |
-| AlpSoft Technologies Pte Ltd | [IT Intern](https://www.internsg.com/job/alpsoft-technologies-pte-ltd-it-intern/?f_pg=38) | Queenstown, SG… | 2026-06-15 |
-| Singapore Food Service Pte Ltd | [AI / Automation Intern](https://www.internsg.com/job/singapore-food-service-pte-ltd-ai-automation-intern/?f_pg=41) | Tampines, SG… | 2026-06-15 |
-| Excel Hardware Pte Ltd | [Client Servicing Junior Executive ( Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-client-servicing-junior-executive-intern-23/?f_pg=40) | Sembawang, SG… | 2026-06-15 |
-| Excel Hardware Pte Ltd | [Business Administration Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-business-administration-junior-executive-intern-23/?f_pg=40) | Sembawang, SG… | 2026-06-15 |
-| COMO Pte Ltd | [Marketing & Social Media Intern](https://www.internsg.com/job/como-pte-ltd-marketing-social-media-intern/?f_pg=38) | Newton, SG… | 2026-06-15 |
-| Guotai Junan International Securities (Singapore) Pte Limited | [Wealth Management Intern](https://www.internsg.com/job/guotai-junan-international-securities-singapore-pte-limited-wm-intern/?f_pg=40) | Downtown Core, SG… | 2026-06-15 |
-| 1Horizon | [Marketing Specialist](https://www.internsg.com/job/1horizon-marketing-specialist/?f_pg=38) | Downtown Core, SG… | 2026-06-15 |
-| Excel Hardware Pte Ltd | [Customer Service Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-customer-service-junior-executive-intern-24/?f_pg=40) | Sembawang, SG… | 2026-06-15 |
-| Excel Hardware Pte Ltd | [Digital Marketing Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-digital-marketing-junior-executive-intern-22/?f_pg=40) | Sembawang, SG… | 2026-06-15 |
-| GCB Cocoa Singapore Pte. Ltd. | [Trading Software Engineer Intern](https://www.internsg.com/job/gcb-cocoa-singapore-pte-ltd-trading-software-engineer-intern/?f_pg=38) | Jurong East, SG… | 2026-06-15 |
-| Big 3 Media | [Cine Intern](https://www.internsg.com/job/big-3-media-cine-intern-5/?f_pg=38) | Toa Payoh, SG… | 2026-06-15 |
+| Deutsche Bank | [Private Bank – First LOD Senior Risk Lead, VP](https://careers.db.com/professionals/search-roles/#/professional/job/73988) | Singapore… | 2026-06-16 |
+| Pinnacle Financial Group | [Financial Consultant](https://www.internsg.com/job/pinnacle-financial-group-financial-consultant/?f_pg=36) | Outram, SG… | 2026-06-16 |
+| Skillseed | [Marketing Intern](https://www.internsg.com/job/skillseed-marketing-intern-5/?f_pg=44) | Rochor, SG… | 2026-06-16 |
+| Cynapse Pte Ltd | [AI Research & Development Intern](https://www.internsg.com/job/cynapse-pte-ltd-ai-research-development-intern-9/?f_pg=26) | Queenstown, SG… | 2026-06-16 |
+| Mitrade Global Pty Ltd | [Compliance Intern](https://www.internsg.com/job/mitrade-global-pty-ltd-compliance-intern/?f_pg=19) | Downtown Core, SG… | 2026-06-16 |
+| MSI Global Private Limited | [Human Resources Intern (6 Months Internship)](https://www.internsg.com/job/msi-global-private-limited-human-resources-intern-6-months-internship/?f_pg=20) | Bedok, SG… | 2026-06-16 |
+| Valores Green Solutions Pte. Ltd. | [Operations & Data Systems Intern](https://www.internsg.com/job/valores-green-solutions-pte-ltd-operations-data-systems-intern-2/?f_pg=43) | SG… | 2026-06-16 |
+| GCB Cocoa Singapore Pte. Ltd. | [Trading Software Engineer Intern](https://www.internsg.com/job/gcb-cocoa-singapore-pte-ltd-trading-software-engineer-intern/?f_pg=40) | Jurong East, SG… | 2026-06-16 |
+| Guotai Junan International Securities (Singapore) Pte Limited | [Wealth Management Intern](https://www.internsg.com/job/guotai-junan-international-securities-singapore-pte-limited-wm-intern/?f_pg=42) | Downtown Core, SG… | 2026-06-16 |
+| Singapore Medical Group Limited | [Ophthalmic Assistant Intern](https://www.internsg.com/job/singapore-medical-group-limited-ophthalmic-assistant-intern/?f_pg=22) | Orchard, SG… | 2026-06-16 |
+| Thye Hua Kwan Moral Charities | [Social Worker (Choa Chu Kang / Pioneer / Tampines)](https://www.internsg.com/job/thye-hua-kwan-moral-charities-social-worker-choa-chu-kang-pioneer-tampines/?f_pg=23) | Choa Chu Kang, SG… | 2026-06-16 |
+| Workjoy Management Pte. Ltd. | [Project Executive (Graduate Traineeship)](https://www.internsg.com/job/workjoy-management-pte-ltd-project-executive-graduate-traineeship/?f_pg=26) | Geylang, SG… | 2026-06-16 |
+| Orfeostory Pte Ltd | [Digital Project Manager](https://www.internsg.com/job/orfeostory-pte-ltd-digital-project-manager-8/?f_pg=44) | Bedok, SG… | 2026-06-16 |
+| TLS Tutorial Centre Pte Ltd | [Software Engineering Intern](https://www.internsg.com/job/tls-tutorial-centre-pte-ltd-software-engineering-intern-3/?f_pg=17) | Newton, SG… | 2026-06-16 |
+| Orfeostory Pte Ltd | [Digital Project Manager](https://www.internsg.com/job/orfeostory-pte-ltd-digital-project-manager-8/?f_pg=28) | Bedok, SG… | 2026-06-16 |
+| FOMO Pay Pte Ltd | [Treasury Operations Intern](https://www.internsg.com/job/fomo-pay-pte-ltd-treasury-operations-intern-3/?f_pg=34) | Downtown Core, SG… | 2026-06-16 |
+| NTUC Health | [Intern, Programmes and Community Partnership](https://www.internsg.com/job/ntuc-health-intern-programmes-and-community-partnership/?f_pg=28) | Ang Mo Kio, SG… | 2026-06-16 |
+| Mediacorp Pte. Ltd. | [Internship - Electrical Engineering](https://www.internsg.com/job/mediacorp-pte-ltd-internship-electrical-engineering/?f_pg=26) | Queenstown, SG… | 2026-06-16 |
+| Advisors’ Clique Collective | [Internship Apprenticeship](https://www.internsg.com/job/advisors-clique-collective-internship-apprenticeship/?f_pg=35) | Outram, SG… | 2026-06-16 |
+| ST Recruitment Centre | [Accounts Executive (Partial Set)](https://www.internsg.com/job/st-recruitment-centre-accounts-executive-partial-set-2/?f_pg=31) | Tuas, SG… | 2026-06-16 |
+| Ban Leong Technologies Pte Ltd | [Content Creator Intern](https://www.internsg.com/job/ban-leong-technologies-pte-ltd-content-creator-intern-25/?f_pg=37) | Geylang, SG… | 2026-06-16 |
+| PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-98/?f_pg=21) | Tiong Bahru, SG… | 2026-06-16 |
+| ST Recruitment Centre | [Sales Coordinator](https://www.internsg.com/job/st-recruitment-centre-sales-coordinator/?f_pg=43) | Jurong East, SG… | 2026-06-16 |
+| National Volunteer & Philanthropy Centre | [Intern, Charity Relationship Management](https://www.internsg.com/job/national-volunteer-philanthropy-centre-intern-charity-relationship-management-2/?f_pg=43) | Singapore River, SG… | 2026-06-16 |
+| IFI Techsolutions Pte Ltd | [Executive Sales](https://www.internsg.com/job/ifi-techsolutions-pte-ltd-executive-sales/?f_pg=20) | SG… | 2026-06-16 |
+| Yanmar Asia (S) Corporation Pte Ltd | [HR & GA Process Improvement & Administration Intern](https://www.internsg.com/job/yanmar-asia-s-corporation-pte-ltd-hr-ga-process-improvement-administration-intern/?f_pg=44) | Tuas, SG… | 2026-06-16 |
+| Sin Hwa Dee Foodstuff Industries Pte Ltd | [IT Intern](https://www.internsg.com/job/sin-hwa-dee-foodstuff-industries-pte-ltd-it-intern-5/?f_pg=17) | Sembawang, SG… | 2026-06-16 |
+| Eventions Group | [Event Coordinator (Intern)](https://www.internsg.com/job/eventions-group-event-coordinator-intern-8/?f_pg=29) | Kallang, SG… | 2026-06-16 |
+| Huawei International Pte Ltd | [Logistics Specialist](https://www.internsg.com/job/huawei-international-pte-ltd-logistics-specialist/?f_pg=29) | Tampines, SG… | 2026-06-16 |
+| George P. Johnson (Singapore) Pte Ltd | [IGNITE Internship Singapore - Creative/Design Intern](https://www.internsg.com/job/george-p-johnson-singapore-pte-ltd-ignite-internship-singapore-creative-design-intern/?f_pg=39) | Kallang, SG… | 2026-06-16 |
+| Aid | [Architectural Coordinator Intern](https://www.internsg.com/job/aid-architectural-coordinator-intern-3/?f_pg=26) | Geylang, SG… | 2026-06-16 |
+| Infinity AM | [Social Media Marketing Intern](https://www.internsg.com/job/infinity-am-social-media-marketing-intern/?f_pg=12) | Queenstown, SG… | 2026-06-16 |
+| Raffles Medical Group Pte Ltd | [Internship \| Information Technology (Automation)](https://www.internsg.com/job/raffles-medical-group-pte-ltd-internship-information-technology-automation/?f_pg=19) | Geylang, SG… | 2026-06-16 |
+| Aid | [Architectural Coordinator Intern](https://www.internsg.com/job/aid-architectural-coordinator-intern-4/?f_pg=19) | Geylang, SG… | 2026-06-16 |
+| Lion Global Investors Ltd | [UX / UI Intern](https://www.internsg.com/job/lion-global-investors-ltd-ux-ui-intern-2/?f_pg=41) | Downtown Core, SG… | 2026-06-16 |
+| Excel Hardware Pte Ltd | [Customer Service Junior Executive (Intern)](https://www.internsg.com/job/excel-hardware-pte-ltd-customer-service-junior-executive-intern-25/?f_pg=23) | Sembawang, SG… | 2026-06-16 |
+| Grand Pixel | [Events Intern](https://www.internsg.com/job/grand-pixel-events-intern-4/?f_pg=43) | Geylang, SG… | 2026-06-16 |
+| Mediacorp Pte. Ltd. | [Internship - Camera Group](https://www.internsg.com/job/mediacorp-pte-ltd-internship-camera-group/?f_pg=27) | Queenstown, SG… | 2026-06-16 |
+| Orfeostory Pte Ltd | [Digital Project Manager](https://www.internsg.com/job/orfeostory-pte-ltd-digital-project-manager-8/?f_pg=38) | Bedok, SG… | 2026-06-16 |
+| Esse Digital | [Sales Intern (F&B Saas Tech)](https://www.internsg.com/job/esse-digital-esse-digital-sales-intern-fb-saas-tech/?f_pg=35) | Queenstown, SG… | 2026-06-16 |
+| Child and Cardiology | [Clinic Assistant](https://www.internsg.com/job/child-and-cardiology-clinic-assistant-6/?f_pg=24) | Central Area, SG… | 2026-06-16 |
+| Matt's Education | [Administrative Executive at Enrichment Centre](https://www.internsg.com/job/matts-education-administrative-executive-at-enrichment-centre-3/?f_pg=24) | Jurong West, SG… | 2026-06-16 |
+| George P. Johnson (Singapore) Pte Ltd | [IGNITE Internship Singapore - Production Intern](https://www.internsg.com/job/george-p-johnson-singapore-pte-ltd-ignite-internship-singapore-production-intern/?f_pg=40) | Kallang, SG… | 2026-06-16 |
+| Japan IPL Express Pte Ltd | [Accounts Intern](https://www.internsg.com/job/japan-ipl-express-pte-ltd-accounts-intern-2/?f_pg=44) | Kallang, SG… | 2026-06-16 |
+| A P Beauty Private Limited | [Massage Therapist](https://www.internsg.com/job/a-p-beauty-private-limited-massage-therapist/?f_pg=39) | Toa Payoh, SG… | 2026-06-16 |
+| Raffles Medical Group Pte Ltd | [Internship \| Raffles Medical Clinic (NTU)](https://www.internsg.com/job/raffles-medical-group-pte-ltd-internship-raffles-medical-clinic-ntu-2/?f_pg=43) | Western Water Catchment, SG… | 2026-06-16 |
+| Snaphunt Pte Ltd | [IT Business Analyst](https://www.internsg.com/job/snaphunt-pte-ltd-it-business-analyst-2/?f_pg=32) | SG… | 2026-06-16 |
+| HeyPico.ai | [Marketing Intern](https://www.internsg.com/job/heypico-ai-marketing-intern-9/?f_pg=28) | SG… | 2026-06-16 |
+| Papa Palheta Pte Ltd | [Service Crew / Barista](https://www.internsg.com/job/papa-palheta-pte-ltd-service-crew-barista-part-time-9/?f_pg=25) | SG… | 2026-06-16 |
+| RubberWay | [Product Intern](https://www.internsg.com/job/rubberway-product-intern/?f_pg=31) | Outram, SG… | 2026-06-16 |
