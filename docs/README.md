@@ -1,14 +1,20 @@
 # Latest Jobs
 
-_Last updated: 2026-06-20_
+_Last updated: 2026-06-21_
 
-**Total jobs:** 5063 • **Companies:** 498 • **Top tag:** Others
+**Total jobs:** 5058 • **Companies:** 498 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Grab | [Lead Technical Program Manager](https://www.grab.careers/en/jobs/744000133225779/lead-technical-program-manager/) | Singapore… | 2026-06-21 |
+| Micron | [Senior Engineer - NAND Reliability STPG PE](https://micron.eightfold.ai/careers/apply?pid=42461774&domain=micron.com) | Singapore… | 2026-06-21 |
+| Micron | [Senior Engineer, PD SG, Dry Etch, NAND](https://micron.eightfold.ai/careers/apply?pid=42492389&domain=micron.com) | Singapore… | 2026-06-21 |
+| Micron | [Senior Engineer, STPG PE (FDV-Verilog)](https://micron.eightfold.ai/careers/apply?pid=42462072&domain=micron.com) | Singapore… | 2026-06-21 |
+| Micron | [Senior/Engineer, NAND Wafer Level  Reliability & Design](https://micron.eightfold.ai/careers/apply?pid=42437423&domain=micron.com) | Singapore… | 2026-06-21 |
+| Amazon | [Sr. Tech Operations Engineer, Manufacturing Operations](https://www.amazon.jobs/en/jobs/10454432/sr-tech-operations-engineer-manufacturing-operations) | SGP… | 2026-06-21 |
 | Credence Marketing | [Marketing Specialist](https://www.internsg.com/job/credence-marketing-marketing-specialist/?f_pg=41) | Kallang, SG… | 2026-06-20 |
 | Strides Digital | [Data Science Intern](https://www.internsg.com/job/strides-digital-data-science-intern-3/?f_pg=26) | Geylang, SG… | 2026-06-20 |
 | The Wholesome Bubs Pte Ltd | [Marketing Intern (F&B / Lifestyle Brand)](https://www.internsg.com/job/the-wholesome-bubs-pte-ltd-marketing-intern-fb-lifestyle-brand-2/?f_pg=35) | Tampines, SG… | 2026-06-20 |
@@ -53,9 +59,3 @@ _Last updated: 2026-06-20_
 | Red Alpha Cybersecurity | [Talent Acquisiton & Employer Brand Intern](https://www.internsg.com/job/red-alpha-cybersecurity-talent-acquisiton-employer-brand-intern/?f_pg=27) | SG… | 2026-06-20 |
 | PC Management Pte Ltd | [Accounting Internship / Associate](https://www.internsg.com/job/pc-management-pte-ltd-accounting-internship-associate-97/?f_pg=30) | Tiong Bahru, SG… | 2026-06-20 |
 | Sembcorp Specialised Construction Pte Ltd | [Intern, Contracts](https://www.internsg.com/job/sembcorp-specialised-construction-pte-ltd-intern-contracts-3/?f_pg=29) | Tampines, SG… | 2026-06-20 |
-| OrcaSlicer | [Software Engineer Intern](https://www.internsg.com/job/orcaslicer-software-engineer-intern-2/?f_pg=22) | SG… | 2026-06-20 |
-| Universal (Far East) Pte Ltd | [Technical Specialist](https://www.internsg.com/job/universal-far-east-pte-ltd-technical-specialist/?f_pg=23) | Toa Payoh, SG… | 2026-06-20 |
-| TechFin Global | [Creative Design & Marketing Intern](https://www.internsg.com/job/techfin-global-creative-design-marketing-intern-4/?f_pg=19) | Newton, SG… | 2026-06-20 |
-| B2K Pet Care Pte Ltd | [eCommerce Operations Intern](https://www.internsg.com/job/b2k-pet-care-pte-ltd-e-commerce-operations-intern/?f_pg=26) | Yishun, SG… | 2026-06-20 |
-| Singapore Law Advisory | [Legal Researcher & Writer](https://www.internsg.com/job/singapore-law-advisory-legal-researcher-writer-2/?f_pg=22) | SG… | 2026-06-20 |
-| Aid | [Social Media Intern](https://www.internsg.com/job/aid-social-media-intern-7/?f_pg=18) | Geylang, SG… | 2026-06-20 |
