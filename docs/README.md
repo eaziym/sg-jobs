@@ -1,109 +1,137 @@
 # Latest Jobs
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-08-24_
 
-**Total jobs:** 3600 • **Companies:** 84 • **Top tag:** Others
+**Total jobs:** 3315 • **Companies:** 85 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| UOB | [Senior VP, Deposits Product Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-VP--Deposits-Product-Management_JR93921) |  | 2026-08-23 |
-| UOB | [AVP, Risk & Controls, AML Operations, Team Lead](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--Risk---Controls--AML-Operations--Team-Lead_JR93581) |  | 2026-08-23 |
-| UOB | [Manager, Reserve Card Manager](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Reserve-Card-Manager_JR94284) |  | 2026-08-23 |
-| Stripe | [Solutions Architect, SMB (Presales)](https://stripe.com/jobs/search?gh_jid=8144212) | Who We Are 
- About Stripe 
- At Stripe, you have an unprecedented opportunity to put the global econo… | 2026-08-23 |
-| OpenAI | [Strategic Delivery Lead, Intelligence Community](https://jobs.ashbyhq.com/openai/5f3a6397-47ac-4ef0-9ca9-cd358851a6b9) |  | 2026-08-23 |
-| OCBC | [CFS AML Risk Management (CDD) Cluster Team Lead](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/CFS-AML-Risk-Management--CDD--Cluster-Team-Lead_JR00010470) |  | 2026-08-23 |
-| Micron | [Intern - Yield Enhancement, Data Analysis](https://micron.eightfold.ai/careers/apply?pid=43943814&domain=micron.com) |  | 2026-08-23 |
-| Micron | [Intern - TD Site Industrial Engineer](https://micron.eightfold.ai/careers/apply?pid=43944098&domain=micron.com) |  | 2026-08-23 |
-| Micron | [Intern - Product Yield Enhancement Eng](https://micron.eightfold.ai/careers/apply?pid=43944097&domain=micron.com) |  | 2026-08-23 |
-| GlobalFoundries | [Advanced Manufacturing Process Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Process-Engineer--2027-New-College-Graduate-_JR-2604724) |  | 2026-08-23 |
-| GlobalFoundries | [Silicon Photonics Technology Development & Integration Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Technology-Development---Integration-Engineer--2027-New-College-Graduate-_JR-2604303) |  | 2026-08-23 |
-| GlobalFoundries | [Silicon Photonics Technology Development & Integration Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Technology-Development---Integration-Engineer--2027-New-College-Graduate-_JR-2604304) |  | 2026-08-23 |
-| GlobalFoundries | [Technology Architecture and Competitiveness Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) |  | 2026-08-23 |
-| Waymo | [Senior Signal and Power Integrity Engineer](https://careers.withwaymo.com/jobs?gh_jid=8152061) | Waymo is an autonomous driving technology company with the mission to be the world's most trusted dr… | 2026-08-23 |
-| Citi | [Applications Support Sr Analyst - Asst Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Support-Sr-Analyst---Asst-Vice-President_26985694) |  | 2026-08-23 |
-| Canva | [AI Video Lead - 12 Month FTC](https://jobs.smartrecruiters.com/Canva/6000000001340195) |  | 2026-08-23 |
-| Canva | [AI Video Lead - 12 Month FTC](https://jobs.smartrecruiters.com/Canva/6000000001340200) |  | 2026-08-23 |
-| ByteDance | [资深服务端开发工程师（AI应用及工程架构）-飞书视频会议](https://jobs.bytedance.com/experienced/position/7616398749632678149/detail) | 1、负责字节跳动飞书会议相关AI与工程系统的技术选型、架构设计与优化、业务研发、服务治理，确保分布式系统的高可用、高性能、可维护性和可扩展性；
-2、主导跨团队协作，与产品、算法、测试等多角色协同，设计… | 2026-08-23 |
-| ByteDance | [财务BP-职能房产](https://jobs.bytedance.com/experienced/position/7255291081549334840/detail) | 1、业务协同与分析，负责为业务部门提供多种财务解决方案，协助处理业务部门涉及的财务相关工作，通过定期输出财务汇报帮助业务提升经营效率；
-2、预算制定与追踪，负责相关预算编制工作，协同业务制定年度预算，… | 2026-08-23 |
-| ByteDance | [云稳定性架构师/技术专家-火山引擎](https://jobs.bytedance.com/experienced/position/7501688534841149714/detail) | 1、参与云产品安全生产规范流程体系的整体架构及系统化建设；
-2、对云产品技术平台的稳定性负责，通过平台、架构优化等手段对事前、事中和事后进行有效管控、不断提升云产品系统稳定性；
-3、数据驱动，通过建设… | 2026-08-23 |
-| ByteDance | [测试开发工程师-抖音](https://jobs.bytedance.com/experienced/position/6753517790432332046/detail) | 1、主要负责公司服务端产品质量保障工作；
-2、建立完善的服务端质量保证体系，线上质量把控；
-3、对项目中的质量问题进行监控、追查及定位；
-4、服务端相关工具和平台的开发维护；
-5、对产品提出改进建议提… | 2026-08-23 |
-| ByteDance | [NLP算法工程师-抖音AI分身](https://jobs.bytedance.com/experienced/position/7372477324837619995/detail) | 负责抖音场景下创作者AI数字分身建设，提升创作者粉丝运营能力，探索AI在抖音业务的创新应用落地。 
-
-1、负责抖音场景下创作者AI数字分身的建设，应用超拟人大模型技术还原创作者人设、语态、知识等，提供… | 2026-08-23 |
-| ByteDance | [视频处理和增强算法工程师-视频与边缘](https://jobs.bytedance.com/experienced/position/7402825283935488307/detail) | 1、支持画质增强相关算法研究和落地，包括超分辨率、HDR、插帧等；
-2、支持编码前后处理相关算法研究和落地；
-3、支持各类异构平台上算法的加速与优化，包括但不限于量化、蒸馏、剪枝等；
-4、支持视频端到… | 2026-08-23 |
-| ByteDance | [硬件加速固件研发工程师](https://jobs.bytedance.com/experienced/position/7457911491698903314/detail) | 1、负责AI芯片设备侧固件开发，基于Bare-metal，RTOS及Linux，裁剪操作系统，开发外设驱动；
-2、负责设备侧资源分配、任务调度器等的开发，支持多用户、多Stream的任务并行执行；
-3… | 2026-08-23 |
-| ByteDance | [后端研发工程师-抖音直播](https://jobs.bytedance.com/experienced/position/7438543979941398802/detail) | 1、负责直播连麦业务的日常产品迭代及稳定性保障，高效保障直播多人场景业务的平稳落地；
-2、提升直播系统性能和开发效率，保证高并发高可靠；
-3、通过不断技术研究和创新，推动直播业务的快速发展和高效迭代。 | 2026-08-23 |
-| ByteDance | [后端开发工程师（AI应用及工程架构）-飞书视频会议](https://jobs.bytedance.com/experienced/position/7616400611625716021/detail) | 1、负责飞书会议系统的后端架构设计、开发和持续优化，深度参与会议AI协作产品（智能会议纪要等）建设；
-2、承担核心技术难点攻坚，构建高可用、高并发的AI核心服务，保障业务系统的稳定性与可靠性；
-3、深… | 2026-08-23 |
-| ByteDance | [网络资源与交付管理工程师](https://jobs.bytedance.com/experienced/position/7476076805125114119/detail) | 1、对接业务需求，跟进网络规划，发起网络资源和设备采购，并跟进资源交付开通与设备到货；
-2、中长期需求对接，设备安全库存建设与管理；
-3、跟进网络交付项目，能提前发现交付中的风险和问题，并协调各方解决… | 2026-08-23 |
-| ByteDance | [大客户广告销售-教育行业](https://jobs.bytedance.com/experienced/position/7377310023846824230/detail) | 1、负责广告客户的开拓与维护工作，完成既定品牌广告及效果广告销售目标，促进今日头条、抖音、西瓜视频等公司产品的广告营收；
-2、完成与客户沟通、谈判，建立与企业的深度合作关系；
-3、完成公司安排的广告销… | 2026-08-23 |
-| ByteDance | [Agent开发架构师（AI Testing）-开发者服务](https://jobs.bytedance.com/experienced/position/7630668293718100229/detail) | 1、架构设计与落地：负责大模型应用的工程化落地和效果调优，设计高效、高扩展且具有前瞻性的大模型应用系统架构，解决Agent的效果、效率、成本等工程挑战；
-2、效果评估与优化：主导大模型应用在GUI、A… | 2026-08-23 |
-| ByteDance | [视觉算法工程师（人机交互/XR多模态方向）-PICO](https://jobs.bytedance.com/experienced/position/7628090564875798789/detail) | 1、负责XR场景下人机交互相关视觉感知算法的研发与工程落地工作，包括但不限于眼动追踪技术、情绪感知技术等方向；
-2、基于深度学习方法进行模型设计、训练与评测，持续优化算法在真实设备上的鲁棒性、时延、功… | 2026-08-23 |
-| ByteDance | [智能对话大模型算法工程师 - TikTok Shop](https://jobs.bytedance.com/experienced/position/7675574273382566197/detail) | 团队介绍：TikTok Shop 是 TikTok 旗下的内容电商业务，致力于成为用户发现并获取优价好物的首选平台。面向直播电商、视频内容电商、货架电商等多元购物场景，国际电商持续为全球用户提供更个性… | 2026-08-23 |
-| ByteDance | [风控策略运营 - 抖音电商](https://jobs.bytedance.com/experienced/position/7672609336325720373/detail) | 团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引… | 2026-08-23 |
-| ByteDance | [服务端研发（高级）工程师-TikTok](https://jobs.bytedance.com/experienced/position/7578851024652699909/detail) | 1、负责多媒体音视频点播业务后端研发与架构设计，覆盖媒体上传、抽帧转码、媒体资产分发、存储治理等工程系统；
-2、负责上传体验、播放体验、存储成本等优化，设计并落地高可用、可扩展的策略服务架构；
-3、深… | 2026-08-23 |
-| ByteDance | [AIGC与多模态大模型算法工程师-商业信任与安全](https://jobs.bytedance.com/experienced/position/7605548618340780293/detail) | 团队介绍：商业化信任与安全研发团队致力于构建业界领先的智能审核系统，通过前沿 AI 技术保障商业内容安全与合规，提升用户客户的信任。团队通过研发大模型基座、先进的审核大模型和审核系统，持续提升大模型系… | 2026-08-23 |
-| ByteDance | [数据科学家（客服方向）-抖音电商](https://jobs.bytedance.com/experienced/position/7574363366804539653/detail) | 1、国内电商商家机器人方向分析，负责搭建商家客服/机器人服务相关的客服数据体系，完善数据门户建设；
-2、对不同商家，不同问题场景下的解决能力进行分层，挖掘机器人渗透空间，为策略迭代提供建议；
-3、定期… | 2026-08-23 |
-| ByteDance | [高级专家运营（战略与经营管理方向）-飞书](https://jobs.bytedance.com/experienced/position/7617847205420845317/detail) | 团队介绍：飞书是 AI 时代先进生产力平台，提供一站式工作协同、组织管理、业务提效工具和深入企业场景的 AI 能力，助力企业能增长，有巧降。
-从互联网、高科技、消费零售，到制造、金融、医疗健康等，各行… | 2026-08-23 |
-| ByteDance | [大促活动运营（用户增长方向） - 抖音电商](https://jobs.bytedance.com/experienced/position/7672337628206745861/detail) | 团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引… | 2026-08-23 |
-| ByteDance | [财务BP-生活服务](https://jobs.bytedance.com/experienced/position/7672275282863016245/detail) | 1、作为财务BP跟进业务侧的业务规划及日常进展，负责其所需预算的收集、编制及审核工作，追踪预算执行情况，结合业务侧的经营数据下钻分析合理性，并协助业务团队更新目标设定，持续进行滚动预算的编制；
-2、协… | 2026-08-23 |
-| ByteDance | [AI网络架构工程师-基础架构](https://jobs.bytedance.com/experienced/position/7597322847262509365/detail) | 1、负责AI训练、推理网络需求分析，行业趋势分析；
-2、负责HPN网络方案设计；
-3、负责HPN网络架构测试验证、协助建设团队完成新架构平稳落地。 | 2026-08-23 |
-| ByteDance | [BDM-抖音生活服务（广州）](https://jobs.bytedance.com/experienced/position/7355390609639704870/detail) | 1、根据业务规划和目标，拆解BD团队任务，制定商户开发运营策略及计划；
-2、定期收集分析行业、商圈及市场情况，为业务决策提供信息和数据支持；
-3、研究平台账号、市场流行趋势，探索并输出营销策略和内容玩… | 2026-08-23 |
-| ByteDance | [商机产品经理（商品增长） - 抖音电商](https://jobs.bytedance.com/experienced/position/7592095591582484789/detail) | 团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引… | 2026-08-23 |
-| ByteDance | [企业效能顾问（汽车/制造行业）-飞书](https://jobs.bytedance.com/experienced/position/7244741813461715256/detail) | 团队介绍：飞书KA Customer Success团队是业内首个专注于企业效能提升的顾问团队，基于飞书帮助客户完成数字化转型升级。通过深入诊断分析组织结构、业务流程、沟通协作等场景，为客户量身打造整… | 2026-08-23 |
-| ByteDance | [数据分析师（信息安全）](https://jobs.bytedance.com/experienced/position/7598110991592114437/detail) | 1、搭建适配公司各个产品线、多场景的数据分析体系及可视化驾驶舱产品平台，尤其针对AI安全提供体系化的数据分析；
-2、深入理解业务逻辑，基于这些数据开展深度分析，挖掘业务中的可优化点，支撑公司安全战略级… | 2026-08-23 |
-| ByteDance | [AI Agent产品经理（AgentOS与数据方向） - AI创新业务](https://jobs.bytedance.com/experienced/position/7668657994766600501/detail) | 团队介绍：字节跳动内部创新业务团队，专注研究新技术赛道相关领域产品，落地AI智能化创新。
-
-1、主导探索下一代个人智能助手的能力与体验上限，推动相关产品迭代和优化；
-2、推动「模型×Harness」上… | 2026-08-23 |
-| ByteDance | [AI Infra Agent后端开发工程师-计算](https://jobs.bytedance.com/experienced/position/7549106199434823944/detail) | 1、负责IaaS AI Agent套件研发工作，构建稳定可靠的Agent Infra，涵盖Agent相关云服务基础能力开发，探索技术创新，助力AI原生能力规模化实施；
-2、参与AI Agent开发套件… | 2026-08-23 |
-| ByteDance | [战斗策划（二次元）-Bluesea](https://jobs.bytedance.com/experienced/position/7656732856136878341/detail) | 1、推进项目战斗系统的设计和落实，包括战斗3C设计、战斗规则、角色技能设计等；
-2、提炼技能设计的方法和关键体验，规划有较强表现力和互动性的技能体系；
-3、设定和推进战斗编辑器的制作，保证战斗编辑器的… | 2026-08-23 |
-| ByteDance | [C++端到端语音大模型SDK架构师/专家-Data语音](https://jobs.bytedance.com/experienced/position/7654480833063782661/detail) | 1、负责跨平台（iOS、Android、Linux）、跨端（端、云、硬件）的下一代端到端语音大模型交互SDK的核心架构设计与工程落地；
-2、深度对接豆包语音大模型、大语言模型（LLM）及前沿语音算法；… | 2026-08-23 |
-| ByteDance | [大模型数据采标资源BP - AI数据与安全](https://jobs.bytedance.com/experienced/position/7434092652188829990/detail) | 团队介绍：AI 数据与安全团队为 Seed 基座模型及 AI 原生应用提供跨模态数据服务，覆盖数据生产全流程，包含模型评估标准的制定、数据规模化生产、数据飞轮搭建，不断提升数据质量，支持模型快速迭代。… | 2026-08-23 |
-| ByteDance | [游戏C++服务器开发工程师 - Bluesea Studio](https://jobs.bytedance.com/experienced/position/7675267049124546869/detail) | 团队介绍：Bluesea工作室成立于2024年8月，当前涉足卡牌/RPG/SLG/竞技等多个品类，已经上线的游戏《放置少女》，各类新产品已蓄势待发。欢迎加入我们！
-
-1、负责支持UGC服务器后端的设计… | 2026-08-23 |
-| ByteDance | [大模型技术支持工程师-火山方舟（北京/杭州/成都）](https://jobs.bytedance.com/experienced/position/7634499483678820661/detail) | 1、负责大模型训练、推理及平台服务的监控告警接收与处理，按SOP完成故障定位、响应与跟踪；
-2、作为一线业务OnCall接口人，响应内外部客户的技术支持与问题排查，负责OnCall记录、交接班及问题升… | 2026-08-23 |
+| Xiaomi | [直播大家电销售经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7494256350042669165/detail) | 1、负责直播渠道大家电一个或多个品线业务，负责战略规划和业务落地；
+2、与直播（抖音、快手）平台沟通，维护好平台客情，解决日常的工作问题；
+3、负责品类的营销、预算等事项的规划和落地；
+4、负责管理服… | 2026-08-24 |
+| Xiaomi | [安全零部件电气专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677477297976559926/detail) | 一、HOD系统
+1. HOD传感器方案与硬件开发
+负责方向盘HOD传感器技术路线规划（电容式/薄膜压力式/红外式/多模态融合），主导方案选型与可行性评估
+定义HOD传感器感知区域划分、灵敏度等级、检测… | 2026-08-24 |
+| Xiaomi | [服务端高级开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7663018314655238426/detail) | 1、深度参与 OTT 产品服务架构整体设计，带领研发团队搭建线上服务体系，保障 C 端互联网服务稳定、高可用交付
+2、负责全服务架构治理工作，持续优化核心接口性能；统筹各类大型活动技术保障，定期组织压… | 2026-08-24 |
+| Xiaomi | [门店运营](https://xiaomi.jobs.f.mioffice.cn/index/position/7580285695816124718/detail) | 工作内容：
+1、根据门店等级，进行门店分层分级管理（如团购、地推引流、异业合作等），并向总部提供必要的升降级建议;
+2、负责跟进门店核心运营指标（客流、连带率、转化率、客单价、盈亏平衡点等）及增值业务… | 2026-08-24 |
+| Xiaomi | [数据科学家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677566030265370930/detail) | 1、持续探索用户短剧消费的各类行为特征，聚焦高价值用户群体，从拉新、承接、拉活等各个角度分析用户行为和策略效果，支撑短剧独立App快速增长；
+2、运用严谨的统计科学方法，包括A/B实验、因果推断、回归… | 2026-08-24 |
+| Xiaomi | [工程配置管理工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7677558962622892324/detail) | 1. 负责制定并实施工程配置管理流程，承接产品定义信息，负责工程配置数据的发布和更新
+2. 负责实施整车工程更改的管理活动，负责组织工程更改的审批，跟踪落实工程更改指令下达
+3. 负责配置管理的项目对… | 2026-08-24 |
+| Xiaomi | [安全合规质量运营专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677425021955393842/detail) | 1、搭建安全体系：面向内容分发/应用分发/广告/推送等多业务场景，制定内容安全合规标准、风险管理规范与标准化处置 SOP，帮助业务完善和强化审核/分发/巡查多层安全防线。
+2、风险闭环管理：推动内容安… | 2026-08-24 |
+| Xiaomi | [海外汽车客服与体验- 客服运营专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7673769286112086326/detail) | 岗位职责：
+1. 负责支持海外市场各区域客服团队的职场管理规划，包括团队搭建、人员配置、能力培养及梯队管理，确保团队规模与业务增长匹配；
+2. 搭建并持续优化海外客服基础服务流程（SOP），涵盖工单处… | 2026-08-24 |
+| Xiaomi | [小米之家店长](https://xiaomi.jobs.f.mioffice.cn/index/position/7546162795399463021/detail) | 1、负责门店的经营管理及销售计划制定，并达成目标；
+2、负责与合作商、平台及总部保持良好沟通，配合门店相关政策的落地执行；
+3、监督商品的要货、上货、补货，做好进货验收、商品陈列、商品质量和服务质量管… | 2026-08-24 |
+| Xiaomi | [搜广推算法平台架构专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677425837373622569/detail) | 1. 负责面向小米互联网业务的搜广推一站式算法平台建设，支撑百亿级收入规模下的广告、搜索和推荐算法模型高效迭代
+2. 负责对大规模深度学习模型工作流各环节进行深度优化，包括特征工程、样本工程，模型训练… | 2026-08-24 |
+| Xiaomi | [产品数据管理工程师- BOM管理专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677558499430172979/detail) | - 根据汽车业务规划，主导产品数据管理，标准化体系规范建设，优化管理流程及方案，落地相关优化项；
+- 制定产品数据在全业务链中流转及校验规则，确保产品数据的准确性、一致性及可追溯性；
+- 探索AI/大… | 2026-08-24 |
+| Xiaomi | [零售主管](https://xiaomi.jobs.f.mioffice.cn/index/position/7677405317227383094/detail) | 1. 驱动销售目标达成：通过客户服务、产品知识讲解和推广，配合高效落实销售政策和业务流程，高效管理小组用户基盘，最大程度提升销售小组成绩，达成小组销售目标；
+2. 用户体验提升：通过产品讲解与试驾服务… | 2026-08-24 |
+| Xiaomi | [海外客户高级销售经理——中国出海](https://xiaomi.jobs.f.mioffice.cn/index/position/7668262453054196014/detail) | 职位描述
+1. 新客户发掘：发掘中国出海新客户，分析客户需求并结合小米的流量特性，提供定制化的用户增长方案，帮助客户达成增长目标，并完成小米的销售目标，实现共赢。
+2. 战略客户维护：针对长期合作的大… | 2026-08-24 |
+| Xiaomi | [VOC满意度运营专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7675640116803930374/detail) | 岗位职责：
+1. 搭建并运营全球用户声音（VOC）监控体系，覆盖多渠道（客服工单、社媒、评价平台、NPS调研等），确保用户反馈实时采集与全面感知；
+2. 设计全客户生命周期满意度监控和对标体系，帮助全… | 2026-08-24 |
+| Xiaomi | [高级策略产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7665609715556960538/detail) | 1、负责内容产品搜推策略搭建，内容包含搜索召回、排序算法规则与个性化推荐机制等
+2、输出策略方案，推动搜推算法、内容分发、平台功能的持续迭代，不断提升用户消费
+3、搭建平台数据策略体系，设计全链路数据… | 2026-08-24 |
+| Xiaomi | [区域经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7458169114093600877/detail) | 岗位职责：
+一、阵地建设及客户管理：
+1.盘点小区内现有合作商经营状况，清晰掌握合作情况，制定客户发展规划；
+2.开发和撬动合作商资源，发掘新的合作机会点；
+3.渠道客户维护及规划。
+二、门店管理：
+… | 2026-08-24 |
+| Xiaomi | [客诉运营专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7675639893263976755/detail) | 岗位职责：
+1. 负责海外客诉全流程管理，打通线上/线下客诉互通机制，确保多渠道客诉信息统一收集、分类处理与闭环跟踪；
+2. 搭建媒体投诉与法律诉讼应对流程，制定应对策略与标准动作，协同法务、公关团队… | 2026-08-24 |
+| Xiaomi | [小米机器人-具身数据业务运营](https://xiaomi.jobs.f.mioffice.cn/index/position/7675987229764323603/detail) | 1. 负责具身智能数据及相关服务采购业务的运营与全流程管理，包括需求梳理、预算管理、供应商定点、合同执行、项目进度跟踪、成果验收、结算支付等，保障采购项目高质量交付；
+2. 建立并持续完善数据与服务采… | 2026-08-24 |
+| Xiaomi | [游戏中心产品负责人](https://xiaomi.jobs.f.mioffice.cn/index/position/7597628714474637587/detail) | 负责小米游戏中心、游戏空间、游戏工具箱等产品的体验优化与用户增长，制定并执行产品优化与增长策略，提升用户活跃、留存与核心转化指标。
+主导产品版本迭代，合理规划需求优先级，通过用户分层、场景化设计等手段… | 2026-08-24 |
+| Xiaomi | [小米之家店员](https://xiaomi.jobs.f.mioffice.cn/index/position/7205783347594952813/detail) | 1. 掌握扎实的产品知识，给顾客提供专业的产品与服务演示；
+2. 了解顾客需求，给顾客提供优质的服务，进而达成销售绩效；
+3. 及时维护小米品牌和店面的形象，如店铺内的陈列、清洁等；
+4. 协助店铺内… | 2026-08-24 |
+| UOB | [VP, PB KYC & Client Onboarding](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--PB-KYC---Client-Onboarding_JR94614) |  | 2026-08-24 |
+| UOB | [VP1 Senior GenAI Engineer, GMET](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP1-Senior-GenAI-Engineer-GMET_JR94416-2) |  | 2026-08-24 |
+| UOB | [VP, AI & Data Assurance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--AI---Data-Assurance_JR94036) |  | 2026-08-24 |
+| UOB | [Anti - Mules Investigator Intern (Sep - Feb 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Anti---Mules-Investigator-Intern--Sep---Feb-2027-_JR94151) |  | 2026-08-24 |
+| UOB | [GR-AMLO Tax Due Diligence Officer](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GR-AMLO-Tax-Due-Diligence-Officer_JR94341) |  | 2026-08-24 |
+| UOB | [VP, Data Products (Enterprise Data Platforms & Discovery), Innovation Group](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Data-Products--Enterprise-Data-Platforms---Discovery---Innovation-Group_JR94493) |  | 2026-08-24 |
+| UOB | [Control Ops Analyst Intern (Sep - Feb 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Control-Ops-Analyst-Intern--Sep---Feb-2027-_JR93820) |  | 2026-08-24 |
+| UOB | [Anti - Mules Investigator Intern (Sep - Feb 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Anti---Mules-Investigator-Intern--Sep---Feb-2027-_JR94605) |  | 2026-08-24 |
+| UOB | [Wealth Planner](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Wealth-Planner_JR93416) |  | 2026-08-24 |
+| UOB | [VP2 Senior GenAI Application Engineer, GMET](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-Senior-GenAI-Application-Engineer--GMET_JR93764) |  | 2026-08-24 |
+| Tencent | [IAA休闲类-小游戏策划](http://careers.tencent.com/jobdesc.html?postId=2058749978133839872) | 1.负责项目整体设计工作‌，包括数值设计、系统设计、关卡设计等，并与团队成员配合完成各系统功能交付；
+2.关注微信、DY、B 站等平台热点，策划游戏与热点结合的更新内容，想出能在游戏中实现的创意，对结… | 2026-08-24 |
+| Tencent | [PUBG Mobile-AI 概念设计师-创意脑暴方向](http://careers.tencent.com/jobdesc.html?postId=2090987052509347840) | 1.负责射击品类游戏版本前期概念设计，输出主题世界观、场景氛围、玩法创意等关键前期视觉，支撑版本美术方向；
+2.主导版本主题的整体美术包装，用视觉细节讲故事、传递世界观；
+3.运用 AI 工具链把创意… | 2026-08-24 |
+| Tencent | [互动影游编剧](http://careers.tencent.com/jobdesc.html?postId=2088645776342433792) | 1.负责互动影游项目的剧情架构设计：主线/支线/隐藏线编排、多结局与关键节点设计、玩家情绪节奏控制；
+2.撰写剧情树脚本：包含分支选项、伏笔铺设、角色状态机与世界观一致性维护；
+3.与AIGC视频团队… | 2026-08-24 |
+| Tencent | [火龙漫剧-用户增长运营](http://careers.tencent.com/jobdesc.html?postId=2091722869259288576) | 1.负责内容投放策略和素材策略与运营，深入了解信息流广告、达人广告等投放生态及素材策略，追踪行业素材动向与优质案例，持续优化素材投放效率；
+2.结合漫剧/短剧内容行业特性，完善素材管理机制，整合AIG… | 2026-08-24 |
+| Tencent | [微信搜索-Agent算法专家](http://careers.tencent.com/jobdesc.html?postId=2062097072978575360) | 1.参与微信搜索Agent能力优化，包括Search Agent（DeepSearch/DeepResearch）和真实世界复杂任务上的Agentic能力；
+2.跟进前沿技术：Mid-Train、SF… | 2026-08-24 |
+| Tencent | [微信搜索-AI Infra 工程师-大模型推理方向  (深圳）（广州)](http://careers.tencent.com/jobdesc.html?postId=2062097137205952512) | 1.工作职责：；
+2.负责开发和优化LLM，VLM等大模型的推理引擎，构建适合AI Search,智能 Agent相关领域大规落地应用中的推理基础架构；
+3.紧跟 LLM Infra 领域的前沿技术演… | 2026-08-24 |
+| Tencent | [腾讯游戏-3A级开放世界-任务开发工程师（客户端/服务端）](http://careers.tencent.com/jobdesc.html?postId=2091784977711808512) | 1.业务系统开发：负责UE引擎中游戏任务系统等业务模块的开发与迭代，确保任务系统稳定性与可维护性；
+2.基建系统建设：参与基础架构系统的设计与实现，优化开发流程和运行效率；
+3.工作协同：协同策划、美… | 2026-08-24 |
+| Tencent | [微信搜索-AI Infra工程师-大模型后训练与RL方向（北京）（深圳）](http://careers.tencent.com/jobdesc.html?postId=2062097141408641024) | 1.负责大模型后训练框架和RL训练的设计，开发和优化。支撑LLM的高效、稳定训练；
+2.持续追踪并引入业界最新开源生态技术（如 Verl, Slime, ROLL, AReal 等）；
+3.与搜索算法… | 2026-08-24 |
+| Tencent | [《王者荣耀》国际版-活动运营](http://careers.tencent.com/jobdesc.html?postId=2091818084359913472) | 1.基于项目目标，负责国际服整体运营活动的规划和落地，协同策划等模块内容以确保目标达成度；
+2.作为运营内部Owner，协同PM等统筹活动开发流程和能力建设，构建活动创意能力，提升落地效率；
+3.关注… | 2026-08-24 |
+| Tencent | [腾讯游戏-3A级开放世界-系统开发工程师（客户端）](http://careers.tencent.com/jobdesc.html?postId=2091785005486489600) | 1.业务系统开发：负责UE引擎中游戏核心主流程、商业化系统、活动系统、小游戏等业务模块的开发与迭代，确保系统稳定性与可维护性；
+2.基建系统建设：参与基础架构系统的设计与实现，优化开发流程和运行效率；… | 2026-08-24 |
+| Tencent | [J3-UE5微恐射击-客户端开发（CI/研发效能）](http://careers.tencent.com/jobdesc.html?postId=2091060154840825856) | 1.负责研发环境相关的流程与工具的开发、迭代和维护；
+2.负责资源管理和版本更新；
+3.负责搭建资源、性能等各类监控平台；
+4.积极响应和处理项目研发流程中的各种问题。 | 2026-08-24 |
+| Tencent | [微信搜索-多模态算法工程师](http://careers.tencent.com/jobdesc.html?postId=2062097070592016384) | 1.负责多模态大模型的研发和应用，研究相关技术在应用领域的全新解决方案，包括而不限于多模态理解生成，视觉Agent等能力；
+2.数据建设、指令微调、偏好对齐、模型优化；
+3.相关应用落地，包括搜索、工… | 2026-08-24 |
+| Tencent | [《三角洲行动》-3D角色设计师](http://careers.tencent.com/jobdesc.html?postId=2091058579741257728) | 1.负责角色相关资源制作、优化、及引擎合入等相关工作；
+2.负责外包资源对接跟踪，较好把控外包品质及效率；
+3.在引擎或渲染器调试灯光及材质，制作KV及UI类3D渲染图；
+4.较好的验收引擎最终效果，… | 2026-08-24 |
+| Tencent | [微信小店-产品策划-数据产品方向](http://careers.tencent.com/jobdesc.html?postId=2088154557128556544) | 1.理解用户在数据查找、口径确认、SQL编写等数据处理流程中的相关痛点，规划并推动相关的AI功能落地，包括但不限于Agent化的解决方案；
+2.负责微信小店内部经营系统的AI数据能力建设，包括但不限于… | 2026-08-24 |
+| Tencent | [腾讯游戏-3A级开放世界-关卡开发工程师（客户端/服务端）](http://careers.tencent.com/jobdesc.html?postId=2091785106061701120) | 1.业务系统开发：负责UE引擎中关卡系统的开发与迭代，确保关卡系统稳定性与可维护性；
+2.基建系统建设：参与基础架构系统的设计与实现，优化开发流程和运行效率；
+3.工作协同：协同策划、美术、客户端、服… | 2026-08-24 |
+| Tencent | [腾讯游戏-3A级开放世界—玩法策划（杭州）](http://careers.tencent.com/jobdesc.html?postId=2091785147342041088) | 1.负责主线、支线及世界任务中的玩法设计，包括探索、解谜、战斗、追逐、潜入、场景互动等内容，充分理解玩法与叙事的结合；
+2.负责大世界POI、探索玩法、世界事件及特色玩法设计，提升开放世界的探索乐趣与… | 2026-08-24 |
+| Tencent | [QQ飞车手游-UI视觉设计师-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2089275503402991616) | 1.负责系统玩法包装设计任务，玩法原画相关背景图，互动效果演示，视觉呈现等设计，并跟进设计效果整体游戏实现；
+2.能制作各种概念稿的创意输出包括平面包装和背景；
+3.快速验证各种新玩法或者视觉包装的前… | 2026-08-24 |
+| Tencent | [UE微恐轻动作项目-资深关卡策划(玩法设计)](http://careers.tencent.com/jobdesc.html?postId=2057014897539198976) | 1.负责微恐轻动作合作PVE、PVEVP等玩法关卡的创意设计、原型制作与全流程落地；
+2.独立产出关卡玩法方案、机制组合、特殊事件以及基于区域的特殊关卡体验；
+3.运用UE蓝图快速搭建玩法原型并敏捷迭… | 2026-08-24 |
+| Tencent | [微信搜索-AI Infra 工程师-大模型推理方向(深圳)（广州）](http://careers.tencent.com/jobdesc.html?postId=2062097139483459584) | 1.负责开发和优化LLM，VLM等大模型的推理引擎，构建适合AI Search,智能 Agent相关领域大规落地应用中的推理基础架构；
+2.紧跟 LLM Infra 领域的前沿技术演进突破，将合适成果… | 2026-08-24 |
+| Tencent | [腾讯游戏-3A级开放世界-资深服务端开发(杭州)](http://careers.tencent.com/jobdesc.html?postId=2091785126655737856) | 1.负责游戏后台基础架构设计和开发；
+2.负责UE5 DS的优化；
+3.负责游戏服务端的稳定性、性能、安全性相关的工作；
+4.负责游戏后端系统开发。 | 2026-08-24 |
