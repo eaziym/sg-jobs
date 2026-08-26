@@ -1,121 +1,154 @@
 # Latest Jobs
 
-_Last updated: 2026-08-25_
+_Last updated: 2026-08-26_
 
-**Total jobs:** 3255 • **Companies:** 87 • **Top tag:** Others
+**Total jobs:** 3309 • **Companies:** 86 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Xiaomi | [大家电销售](https://xiaomi.jobs.f.mioffice.cn/index/position/7503437227159945325/detail) | 1.负责线上（京东/天淘/拼多多等）零售平台笔记本/平板/显示器销售业务；
-2.与合作商家制定销售目标，跟踪销售达成，对销售业绩负责；
-3.针对各平台节奏，制定销售策略，包括价格政策、返利政策。并于商… | 2026-08-25 |
-| Vercel | [Staff Applied Scientist, Financial Forecasting](https://job-boards.greenhouse.io/vercel/jobs/5973206004) | About Vercel: 
- Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-25 |
-| Vercel | [Senior Data Engineer - Finance](https://job-boards.greenhouse.io/vercel/jobs/5914474004) | About Vercel: 
- Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-25 |
-| Vercel | [Senior Data Engineer - GTM](https://job-boards.greenhouse.io/vercel/jobs/5914473004) | About Vercel: 
- Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-25 |
-| Vercel | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/vercel/jobs/6161129004) | About Vercel: 
- Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-25 |
-| Vercel | [Senior Deal Desk Analyst](https://job-boards.greenhouse.io/vercel/jobs/6142959004) | About Vercel: 
- Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-25 |
-| UOB | [Assistant VP, Technical Dev Lead (One KYC Platform), Group Technology & Ops](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-VP--Technical-Dev-Lead--One-KYC-Platform---Group-Technology---Ops_JR94588) |  | 2026-08-25 |
-| UOB | [VP, Infrastructure Lead (RISK applications), Group Technology & Ops](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Infrastructure-Lead--RISK-applications---Group-Technology---Ops_JR94404) |  | 2026-08-25 |
-| UOB | [VP, Non-Financial Risk Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Non-Financial-Risk-Management_JR94714) |  | 2026-08-25 |
-| UOB | [Assistant VP, Wellness & Community Partnership](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/AVP--AVP--Wellness---Community-Partnership_JR94528) |  | 2026-08-25 |
-| UOB | [AVP,  Compliance Analytics & Insights - Compliance Systems](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/AVP---Compliance-Analytics---Insights---Compliance-Systems_JR94538-1) |  | 2026-08-25 |
-| UOB | [VP, Team Lead, Credit Administration & Reporting](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Team-Lead--Credit-Administration---Reporting_JR92761-1) |  | 2026-08-25 |
-| UOB | [VP,  Risk & Control Governance, Wholesale Loan Operations](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP---Risk---Control-Governance--Wholesale-Loan-Operations_JR93677) |  | 2026-08-25 |
-| UOB | [Assistant VP, Credit Administration & Reporting](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-VP--Credit-Administration---Reporting_JR92762) |  | 2026-08-25 |
-| UOB | [VP, Social Media Lead, Group Strategic Communications and Brand](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Social-Media-Lead--Group-Strategic-Communications-and-Brand_JR93435) |  | 2026-08-25 |
-| UOB | [SO/Manager - Business Service, PB MO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/SO-Manager---Business-Service--PB-MO_JR94668) |  | 2026-08-25 |
-| Tencent | [3D动作游戏《狩》-后台开发-UE5 DS后台开发](http://careers.tencent.com/jobdesc.html?postId=2059160518509379584) | 1.参与《狩》项目专属 DS 架构设计与核心系统研发，主导多人联机玩法的服务端落地、性能优化与安全体系建设；
-2.从底层引擎到上层业务全流程把控，打造高可用、高并发、高安全的工业化 DS 服务端。 | 2026-08-25 |
-| Tencent | [预研风格化项目-资深3C战斗策划-（枪械向）](http://careers.tencent.com/jobdesc.html?postId=2086694977064316928) | 1.设计和制作枪械战斗玩法：包括射击规则、射击 3C、枪械定位、枪械改装与配件体系；
-2.在 UE5 中使用编辑器、脚本和蓝图配置落地枪械手感、弹道、后坐力和命中反馈，独立调试和迭代射击表现与特效；
-… | 2026-08-25 |
-| Tencent | [游戏短视频创意策划](http://careers.tencent.com/jobdesc.html?postId=2081670893624537088) | 1.负责制定游戏的短视频内容策略及创意，包括但不限于艺人/KOL创意，UE/包装/实拍等创意；
-2.负责各大视频平台差异化短视频输出；
-3.协同市场各模块完成具体创意工作落地，包括但不限于产品整体内容… | 2026-08-25 |
-| Tencent | [预装渠道运营](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Beijing/_R108011-3) | 团队介绍
-Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
-L… | 2026-08-25 |
-| Tencent | [腾讯会议-商业策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2092062113383235584) | 1.负责腾讯会议商业化产品设计，深入理解腾讯会议商业化策略，结合不同组织规模及客户需求，参与付费权益、服务内容与价值表达的设计和持续优化；
-2.推动产品营收增长，深入理解产品版本、权益边界和商业模式，… | 2026-08-25 |
-| Tencent | [AIGC编导/导演](http://careers.tencent.com/jobdesc.html?postId=2076513041209536512) | 1.AIGC 时代下的编导超级个体，负责从剧本到视觉呈现的全流程内容创作；
-2.AI 视频生产与视觉探索：参与剧本讨论，用 AI 快速生成故事板 / 概念图 / 动态分镜，提供视觉决策依据；探索影像风… | 2026-08-25 |
-| Tencent | [2D角色原画指导](http://careers.tencent.com/jobdesc.html?postId=2084190521164738560) | 1.负责2D角色原画的整体设计方向把控与质量监督，确保角色设计符合项目风格与需求；
-2.指导并带领原画团队完成角色设计工作，包括角色造型、服装、道具等细节设计；
-3.与策划、3D美术、技术团队紧密协作… | 2026-08-25 |
-| Tencent | [天美开放世界预研项目-战斗策划（3C方向）](http://careers.tencent.com/jobdesc.html?postId=2086635212342734848) | 1.核心设计：负责开放世界预研游戏3C体系设计，包括角色，载具，枪械多个模块，搭建基础框架，同时预留后续设计迭代拓展空间；
-2.团队协同：负责输出完整的设计方案，协同程序，美术团队完成去全流程制作，保… | 2026-08-25 |
-| Tencent | [Technology Platform-游戏引擎开发工程师](http://careers.tencent.com/jobdesc.html?postId=2082434681986527232) | 1.负责QQ飞车手游项目引擎与CPU/GPU性能分析与优化方案落地；
-2.负责图形兼容性分析以及疑难问题的分析定位与解决；
-3.负责引擎定制与渲染特性开发，增强游戏表现力。 | 2026-08-25 |
-| Tencent | [《怪物猎人：旅人》-玩法策划](http://careers.tencent.com/jobdesc.html?postId=2077312767425167360) | 1.负责游戏玩法及对应系统的设计与落地，结合产品结构进行思考和探索新的玩法空间；
-2.与程序、美术部门紧密沟通，确保玩法和系统的制作符合设计预期并顺利落地，并对玩法的体验及结果负责；
-3.对游戏内已有… | 2026-08-25 |
-| Tencent | [天美开放世界预研项目-UE客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=2085557221902692352) | 1.负责游戏产品玩法需求的技术可行性评估，技术方案的设计和实现；
-2.负责与引擎研发工程师建立高效的游戏内容制作管线，保障运行性能，完善并持续优化相关工具链；
-3.与策划、美术、服务端程序紧密合作，完… | 2026-08-25 |
-| Tencent | [QQ飞车端游-游戏运营](http://careers.tencent.com/jobdesc.html?postId=2082434622846844928) | 1.负责载具、avatar需求规划和研发统筹，包含制作规范、管线效率、投放ROI和成本控制；
-2.负责重要商业化资源的全栈方案制定，从创意、设计落地到上线、宣发筹备等；
-3.负责游戏资产的全生命周期管… | 2026-08-25 |
-| Tencent | [游戏2D角色设计师](http://careers.tencent.com/jobdesc.html?postId=2082002982542688256) | 1.角色整体设计：依据游戏世界观、策划需求，独立完成游戏主角、NPC、反派、怪物、BOSS、宠物、节日时装、限定皮肤等全套角色概念设计；
-2.标准化设定输出：输出标准化落地设定：全身立绘、正侧背三视图… | 2026-08-25 |
-| Tencent | [企业微信-评测算法工程师-（北京/成都）](http://careers.tencent.com/jobdesc.html?postId=2064239874424352768) | 1.针对企业微信AI模型的特点，持续构建完善的评测基准，包括但不限于NLP、ASR、MLLM等领域，有效指导算法优化方向；
-2.负责评测数据的自动化生产能力构建：基于数据泛化等能力，构建领域增强型评测… | 2026-08-25 |
-| Tencent | [混元大模型平台全栈开发工程师（深圳/北京）](http://careers.tencent.com/jobdesc.html?postId=2092179092127526912) | 1.一站式平台前端架构与全栈研发：负责混元大模型一站式平台的前后端全链路研发工作，覆盖模型训练、效果评测、服务部署、数据管理、权限管理等核心模块的建设与迭代。主导平台前端架构设计，构建高复用、可配置、… | 2026-08-25 |
-| Tencent | [次世代UE5战术射击端游-主PM](http://careers.tencent.com/jobdesc.html?postId=2081260062143332352) | 1.负责游戏项目从垂切过渡到量产以及后续上线运营的全生命周期管理，制定项目计划与里程碑，跟踪执行进度，确保关键节点按期交付；
-2.构建、优化并持续迭代游戏研发管线，管理流程规范与质量标准，推动工业化建… | 2026-08-25 |
-| Tencent | [《灰境行者》-系统策划](http://careers.tencent.com/jobdesc.html?postId=2080100747994906624) | 1.负责游戏内各类系统的设计、实现与优化迭代；
-2.撰写设计文档，协调研发资源，跟进开发过程，对系统的最终质量和体验负责；
-3.持续提升游戏内各类系统的体验，捕捉各类痛点，提出各类优化方案；
-4.与协… | 2026-08-25 |
-| Tencent | [企业微信-后台开发工程师](http://careers.tencent.com/jobdesc.html?postId=2089728223888977920) | 1.负责企业微信文档功能的后台开发和维护；
-2.深入参与企业微信文档功能迭代，需求研发，持续优化系统，维持系统稳定；
-3.深度参与后台架构设计与优化。 | 2026-08-25 |
-| Tencent | [‌金铲铲之战-高级游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2088463697747034112) | 1.负责游戏核心模块的质量，专注提高版本质量和测试效率；
-2.完善测试团队建设和发展，实现团队间的良好合作；
-3.主动发现问题、解决问题。为团队成员提供技术指导和指导，并给予积极的反馈；
-4.分析质量… | 2026-08-25 |
-| Tencent | [PUBG MOBILE-高级游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2088463695415001088) | 1.负责游戏核心模块的质量，专注提高版本质量和测试效率；
-2.完善测试团队建设和发展，实现团队间的良好合作；
-3.主动发现问题、解决问题。为团队成员提供技术指导和指导，并给予积极的反馈；
-4.分析质量… | 2026-08-25 |
-| Tencent | [混元视频感知与理解算法研究员（北京/上海）(深圳)](http://careers.tencent.com/jobdesc.html?postId=2092149612814184448) | 1.主导视频能力建设：负责多模态大语言模型（VLM）的视频感知与理解能力研发，围绕视频数据、训练方法与评测体系开展系统性建设，持续提升模型对动态视觉世界的理解能力与能力上限；
-2.攻坚视频基础理解：聚… | 2026-08-25 |
-| Tencent | [混元大模型平台UX/UI设计师(深圳/北京）](http://careers.tencent.com/jobdesc.html?postId=2092179093046079488) | 1.平台全链路体验设计：负责混元大模型一站式平台的全链路设计工作，覆盖模型训练、效果评测、服务部署、数据管理等核心场景，从设计策略到UX/UI关键设计方案完整产出。确保平台在高复杂度AI能力下仍保持清… | 2026-08-25 |
-| Tencent | [微信小店-产品运营-带货者运营（泛生活/泛知识类方向）](http://careers.tencent.com/jobdesc.html?postId=2089620418007838720) | 1.带货者增长运营：负责微信小店泛生活/泛知识类带货者的挖掘、孵化与运营，提升带货规模，根据该类带货者的特点，制订相应的带货增长策略，提升带货转化效率与GMV增长；
-2.解决方案打造：探索更多的带货玩… | 2026-08-25 |
-| Tencent | [和平精英-产品策划（和平营地）-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2092153248067792896) | 1.负责和平营地社区产品核心功能模块的策划设计，包括且不限于玩家成长体系、社交互动、内容展示、游戏数据打通等方向，独立完成从需求到方案的全流程设计；
-2.深入拆解玩家需求与使用场景，输出清晰的功能逻辑… | 2026-08-25 |
-| Tencent | [微信小店-产品运营-带货者运营（泛娱乐/明星艺人方向）](http://careers.tencent.com/jobdesc.html?postId=2089620420511838208) | 1.带货者增长运营：负责微信小店泛娱乐/明星艺人类带货者的挖掘、孵化与运营，提升带货规模，根据该类带货者的特点，制订相应的带货增长策略，提升带货转化效率与GMV增长；
-2.解决方案打造：探索更多的带货… | 2026-08-25 |
-| Tencent | [UE微恐轻动作项目-资深关卡策划(玩法设计)](http://careers.tencent.com/jobdesc.html?postId=2092186419740192768) | 1.负责微恐轻动作合作PVE、PVEVP等玩法关卡的创意设计、原型制作与全流程落地；
-2.独立产出关卡玩法方案、机制组合、特殊事件以及基于区域的特殊关卡体验；
-3.运用UE蓝图快速搭建玩法原型并敏捷迭… | 2026-08-25 |
-| Tencent | [《王者荣耀世界》资深关卡策划](http://careers.tencent.com/jobdesc.html?postId=2042556495618539520) | 1.根据项目设定背景，进行游戏关卡设计和制作，包括但不限于PVP/PVE地图、AI、怪物、各类事件处理等；
-2.独立进行初期关卡设计，使用3D引擎搭建白模关卡并验证可行性，确保内容符合生成要求和技术规… | 2026-08-25 |
-| Tencent | [微信小店-产品策划-售后体验方向](http://careers.tencent.com/jobdesc.html?postId=2089620347539341312) | 1.负责微信小店交易纠纷的 AI 处理能力落地，包括智能判责、自动举证、话术生成、工单分流等核心环节的规划与运营；并持续打磨纠纷处理模型与策略的准确率和覆盖率，提升人效；
-2.能够深入理解用户在电商交… | 2026-08-25 |
-| Tencent | [企业微信-大模型算法工程师-经营分析（成都/北京）](http://careers.tencent.com/jobdesc.html?postId=2092279866727776256) | 1.与数据、产品、工程等团队紧密配合，参与算法选型到模型优化的全流程，充分利用大模型从业务资料中挖掘潜在的经营模式和用户行为规律；
-2.专注用户行为理解和模式识别，利用社区发现、图模型、行为序列、LL… | 2026-08-25 |
-| Tencent | [天美游戏-游戏产品战略经理](http://careers.tencent.com/jobdesc.html?postId=2059163485903958016) | 1.深度追踪全球游戏市场前沿动态，进行前瞻性扫描；推动天美工作室群制定契合市场发展方向的中长期产品战略；
-2.进行专家级游戏评测，结构化拆解竞品的核心玩法、系统框架、心流体验及核心用户心理，为天美在新… | 2026-08-25 |
-| Tencent | [UE在研3D休闲-高级游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2088463701903585280) | 1.负责游戏核心模块的质量，专注提高版本质量和测试效率；
-2.完善测试团队建设和发展，实现团队间的良好合作；
-3.主动发现问题、解决问题。为团队成员提供技术指导和指导，并给予积极的反馈；
-4.分析质量… | 2026-08-25 |
-| Tencent | [智能体-数据治理高级工程师-WorkBuddy](http://careers.tencent.com/jobdesc.html?postId=2092162824909537280) | 1.负责WorkBuddy产品数据治理工作，主导数据体系整体规划与设计，涵盖业务对象、事件模型、数据模型及指标体系搭建；
-2.深度参与WorkBuddy Agent业务建设，构建覆盖User、Sess… | 2026-08-25 |
-| Tencent | [和平精英-高级游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2088463692697088000) | 1.负责游戏核心模块的质量，专注提高版本质量和测试效率；
-2.完善测试团队建设和发展，实现团队间的良好合作；
-3.主动发现问题、解决问题。为团队成员提供技术指导和指导，并给予积极的反馈；
-4.分析质量… | 2026-08-25 |
-| Tencent | [UE微恐轻动作项目-资深世界观策划](http://careers.tencent.com/jobdesc.html?postId=2059492310479192064) | 1.负责世界观Bible的搭建与持续维护，如术语表、时间线、势力图谱等；
-2.规划主线 + 赛季主题的长期叙事节奏（年度内容），输出重要剧情动画的文字分镜脚本；
-3.规划环境叙事要素，通过场景中的符号… | 2026-08-25 |
+| Xiaomi | [服务端工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7677782149956782362/detail) | 1. 负责小米生态链产品的软件平台建设及产品软件研发工作，包括需求沟通、架构设计、核心技术研发、线上服务维护等。
+2. 深入理解生态链业务形态，对提出的需求和规划，能提出自己合理的建议及专业方案，与生… | 2026-08-26 |
+| Xiaomi | [商业化产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7677787294081861907/detail) | 1. 负责小米系APP的广告变现规划及方案设计，为媒体收入负责；
+2. 负责小米自营APP的激励能力建设，分人群、动态调整权益消耗规则、奖励投放节奏，实现良性运转。并对激励广告后端效果进行监控&优化，… | 2026-08-26 |
+| Xiaomi | [海外电商产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7676386809483512070/detail) | 1. 主导小米网在新国家的整体规划与建设，从前期市场调研、竞品分析，到网站产品设计、项目落地，确保小米网顺利上线并符合当地市场需求。
+2. 搭建并完善小米网物流、财税体系，保障网站高效合规运营；
+3.… | 2026-08-26 |
+| Xiaomi | [IFS解决方案专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677932901602461979/detail) | 1. 变革方案设计：主导集团IFS财经数字化变革，结合3C、汽车业态特点，搭建核算、资金、预算、费控、财报等全场景数字化解决方案，输出可落地的顶层设计与实施规范。
+2. 多业态业财融合：吃透3C、智能… | 2026-08-26 |
+| Xiaomi | [日本手机研发技术支持经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7678276558033094975/detail) | 【工作内容】
+本岗位将与中国总部紧密联动，负责日本市场主流通信运营商（MNO）及公开市场（SIM Free）智能手机的技术支持、评估与测试工作，确保产品准时上市交付。此外，还将负责产品规划阶段的 Pr… | 2026-08-26 |
+| Xiaomi | [硬件研发前端部署工程师（EDA方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7677840033411385638/detail) | 1. 找到电路设计AI 切入点，规划并落地AI端到端自动化链路建设
+2. 推动EDA工具链的原子化拆解，并且能够AI Agent高效的使用
+3. 落地电路AI 设计Skill，构建可复用底座服务支撑多… | 2026-08-26 |
+| Xiaomi | [小米汽车-事故顾问-苏州](https://xiaomi.jobs.f.mioffice.cn/index/position/7677877294861633842/detail) | 1.作为服务中心售后事故维修业务接待人员，负责事故类业务线下服务，响应用户需求；
+2.负责事故定损，确定出险性质，判断维修项目和修复时间并进行准确评估；
+3.负责提供事故车报价给用户和保险公司，以及维… | 2026-08-26 |
+| Xiaomi | [小米汽车-交付延展专员-泰州](https://xiaomi.jobs.f.mioffice.cn/index/position/7677877336817731846/detail) | 1. 对购买附件精品产品的客户迎接对接，对客介绍服务整体流程；
+2. 负责线下车品产品体验指引导、介绍；
+3. 负责加装产品向供应商下订单、产品收货入库及领料出库；
+4. 负责预约安装附件产品及核对信… | 2026-08-26 |
+| Xiaomi | [机器人结构工艺专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7677555495989774634/detail) | 1.加工工艺规划与制定
+依据机器人结构特点和生产规模，制定合理的生产工艺方案，涵盖铸造、锻造、机加工、焊接、装配等工艺环节。
+确定各工艺环节的工艺参数和操作规范，编写工艺文件，如工艺流程图、作业指导书… | 2026-08-26 |
+| Xiaomi | [EDA开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7678236665135745286/detail) | 负责小米集团全硬件品类硬件AI开发能力建设，工具底层CLI开发以及Agent开发
+1、参与Creo、UG等主流NCAD设计软件的二次开发
+2、参与Cadence、AD等主流ECAD设计软件的二次开发
+… | 2026-08-26 |
+| Xiaomi | [机电工程师-绍兴](https://xiaomi.jobs.f.mioffice.cn/index/position/7677814777472796947/detail) | 1.进店维修诊断至完成整条服务维修.质量.效率保障的执行人；
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标；
+3.车辆维修保养及疑难故障处理，保修.服务行动等维修服务行为的第一负责人；… | 2026-08-26 |
+| Xiaomi | [小米汽车-整车与系统工程-能量管理工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7678233941396343083/detail) | 1. 负责动力性经济性选型仿真计算及三电选型分析；
+2. 负责动力性经济性目标分解至子系统并管控其性能目标达成；
+3. 熟悉续航能耗转毂测试及动力性试验流程，跟踪管控试验；
+4. 负责竞品车型动力性经… | 2026-08-26 |
+| Xiaomi | [灵巧手控制算法工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7677556595572033834/detail) | 1. 负责高自由度灵巧手位控、力控算法开发；
+2. 负责灵巧手运动学、动力学分析以及参数辨识；
+3. 负责灵巧手SDK的维护和完善，保证长期可靠性和稳定性；
+1. 本科以上学历，1年以上运控算法工作经… | 2026-08-26 |
+| Xiaomi | [机电工程师-温州](https://xiaomi.jobs.f.mioffice.cn/index/position/7678278539964467499/detail) | 1.进店接待至维修完成整条服务链路体验.质量.效率保障的执行人；
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标；
+3.车辆维修保养及疑难故障处理，保修.服务行动等维修服务行为的第一负责… | 2026-08-26 |
+| Xiaomi | [高级嵌入式系统软件工程师-RTOS方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7677793528794515758/detail) | 1. 负责新产品方案设计评审、方案制定，作为技术专家，提供芯片和模组选型、使用、编程、调试等应用解决方案。
+2. 负责RTOS软件团队管理和规划制定。
+3. 负责厨大电、移动电源等品类嵌入式软件设计、… | 2026-08-26 |
+| Xiaomi | [灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 1. 灵巧手测试规划与方案
+  - 参与灵巧手需求评审：驱动、减速器、编码器、力矩传感器、触觉传感器、腱驱 / 直驱、手指机构等；
+  - 制定测试策略与计划，编写测试用例 / 规程 / 验收标准，覆… | 2026-08-26 |
+| Xiaomi | [薪酬绩效岗](https://xiaomi.jobs.f.mioffice.cn/index/position/7677429276018968851/detail) | 1、主导搭建并持续维护中国区薪酬相关的标准化数据库，制定数据采集规范与更新标准，确保底层数据的完整性、准确性与及时性
+2、负责数据的清洗、校验、关联整合及异常值排查，建立数据质量监控机制，及时处理数据… | 2026-08-26 |
+| Xiaomi | [自动驾驶-系统软件高级研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7678213350471911734/detail) | 1、负责自动驾驶车端系统软件的研发，包括操作系统、中间件、执行管理、测试工具链等；
+2、设计和开发安全稳定、高性能、易扩展的自动驾驶车端系统软件，涵盖消息通信、调度框架、执行管理、系统监控、数据采集等… | 2026-08-26 |
+| Xiaomi | [嵌入式软件工程师-BSP方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7677781255425460486/detail) | 1. 负责Linux/Rtos系统平台相关产品的驱动开发。
+2. 负责系统层的功能、性能、功耗等优化。
+3. 负责设计和实现量产测试软件。
+4. 负责BSP新技术的探索和调研，以及新技术的相关验证。
+… | 2026-08-26 |
+| Xiaomi | [高级产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7678245239979084095/detail) | - 基于用户需求、行业趋势与硬件产品特征，完成全球TV OS产品规划
+- 负责AI在OS中的深度整合，寻求用户体验重塑的机会点
+- 负责OS相关待性体验标准建设，构建用户体验标准，跟踪业界新技术/新特… | 2026-08-26 |
+| Xiaomi | [公共事务经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7678165292610701594/detail) | 1、协助和国内宏观部门、智库、高校的对接联络，保持工作渠道的畅通；
+2、联通内外部合作团队、整合资源，牵头落地好专项活动的组织和执行；
+3、日常跟踪宏观形势、产业趋势等动态，做好相关的信息梳理简析工作… | 2026-08-26 |
+| Xiaomi | [海外白电交付运营经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7677769637567908122/detail) | 一、产供销协同
+1. 生产-销售-交付计划拉通：协同GTM、供应链计划、干线物流，建立M+3滚测+周度拉通机制，确保海外白电销售计划与交付节奏对齐，减少交付资源浪费或交付delay影响业绩；
+2. 产… | 2026-08-26 |
+| Xiaomi | [高级专利工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7678166855362283795/detail) | 1. 负责技术项目的专利挖掘与专利布局工作；
+2. 参与专利申请文件的审核及审查意见答复；
+3. 开展专利检索、技术分析及行业专利情报收集；
+4. 协助处理专利侵权分析、无效和诉讼支持；
+5. 组织开… | 2026-08-26 |
+| Xiaomi | [产品操盘经理-大家电](https://xiaomi.jobs.f.mioffice.cn/index/position/7678147995968473395/detail) | 負責香港大家電/白電品類產品操盤，包含產品定價、銷售策略、操盤管理等
+分析香港大家電市場數據，為香港大家電品類做出正確選品決定
+本科或以上，5年空調品類產品經理操盥經驗
+熟悉香港市場、用戶需求优先 | 2026-08-26 |
+| Xiaomi | [小米汽车-机电工程师-苏州](https://xiaomi.jobs.f.mioffice.cn/index/position/7677877496319330610/detail) | 1.进店接待至维修完成整条服务链路体验.质量.效率保障的执行人；
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标；
+3.车辆维修保养及疑难故障处理，保修.服务行动等维修服务行为的第一负责… | 2026-08-26 |
+| Xiaomi | [服务派驻代表](https://xiaomi.jobs.f.mioffice.cn/index/position/7678227681594706227/detail) | 1.作为小米汽车派驻到授权门店的品牌方代表，负责所派驻授权门店的现场技术支持；
+2.以用户视角完成服务车辆的最终检验，以确保车辆达到服务维修标准后交付；
+3.负责所在授权门店的索赔单及索赔件提交符合性… | 2026-08-26 |
+| Xiaomi | [效果广告运营总监](https://xiaomi.jobs.f.mioffice.cn/index/position/7646614223955675435/detail) | 战略与营收：参与制定效果广告业务战略及营收目标，主导KA客户顶层规划，驱动收入规模化增长。
+AI Agent部署与应用：主导AI Agent（智能体）在广告投放、创意生成及数据分析场景的部署与落地；利… | 2026-08-26 |
+| Xiaomi | [东亚地区部大家电负责人](https://xiaomi.jobs.f.mioffice.cn/index/position/7678148023802038534/detail) | 完成东亚地区对应品类的利润收入与目标
+负责对应品类的全生命周期与操盘管理
+构建对应品类未来全区2-3年可持续发展体系
+具备丰富的对应品类行业经验
+具备国际业务拓展经验和语言技能
+具备产品全生命周期GT… | 2026-08-26 |
+| Xiaomi | [风控算法工程师（AI智能风控方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7677872157108685066/detail) | 1.参与集团零售、服务、整车等业务场景的风险识别与算法能力建设，围绕反黄牛、反欺诈、反作弊、反爬虫等问题，完成数据分析、特征挖掘、模型及策略设计。
+2.负责风控模型的开发和迭代，包括样本及标签构建、特… | 2026-08-26 |
+| Xiaomi | [知识产权工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7678166496828377386/detail) | 1.负责公司研发项目的专利业务对接；
+2.负责所对接研发部门的专利业务闭环处理，包括：专利风险排查、专利布局与挖掘、竞品专利信息分析、专利对抗支持；
+3.组织开展专利评审，为研发部门提供专利相关培训；… | 2026-08-26 |
+| Xiaomi | [交付财务信息化产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7664422007589357834/detail) | 1、负责国际 IFS 物流费专项需求落地
+2、完成物流费专项各个费用项需求方案产出
+3、协同信息部各个团队完成 IFS 物流费专项各项费用科目线上化
+4、推进国际交付团队财务相关需求承接与落地
+1、本… | 2026-08-26 |
+| Xiaomi | [高级用户研究员(德国)](https://xiaomi.jobs.f.mioffice.cn/index/position/7615528197149116698/detail) | Base 在杜塞尔多夫
+1、配合总部团队，进行所属地的调研执行和分析，完成产品不同阶段的研究；
+2、根据当地业务团队需求，组织制定调研计划，调研方案，并独立完成调研项目；
+3、统筹管理调研咨询公司的执… | 2026-08-26 |
+| Vercel | [Strategic Sourcing Manager](https://job-boards.greenhouse.io/vercel/jobs/6163582004) | About Vercel: 
+ Vercel is the agentic infrastructure company. We free people and agents to ship what… | 2026-08-26 |
+| UOB | [First VP, Risk System Analyst, Group Technology & Ops](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/First-VP--Risk-System-Analyst--Group-Technology---Ops_JR94508) |  | 2026-08-26 |
+| UOB | [Senior Operations Manager, Corp Travel](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Operations-Manager--Corp-Travel_JR94516) |  | 2026-08-26 |
+| Tencent | [S2-CSIG财务管理(供应链管理方向)](http://careers.tencent.com/jobdesc.html?postId=2089897600726773760) | 1.负责供应链的财务管理工作，参与供应链相关财务流程支持，提供财经意见；
+2.针对业务特点，识别供应链中的财务风险，对流程规则建立、风险控制提供财务建议和方案，推进方案落地；
+3.数据分析：基于业财数… | 2026-08-26 |
+| Tencent | [3D动作策略游戏《虚环》-资深游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2080186557356224512) | 1.负责根据项目需求制定测试计划，组织测试用例设计及评审并开展游戏产品测试，把控整体产品质量，并不断优化测试效率和提高测试质量；
+2.负责与项目经理、产品策划和开发人员就项目需求、进度、质量风险等问题… | 2026-08-26 |
+| Tencent | [天美游戏海外市场总监](http://careers.tencent.com/jobdesc.html?postId=2092469750792896512) | 1.制定所负责产品的海外市场营销策略，明确重点区域、上线节奏、目标用户及预算分配方案，并对上线后的用户规模、获客成本、收入及投资回报承担最终责任；
+2.统筹品牌创意、内容与社区运营、达人合作、广告投放… | 2026-08-26 |
+| Tencent | [混元数据与安全技术负责人（Tech Lead）（北京）](http://careers.tencent.com/jobdesc.html?postId=2091789351259385856) | 1.团队管理与技术规划：统筹数据平台工程、终端安全与风控团队的技术路线规划、架构演进与团队建设，联动算法与产品团队，保障基础设施高可用、高扩展与业务安全；
+2.海量数据与平台架构：全权负责高并发、高可… | 2026-08-26 |
+| Tencent | [S2-IEG财务管理（发行）](http://careers.tencent.com/jobdesc.html?postId=2087493367901634560) | 1.日常财务管理和分析工作，包括研发项目核算、研发资源监控与效率提升、业财数据分析，定期向负责人汇报等；
+2.牵头部门的年度预算规划，阶段性跟踪调整，评估资源投入合理性等；
+3.深入了解所在业务的运营… | 2026-08-26 |
+| Tencent | [混元大模型项目经理（数据方向）](http://careers.tencent.com/jobdesc.html?postId=2086743664838754304) | 1.负责承接大模型数据需求和方案落地，能够深度理解大模型算法团队的数据需求，并统筹数据全链路需求，梳理需求间前后依赖关系，并给出合理高效的方案和排期；
+2.负责专家标注数据及相关平台建设项目的全流程管… | 2026-08-26 |
+| Tencent | [混元风控算法工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2089619589012045824) | 1.通过分析网络流量/用户行为数据，挖掘海量数据中的恶意行为，分析动机并制定打击策略，并转化为业务认可的价值；
+2.负责大模型业务相关的风控对抗工作的工程化落地，并保证线上策略效果持续运营；
+3.跟进… | 2026-08-26 |
+| Tencent | [《火影忍者》手游-战斗策划](http://careers.tencent.com/jobdesc.html?postId=2092180451304321024) | 1.负责火影忍者手游角色的设计与制作，对角色整体品质和体验负责，包括角色的玩法体验、平衡性体验、美术表现；
+2.熟悉角色制作管线框架，持续迭代进化整个制作管线；
+3.根据玩家社区反馈、数据分析、调研报… | 2026-08-26 |
+| Tencent | [混元专家运营（深圳）](http://careers.tencent.com/jobdesc.html?postId=2079824569019056128) | 1.资源拓展：负责大模型数据生产领域（算法、语言、行业专业知识等）优质个人专家挖掘与渠道拓展，搭建稳定、可持续的专家资源池；
+2.机制搭建：优化专家合作流程、采买标准与激励体系，平衡成本、专家体验与履… | 2026-08-26 |
+| Tencent | [混元后训练数据质量研发工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2087365732160679936) | 1.负责大模型后训练数据质检 Pipeline 及相关工程工具的研发，支持数据接入、质量检测、结果处理和数据交付；
+2.负责接入团队提供的质量检测能力，协同开发团队建设任务调度、结果管理、版本管理和运… | 2026-08-26 |
+| Tencent | [金融科技-Agent架构设计与推理性能优化工程师](http://careers.tencent.com/jobdesc.html?postId=2092447906002022400) | 1.· 负责Agent harness的设计与平台 Agent 开发，结合统一Agent框架、标准LLM服务，扩展自定义工具、沙箱 、Agent 互调通信，完成业务功能目标；
+2.· 围绕工具的场景，… | 2026-08-26 |
+| Tencent | [AI产品运营](http://careers.tencent.com/jobdesc.html?postId=2089943379306786816) | 1.规划并执行用户获取策略，涵盖SEO、内容营销、社交媒体运营、社区建设等多种方式，并持续进行增长实验（如A/B测试），优化获客渠道和转化漏斗；
+2.建立数据驱动的增长体系，搭建增长数据监控体系(渠道… | 2026-08-26 |
+| Tencent | [混元移动安全逆向工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2089180654645460992) | 1.负责  终端安全、设备环境及移动端攻防相关技术研究与研发；
+2.深入研究移动端系统及 App 的设备信息、运行环境和安全检测机制，分析并解决系统级对抗问题；
+3.跟进Android/iOS 系统、… | 2026-08-26 |
+| Tencent | [游可爱-产品策划经理](http://careers.tencent.com/jobdesc.html?postId=2089900774518865920) | 1.负责游可爱平台产品全生命周期管理，参与任务管理、达人合作、激励活动、征稿招募等核心模块的需求设计与迭代优化；
+2.深度剖析游戏内容生态链条中运营、项目组、供应商、创作者等多方角色需求，抽象标准化业… | 2026-08-26 |
+| Tencent | [S2-反舞弊风险管理经理](http://careers.tencent.com/jobdesc.html?postId=2092433770174132224) | 1.负责反舞弊宣导内容策划和落地，输出线上线下宣导物料和活动，开展培训课程及新媒体矩阵运营；
+2.负责部门宣导 IP 形象维护与周边礼品策划；
+3.协助完善公司反舞弊制度及廉洁文化建设，沉淀输出可执行… | 2026-08-26 |
