@@ -1,127 +1,120 @@
 # Latest Jobs
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
 
-**Total jobs:** 3180 • **Companies:** 84 • **Top tag:** Others
+**Total jobs:** 3103 • **Companies:** 89 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Xiaomi | [安全事务专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7623327473141631238/detail) | 1.集团安全案件办理，黑灰产、网络犯罪防治及网络安全管理；
-2.维护司法监管机构的沟通渠道，保持良性互动，达成战略合作；
-3.及时了解掌握网络安全机关各类法规政策和监管动向，以及对标公司相关业务，提出… | 2026-09-23 |
-| Xiaomi | [资源开发经理（印度）](https://xiaomi.jobs.f.mioffice.cn/index/position/7506486197007777901/detail) | 1、负责在印度寻源本地材料的供应商，协助导入印度本地供应商；
-2、负责解读MPMS政策，并基于MPMS政策分析本地资源优势；
-3、落实本地化战略，构建印度消费电子品行业本地供应链地图；
-4、收集市场上… | 2026-09-23 |
-| Xiaomi | [企业文化项目经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7675705717818493227/detail) | 1. 输出文化理念，搭建文化场景，包括文化内涵阐释、传播及落地项目设计，支撑大型企业文化活动开展
-2. 围绕集团文化目标，结合公司各产业形态输出相对应的文化方案，实现文化共创、共建
-3. 建立与完善文… | 2026-09-23 |
-| Xiaomi | [Tax Manager (Automotive), Munich](https://xiaomi.jobs.f.mioffice.cn/index/position/7688617131563403566/detail) | Job Responsibilities:
-As the Germany Tax Manager, support tax planning and tax advisory matters unde… | 2026-09-23 |
-| Xiaomi | [零售顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7686314656046188843/detail) | 1、产品讲解：热情接待所有进店用户，提供专业产品讲解，结合用户情况与使用场景，激发用户对品牌与产品的热情；
-2、试乘试驾：为用户提供专业的试乘试驾服务，解答用车顾虑
-3、用户体验：解决用户购车及用车问… | 2026-09-23 |
-| Xiaomi | [GTM高级经理（Poco）](https://xiaomi.jobs.f.mioffice.cn/index/position/7686321268186302739/detail) | 职位描述
-• 负责小米手机海外GTM方案的制定和落地，协调不同的职能部门，可接受外派海外。
-• 产品上市操盘：了解市场/客户需求，组织制定整体解决方案（包括但不限于产品、商务、营销、渠道、零售、交付、… | 2026-09-23 |
-| Xiaomi | [小米汽车零售店长-深莞](https://xiaomi.jobs.f.mioffice.cn/index/position/7688562307953363238/detail) | 认可小米汽车品牌文化，具有创业精神；
-高效管理门店零售团队，通过客户服务、产品知识讲解和门店推广等来驱动业务发展，对销售业绩目标负责；
-负责计划、执行和跟进门店运营任务和项目，包括但不限于店外市场活动… | 2026-09-23 |
-| Xiaomi | [机器学习平台研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7687906328723376447/detail) | 1. 负责机器学习开发平台的服务端开发，包括不限于训练、推理、微调、SDK开发等。
-2. 负责 MLOps、LLMOps 系统的开发，设计并实现 AI workflow 产品，提高用户使用效率，提升 … | 2026-09-23 |
-| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7686314606947748147/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
-2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-09-23 |
-| Xiaomi | [薪酬BP](https://xiaomi.jobs.f.mioffice.cn/index/position/7674817454149273875/detail) | 1、在集团薪酬策略和管理框架内，协助完成所支持部门的差异化薪酬激励策略、方案的设计和迭代，并支持落地
-2、深入了解业务场景及动态，负责跟踪和研究市场薪酬变化，确保所负责部门的薪酬策略具备竞争力
-3、参… | 2026-09-23 |
-| Xiaomi | [智能座舱OTA测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7687445609746352410/detail) | 1. 负责车载 OTA 全流程验证工作，覆盖云端任务调度、差分 / 全量升级包下载、断点续传、A/B 分区刷写、版本激活、回滚及异常恢复等核心业务场景。
-2. 依据产品需求制定 OTA 测试策略与测试… | 2026-09-23 |
-| Xiaomi | [户外媒介经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7688699031770384694/detail) | 1、制定户外媒介投放策略，基于核心户外广告场景，结合长短期品牌目标，输出可落地的投放方案与规划。
-2、定期复盘户外投放效果，结合人流量、曝光量、人群画像等维度形成洞察，优化投放及选点策略。
-3、负责户… | 2026-09-23 |
-| Xiaomi | [嵌入式软件研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7687901572978559268/detail) | 1. 负责小米汽车智能座舱MCU侧软件架构方案设计与开发
-2. 负责小米汽车智能座舱MCU侧应用软件模块的设计开发
-3、负责软件交付后的功能稳定性跟踪与维测
-1、计算机、电子工程、汽车电子、软件工程、… | 2026-09-23 |
-| Xiaomi | [专利工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688255281398352169/detail) | 1、负责研发项目的专利挖掘、专利布局、专利风险排查工作；
-2、负责专利申请及审查意见答复审核；
-3、负责专利提案、专利稳定性等检索及竞争对手、行业技术分析；
-4、处理专利侵权分析及无效、诉讼案件；
-5… | 2026-09-23 |
-| Xiaomi | [后端技术专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7688201038205454628/detail) | 1、负责国际服务结算相关的后端研发工作，包括需求沟通，技术架构设计与研发工作；
-2、保证服务安全、高可用性、高扩展性，保证资金安全性、正确性、一致性；持续改进系统架构、优化性能；
-3、维护、升级和优化… | 2026-09-23 |
-| Xiaomi | [Talent Acquisition Specialist, Hong Kong](https://xiaomi.jobs.f.mioffice.cn/index/position/7688613815109667099/detail) | 1. Align closely with business strategies and Hong Kong market dynamics to formulate talent planning… | 2026-09-23 |
-| Xiaomi | [高级DEVOPS工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688333404732098826/detail) | 1. 负责代码仓库系统维护、流水线搭建与优化、质量门禁开发等 CI/CD 核心能力建设。
-2. 负责开发、集成和运维代码扫描、自动化测试、安全检测等辅助工具。
-3. 负责对接需求管理、缺陷跟踪、配置管… | 2026-09-23 |
-| Xiaomi | [HRBP](https://xiaomi.jobs.f.mioffice.cn/index/position/7680741762408139071/detail) | 1. 深入了解业务战略、运作模式，通过组织诊断识别业务痛点，协同总部为业务部门提供定制化解决方案；
-2. 负责公司HR政策、制度、体系与重点项目在业务部门内部的推动落地，并针对执行结果进行有效反馈和改… | 2026-09-23 |
-| Xiaomi | [大模型 AI 算力工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7685272100051847433/detail) | - 万卡集群调度与管理：基于 Kubernetes 建设和运营万卡级 GPU 集群，负责 GPU 适配、拓扑感知调度、Gang 调度、GPU 故障自愈、全链路可观测等核心能力，支撑小米自研大模型 Mi… | 2026-09-23 |
-| Xiaomi | [高级AI运维工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688191804617885961/detail) | 1. 负责AI平台的整体架构维护和优化，保障平台7×24小时稳定运行，为AI模型训练、推理及业务应用提供坚实的基础设施支撑；
-2. 承担AI开发环境、训练环境和推理环境的搭建、部署与管理工作，涵盖Te… | 2026-09-23 |
-| Xiaomi | [国际业务部HRBP](https://xiaomi.jobs.f.mioffice.cn/index/position/7688670248400521508/detail) | 1. 敏锐洞悉业务逻辑，深入了解业务战略，为业务的组织发展提供支持，确保人力资源战略在业务部门的有效规划和实施。
-2. 深入了解并掌握业务进展和人员现状，建立与业务部门的高效沟通渠道，了解其需求和挑战… | 2026-09-23 |
-| Xiaomi | [容器研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7686692785232546084/detail) | - 统一调度：负责联邦集群与多集群调度等核心方案的设计与落地，解决跨机房、跨集群的资源统一调度、任务分发、数据流量问题，实现在离线资源合池和应用多机房部署；
-- 容器化：推动各场景容器化，包括在线服务… | 2026-09-23 |
-| Xiaomi | [质量保证工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7687445592662280502/detail) | - 研发质量管控：参与座舱软件需求、架构、测试方案评审，识别风险、软件兼容、逻辑漏洞、稳定性等潜在问题，从源头把控研发质量。
-- 缺陷闭环管理：跟进座舱研发、整车测试过程中的各类BUG、偶现故障，运用… | 2026-09-23 |
-| Xiaomi | [政策研究专家（汽车数据合规）](https://xiaomi.jobs.f.mioffice.cn/index/position/7687547024157198633/detail) | 1、从事汽车数据合规研究，熟练掌握汽车出海、数据跨境等政策法规要求；
-2、拓展和建交汽车出海、数据跨境的政府机构、智库单位和行业专家；
-3、负责汽车出海、数据合规领域权威机构的合作对接，推进各类合作课… | 2026-09-23 |
-| Xiaomi | [招聘专家-职能](https://xiaomi.jobs.f.mioffice.cn/index/position/7680474386500012314/detail) | 1、协助招聘经理负责小米职能类岗位招聘工作推进；
-2、辅助招聘项目，解决用人部门招聘需求；
-3、开拓、维护各种招聘渠道，高效完成招聘工作目标；
-4、辅助收集市场人才信息，进行相关行业、人才mappin… | 2026-09-23 |
-| Xiaomi | [成本经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7688672629330446642/detail) | 1. 依托IPD流程，负责产品全生命周期成本管理，确保项目成本达标，助力损益预期目标达成
-2. 根据产品定义及销售策略制定产品合理目标成本
-3. 评估新产品成本，分解目标达成方案并推动目标达成
-4. … | 2026-09-23 |
-| Xiaomi | [Java技术专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7688200342299298067/detail) | 工作内容：
-1. 负责小米汽车海外售后核心系统（维保工单、权益中心、履约服务）的技术架构设计与研发
-2. 主导业务流程迭代与平台化建设，推动系统从支撑业务到驱动业务的演进
-3. 保障服务高可用、高扩展… | 2026-09-23 |
-| Xiaomi | [顶尖校招BP](https://xiaomi.jobs.f.mioffice.cn/index/position/7665534572659083566/detail) | 1、业务全链路对接，包括不限于参与前期规划、拆解岗位画像、跟进招聘进度、达成交付；2、统筹校招流程，落地校园活动，包括不限于宣讲会、社群运营等；3、渠道搭建与校企关系深耕，维护重点目标，持续供给简历并… | 2026-09-23 |
-| Xiaomi | [招聘经理-手机](https://xiaomi.jobs.f.mioffice.cn/index/position/7673440086951921958/detail) | 岗位职责
-1、理解公司与部门的业务模式及业务规划，明确当前组织挑战，并结合人才特点和市场分布合理规划人才储备与招聘；
-2、支持手机部业务招聘相关工作，跟进招聘全流程；尤其注重专家等高阶人选的储备，持续… | 2026-09-23 |
-| Xiaomi | [区域交付负责人](https://xiaomi.jobs.f.mioffice.cn/index/position/7675178767240939830/detail) | 1、统筹管理区域交付部门各项工作；
-2、按照仓储、运输业务的具体模块职能要求，进行业务的学习、掌握、熟练、并可以独立完成领导安排的工作内容；
-3、物流数据进行日常汇总、整理与分析；
-4、对项目中的具体… | 2026-09-23 |
-| Xiaomi | [GTM经理（大家电）](https://xiaomi.jobs.f.mioffice.cn/index/position/7688249970949048619/detail) | 1、大家电产品操盘（空调/冰箱/洗衣机相关）：包括新品上市、销售预测、价格体系、区域/国家操盘方案、日常PSI管理、服务质量保障等；
-2、路标管理：根据大盘/竞品/价格档位/渠道等，制定及管理区域/国… | 2026-09-23 |
-| Xiaomi | [HRBP](https://xiaomi.jobs.f.mioffice.cn/index/position/7676098605732006180/detail) | 1. 深入了解业务战略、运作模式，通过组织诊断识别业务痛点，协同总部为业务部门提供定制化解决方案；
-2. 负责公司HR政策、制度、体系与重点项目在业务部门内部的推动落地，并针对执行结果进行有效反馈和改… | 2026-09-23 |
-| Xiaomi | [高级电商销售经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7687949281940015379/detail) | 1. 负责俄罗斯官旗的日常销售运营管理工作，对销售目标及各项运营指标负责；
-2. 完成电商线上促销活动的策划及运营工作，包括但不限于年度重点大促、品类、跨品类促销活动的选品、活动整体规划、活动风格定位… | 2026-09-23 |
-| Xiaomi | [小米汽车智能座舱产品经理（出海方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7664810892991891722/detail) | 1、负责海外娱乐应用生态建设，包括听、看、唱等
-2、负责海外应用商店，三方手机手车互联体验
-3、研究目标市场，规划海外娱乐生态方向
-4、分析海外用户使用习惯及需求，挖掘定义符合目标用户群的产品体验，完… | 2026-09-23 |
-| Xiaomi | [OPS-印尼](https://xiaomi.jobs.f.mioffice.cn/index/position/7686386835056003371/detail) | 1. 专注于海外地区人力运营，负责海外地区本地雇员及中国外派员工的人力运营工作，包括员工入职、离职、转正、调岗等流程管理，确保流程的高效执行、合规，员工体验优化。
-2. 参与搭建人力运营方案、流程与服… | 2026-09-23 |
-| Xiaomi | [国际达人营销总监](https://xiaomi.jobs.f.mioffice.cn/index/position/7682690665293170998/detail) | 1. 全球达人合作战略
-负责制定全球达人合作策略及年度规划，根据公司品牌定位、重点市场和业务目标，搭建覆盖全球各个区域的达人合作体系。
-2. 达人资源体系建设
-建立并持续完善全球达人资源库，覆盖头部达… | 2026-09-23 |
-| Xiaomi | [高级前端工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688200511589714239/detail) | 主要工作内容：
-1. 负责汽车售后方向的前端系统开发，包含客服系统、售后 Pad 端等核心业务模块的建设与迭代。
-2. 参与前端项目架构设计与技术选型，运用 React、Vue、React Nativ… | 2026-09-23 |
-| UOB | [Senior Officer, Test Analyst, Retail Operational Readiness Centre](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Test-Analyst--Retail-Operational-Readiness-Centre_JR96340) |  | 2026-09-23 |
-| UOB | [MGR/AVP Performance Management & Planning, COO, GTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/MGR-AVP-Performance-Management---Planning--COO--GTO_JR96512) |  | 2026-09-23 |
-| UOB | [Manager, Credit Control Wholesale, Group Tech & Ops](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Credit-Control-Wholesale--Group-Tech---Ops_JR95928) |  | 2026-09-23 |
-| UOB | [Assistant Vice President - Global Markets Sales](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-Vice-President---Global-Markets-Sales_JR96699-1) |  | 2026-09-23 |
-| UOB | [Assistant Vice President, Private Banking - AML KYC](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/Assistant-Vice-President--Private-Banking---AML-KYC_JR96019) |  | 2026-09-23 |
-| UOB | [Manager, Corporate Loan, Wholesale Loan Operations Center](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Corporate-Loan--Wholesale-Loan-Operations-Center_JR96448-1) |  | 2026-09-23 |
-| UOB | [Manager, Wholesale Loan Operations Center](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Wholesale-Loan-Operations-Center_JR96355) |  | 2026-09-23 |
-| UOB | [Associate, Strategic HR](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Associate--Strategic-HR_JR96613) |  | 2026-09-23 |
-| UOB | [Reserve Card Manager](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Reserve-Card-Manager_JR95369) |  | 2026-09-23 |
-| UOB | [Manager, Business Analyst, Financial Information Management , Group Finance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Business-Analyst--Financial-Information-Management---Group-Finance_JR96480) |  | 2026-09-23 |
-| UOB | [Sustainability Reporting & Data Analytics Intern (Jan - Jun 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Sustainability-Reporting---Data-Analytics-Intern--Jan---Jun-2027-_JR96493) |  | 2026-09-23 |
-| UOB | [First VP, Interest Rate Strategist, Group Treasury & Research](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/First-VP--Interest-Rate-Strategist--Group-Treasury---Research_JR96522-1) |  | 2026-09-23 |
-| UOB | [Senior Officer, Wholesale Loan Operations Center](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Wholesale-Loan-Operations-Center_JR96352) |  | 2026-09-23 |
+| Xiaomi | [IPD平台产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7688662028491589930/detail) | 1. 负责公司级IPD平台建设项目的整体规划与落地，牵引需求调研、流程梳理、方案设计、项目实施、上线验收及持续优化。
+2. 协同产品、软件研发、硬件研发、测试、质量、供应链、财务、IT等部门，推动需求… | 2026-09-24 |
+| Xiaomi | [小米生态链-高级硬件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688908616107247922/detail) | 主导产品核心器件的技术选型与方案设计，对器件级性能指标负责
+建立器件评估体系，制定选型规范、验证方案及准入标准
+牵头器件级失效分析与根因定位，输出改善方案并推动闭环
+深入研究器件物理特性与失效机理，输… | 2026-09-24 |
+| Xiaomi | [Java高级开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7689020192550062387/detail) | 1. 负责国际汽车零售交易、订单、支付、交付等核心系统的设计、开发和维护，支撑海外多国家业务落地。
+2. 深入理解业务需求，独立承担核心模块及中大型项目的技术方案设计和研发。
+3. 负责核心系统稳定性… | 2026-09-24 |
+| Xiaomi | [高级BMS软件研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688908251777993006/detail) | 1. 软件架构搭建：负责户用储能电池管理系统（BMS）全套软件架构设计、分层模块规划、状态机搭建，输出软件设计文档、接口规范，搭建团队可复用的BMS软件基础框架。
+2. 核心算法自研与迭代：独立负责电… | 2026-09-24 |
+| Xiaomi | [小米汽车—产销协同工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7684301769610660102/detail) | 1、承接海外销售预测与订单需求，编制海外车型/区域/周期的需求计划与发运计划。
+2、对接国内生产计划，协调出口车型产能分配与排产优先级，确保海外交付不与国内需求冲突。
+3、对接海外销售与物流渠道，统筹… | 2026-09-24 |
+| Xiaomi | [小米汽车-机电工程师-盐城](https://xiaomi.jobs.f.mioffice.cn/index/position/7689007659740170559/detail) | 1.进店车辆独立完成维修整条服务链路.质量.效率保障的执行人；
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标；
+3.车辆维修保养及疑难故障处理，保修.服务行动等维修服务行为的第一负责人… | 2026-09-24 |
+| Xiaomi | [高级PCS嵌入式软件开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688908073369045289/detail) | 1. 整体软件架构搭建：负责户用混合光储一体机PCS软件整体架构设计、任务优先级规划、中断调度体系搭建，制定软件分层规范、代码规范、调试规范，搭建可迭代的PCS软件平台。
+2. 核心控制算法自研：独立… | 2026-09-24 |
+| Xiaomi | [零售顾问-潍坊交付](https://xiaomi.jobs.f.mioffice.cn/index/position/7689030899362449714/detail) | 1、产品讲解，⽤最热情的⽅式接待所有进店⽤户，提供专 业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产 品的核⼼价值，激发⽤户对于品牌与产品的热情；
+2、试乘试驾：为顾客提供专业的试乘试驾服务，通过… | 2026-09-24 |
+| Xiaomi | [小米汽车-物流仓库管理资深工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7677481009034070291/detail) | 1.仓库运作管理， 统筹发单、入库、出库、移库、盘点、拣配等全流程运作，合理调配人员与设备，优化仓库布局与库位规划，提升仓容利用率与作业效率；
+2.团队管理， 负责团队排班、考勤、绩效考核，组织技能培… | 2026-09-24 |
+| Xiaomi | [高级尺寸论证工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7677480852021020969/detail) | 1、负责开发车身、总装、三电、架构等各类工装夹具的定位方案（MCP/RPS）；
+2、参与制定整车及创新业务尺寸控制策略及制造需求；
+3、负责将尺寸控制策略落实到车身、总装、三电等工艺部门，并进行制造需… | 2026-09-24 |
+| Xiaomi | [高级尺寸论证工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7681187766365292806/detail) | 1、负责开发车身、总装、三电、架构等各类工装夹具的定位方案（MCP/RPS）；
+2、参与制定整车及创新业务尺寸控制策略及制造需求；
+3、负责将尺寸控制策略落实到车身、总装、三电等工艺部门，并进行制造需… | 2026-09-24 |
+| Xiaomi | [高级尺寸论证工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675676673093814547/detail) | 1、负责开发车身、总装、三电、架构等各类工装夹具的定位方案（MCP/RPS）；
+2、参与制定整车及创新业务尺寸控制策略及制造需求；
+3、负责将尺寸控制策略落实到车身、总装、三电等工艺部门，并进行制造需… | 2026-09-24 |
+| Xiaomi | [小米汽车—资源管理工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7686327979262363930/detail) | 1、根据销售计划评估零件供货能力；
+2、针对瓶颈零件协同采购、SQE推动供应商解决；
+3、结合销售需求与零件供货能力，形成可落地的生产及供货方案。
+1、工业工程、物流、机械、汽车相关专业；
+2、能够熟… | 2026-09-24 |
+| Xiaomi | [尺寸测量技师](https://xiaomi.jobs.f.mioffice.cn/index/position/7615808640733202694/detail) | 1、负责制定测量策略、编写测量程序、执行尺寸测量任务；
+2、支持报告模板制作、尺寸数据系统维护等；
+3、负责测量支架及测量设备的点检和日常保养维护；
+4、负责测量报告的整理、初审和预警等工作，对测量报… | 2026-09-24 |
+| Vercel | [Software Engineer, Scheduled Tasks](https://job-boards.greenhouse.io/vercel/jobs/6207796004) | About Vercel: 
+ Vercel is the agentic infrastructure company, freeing people and agents to ship what… | 2026-09-24 |
+| UOB | [VP, Compliance Strategy & Governance (BRCM & Projects), Group Compliance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Compliance-Strategy---Governance--BRCM---Projects---Group-Compliance_JR96618) |  | 2026-09-24 |
+| UOB | [Senior Officer, Client Service Advisor, Group Wholesale Banking](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Client-Service-Advisor--Group-Wholesale-Banking_JR96615-1) |  | 2026-09-24 |
+| UOB | [Senior Officer / Manager, Business Financial Manager, Business Banking](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer---Manager--Business-Financial-Manager--Business-Banking_JR93928) |  | 2026-09-24 |
+| UOB | [Cards Payment Solutions & Implementation Specialist](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Cards-Payment-Solutions---Implementation-Specialist_JR96100) |  | 2026-09-24 |
+| UOB | [First VP, Project Manager (Fraud & Data Transformation)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/First-VP--Project-Manager--Fraud---Data-Transformation-_JR96288-1) |  | 2026-09-24 |
+| UOB | [VP, Global Markets Business Finance, Group Finance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Global-Markets-Business-Finance--Group-Finance_JR96641) |  | 2026-09-24 |
+| UOB | [Senior Officer, Identification Administration (1-year direct contract)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Identification-Administration--1-year-direct-contract-_JR95329) |  | 2026-09-24 |
+| UOB | [Senior Officer / Manager ,  Business Development Manager (Treasury), Emerging Enterprise](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer---Manager----Business-Development-Manager--Treasury---Emerging-Enterprise_JR96515) |  | 2026-09-24 |
+| Tencent | [WorkBuddy-桌面端开发架构师](http://careers.tencent.com/jobdesc.html?postId=2100383730874101760) | 1.负责WorkBuddy桌面端（Electron）核心业务功能的设计与开发，将产品需求高质量落地为稳定可用的桌面体验；
+2.负责客户端业务的领域建模与架构抽象，将复杂产品诉求转化为清晰的业务分层、模… | 2026-09-24 |
+| Tencent | [《流放之路2》Technical Artist](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shanghai/XMLNAME--2-Technical-Artist_R108025-1) | 团队介绍
+Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
+L… | 2026-09-24 |
+| Tencent | [WorkBuddy-PC客户端开发工程师-研发效能方向](http://careers.tencent.com/jobdesc.html?postId=2100383431103004672) | 1.负责WorkBuddy桌面端（Electron）开发者场景相关功能的设计与开发，将产品需求高质量落地为稳定可用的桌面体验；
+2.负责客户端业务的领域建模与架构抽象，将复杂产品诉求转化为清晰的业务分… | 2026-09-24 |
+| Tencent | [天美游戏-社区生态运营-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2100413681325228032) | 1.负责项目在主流社区平台（B站、抖音、小红书、视频号等）的用户运营策略制定，基于对不同平台社区生态与用户行为的洞察分析，制定差异化的应对策略，并为整体用户运营效果负责；
+2.负责项目在多平台的三方传… | 2026-09-24 |
+| Tencent | [《使命召唤手游》-游戏运营PM](http://careers.tencent.com/jobdesc.html?postId=2102765111830822912) | 1.负责运营日历维护、项目排期、关键节点跟进及进度管理，保障项目按计划落地；
+2.负责产品需求的收集、梳理与推进，明确需求优先级及交付节点，协调相关团队解决执行过程中的问题与风险；
+3.负责与海外团队… | 2026-09-24 |
+| Tencent | [AI游戏研发工程师](http://careers.tencent.com/jobdesc.html?postId=2100407810012655616) | 1.负责 AI 能力在游戏运行时的工程落地，包括实时对话 NPC、动态玩法事件触发、AI 生成内容等核心模块的设计与实现；
+2.与内容安全团队协作，设计 AI 生成内容的审核串联方案，确保生成内容满足… | 2026-09-24 |
+| Tencent | [元梦之星-游戏策划-技术策划方向](http://careers.tencent.com/jobdesc.html?postId=2102968352568946688) | 1.负责元梦之星多玩法体系下 TD 管线的维护、迭代、打通，覆盖道具、GPO、关卡、技能、交互机制等核心玩法模块；
+2.独立完成新玩法快速原型（玩法切片）开发，高效验证玩法可行性，支撑版本迭代节奏；
+… | 2026-09-24 |
+| Tencent | [AI Infra 操作系统SRE工程师](http://careers.tencent.com/jobdesc.html?postId=2102933911133929472) | 1.负责 TencentOS在公司内外部业务的技术支持与问题闭环，覆盖装机部署、版本升级、运行时故障、性能异常等全场景；
+2.承接线上疑难问题的定位与根因分析，涉及内核（调度/内存/IO/网络）、文件… | 2026-09-24 |
+| Tencent | [搜狗输入法-语音算法高级工程师](http://careers.tencent.com/jobdesc.html?postId=2100466641904250880) | 1.负责语音相关技术的研发与优化，包括但不限于语音识别、语音唤醒、口语评测等方向；
+2.针对输入法、语音助手等实时语音场景进行优化，解决实际业务中的技术难题，提高算法准确率和效率；
+3.与产品、工程团… | 2026-09-24 |
+| Tencent | [数据中心经理](http://careers.tencent.com/jobdesc.html?postId=2103026924338200576) | 1.按照公司战略和部门规划，统筹资源安排，制定数据中心服务策略；
+2.结合IDC实际情况均衡考虑服务质量、效率、成本及安全，以支撑部门的业务运营；
+3.负责与运营商的后台团队建立密切、高效合作关系；
+… | 2026-09-24 |
+| Tencent | [腾讯云-CubeSandbox弹性计算平台研发工程师](http://careers.tencent.com/jobdesc.html?postId=2102975349318135808) | 1.负责CubeSandbox弹性计算平台全链路的需求研发和性能，质量保证，包括但不限于管控面，调度，虚拟化，存储，网络，底层系统软件等；
+2.支撑腾讯云CubeSandbox内部的业务需求及外部开源… | 2026-09-24 |
+| Tencent | [腾讯云-存储多模态数据高级研发工程师](http://careers.tencent.com/jobdesc.html?postId=2103063754274160640) | 1.负责腾讯云对象存储 COS 之上的多模态数据基础能力建设，围绕元数据、索引、向量、版本、生命周期与查询规划等方向，构建高性能、可治理、可复用的 AI 数据底座；
+2.搭建Data-Centric多… | 2026-09-24 |
+| Tencent | [UE微恐轻动作项目-资深动画导演](http://careers.tencent.com/jobdesc.html?postId=2102285959440809984) | 1.负责项目整体动画风格制定及演出质量把控；
+2.统筹角色动作、剧情演出及战斗表现设计；
+3.协同策划、美术、特效及程序团队推进动画内容落地；
+4.指导动画团队成长，持续优化动画制作流程与品质标准。 | 2026-09-24 |
+| Stripe | [Senior Software Engineer, Backend](https://stripe.com/jobs/search?gh_jid=8230952) | Who we are 
+ About Stripe 
+ Stripe, LLC. is a financial infrastructure platform for businesses. Mill… | 2026-09-24 |
+| Stripe | [Deal Pricing Strategist, APAC](https://stripe.com/jobs/search?gh_jid=7960875) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-09-24 |
+| Stripe | [Credit Operations Manager](https://stripe.com/jobs/search?gh_jid=8213951) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-09-24 |
+| Stripe | [Sourcer, GTM](https://stripe.com/jobs/search?gh_jid=8016504) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-09-24 |
+| Stripe | [User Risk Strategist](https://stripe.com/jobs/search?gh_jid=8230758) | Who we are 
+ About Stripe 
+ Stripe, LLC. is a financial infrastructure platform for businesses. Mill… | 2026-09-24 |
+| Samsara | [Firmware Engineer Co-Op](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |  | 2026-09-24 |
+| Samsara | [Strategic Customer Success Manager - US Public Sector](https://www.samsara.com/company/careers/roles/8220469?gh_jid=8220469) |  | 2026-09-24 |
+| Samsara | [Senior AI Security Research Engineer](https://www.samsara.com/company/careers/roles/8171920?gh_jid=8171920) |  | 2026-09-24 |
+| Samsara | [Senior Account Based Marketing Manager](https://www.samsara.com/company/careers/roles/8162294?gh_jid=8162294) |  | 2026-09-24 |
+| Samsara | [Legal Project Manager III](https://www.samsara.com/company/careers/roles/8189002?gh_jid=8189002) |  | 2026-09-24 |
+| Samsara | [Enterprise Customer Success Manager - Public Sector](https://www.samsara.com/company/careers/roles/8227725?gh_jid=8227725) |  | 2026-09-24 |
+| Robinhood | [Knowledge & Operational Readiness Lead](https://boards.greenhouse.io/robinhood/jobs/8112333?t=gh_src=&gh_jid=8112333) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-09-24 |
+| PricewaterhouseCoopers GHRS Pte Ltd | [Finance Consultant, R2R ( record to report ) - 6 months contract](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Finance-Consultant--R2R---record-to-report-----6-months-contract_764078WD) |  | 2026-09-24 |
+| Prudential | [Intern, Product & Proposition](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur/Intern--Product---Proposition_26090199) |  | 2026-09-24 |
