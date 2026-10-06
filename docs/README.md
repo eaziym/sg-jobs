@@ -1,75 +1,91 @@
 # Latest Jobs
 
-_Last updated: 2026-10-05_
+_Last updated: 2026-10-06_
 
-**Total jobs:** 2366 • **Companies:** 79 • **Top tag:** Others
+**Total jobs:** 2361 • **Companies:** 83 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| UOB | [Vice President, BRCM Assurance_Group Retail](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Vice-President--BRCM-Assurance-Group-Retail_JR97374-1) |  | 2026-10-05 |
-| UOB | [Manager, Private Banking - Investment Advisory](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/Manager--Private-Banking---Investment-Advisory_JR97204) |  | 2026-10-05 |
-| UOB | [Assistant Privilege Service Manager-4](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-Privilege-Service-Manager-4_JR91296) |  | 2026-10-05 |
-| UOB | [Commercial Banking Credit Analyst (Jan - May 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Commercial-Banking-Credit-Analyst--Jan---May-2027-_JR97402) |  | 2026-10-05 |
-| UOB | [Assistant Vice President, Regulatory Compliance, UOB Asset Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-Vice-President--Regulatory-Compliance--UOB-Asset-Management_JR95345) |  | 2026-10-05 |
-| UOB | [First VP, Credit Stress Test & Economic Capital, Country & Credit Risk Management, Group Risk Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/First-VP--Credit-Stress-Test---Economic-Capital--Country---Credit-Risk-Management--Group-Risk-Management_JR97048) |  | 2026-10-05 |
-| UOB | [Executive Assistant](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Executive-Assistant_JR97465) |  | 2026-10-05 |
-| UOB | [Manager, Junior Credit Analyst , Private Bank & PFS Wealth (PBW) Credit](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Manager--Junior-Credit-Analyst---Private-Bank---PFS-Wealth--PBW--Credit_JR96617-1) |  | 2026-10-05 |
-| UOB | [Head of Client Servicing & Enablement](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Head-of-Client-Servicing---Enablement_JR97090) |  | 2026-10-05 |
-| Tencent | [Data Engineer Intern 108218](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218) | Business Unit
-WeiXin Group(WXG) is responsible for the construction and operation of the Weixin ecos… | 2026-10-05 |
-| Tencent | [Data Science Intern (Data Analytics & AI) 108216](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) | Business Unit
-WeiXin Group(WXG) is responsible for the construction and operation of the Weixin ecos… | 2026-10-05 |
-| Tencent | [Site Reliability Engineer Intern 108220](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220) | Business Unit
-WeiXin Group(WXG) is responsible for the construction and operation of the Weixin ecos… | 2026-10-05 |
-| Tencent | [Backend Engineer Intern 108219](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) | Business Unit
-WeiXin Group(WXG) is responsible for the construction and operation of the Weixin ecos… | 2026-10-05 |
-| Tencent | [Data Scientist (Safety Strategies) 108217](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Scientist--Safety-Strategies-_R108217) | Business Unit
-WeiXin Group(WXG) is responsible for the construction and operation of the Weixin ecos… | 2026-10-05 |
-| Stripe | [Customer Success Manager, Revenue Suite](https://stripe.com/jobs/search?gh_jid=8237366) | Who we are 
+| UOB | [Assistant VP,  Technical Implementation Advisor, Group Wholesale Banking](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Assistant-VP---Technical-Implementation-Advisor--Group-Wholesale-Banking_JR97193) |  | 2026-10-06 |
+| UOB | [FVP Head of Technology Risk Governance](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/FVP-Head-of-Technology-Risk-Governance_JR97205-2) |  | 2026-10-06 |
+| UOB | [Talent Acquisition Partner](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Talent-Acquisition-Partner_JR91381) |  | 2026-10-06 |
+| UOB | [Employee Services Partner (Manager/Assistant Vice President)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Employee-Services-Partner--Manager-Assistant-Vice-President-_JR97598) |  | 2026-10-06 |
+| Stripe | [Product Manager, Radar](https://stripe.com/jobs/search?gh_jid=7983854) | About the team 
+ Radar helps businesses prevent fraud and abuse without getting in the way of legiti… | 2026-10-06 |
+| Stripe | [Staff Product Manager, Radar - Fraud and Abuse Prevention](https://stripe.com/jobs/search?gh_jid=8258815) | About the team 
+ Radar helps businesses prevent fraud and abuse without getting in the way of legiti… | 2026-10-06 |
+| Stripe | [Product Tax Specialist](https://stripe.com/jobs/search?gh_jid=8248088) | Who we are 
  About Stripe 
- Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-05 |
-| Stripe | [Staff Software Engineer, Link Consumer Preference](https://stripe.com/jobs/search?gh_jid=8257354) | Who we are 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Solutions Architect, SMB](https://stripe.com/jobs/search?gh_jid=8144256) | Who we are 
  About Stripe 
- Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-05 |
-| Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) |  | 2026-10-05 |
-| Samsara | [Data Engineer](https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423) |  | 2026-10-05 |
-| Samsara | [Data Engineer](https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959) |  | 2026-10-05 |
-| Robinhood | [Retirement Services Specialist](https://boards.greenhouse.io/robinhood/jobs/8245932?t=gh_src=&gh_jid=8245932) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-05 |
-| Robinhood | [Senior Product Designer, Sports](https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-05 |
-| Robinhood | [Senior Product Manager, Gold Growth](https://boards.greenhouse.io/robinhood/jobs/8247333?t=gh_src=&gh_jid=8247333) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-05 |
-| PricewaterhouseCoopers LLP | [Assurance Transformation - Senior Associate / Assistant Manager](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Assurance-Transformation---Senior-Associate---Assistant-Manager_765976WD) |  | 2026-10-05 |
-| PricewaterhouseCoopers Risk Services Pte. Ltd. | [Risk Services - Governance Risk & Compliance Project Assistant](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Risk-Services---Governance-Risk---Compliance-Project-Assistant_765936WD) |  | 2026-10-05 |
-| Prudential | [Executive, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Executive--Finance-Operations_26090446-1) |  | 2026-10-05 |
-| Prudential | [Manager, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Manager--Finance-Operations_26090438) |  | 2026-10-05 |
-| Prudential | [Assistant Manager, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Assistant-Manager--Finance-Operations_26090441) |  | 2026-10-05 |
-| Prudential | [Agency Transformation Delivery Lead, Learning & Development](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur/Agency-Transformation-Delivery-Lead--Learning---Development_26090504) |  | 2026-10-05 |
-| Prudential | [Executive, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Executive--Finance-Operations_26090445) |  | 2026-10-05 |
-| Prudential | [Senior Manager, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Senior-Manager--Finance-Operations_26090436-1) |  | 2026-10-05 |
-| Prudential | [Executive, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Executive--Finance-Operations_26090443) |  | 2026-10-05 |
-| Prudential | [Assistant Manager, Finance Operations](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Group-Head-Office/Assistant-Manager--Finance-Operations_26090440) |  | 2026-10-05 |
-| Prudential | [ASPIRE Future Leaders Programme 2027](https://prudential.wd3.myworkdayjobs.com/prudential/job/Singapore/ASPIRE-Future-Leaders-Programme-2027_26090484) |  | 2026-10-05 |
-| Pinterest | [Sr. Staff Software Engineer, Notifications & Growth Platform](https://www.pinterestcareers.com/jobs/?gh_jid=7770946) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-05 |
-| Pinterest | [Staff Product Manager, Measurement Partner Optimization](https://www.pinterestcareers.com/jobs/?gh_jid=8239954) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-05 |
-| Pinterest | [Sr. Manager, Ads Product Policy](https://www.pinterestcareers.com/jobs/?gh_jid=8222282) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-05 |
-| Palantir | [Senior Manager, Corporate Accounting](https://jobs.lever.co/palantir/4c956604-f861-4140-a7d2-3e39fc834c1c) |  | 2026-10-05 |
-| Palantir | [Senior Manager, Corporate Accounting](https://jobs.lever.co/palantir/b0ae5f2e-ef97-437b-b2e1-a3098ecc154f) |  | 2026-10-05 |
-| OpenAI | [Sr. Integrations Engineer, Supply Chain Technology](https://jobs.ashbyhq.com/openai/fa02b383-d5b0-45ea-b29e-3464ceeb4574) |  | 2026-10-05 |
-| OpenAI | [APAC Vendor Lead, Ads - Sydney](https://jobs.ashbyhq.com/openai/ae41d47e-6ae7-4640-bc65-fffbee359afc) |  | 2026-10-05 |
-| OKX | [Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal)](https://job-boards.greenhouse.io/okx/jobs/7985109003) | Who We Are 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Staff Engineer, Compute Foundation](https://stripe.com/jobs/search?gh_jid=8238733) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Partner Marketing Leader, Alliances & Channel](https://stripe.com/jobs/search?gh_jid=8257500) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Senior People Partner, GTM](https://stripe.com/jobs/search?gh_jid=8248092) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Global Industry Lead, Healthcare](https://stripe.com/jobs/search?gh_jid=8224607) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Stripe | [Account Executive, Commercial Hunter, AUNZ](https://stripe.com/jobs/search?gh_jid=8258078) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-10-06 |
+| Samsara | [Strategic Events Marketing Manager](https://www.samsara.com/company/careers/roles/8243226?gh_jid=8243226) |  | 2026-10-06 |
+| Robinhood | [Senior Staff Security Engineer, Security Operations](https://boards.greenhouse.io/robinhood/jobs/8259431?t=gh_src=&gh_jid=8259431) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-06 |
+| Robinhood | [Senior Sourcing Manager](https://boards.greenhouse.io/robinhood/jobs/8211219?t=gh_src=&gh_jid=8211219) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-06 |
+| Robinhood | [Staff Software Engineer, AI Security](https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-06 |
+| Robinhood | [Director of Partnerships, Robinhood Money](https://boards.greenhouse.io/robinhood/jobs/8244634?t=gh_src=&gh_jid=8244634) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-06 |
+| Robinhood | [Compliance Advisory Lead](https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035) | <div class="content-intro"><h2>Join us in building the future of finance.</h2> <p>Our mission is to … | 2026-10-06 |
+| CodeForAI | [Software Engineer / AI Code Trainer (Python, Web, Full Stack)](https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149) |  | 2026-10-06 |
+| Prudential | [PBTB \| Senior Manager, Digital & Performance Marketing](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Takaful/PBTB---Senior-Manager--Digital---Perfomance-Marketing_26010322) |  | 2026-10-06 |
+| Prudential | [PBTB \| Manager, Takaful Growth Central 1](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Takaful/PBTB---Manager--Takaful-Growth-Central-1_26090429) |  | 2026-10-06 |
+| Prudential | [Director, Strategy](https://prudential.wd3.myworkdayjobs.com/prudential/job/Hong-Kong-Group-Head-Office/Director--Strategy_26060335) |  | 2026-10-06 |
+| Prudential | [Technology Financial & Vendor Management Manager](https://prudential.wd3.myworkdayjobs.com/prudential/job/Singapore/Technology-Financial---Vendor-Management-Manager_26100031) |  | 2026-10-06 |
+| Prudential | [Level 2 Support Manager](https://prudential.wd3.myworkdayjobs.com/prudential/job/Singapore/Level-2-Support-Manager_26100004-1) |  | 2026-10-06 |
+| Prudential | [Head of Product Marketing and Management](https://prudential.wd3.myworkdayjobs.com/prudential/job/Kuala-Lumpur-Takaful/Head-of-Product-Marketing-and-Management_26090388) |  | 2026-10-06 |
+| Pinterest | [Staff Product Manager, Ads Measurement & Optimization](https://www.pinterestcareers.com/jobs/?gh_jid=8234538) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Manager II, Engineering, Ads Serving Infrastructure](https://www.pinterestcareers.com/jobs/?gh_jid=7957635) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Sr. Staff Product Manager, Ads Quality Ranking](https://www.pinterestcareers.com/jobs/?gh_jid=7986197) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Sr. Software Engineer, Data Analytics Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=8259517) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Sr Software Engineer, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=8231071) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Sr. Manager, Ads Product Marketing](https://www.pinterestcareers.com/jobs/?gh_jid=8239425) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Software Engineer II, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=8227344) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Security Software Engineer II, Detection and Response](https://www.pinterestcareers.com/jobs/?gh_jid=8015547) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| Pinterest | [Sr. Industry Manager, Fashion](https://www.pinterestcareers.com/jobs/?gh_jid=8226882) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-10-06 |
+| OpenAI | [Account Director, Large Enterprise](https://jobs.ashbyhq.com/openai/fecac6f9-2b94-454e-95ef-80d9b7abeb5a) |  | 2026-10-06 |
+| OpenAI | [Software Engineer, Shop/Feed Ads](https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2) |  | 2026-10-06 |
+| OpenAI | [Android Engineer, Plugin Developer Platform](https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0) |  | 2026-10-06 |
+| OpenAI | [Payroll Initiatives Lead](https://jobs.ashbyhq.com/openai/5e5e7ff9-f733-418d-9188-75c988142a17) |  | 2026-10-06 |
+| OpenAI | [Strategy and Operations, OpenAI for Government](https://jobs.ashbyhq.com/openai/41db3c21-abe1-4db7-91ee-da704537b685) |  | 2026-10-06 |
+| OpenAI | [Internal Communications Lead,  Enterprise & Growth](https://jobs.ashbyhq.com/openai/5d5a4116-b409-4676-b357-7094ad87d15d) |  | 2026-10-06 |
+| OpenAI | [Legal Contract Manager, Public Sector](https://jobs.ashbyhq.com/openai/12d722f9-79da-4d92-a34b-52619146f5da) |  | 2026-10-06 |
+| OpenAI | [Business Recruiter, APAC](https://jobs.ashbyhq.com/openai/7fac113c-618d-4464-91b0-01307bf79cb6) |  | 2026-10-06 |
+| OKX | [Head of Marketing Compliance](https://job-boards.greenhouse.io/okx/jobs/8014746003) | Who We Are 
  
  
  
  
- At OKX, we believe that the future will be reshaped by crypto, and ultimately c… | 2026-10-05 |
-| OCBC | [Risk Analytics, Intelligence & Surveillance (RAISe) – Financial Crime & Operational (FCO) Risk Surveillance Analyst](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Risk-Analytics--Intelligence---Surveillance--RAISe----Financial-Crime---Operational--FCO--Risk-Surveillance-Analyst_JR00011563) |  | 2026-10-05 |
-| OCBC | [Internship: Global Consumer Financial Services, Risk and Prevention – Financial Crime & Digital Business Risk Advisory [Jan to Jun 2027]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Global-Consumer-Financial-Services--Risk-and-Prevention---Financial-Crime---Digital-Business-Risk-Advisory--Jan-to-Jun-2027-_JR00011554) |  | 2026-10-05 |
-| OCBC | [Internship: Group Operations & Technology, Group Shared Services – Group Payment Operations [January - May 2027]](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Shared-Services---Group-Payment-Operations--January---May-2027-_JR00011065) |  | 2026-10-05 |
-| OCBC | [Head, Professional Practice and Governance Audit](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Head--Professional-Practice-and-Governance-Audit_JR00011566) |  | 2026-10-05 |
-| OCBC | [AVP, ERP System and Process Change Manager](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/AVP--ERP-System-and-Process-Change-Manager_JR00011325) |  | 2026-10-05 |
-| OCBC | [Senior System Analyst](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Hong-Kong/Senior-System-Analyst_JR00011551) |  | 2026-10-05 |
-| OCBC | [Client Due Diligence Specialist/Manager - Periodic Review (Manager/AVP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/BOS-Singapore/Client-Due-Diligence-Specialist-Manager---Periodic-Review--Manager-AVP-_JR00011492) |  | 2026-10-05 |
-| OCBC | [Branch Manager](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Hong-Kong/Branch-Manager_JR00011545) |  | 2026-10-05 |
-| OCBC | [Risk & Prevention Singapore, AVP - Risk Governance and Conduct](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Risk---Prevention-Singapore--AVP---Risk-Governance-and-Conduct_JR00011567) |  | 2026-10-05 |
+ At OKX, we believe that the future will be reshaped by crypto, and ultimately c… | 2026-10-06 |
+| OKX | [Senior Finance Manager, Settlement & Reconciliation](https://job-boards.greenhouse.io/okx/jobs/8014201003) | Who We Are 
+ 
+ At OKX, we believe that the future will be reshaped by crypto, and ultimately contrib… | 2026-10-06 |
+| OKX | [Rust Developer, Exchange OS Trading Engine](https://job-boards.greenhouse.io/okx/jobs/8014194003) | Who We Are 
+ 
+ 
+ 
+ 
+ At OKX, we believe that the future will be reshaped by crypto, and ultimately c… | 2026-10-06 |
+| OCBC | [Head of Client Experience Marketing, Executive Director](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Head-of-Client-Experience-Marketing--Executive-Director_JR00011595) |  | 2026-10-06 |
+| OCBC | [Application Analyst and Support (AVP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Application-Analyst-and-Support--AVP-_JR00011582) |  | 2026-10-06 |
+| OCBC | [DPM Portfolio Implementation Specialist (Manager/AVP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/BOS-Singapore/DPM-Portfolio-Implementation-Specialist--Manager-AVP-_JR00011418) |  | 2026-10-06 |
