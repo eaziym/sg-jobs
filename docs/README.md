@@ -1,91 +1,141 @@
 # Latest Jobs
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-12_
 
-**Total jobs:** 2807 • **Companies:** 83 • **Top tag:** Others
+**Total jobs:** 2845 • **Companies:** 82 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| UOB | [First Vice President](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/First-Vice-President_JR97785) |  | 2026-10-11 |
-| UOB | [Senior Officer_ Digital Product, Group Retail](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Digital-Product--Group-Retail_JR97591) |  | 2026-10-11 |
-| Tencent | [开放世界-资深战斗策划-角色/职业向(上海)](http://careers.tencent.com/jobdesc.html?postId=2109127544484839424) | 1.根据游戏设定，进行角色的设计和落地全流程工作。并且后续能作为管线组长带动制作管线的运转；
-2.参与推动战斗核心内容的品质拔高，包含但不限于手感、打击感、战斗演出等内容；
-3.根据战斗设定，从可玩性… | 2026-10-11 |
-| Tencent | [Tencent Cloud – Senior Strategic Sales Executive, Public Sector (Generative AI & Cloud) – Singapore](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Strategic-Sales-Executive--Public-Sector--Generative-AI---Cloud----Singapore_R108199-1) | Business Unit
-Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-10-11 |
-| Prudential | [Intern, General Insurance (Jan 2027 to Jun 2027)](https://prudential.wd3.myworkdayjobs.com/prudential/job/Hong-Kong/Intern--General-Insurance--Jan-2027-to-Jun-2027-_26100051) |  | 2026-10-11 |
-| OCBC | [Benefits Support Executive (1-year Contract)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Benefits-Support-Executive--1-year-Contract-_JR00011650) |  | 2026-10-11 |
-| OCBC | [Business Analyst (VP)](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Business-Analyst--VP-_JR00011611) |  | 2026-10-11 |
-| Micron | [PROBE Equipment Technician](https://micron.eightfold.ai/careers/apply?pid=44905229&domain=micron.com) |  | 2026-10-11 |
-| Meituan | [区域公共事务管理BP](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4833726614) | 1.主导区域路权申请，推动地方政府政策制定与政企合作，统筹对接会、培训等活动。 2.跟踪相关政策法规与行业标准，输出政策分析报告，识别政策窗口期推动路权突破。 3.负责区域业绩目标制定、过程管理、卡点… | 2026-10-11 |
-| Meituan | [里白开发经理-哈尔滨/沈阳](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2468626344) | ​1.客户拓展 负责核心商圈酒店物业的拓展与谈判，挖掘投资人需求，完成品牌加盟签约； 协助投资人完成物业评估、收益测算及风险把控，提升签约转化率。 2.市场拓展与项目开发​ 导核心商圈酒店物业挖掘、评… | 2026-10-11 |
-| Meituan | [酒店开发经理 - 青岛/济南](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3303055111) | 通过和酒店老板/投资人等建立联络、挖掘需求， 给酒店做投资回报分析、收益分析，为商家提供经营解决方案。 1、具备较强的销售能力、客户管理能力、拿结果能力强； 2、有前置收费类业务相关经验优先、有选址开… | 2026-10-11 |
-| Meituan | [酒店洗涤采购经理](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3948360175) | 1. 根据业务目标、品类策略制定采购策略、价格策略达成结果； 2. 负责供应商筛选、合作洽谈、考察、合同签约等； 3. 负责供应商履约管理与投诉管理，核实投诉与履约问题，督促问题整改、执行处罚； 4.… | 2026-10-11 |
-| Meituan | [里白酒店开发经理-佛山/珠海](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3871834191) | 1.负责美团里白酒店大客户开发工作，制定并执行开发计划，完成销售指标； 2.负责拓展大客户资源，建立并维护客户关系，提升客户满意度； 3.负责团队管理，指导和培训团队成员，提升团队绩效； 4.负责与内… | 2026-10-11 |
-| Meituan | [酒店开发加盟经理-武汉](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2241673983) | 1、完成个人开发酒店签约指标。具备谈判和异议处理能力； 2、寻找物业信息，包括物业的地理位置、周边市场条件、建筑结构、面积、改造条件、业主情况、产权状况，并调研周边酒店房价、出租率等经营信息。 3、能… | 2026-10-11 |
-| KPMG | [Audit, Associate to Senior Associate - Based In Singapore](https://careers.kpmg.com.sg/job/Audit%2C-Associate-to-Senior-Associate-Based-In-Singapore/60567144) |  | 2026-10-11 |
-| Databricks | [Digital Native Account Executive, Thailand](https://databricks.com/company/careers/open-positions/job?gh_jid=8878095002) |  | 2026-10-11 |
-| Citi | [Application Development Senior Manager - Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Application-Development-Senior-Manager---Vice-President_26995556) |  | 2026-10-11 |
-| Citi | [Audit Manager I](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Audit-Manager-I_261000668) |  | 2026-10-11 |
-| Citi | [Applications Support Technical Lead Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Applications-Support-Technical-Lead-Analyst_26999959) |  | 2026-10-11 |
-| ByteDance | [创作者运营经理（跟拍达人方向） - 抖音效果与创作](https://jobs.bytedance.com/experienced/position/7304653916737456422/detail) | 团队介绍：抖音效果与创作团队，以“ AI 创新 + 潮流创意” 为核心驱动力，覆盖抖音内创作全链路能力建设及多业务场景下创意资产的交付与沉淀（创作、社交、互动、图文等），激发用户在抖音内的创作表达，丰… | 2026-10-11 |
-| ByteDance | [前端开发工程师（货架AI应用方向）-产品研发和工程架构](https://jobs.bytedance.com/experienced/position/7630810408144587061/detail) | 1、负责搭建客户端的应用架构、Agent框架，优化产品体验和性能，把控质量风险，高效高质量地完成技术研发工作；
-2、负责抖音电商AI导购场景的产品研发工作，深度参与到AI框架研究、工程研发和产品设计等… | 2026-10-11 |
-| ByteDance | [数字设计工程师（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7688945043839158581/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [可靠性工程师-PICO](https://jobs.bytedance.com/experienced/position/7647824740327262469/detail) | 1、牵头制定和维护可靠性企业标准和测试规范，跟踪国际、国内行业标准，研究产品在市场端的可靠性表现，优化可靠性测试和评估体系；
-2、规划提升可靠性实验室能力，构建新测试方案和测试环境应对项目新设计、新材… | 2026-10-11 |
-| ByteDance | [蓝军平台产品经理-TikTok安全产品](https://jobs.bytedance.com/experienced/position/7647741461148764469/detail) | 1、蓝军平台产品规划与建设：负责国际化内容安全蓝军平台、风险回查平台的整体产品规划、功能设计与迭代落地；
-2、蓝军攻防场景设计与落地：结合全球各区域内容安全风险与合规要求，拆解蓝军攻防场景，设计模拟违… | 2026-10-11 |
-| ByteDance | [数字设计负责人（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7694612380101642549/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [EMU验证工程（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7688945717848803589/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [大客户广告销售Leader-服饰行业](https://jobs.bytedance.com/experienced/position/7670470297309481269/detail) | 1、团队业绩统筹：制定行业团队销售战略与年度、季度、月度销售目标，分解目标至团队成员并监督达成，带领团队开拓行业客户及潜力企业，建立高价值客户矩阵，推动今日头条、抖音等旗下产品的广告营收规模化增长；
-… | 2026-10-11 |
-| ByteDance | [存算芯片精度建模与优化工程师（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7694617381600315653/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [后端开发工程师（广告推荐算法方向）-商业化广告](https://jobs.bytedance.com/experienced/position/7516757995524032786/detail) | 1、负责商业化广告投放系统测试架构的开发，挖掘质量风险，建设保障体系；
-2、负责梳理系统存在的问题，包括稳定性，客户体验等，给出可行性方案；
-3、改进现有稳定性工具的效率、稳定性和扩展性；
-4、参与系… | 2026-10-11 |
-| ByteDance | [国际化安全策略运营负责人 - 番茄小说](https://jobs.bytedance.com/experienced/position/7604787837501933877/detail) | 团队介绍：番茄小说是抖音在 2019 年推出的免费阅读产品，致力于为读者提供优质的阅读体验。番茄小说拥有海量正版小说，涵盖言情、都市、玄幻、悬疑等主流网文类型，以及大量热剧原著和经典出版物，支持用户看… | 2026-10-11 |
-| ByteDance | [模拟芯片设计工程师（芯片平台） - 芯片研发](https://jobs.bytedance.com/experienced/position/7694611249527245109/detail) | 团队介绍：芯片平台是一个覆盖从逻辑综合到芯片投片、封装设计与仿真、回片测试、量产全流程的统一化芯片设计平台，提供支持多工艺、多项目的自动化设计流程及设计服务。平台整体划分为硅前、硅后、基础资源管理、I… | 2026-10-11 |
-| ByteDance | [增长策略产品（导流&达人投放） - 汽水音乐](https://jobs.bytedance.com/experienced/position/7690535521789954357/detail) | 团队介绍：汽水音乐是字节跳动推出的一款音乐应用软件，是一款面向热爱音乐潮流的年轻人的听歌平台。核心功能包括听推荐、歌单、榜单、搜索。其歌曲切换方式与抖音短视频类似，采用手动上下滑屏操作，简单便捷，易于… | 2026-10-11 |
-| ByteDance | [数据仓库专家-国际化业务](https://jobs.bytedance.com/experienced/position/6704455109419469059/detail) | 1、负责数据仓库架构设计、建模和ETL开发；
-2、参与数据ETL流程的优化并解决海量数据ETL相关技术问题；
-3、参与复杂数据链路依赖和多元数据内容生态下的数据治理工作；
-4、背靠字节跳动强大的中台架… | 2026-10-11 |
-| ByteDance | [财务BP-番茄](https://jobs.bytedance.com/experienced/position/7589098061184370949/detail) | 1、财务分析：建立和维护业财核心数据勾稽模型，制定预算目标和立项标准，了解业务核心指标波动原因，找到关键driver测算利润敏感性，对业务资源配置给出建议；
-2、按期出具多维度的经营分析报告，包括用户… | 2026-10-11 |
-| ByteDance | [商业产品经理（线索深度转化方向）-抖音生活服务](https://jobs.bytedance.com/experienced/position/7644137603100363061/detail) | 1、负责字节跳动线索类效果广告产品（深度转化方向）的策略设计和产品迭代，对商家广告投放的后链路转化效果负责，支撑线索广告收入增长；
-2、深入理解各行业线索销转流程、营销诉求和后链路效果痛点，能够协同算… | 2026-10-11 |
-| ByteDance | [招聘专家-抖音(深圳/北京)](https://jobs.bytedance.com/experienced/position/7485658685348940039/detail) | 1、负责端到端招聘流程管理，包括深刻理解产品运营业务、把握招聘需求、为快速发展的国内外业务搭建优秀的人才梯队，以及人才寻访、面试、Offer、入职跟进等全流程管理；
-2、管理招聘渠道，如猎头渠道管理/… | 2026-10-11 |
-| ByteDance | [客户资金管理报送专家-国际支付](https://jobs.bytedance.com/experienced/position/7580267897748605189/detail) | 1、客户资金存管合规管理：根据各个国家的相关要求，负责国际支付业务的客户资金维护管理；
-2、支付业务相关数据申报：作为国际支付的资金接口人，负责响应支付业务的相关报表编制、校验与报送工作，确保报送数据… | 2026-10-11 |
-| ByteDance | [Linux内核高级研发工程师-Data](https://jobs.bytedance.com/experienced/position/7637075397620566277/detail) | 1、面向公司服务器基础设施与业务场景，负责Linux内核相关需求分析、方案设计与关键能力研发；
-2、围绕计算、存储、网络、异构加速等方向，进行内核特性开发、性能优化与稳定性建设，支撑大规模生产环境落地… | 2026-10-11 |
-| ByteDance | [作者策略运营（规模化运营方向）-体验与服务](https://jobs.bytedance.com/experienced/position/7684252566445656325/detail) | 1、深入理解抖音及其他内容平台作者生态，围绕作者合作、成长升级、作者体验与留存，参与运营策略与工作流设计；
-2、基于数据分析、作者案例拆解等方式，识别作者运营服务链路中的问题与机会点，输出可落地的优化… | 2026-10-11 |
-| ByteDance | [商家增长运营-国际支付](https://jobs.bytedance.com/experienced/position/7682712391911131397/detail) | 1、业务增长与策略制定：负责目标市场的商家金融业务运营，结合市场特点、商家需求与业务阶段，制定增长策略及执行计划，推动放款规模、产品渗透率、活跃商家数等核心指标达成；
-2、全链路转化提升：围绕商家触达… | 2026-10-11 |
-| ByteDance | [直播电商AI产品经理（主播成长与教育）-TikTok Shop](https://jobs.bytedance.com/experienced/position/7623349971505039669/detail) | 1、参与国际化电商直播业务，协同直播电商生态各类合作伙伴（包括：商家、机构、用户增长等），解决主播核心痛点、建设良好用户体验，并结合AI能力提升主播经营效率与决策质量，建设规模化、可持续的直播生态；
-… | 2026-10-11 |
-| ByteDance | [良率工程师（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7694585349214030133/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [舆情管理专家](https://jobs.bytedance.com/experienced/position/7694176528276425013/detail) | 1、负责雇主品牌舆情管理工作，针对雇主品牌负面口碑问题，进行专项治理，形成明确的治理策略、方法，推动专项落地与效果追踪；
-2、跟进各类舆情风险案例，识别关键问题，与不同角色进行沟通协调，推进问题解决，… | 2026-10-11 |
-| ByteDance | [大模型安全产品-豆包创作](https://jobs.bytedance.com/experienced/position/7529733103192148232/detail) | 1、负责豆包创作大模型的安全训练，配合上下游提升豆包大模型安全底线；包括但不限于标准制定、语料生成、数据合版、实验分析等工作；
-2、负责豆包创作大模型的安全评测，主导评测流程优化，包括但不限于评测题集… | 2026-10-11 |
-| ByteDance | [后端研发工程师-广告交易中台](https://jobs.bytedance.com/experienced/position/7639657576049330485/detail) | 1、负责字节跳动商业变现交易中台的后端开发，构建客户全流程交易管理（入驻、签约、订单、资金、计费、资金风控、结算），支撑集团千亿规模的营收目标，确保商业变现过程高效、合规；
-2、负责高质量的方案设计和… | 2026-10-11 |
-| ByteDance | [高级产品经理-飞书人事核心人事](https://jobs.bytedance.com/experienced/position/7151978596902816014/detail) | 1、负责企业服务B端产品的功能迭代，主导功能从产品规划、需求定义到开发、测试、上线的全流程，并对产品最终效果与业务价值负责；
-2、深度探索AI技术与大模型在B端场景的落地路径，主导Agent等AI能力… | 2026-10-11 |
-| ByteDance | [iOS研发工程师-抖音增长-北京](https://jobs.bytedance.com/experienced/position/7306446160222439718/detail) | 1、和产品团队合作，深度参与抖音、抖音iPad需求迭代开发；
-2、负责抖音、抖音iPad 触达能力、承接能力、人群增长等增长业务相关的架构与性能优化；
-3、深入研究新技术与系统新特性，技术驱动增长场景… | 2026-10-11 |
-| ByteDance | [招聘专家-抖音（北京/深圳）](https://jobs.bytedance.com/experienced/position/7594433364352059701/detail) | 1、负责支持端到端招聘流程管理，深刻理解产品运营业务，把握招聘需求，为快速发展的全球业务搭建优秀的人才梯队；
-2、负责人才寻访，以及面试，Offer，入职跟进等全流程管理；
-3、管理招聘渠道，如猎头渠… | 2026-10-11 |
-| ByteDance | [DFT设计工程师（存算与AI） - 芯片研发](https://jobs.bytedance.com/experienced/position/7688946340144204085/detail) | 团队介绍：聚焦存算一体芯片设计，主要围绕AI大模型应用场景进行高能效计算技术创新，设计多款基于存算一体架构的高能效AI芯片，突破传统冯・诺依曼架构下的 "内存墙" 瓶颈，提升能效比、降低算力成本。团队… | 2026-10-11 |
-| ByteDance | [用户增长算法工程师-国际支付](https://jobs.bytedance.com/experienced/position/7343913072297904410/detail) | 1、负责国际支付增长算法工作，对国际化电商、直播、商业化等核心交易场景的支付和金融产品的增长指标负责，通过个性化流量分配、个性化营销补贴，提升用户体验与转化效率，为业务成长提供动力；
-2、负责研究突破… | 2026-10-11 |
+| Xiaomi | [小米汽车-交付顾问-常州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695576069987125513/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付保障专员-常州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695574237683943734/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。 2、负责管理PDI外包供应商并如实对PDI结果进行记录。 3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
+| Xiaomi | [小米汽车-机电顾问-东莞高埗](https://xiaomi.jobs.f.mioffice.cn/index/position/7695637800218528042/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
+2.执行服务流程，高质量完成从用户接待到服务完成的整个服务链路执行；
+3.以用户视角完成服务车辆的最终检验… | 2026-10-12 |
+| Xiaomi | [零售业务数据分析](https://xiaomi.jobs.f.mioffice.cn/index/position/7688657417361852698/detail) | 1. 负责零售业务全链路核心指标的日常监控，输出标准化日 / 周 / 月度数据报表，为业务运营与管理决策提供基础数据支撑。
+2. 围绕销售目标达成、渠道转化效率、门店经营健康度、区域业绩表现等方向开展… | 2026-10-12 |
+| Xiaomi | [服务体验专家-金华](https://xiaomi.jobs.f.mioffice.cn/index/position/7695680751018297650/detail) | 1. 保障售后服务口碑管控体系指标达成，完成投诉流程在各相关方层面的宣贯和培训；
+2. 分析用户声音，定位TOP服务问题，通过各种方式驱动门店闭环，建立落实用户关怀活动流程，组织实施用户服务关怀活动，… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付保障专员-南京](https://xiaomi.jobs.f.mioffice.cn/index/position/7695578753686194468/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
+2、负责管理PDI外包供应商并如实对PDI结果进行记录。
+3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
+| Xiaomi | [小米汽车-福州售后-配件索赔](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726585470716198/detail) | 1、依据门店用户群保有体量、进店量波动预估等因素，制定门店备件库存策略，确保备件一次满足率要求满足门店整体服务体验与运营目标达成；
+2、优化新业务模式下的备件库存逻辑，优化服务中心备件库存策略，为门店… | 2026-10-12 |
+| Xiaomi | [小米汽车-福州售后-机电/事故顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726961495066923/detail) | 1.作为服务中心售后事故维修业务接待人员，负责事故类业务线下服务，响应用户需求；
+2.负责事故定损，确定出险性质，判断维修项目和修复时间并进行准确评估；
+3.负责提供事故车报价给用户和保险公司，以及维… | 2026-10-12 |
+| Xiaomi | [B端产品经理(AI)](https://xiaomi.jobs.f.mioffice.cn/index/position/7695605105165044009/detail) | 1.负责质量管理评审系统从 0 到 1 建设：主导产品的需求洞察、方案设计、上线验证与迭代闭环，沉淀可复用的评审流程与质量数据能力，支撑研发质量管控体系落地。
+2.行业洞察与产品战略演进：深耕硬件研发… | 2026-10-12 |
+| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695700900086286655/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
+2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
+| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671494328076595/detail) | 1.负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务;
+2.协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性;
+3.向客户介绍产品的功能、操作方法、用车场景等… | 2026-10-12 |
+| Xiaomi | [交付保障专员-金华](https://xiaomi.jobs.f.mioffice.cn/index/position/7695679105035667762/detail) | 职位描述
+1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
+2、负责管理PDI外包供应商并如实对PDI结果进行记录。
+3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及… | 2026-10-12 |
+| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671896776165641/detail) | 1. 负责小米汽车淄博门店的新车交付全流程工作，包括交付前车辆PDI检查、清洁整备、资料核对与准备，确保交付车辆状态合规、资料齐全；
+2. 主动对接客户，跟进交付预约、到店接待、交付讲解等环节，向客户… | 2026-10-12 |
+| Xiaomi | [高级安卓开发工程师（图形渲染方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7694955393265420571/detail) | 1. 负责图形系统架构设计与核心模块开发
+2. 参与图形渲染性能分析与优化，提升系统运行效率
+3. 支持多平台图形接口的实现与维护
+4. 协同团队推进图形技术方案的落地与迭代
+1. 具备扎实的图形学基… | 2026-10-12 |
+| Xiaomi | [小米汽车交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671487026546953/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
+| Xiaomi | [小米汽车-福州售后-钣金技师](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726541828835610/detail) | 1.主要负责修理、更换损坏的钣金零部件，使事故损坏车辆恢复到出厂技术标准；
+2.负责协助保险事故专家/服务专家，完成事故车辆的定损、复勘等工作；
+3.负责事故车辆的机械/电气/钣金件拆解、报价，并根据… | 2026-10-12 |
+| Xiaomi | [小米汽车—交付顾问—南京](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577232366225715/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
+2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付顾问-泰州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577997369313579/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
+2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付顾问-郑州](https://xiaomi.jobs.f.mioffice.cn/index/position/7694205527648274729/detail) | 1.承接跟进用户订单， 交接零售信息，协助跟进用户订单，快速完成邀约任务
+2. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+3. 协助客户填写相关交付文件和手续等，并… | 2026-10-12 |
+| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671899044743475/detail) | 负责小米汽车新车全流程交付，跟进订单、物流、到店及 PDI 整备
+全程一对一接待车主，讲解车辆功能、智能座舱、车机使用及保养政策
+协调金融、保险、上牌、临牌等交付相关手续办理
+打造高品质交付仪式，维护… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付顾问-南通](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577996740872458/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
+| Xiaomi | [小米汽车-泉州-交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695610800018704694/detail) | 1. 协助提车用户到店接待、签到、流程引导，解答用户提车疑问，确保客户在提车时能够得到良好的体验和服务；
+2. 协助用户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付顾问-盐城](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577599610865958/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
+| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671896775543049/detail) | 负责小米汽车新车全流程交付，跟进订单、物流、到店及 PDI 整备
+全程一对一接待车主，讲解车辆功能、智能座舱、车机使用及保养政策
+协调金融、保险、上牌、临牌等交付相关手续办理
+打造高品质交付仪式，维护… | 2026-10-12 |
+| Xiaomi | [小米汽车-厦门-交付保障专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7695610871833839935/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
+2、负责管理PDI外包供应商并如实对PDI结果进行记录。
+3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
+| Xiaomi | [交付保障专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7695700596657375498/detail) | 职位描述
+1. 负责跟进车辆运输情况，协调车辆及时送达；
+2. 负责车辆交接检查，并登记车辆质损问题；
+3. 负责车辆实车入库、出库管理，以及系统操作；
+4. 协助主管进行PDI、整备等作业管理；
+5… | 2026-10-12 |
+| Xiaomi | [小米汽车-厦门-交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695611293574662443/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
+| Xiaomi | [小米汽车-福州-零售顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726683752417599/detail) | 1. 产品讲解：⽤最热情的⽅式接待所有进店⽤户，提供专业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产品的核⼼价值，激发⽤户对于品牌与产品的热情；
+2. 试乘试驾：为顾客提供专业的试乘试驾服务，通过… | 2026-10-12 |
+| Xiaomi | [交付顾问-宝安交付中心](https://xiaomi.jobs.f.mioffice.cn/index/position/7585140534051227913/detail) | 职位描述
+1.负责日常交付订单的跟进，帮助用户协调解决提车前的准备事项(如订单交接、生产状态跟进、提车时问预估、物流跟踪、金融贷款提醒、保险办理、预约提车、上牌提醒等），为用户提供的线上服务；
+2.与… | 2026-10-12 |
+| Xiaomi | [电视GTM高级经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7695597454149978394/detail) | 职位描述
+1、电视产品操盘（电视/显示器相关）：包括新品上市、销售预测、价格体系、区域/国家操盘方案、日常PSI管理、服务质量保障等；
+2、路标管理：根据大盘/竞品/价格档位/渠道等，制定及管理区域/… | 2026-10-12 |
+| Xiaomi | [小米汽车-交付顾问-淮安](https://xiaomi.jobs.f.mioffice.cn/index/position/7695575937106888970/detail) | 1.全流程跟进订单确认至提车交付，同步生产、物流状态,协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
+2.规划预约提车时间，协同仓储、PDI确保车辆与文件就绪,向月用户说明提车流程及注意事项… | 2026-10-12 |
+| UOB | [Vice President, Sales Performance Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Vice-President--Sales-Performance-Management_JR97774) |  | 2026-10-12 |
+| UOB | [VP2 FBA Customer Digital Channels (Banking, Services and Wealth), GRCTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-FBA-Customer-Digital-Channels--Banking--Services-and-Wealth---GRCTO_JR97133-4) |  | 2026-10-12 |
+| UOB | [Infrastructure & Project Finance Intern (Dec - June 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Infrastructure---Project-Finance-Intern--Dec---June-2027-_JR98015) |  | 2026-10-12 |
+| UOB | [Portfolio Financing](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Portfolio-Financing_JR97452) |  | 2026-10-12 |
+| UOB | [VP, Marketing, Group Retail Marketing](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Marketing--Group-Retail-Marketing_JR97940-1) |  | 2026-10-12 |
+| Tencent | [在研ue5策略竞技手游-角色原画师-插图立绘方向-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2095792714393239552) | 1.负责手游APP内角色原画设计，包括角色立绘、服装设计等视觉元素创作，有三国题材项目经验者优先；
+2.根据游戏世界观和策划需求，独立完成高质量的角色概念设计及细化工作；
+3.与策划、UI、技术团队紧… | 2026-10-12 |
+| Tencent | [魔方技术中心-强化学习开发工程师](http://careers.tencent.com/jobdesc.html?postId=2109491868134981632) | 1.负责游戏的AIBot技术的研发和落地，包括但不限于强化学习、模仿学习、元学习等，结合游戏场景，提供技术解决方案；
+2.利用游戏玩家数据建立大数据模型，在拟人化、风格化、定制化方向的研究应用落地；
+… | 2026-10-12 |
+| Tencent | [#QQ游戏中心-发行运营#](http://careers.tencent.com/jobdesc.html?postId=2095799671967629312) | 1.负责腾讯精品游戏的QQ发行，对接特定品类游戏的项目组，提升品类游戏下QQ关系链用户和渠道分发量；
+2.探索拓展新的发行能力，结合QQ平台用户特征，找到行业内机会点搭建发行品牌认知，打造司内精品游戏… | 2026-10-12 |
+| Tencent | [TIONE-高级推理研发工程师-上海/杭州/深圳/北京](http://careers.tencent.com/jobdesc.html?postId=2105251554616586240) | 1.超大规模LLM性能工程： 主导并规划千亿参数级大模型的极致性能优化技术路线。负责 vLLM/TensorRT-LLM 等主流推理框架的内核级优化与落地；
+2.低比特与稀疏模型优化： 牵头 INT4… | 2026-10-12 |
+| Tencent | [微信视频号-大模型ai infra高级工程师](http://careers.tencent.com/jobdesc.html?postId=2109502707227340800) | 1.负责开发模型训练平台，支持超大规模稀疏模型的秒级实时训练与推理；负责开发模型推理平台，支撑数百个模型的复杂环境下的高并发、低延迟、低成本运行和海量资源的实时调度；
+2.支撑视频号短视频推荐、直播推… | 2026-10-12 |
+| Tencent | [腾讯云行业市场经理](http://careers.tencent.com/jobdesc.html?postId=2101698694918352896) | 1.围绕行业影响力建设，统筹智慧零售、文旅&建筑相关行业内容及传播素材的策划与包装，提炼业务亮点、产品能力和客户价值；
+2.负责内容IP建设，协同业务、产品与公关等相关方，推动客户案例集、白皮书、行业… | 2026-10-12 |
+| Tencent | [行业与产业研究员(北京）](http://careers.tencent.com/jobdesc.html?postId=2101714701686849536) | 1.负责数字内容、云与人工智能、电商、广告、宏观经济、金融等一个或多个领域的研究工作；
+2.围绕行业与产业发展的规律、本质、挑战和趋势等输出理解、思考和研究成果；
+3.把握研究方向和重点，捕捉关键命题… | 2026-10-12 |
+| Tencent | [CDG招聘经理（投资并购方向）](http://careers.tencent.com/jobdesc.html?postId=2100492350349553664) | 1.负责所属BG相关部门的社会招聘及校园招聘工作，制定有效的招聘策略并推动落地执行，保障人才开源、甄选和吸引；
+2.负责相关部门人力资源市场分析，有效管理并优化招聘渠道；
+3.参与招聘体系化建设，甄选… | 2026-10-12 |
+| Tencent | [公益平台-产品策划](http://careers.tencent.com/jobdesc.html?postId=2014692106047741952) | 1.负责腾讯公益平台的产品功能策划与体验优化，包括但不限于捐赠产品的功能设计及推动上线；
+2.深入研究公益用户的心理与动机，行为与场景，理解用户需求，推动相关功能的迭代，提升用户体验；
+3.围绕产品目… | 2026-10-12 |
+| Tencent | [UE微恐轻动作项目-高级动效设计师](http://careers.tencent.com/jobdesc.html?postId=2108137489431707648) | 1.负责项目UI 界面动效、图标动效、弹窗动效、转场动画、加载动效、反馈动效设计与制作；
+2.配合 UI / 主美，根据视觉风格制定动效规范、节奏标准、质感表现、交互体验，提升整体品质与辨识度；
+3.… | 2026-10-12 |
+| Tencent | [《火影忍者》手游-AI应用开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100045796681629696) | 1.参与构建并完善游戏研发全流程的 AI 工作流，覆盖创意与策划需求收集、美术资产生成、程序开发、配置管理及质量校验等环节；
+2.负责 Wiki 文档、项目资产、项目代码及外部资源的检索与知识管理体系… | 2026-10-12 |
+| Tencent | [UE微恐轻动作项目-资深3D角色设计师](http://careers.tencent.com/jobdesc.html?postId=2108137491763736576) | 1.根据项目需求，理解原画设定，制作角色相关资产；
+2.与原画和动作设计协作，完成角色的全流程开发，维护3D角色生产管线；
+3.跟进外包资源的对接与质量把控，确保外包效率与质量；
+4.优化制作流程，跟… | 2026-10-12 |
+| Tencent | [Data Science Intern 108213](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213) | About the Hiring Team
+Level Infinite is Tencent’s global gaming brand. It is a global game publisher… | 2026-10-12 |
+| Tencent | [IDC Procurement Business Manager](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IDC-Procurement-Business-Manager_R108208) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-10-12 |
