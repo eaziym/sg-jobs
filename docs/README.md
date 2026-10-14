@@ -1,141 +1,154 @@
 # Latest Jobs
 
-_Last updated: 2026-10-12_
+_Last updated: 2026-10-14_
 
-**Total jobs:** 2845 • **Companies:** 82 • **Top tag:** Others
+**Total jobs:** 3028 • **Companies:** 83 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Xiaomi | [小米汽车-交付顾问-常州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695576069987125513/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+| Xiaomi | [小米汽车-交付顾问-无锡](https://xiaomi.jobs.f.mioffice.cn/index/position/7696449150711843099/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
+2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-14 |
+| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7665932318127180082/detail) | "1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
 2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付保障专员-常州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695574237683943734/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。 2、负责管理PDI外包供应商并如实对PDI结果进行记录。 3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
-| Xiaomi | [小米汽车-机电顾问-东莞高埗](https://xiaomi.jobs.f.mioffice.cn/index/position/7695637800218528042/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
+3. 向客户介绍产品的功能、操作方法、用… | 2026-10-14 |
+| Xiaomi | [机电工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696327303941785882/detail) | 1.进店车辆独立完成维修整条服务链路.质量.效率保障的执行人；
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标；
+3.车辆维修保养及疑难故障处理，保修.服务行动等维修服务行为的第一负责人… | 2026-10-14 |
+| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7696394461547284772/detail) | 1.负责安排和组织客户的交付接待流程，确保客户在提
+车时能够得到良好的体验和服务；
+2.协助客户填写相关交付文件和手续等，并确保所有文
+件的准确性和完整性；
+3.向客户介绍产品的功能、操作方法、用车场… | 2026-10-14 |
+| Xiaomi | [机电顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7696329287020005641/detail) | 1.佛山服务中心售后用户现场接待、跟进，与用户沟通车辆服务需求等相关事项
+2.售后进店用户满意度管理，根据用户特点分类维护管理
+3.对接售后服务信息跟进，故障咨询闭环
+4.践行小米汽车价值观，坚定维护… | 2026-10-14 |
+| Xiaomi | [小米汽车-机电服务顾问-海口](https://xiaomi.jobs.f.mioffice.cn/index/position/7696328296481868070/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
 2.执行服务流程，高质量完成从用户接待到服务完成的整个服务链路执行；
-3.以用户视角完成服务车辆的最终检验… | 2026-10-12 |
-| Xiaomi | [零售业务数据分析](https://xiaomi.jobs.f.mioffice.cn/index/position/7688657417361852698/detail) | 1. 负责零售业务全链路核心指标的日常监控，输出标准化日 / 周 / 月度数据报表，为业务运营与管理决策提供基础数据支撑。
-2. 围绕销售目标达成、渠道转化效率、门店经营健康度、区域业绩表现等方向开展… | 2026-10-12 |
-| Xiaomi | [服务体验专家-金华](https://xiaomi.jobs.f.mioffice.cn/index/position/7695680751018297650/detail) | 1. 保障售后服务口碑管控体系指标达成，完成投诉流程在各相关方层面的宣贯和培训；
-2. 分析用户声音，定位TOP服务问题，通过各种方式驱动门店闭环，建立落实用户关怀活动流程，组织实施用户服务关怀活动，… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付保障专员-南京](https://xiaomi.jobs.f.mioffice.cn/index/position/7695578753686194468/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
-2、负责管理PDI外包供应商并如实对PDI结果进行记录。
-3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
-| Xiaomi | [小米汽车-福州售后-配件索赔](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726585470716198/detail) | 1、依据门店用户群保有体量、进店量波动预估等因素，制定门店备件库存策略，确保备件一次满足率要求满足门店整体服务体验与运营目标达成；
-2、优化新业务模式下的备件库存逻辑，优化服务中心备件库存策略，为门店… | 2026-10-12 |
-| Xiaomi | [小米汽车-福州售后-机电/事故顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726961495066923/detail) | 1.作为服务中心售后事故维修业务接待人员，负责事故类业务线下服务，响应用户需求；
-2.负责事故定损，确定出险性质，判断维修项目和修复时间并进行准确评估；
-3.负责提供事故车报价给用户和保险公司，以及维… | 2026-10-12 |
-| Xiaomi | [B端产品经理(AI)](https://xiaomi.jobs.f.mioffice.cn/index/position/7695605105165044009/detail) | 1.负责质量管理评审系统从 0 到 1 建设：主导产品的需求洞察、方案设计、上线验证与迭代闭环，沉淀可复用的评审流程与质量数据能力，支撑研发质量管控体系落地。
-2.行业洞察与产品战略演进：深耕硬件研发… | 2026-10-12 |
-| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695700900086286655/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
-2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
-| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671494328076595/detail) | 1.负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务;
-2.协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性;
-3.向客户介绍产品的功能、操作方法、用车场景等… | 2026-10-12 |
-| Xiaomi | [交付保障专员-金华](https://xiaomi.jobs.f.mioffice.cn/index/position/7695679105035667762/detail) | 职位描述
-1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
-2、负责管理PDI外包供应商并如实对PDI结果进行记录。
-3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及… | 2026-10-12 |
-| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671896776165641/detail) | 1. 负责小米汽车淄博门店的新车交付全流程工作，包括交付前车辆PDI检查、清洁整备、资料核对与准备，确保交付车辆状态合规、资料齐全；
-2. 主动对接客户，跟进交付预约、到店接待、交付讲解等环节，向客户… | 2026-10-12 |
-| Xiaomi | [高级安卓开发工程师（图形渲染方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7694955393265420571/detail) | 1. 负责图形系统架构设计与核心模块开发
-2. 参与图形渲染性能分析与优化，提升系统运行效率
-3. 支持多平台图形接口的实现与维护
-4. 协同团队推进图形技术方案的落地与迭代
-1. 具备扎实的图形学基… | 2026-10-12 |
-| Xiaomi | [小米汽车交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671487026546953/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+3.以用户视角完成服务车辆的最终检验… | 2026-10-14 |
+| Xiaomi | [小米汽车-零售顾问-南京江宁景枫](https://xiaomi.jobs.f.mioffice.cn/index/position/7696348662725511443/detail) | 职位描述:
+1.产品讲解:
+用最热情的方式接待所有进店用户,提供专业的产品讲解,结合用户情况与使用场
+景,使用户理解产品的核心价值,激发用户对于品牌与产品的热情;
+2.试乘试驾:为顾客提供专业的试乘试… | 2026-10-14 |
+| Xiaomi | [小米汽车-机电服务顾问-扬州](https://xiaomi.jobs.f.mioffice.cn/index/position/7696349062550915379/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
+2.执行服务流程，高质量完成从用户接待到服务完成的整个服务链路执行；
+3.以用户视角完成服务车辆的最终检验… | 2026-10-14 |
+| Xiaomi | [具身智能算法工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7690401534929127718/detail) | 1、参与具身智能算法模型在技能学习、动作规划、抓取操作等应用上的研发，实现多场景多任务的泛化；
+2、设计、训练、部署模仿学习、强化学习、迁移学习等算法，构建机器人各类应用的通用技能；
+3、与ER、大模… | 2026-10-14 |
+| Xiaomi | [门板系统工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696337623133391142/detail) | 负责车门内饰板（前门/后门门板）从概念到量产的全流程开发，具体包括：
+前期方案：门板选型，造型可行性分析，技术方案设计
+结构设计：门板系统 3D 数模开发、2D 图纸绘制等
+属性协同：配合属性工程师完… | 2026-10-14 |
+| Xiaomi | [交付顾问（芜湖）](https://xiaomi.jobs.f.mioffice.cn/index/position/7647781721740233003/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
 2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
-| Xiaomi | [小米汽车-福州售后-钣金技师](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726541828835610/detail) | 1.主要负责修理、更换损坏的钣金零部件，使事故损坏车辆恢复到出厂技术标准；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-14 |
+| Xiaomi | [小米汽车-零售顾问-无锡](https://xiaomi.jobs.f.mioffice.cn/index/position/7696411001579800873/detail) | 职位描述：
+1. 产品讲解：⽤最热情的⽅式接待所有进店⽤户，提供专业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产品的核⼼价值，激发⽤户对于品牌与产品的热情；
+2. 试乘试驾：为顾客提供专业的试乘试… | 2026-10-14 |
+| Xiaomi | [钣金技师-龙华服务中心](https://xiaomi.jobs.f.mioffice.cn/index/position/7696475063779903763/detail) | 1.主要负责修理、更换损坏的钣金零部件，使事故损坏车辆恢复到出厂技术标准；
 2.负责协助保险事故专家/服务专家，完成事故车辆的定损、复勘等工作；
-3.负责事故车辆的机械/电气/钣金件拆解、报价，并根据… | 2026-10-12 |
-| Xiaomi | [小米汽车—交付顾问—南京](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577232366225715/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
-2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付顾问-泰州](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577997369313579/detail) | 1. 全流程跟进订单确认至提车交付，同步生产、物流状态，协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
-2. 规划预约提车时间，协同仓储、PDI确保车辆与文件就绪，向用户说明提车流程及注意事… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付顾问-郑州](https://xiaomi.jobs.f.mioffice.cn/index/position/7694205527648274729/detail) | 1.承接跟进用户订单， 交接零售信息，协助跟进用户订单，快速完成邀约任务
-2. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
-3. 协助客户填写相关交付文件和手续等，并… | 2026-10-12 |
-| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671899044743475/detail) | 负责小米汽车新车全流程交付，跟进订单、物流、到店及 PDI 整备
-全程一对一接待车主，讲解车辆功能、智能座舱、车机使用及保养政策
-协调金融、保险、上牌、临牌等交付相关手续办理
-打造高品质交付仪式，维护… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付顾问-南通](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577996740872458/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+3.负责事故车辆的机械/电气/钣金件拆解、报价，并根据… | 2026-10-14 |
+| Xiaomi | [产品传播经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7696405829331667227/detail) | 1、系统挖掘产品传播卖点，制定产品传播长短期目标与策略，统筹管理传播项目的执行落地，确保产品在在市场持续保持声量和口碑；
+2、保持与重点媒体的日常产品沟通与维护，根据传播需求匹配合适的媒体渠道，放大外… | 2026-10-14 |
+| Xiaomi | [高级数据分析师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696434059929422131/detail) | 1. 优化分析指标体系，建立经营分析模型，协同研发完成分析指标开发落地。
+2. 运用各类分析方法和分析框架，洞察销售业绩达成的关键问题及影响因素，定期输出有价值、可落地的数据分析报告。
+3. 通过数据… | 2026-10-14 |
+| Xiaomi | [工业旅游运营](https://xiaomi.jobs.f.mioffice.cn/index/position/7690401245730982185/detail) | 1. 卡丁车项目运营管理：负责卡丁车体验中心第三方运营团队的日常监管，建立运营考核指标体系，定期评估运营质量与安全合规性，监控客户满意度并推动服务优化。
+2. 商务与合同管理：参与第三方委托运营合同的… | 2026-10-14 |
+| Xiaomi | [小米汽车-试验室运营工程师-设备管理](https://xiaomi.jobs.f.mioffice.cn/index/position/7696464254338550054/detail) | 1、承担新设备的安装调试、验收测试以及运行初期的技术支持；
+2、开展设备维护保养，排查并处理设备故障，保障实验室工作的连续性与安全性；
+3、参与设备的选型调研、技术评估及采购建议；
+4、建立和完善设备… | 2026-10-14 |
+| Xiaomi | [高级商务经理-短剧发行方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7696338702763985178/detail) | 负责公司短剧全平台发行与分发渠道管理，为发行收入负责。
+1. 发行体系搭建 & 收入目标负责： 独立搭建并完善短剧与视频内容全链路发行流程，覆盖渠道引入、合作评级、上线排期、数据复盘、结算对账、渠道淘… | 2026-10-14 |
+| Xiaomi | [电子料供应链保供经理/专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7696464056315906358/detail) | 1. 整车电子料保供管理
+负责整车各类零部件涉及电子料的供应保障工作，覆盖芯片、功率器件、被动器件、连接器及其他关键电子元器件。
+建立并持续维护电子料供应风险清单，识别缺料、交期跳票、产能不足、渠道异… | 2026-10-14 |
+| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7696394356979157311/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
 2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
-| Xiaomi | [小米汽车-泉州-交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695610800018704694/detail) | 1. 协助提车用户到店接待、签到、流程引导，解答用户提车疑问，确保客户在提车时能够得到良好的体验和服务；
-2. 协助用户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付顾问-盐城](https://xiaomi.jobs.f.mioffice.cn/index/position/7695577599610865958/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-14 |
+| Xiaomi | [交付保障专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7696394464100960538/detail) | 1、负责车辆到店后的全流程跟踪，包括PDI检测、证件核对等环节的协调与推进。
+2、监控交付节奏，提前预警并解决可能影响交付进度的问题（如车辆整备延迟、手续缺失等）。
+3、管理在途、在库车辆状态，确保车… | 2026-10-14 |
+| Xiaomi | [小米汽车-交付保障专员-无锡](https://xiaomi.jobs.f.mioffice.cn/index/position/7696449150950459675/detail) | 1.负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率；
+2.负责管理PDI外包供应商并如实对PDI结果进行记录；
+3.负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-14 |
+| Xiaomi | [新零售门店运营经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7696393306116475199/detail) | 门店管理：
+1.门店运营合规管理
+2.门店售后/客诉对接；销服一体门店管理
+3.制定并监管门店环境与人员安全管理方案。
+4.每月收集门店收入、成本、费用等数据，进行损益核算，生成损益报表。
+5.分析损… | 2026-10-14 |
+| Xiaomi | [机器人云端&客户端全栈工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696405691925973267/detail) | 1. 平台架构与开发：负责机器人服务平台的整体架构设计与全栈开发，构建高可用、可扩展的云端服务，保障业务的稳定性与可用性；
+2. 数据链路建设：负责机器人本体数据上报的接收、处理、存储与管理完整链路建… | 2026-10-14 |
+| Xiaomi | [小米汽车-先进制造-纤维复材工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696357286033869106/detail) | 1. 负责新型纤维复材的行业对标、材料选型、供应商评估；
+2. 负责新型纤维复材的改性开发、工艺适配、应用验证及推广；
+3. 负责新型纤维复材的国产化、降本等相关开发、验证工作；
+4. 负责新型纤维复… | 2026-10-14 |
+| Xiaomi | [小米汽车-移动技师-扬州](https://xiaomi.jobs.f.mioffice.cn/index/position/7696349403406354698/detail) | 1.负责从移动服务订单接收到服务完成之间的全局业务规划.系统操作.人机移动到服务动作完成之间的全链路服务质量.效率把控；
+2.负责按照订单任务，标准有效准确地进行车辆维修，并记录维修工单，并对上门服务… | 2026-10-14 |
+| Xiaomi | [小米汽车-交付顾问-洛阳](https://xiaomi.jobs.f.mioffice.cn/index/position/7696475989262371126/detail) | - 职位描述
+1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
 2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
-| Xiaomi | [交付专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7695671896775543049/detail) | 负责小米汽车新车全流程交付，跟进订单、物流、到店及 PDI 整备
-全程一对一接待车主，讲解车辆功能、智能座舱、车机使用及保养政策
-协调金融、保险、上牌、临牌等交付相关手续办理
-打造高品质交付仪式，维护… | 2026-10-12 |
-| Xiaomi | [小米汽车-厦门-交付保障专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7695610871833839935/detail) | 1、负责协调总部整车物流团队确保车辆及时到店，提高车辆周转效率。
-2、负责管理PDI外包供应商并如实对PDI结果进行记录。
-3、负责协调物流质量管理及售后团队，对质损及问题车辆进行有效处理及关管理，确… | 2026-10-12 |
-| Xiaomi | [交付保障专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7695700596657375498/detail) | 职位描述
-1. 负责跟进车辆运输情况，协调车辆及时送达；
-2. 负责车辆交接检查，并登记车辆质损问题；
-3. 负责车辆实车入库、出库管理，以及系统操作；
-4. 协助主管进行PDI、整备等作业管理；
-5… | 2026-10-12 |
-| Xiaomi | [小米汽车-厦门-交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695611293574662443/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
-2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
-3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-12 |
-| Xiaomi | [小米汽车-福州-零售顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7695726683752417599/detail) | 1. 产品讲解：⽤最热情的⽅式接待所有进店⽤户，提供专业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产品的核⼼价值，激发⽤户对于品牌与产品的热情；
-2. 试乘试驾：为顾客提供专业的试乘试驾服务，通过… | 2026-10-12 |
-| Xiaomi | [交付顾问-宝安交付中心](https://xiaomi.jobs.f.mioffice.cn/index/position/7585140534051227913/detail) | 职位描述
-1.负责日常交付订单的跟进，帮助用户协调解决提车前的准备事项(如订单交接、生产状态跟进、提车时问预估、物流跟踪、金融贷款提醒、保险办理、预约提车、上牌提醒等），为用户提供的线上服务；
-2.与… | 2026-10-12 |
-| Xiaomi | [电视GTM高级经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7695597454149978394/detail) | 职位描述
-1、电视产品操盘（电视/显示器相关）：包括新品上市、销售预测、价格体系、区域/国家操盘方案、日常PSI管理、服务质量保障等；
-2、路标管理：根据大盘/竞品/价格档位/渠道等，制定及管理区域/… | 2026-10-12 |
-| Xiaomi | [小米汽车-交付顾问-淮安](https://xiaomi.jobs.f.mioffice.cn/index/position/7695575937106888970/detail) | 1.全流程跟进订单确认至提车交付，同步生产、物流状态,协调金融、保险、资料准备，联动零售、仓储等部门处理异常。
-2.规划预约提车时间，协同仓储、PDI确保车辆与文件就绪,向月用户说明提车流程及注意事项… | 2026-10-12 |
-| UOB | [Vice President, Sales Performance Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Vice-President--Sales-Performance-Management_JR97774) |  | 2026-10-12 |
-| UOB | [VP2 FBA Customer Digital Channels (Banking, Services and Wealth), GRCTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-FBA-Customer-Digital-Channels--Banking--Services-and-Wealth---GRCTO_JR97133-4) |  | 2026-10-12 |
-| UOB | [Infrastructure & Project Finance Intern (Dec - June 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Infrastructure---Project-Finance-Intern--Dec---June-2027-_JR98015) |  | 2026-10-12 |
-| UOB | [Portfolio Financing](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Portfolio-Financing_JR97452) |  | 2026-10-12 |
-| UOB | [VP, Marketing, Group Retail Marketing](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Marketing--Group-Retail-Marketing_JR97940-1) |  | 2026-10-12 |
-| Tencent | [在研ue5策略竞技手游-角色原画师-插图立绘方向-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2095792714393239552) | 1.负责手游APP内角色原画设计，包括角色立绘、服装设计等视觉元素创作，有三国题材项目经验者优先；
-2.根据游戏世界观和策划需求，独立完成高质量的角色概念设计及细化工作；
-3.与策划、UI、技术团队紧… | 2026-10-12 |
-| Tencent | [魔方技术中心-强化学习开发工程师](http://careers.tencent.com/jobdesc.html?postId=2109491868134981632) | 1.负责游戏的AIBot技术的研发和落地，包括但不限于强化学习、模仿学习、元学习等，结合游戏场景，提供技术解决方案；
-2.利用游戏玩家数据建立大数据模型，在拟人化、风格化、定制化方向的研究应用落地；
-… | 2026-10-12 |
-| Tencent | [#QQ游戏中心-发行运营#](http://careers.tencent.com/jobdesc.html?postId=2095799671967629312) | 1.负责腾讯精品游戏的QQ发行，对接特定品类游戏的项目组，提升品类游戏下QQ关系链用户和渠道分发量；
-2.探索拓展新的发行能力，结合QQ平台用户特征，找到行业内机会点搭建发行品牌认知，打造司内精品游戏… | 2026-10-12 |
-| Tencent | [TIONE-高级推理研发工程师-上海/杭州/深圳/北京](http://careers.tencent.com/jobdesc.html?postId=2105251554616586240) | 1.超大规模LLM性能工程： 主导并规划千亿参数级大模型的极致性能优化技术路线。负责 vLLM/TensorRT-LLM 等主流推理框架的内核级优化与落地；
-2.低比特与稀疏模型优化： 牵头 INT4… | 2026-10-12 |
-| Tencent | [微信视频号-大模型ai infra高级工程师](http://careers.tencent.com/jobdesc.html?postId=2109502707227340800) | 1.负责开发模型训练平台，支持超大规模稀疏模型的秒级实时训练与推理；负责开发模型推理平台，支撑数百个模型的复杂环境下的高并发、低延迟、低成本运行和海量资源的实时调度；
-2.支撑视频号短视频推荐、直播推… | 2026-10-12 |
-| Tencent | [腾讯云行业市场经理](http://careers.tencent.com/jobdesc.html?postId=2101698694918352896) | 1.围绕行业影响力建设，统筹智慧零售、文旅&建筑相关行业内容及传播素材的策划与包装，提炼业务亮点、产品能力和客户价值；
-2.负责内容IP建设，协同业务、产品与公关等相关方，推动客户案例集、白皮书、行业… | 2026-10-12 |
-| Tencent | [行业与产业研究员(北京）](http://careers.tencent.com/jobdesc.html?postId=2101714701686849536) | 1.负责数字内容、云与人工智能、电商、广告、宏观经济、金融等一个或多个领域的研究工作；
-2.围绕行业与产业发展的规律、本质、挑战和趋势等输出理解、思考和研究成果；
-3.把握研究方向和重点，捕捉关键命题… | 2026-10-12 |
-| Tencent | [CDG招聘经理（投资并购方向）](http://careers.tencent.com/jobdesc.html?postId=2100492350349553664) | 1.负责所属BG相关部门的社会招聘及校园招聘工作，制定有效的招聘策略并推动落地执行，保障人才开源、甄选和吸引；
-2.负责相关部门人力资源市场分析，有效管理并优化招聘渠道；
-3.参与招聘体系化建设，甄选… | 2026-10-12 |
-| Tencent | [公益平台-产品策划](http://careers.tencent.com/jobdesc.html?postId=2014692106047741952) | 1.负责腾讯公益平台的产品功能策划与体验优化，包括但不限于捐赠产品的功能设计及推动上线；
-2.深入研究公益用户的心理与动机，行为与场景，理解用户需求，推动相关功能的迭代，提升用户体验；
-3.围绕产品目… | 2026-10-12 |
-| Tencent | [UE微恐轻动作项目-高级动效设计师](http://careers.tencent.com/jobdesc.html?postId=2108137489431707648) | 1.负责项目UI 界面动效、图标动效、弹窗动效、转场动画、加载动效、反馈动效设计与制作；
-2.配合 UI / 主美，根据视觉风格制定动效规范、节奏标准、质感表现、交互体验，提升整体品质与辨识度；
-3.… | 2026-10-12 |
-| Tencent | [《火影忍者》手游-AI应用开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100045796681629696) | 1.参与构建并完善游戏研发全流程的 AI 工作流，覆盖创意与策划需求收集、美术资产生成、程序开发、配置管理及质量校验等环节；
-2.负责 Wiki 文档、项目资产、项目代码及外部资源的检索与知识管理体系… | 2026-10-12 |
-| Tencent | [UE微恐轻动作项目-资深3D角色设计师](http://careers.tencent.com/jobdesc.html?postId=2108137491763736576) | 1.根据项目需求，理解原画设定，制作角色相关资产；
-2.与原画和动作设计协作，完成角色的全流程开发，维护3D角色生产管线；
-3.跟进外包资源的对接与质量把控，确保外包效率与质量；
-4.优化制作流程，跟… | 2026-10-12 |
-| Tencent | [Data Science Intern 108213](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213) | About the Hiring Team
-Level Infinite is Tencent’s global gaming brand. It is a global game publisher… | 2026-10-12 |
-| Tencent | [IDC Procurement Business Manager](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IDC-Procurement-Business-Manager_R108208) | Business Unit
-Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-10-12 |
+3. 向客户介绍产品的功能、… | 2026-10-14 |
+| Xiaomi | [小米汽车-机电服务顾问-南通](https://xiaomi.jobs.f.mioffice.cn/index/position/7696061744737225002/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
+2.执行服务流程，高质量完成从用户接待到服务完成的整个服务链路执行；
+3.以用户视角完成服务车辆的最终检验… | 2026-10-14 |
+| Xiaomi | [小米汽车-移动服务技师-宿迁](https://xiaomi.jobs.f.mioffice.cn/index/position/7696348593691560242/detail) | 1.负责从移动服务订单接收到服务完成之间的全局业务规划.系统操作.人机移动到服务动作完成之间的全链路服务质量.效率把控；
+2.负责按照订单任务，标准有效准确地进行车辆维修，并记录维修工单，并对上门服务… | 2026-10-14 |
+| UOB | [SVP Payments Regulatory Projects Program Manager, GWBGMT&O](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/SVP-Payments-Regulatory-Projects-Program-Manager--GWBGMT-O_JR97450) |  | 2026-10-14 |
+| UOB | [Senior Officer, Middleware Administrator,  Group Infrastructure & Platform Services](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Middleware-Administrator---Group-Infrastructure---Platform-Services_JR97353) |  | 2026-10-14 |
+| UOB | [Private Bank Segment Marketing, Group Retail](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Private-Bank-Segment-Marketing--Group-Retail_JR98189-1) |  | 2026-10-14 |
+| UOB | [VP, Private Banking L2 Production Support Lead, Group Infrastructure & Platform Services](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP--Private-Banking-L2-Production-Support-Lead--Group-Infrastructure---Platform-Services_JR97493) |  | 2026-10-14 |
+| Tencent | [云基础设施可用性技术专家-AI 代码质量与可用性治理](http://careers.tencent.com/jobdesc.html?postId=2105251549516312576) | 1.梳理 IaaS、PaaS 研发过程中的高风险模式，建立可用性风险分类与分级体系；
+2.将历史故障、架构约束和专家经验转化为可执行的检查规则、测试场景与验收标准；
+3.结合静态分析、代码语义分析、自… | 2026-10-14 |
+| Tencent | [UE微恐轻动作项目-资深3D场景设计师（物件方向）](http://careers.tencent.com/jobdesc.html?postId=2095131144445145088) | 1.根据原画以及项目的规范要求，制作游戏中的组件、道具等美术资产；
+2.制作高质量的场景模型；
+3.参与游戏美术资源的制作反馈；
+4.与其他美术设计师、模型，特效模块紧密合作，跟进反馈最终落地效果；
+… | 2026-10-14 |
+| Tencent | [WorkBuddy-移动端高级开发工程师](http://careers.tencent.com/jobdesc.html?postId=2102397330870419456) | 1.负责WorkBuddy移动端App的整体规划、设计与建设工作；
+2.使用Flutter框架开发WorkBuddy的iOS、Android及鸿蒙端App，确保跨平台兼容性和高性能；设计并实现App与… | 2026-10-14 |
+| Tencent | [天美游戏-欧美合作拓展经理](http://careers.tencent.com/jobdesc.html?postId=2109983175425044480) | 1.负责欧美市场的合作拓展（包括不限于IP、品牌），推动谈判及合同签署工作；
+2.拓展与维护欧美客户关系，确保沟通顺畅、协作高效；
+3.与内部团队紧密协作，根据天美业务需求挖掘锁定合作机会，并交付落地… | 2026-10-14 |
+| Tencent | [网络设备物料计划工程师](http://careers.tencent.com/jobdesc.html?postId=2095435240561623040) | 1.负责腾讯服务器下层物料（核心芯片、光电器件、光纤、PCB等）的供应管理，包括供应商供应合作模式、预测管理、备货管理、物料替代管理、通用性管理等；
+2.负责腾讯下层物料供应商和腾讯ODM之间供应协作… | 2026-10-14 |
+| Tencent | [UE微恐轻动作项目-资深特效设计师](http://careers.tencent.com/jobdesc.html?postId=2108465029480366080) | 1.负责游戏内角色、场景及战斗特效设计与制作；
+2.配合动作、场景及程序团队完成特效表现落地；
+3.制定项目特效制作规范及风格标准；
+4.持续探索风格化特效表现及实时效果优化方案。 | 2026-10-14 |
+| Tencent | [3D动作游戏《狩》-导演](http://careers.tencent.com/jobdesc.html?postId=2110332455109181440) | 1.负责《狩》项目的商业化皮肤宣传CG以及PV的导演工作，融合商业与艺术，打造高质量视频，凸显游戏特色与皮肤亮点；
+2.依游戏活动、皮肤主题等需求，设计精彩故事或创意视觉表达，转化为文字剧本和视觉分镜… | 2026-10-14 |
+| Tencent | [《王者荣耀世界》商业化系统策划](http://careers.tencent.com/jobdesc.html?postId=2110282671736401920) | 1.基于商业化目标，负责产品商业化系统功能的搭建规划，跟进系统的开发落地过程，把控进度和最终的交付质量；
+2.打磨产品付费体验，提炼产品的商业化价值，挖掘商业化系统的拓展空间，推动相关系统功能的设计及… | 2026-10-14 |
+| Tencent | [大模型工程架构专家/Tech Led（深圳/北京）](http://careers.tencent.com/jobdesc.html?postId=2110191895966826496) | 1.大模型工程架构与技术规划：负责大模型应用及相关工程体系的技术规划与架构设计，围绕模型训练、后训练、评测、Agent 及应用探索等方向，制定技术方案和演进路线。推动模型能力、工程框架和应用场景深度协… | 2026-10-14 |
+| Tencent | [开放世界-3C策划(上海)](http://careers.tencent.com/jobdesc.html?postId=2110192964583206912) | 1.深度参与项目核心3C模块设计开发，包括不限于角色基础移动、不同情况下摄像机表现等；
+2.参与摄像机相关规则的设计和落地开发，包括不同状态下摄像机，各种战斗摄像机效果，双目镜头效果等；
+3.参与角色… | 2026-10-14 |
+| Tencent | [开放世界-游戏剧情策划-新星引力计划(上海)](http://careers.tencent.com/jobdesc.html?postId=2110192932203184128) | 1.进行原创IP的剧情设计和世界观架构；
+2.输出和打磨台本，并进行台本的润色与监修；
+3.输出角色设计、场景设计文档并跟进美术制作；
+4.负责与关卡配合完成整体关卡叙事设计与落地。 | 2026-10-14 |
+| Tencent | [运营开发工程师](http://careers.tencent.com/jobdesc.html?postId=2110211598940549120) | 1.负责运营支撑平台的架构设计、功能开发与持续优化，保障系统高可用、高扩展性，支撑业务快速迭代与大规模访问需求；
+2.参与核心服务的日常迭代与稳定性保障，包括性能调优、容量规划、故障排查与容灾演练，具… | 2026-10-14 |
+| Tencent | [在研3D动作游戏-资深UE5游戏客户端开发工程师（深圳/北京）](http://careers.tencent.com/jobdesc.html?postId=2109534918714503168) | 1.负责Gameplay玩法系统开发与相关技术攻坚；
+2.负责客户端玩法框架的设计、搭建与持续优化，提升游戏表现力和开发效率；
+3.负责游戏玩法系统及工具链的研发，配合策划、美术等角色，高效实现游戏功… | 2026-10-14 |
+| Tencent | [开放世界-UE特效设计师(上海)](http://careers.tencent.com/jobdesc.html?postId=2110193065036787712) | 1.负责游戏项目中的特效制作，包括但不限于角色技能、环境动态以及场景中的各类交互元素特效；
+2.配合TA，使用Unreal Engine进行高质量特效材质、效果开发及调试优化；
+3.负责跟进特效外包的… | 2026-10-14 |
+| Tencent | [开放世界-游戏视频导演（综合）(上海)](http://careers.tencent.com/jobdesc.html?postId=2110193004466843648) | 1.负责在项目明确游戏视听需求后能自行分解项目工作和制定项目排期计划，确保按计划完成制作目标；
+2.负责游戏内剧情过场、展示动画和PV的创意脚本攥写，分镜绘制或Previs制作，输出清晰的前期方案给到… | 2026-10-14 |
+| Tencent | [元宝搜索部-LLM后训练算法工程师（问答&RAG方向）(北京）](http://careers.tencent.com/jobdesc.html?postId=2029126531183443968) | 1.负责大语言模型在知识问答能力上的算法设计优化及实现工；
+2.建设RAG体系，对RAG链路中的重要模块进行优化，提升模型的性能效果；
+3.调研业界前沿算法，追踪最前沿的技术动态，并应用在相关的项目中… | 2026-10-14 |
+| Tencent | [元宝-AI搜索算法工程师（大模型后训练方向）](http://careers.tencent.com/jobdesc.html?postId=2087362874799472640) | 1.负责AI搜索中大模型后训练方向的核心技术研发、优化与创新，优化Post-training 算法的训练效率和回复效果；
+2.研究各领域高质量数据的自动化合成方法，建设高效的线上数据飞轮链路；
+3.跟… | 2026-10-14 |
