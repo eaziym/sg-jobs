@@ -1,165 +1,139 @@
 # Latest Jobs
 
-_Last updated: 2026-10-26_
+_Last updated: 2026-10-27_
 
-**Total jobs:** 26525 • **Companies:** 108 • **Top tag:** Others
+**Total jobs:** 27325 • **Companies:** 108 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Xiaomi | [嵌入式软件工程师(SOC)](https://xiaomi.jobs.f.mioffice.cn/index/position/7199458333198336109/detail) | 1. 手机SOC 低功耗业务（SR，CCF，Regulator，SPMI，PMIC等驱动）
-2. 手机SOC 能效优化工作（性能/功耗）；
-3. 手机SoC Kernel开源社区演进分析和跟踪工作；
-… | 2026-10-26 |
-| Xiaomi | [小米汽车-低压线束工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7503454629570117741/detail) | 1、负责电气系统集成中物理架构概念方案的设计;
-2、负责整车低压线束的设计开发与发布;
-3、负责低压线束布置设计与相关部件仿真；
-4、负责制定线束相关的测试要求及测试规划与落实；
-5、负责项目各阶段装… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统结构设计](https://xiaomi.jobs.f.mioffice.cn/index/position/7535044814808629356/detail) | 1、负责造型可行性分析、DTS定义、尺寸链仿真、DTS实现方案及风险评估，并制定相应对策
-2、负责制定电池系统的定位策略、尺寸公差要求
-3、负责审核重点零部件图纸及总成级图纸
-4、支持装配、性能相关尺… | 2026-10-26 |
-| Xiaomi | [小米汽车-电池性能标定工程师-电池管理系统](https://xiaomi.jobs.f.mioffice.cn/index/position/7596905907737725238/detail) | 1、高压动力电池管理系统算法策略参数提取与标定；
-2、整车动力经济性，充电，热管理，SOX算法精度等关键性能达成；
-3、完成电池包台架及整车道路试验，确保电池相关功能和性能的测试验证；
-1、本科及以上… | 2026-10-26 |
-| Xiaomi | [电芯机理/失效分析专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7644099797691582766/detail) | 1. 统筹电芯机理/失效分析部门的团队规划、搭建和日常管理
-2. 负责动力电芯机理研究和先进表征方法开发
-3. 作为内部专家统筹电芯安全/可靠性相关的转阶段评审
-4. 负责内部失效分析库的建立和经验横… | 2026-10-26 |
-| Xiaomi | [高级前期工艺开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7700865236002392383/detail) | 1、负责金属材料相关的开发、验证及应用工作；
-2、负责冲压板材及模具材料等专业材料的开发、验证与质量控制；
-3、负责压铸合金及模具材料等专业材料的开发、验证与质量控制；
-4、负责金属材料相关的国产化、… | 2026-10-26 |
-| Xiaomi | [部门行政运营](https://xiaomi.jobs.f.mioffice.cn/index/position/7700825138811406630/detail) | 1. 负责部门日常行政事务，包括部门员工办公体验一应事宜对接处理、总经理事务协调；
-2. 负责新员工入职引导、访客接待、部门费用管理；
-3. 负责部门福利文化建设，包括团建、节日活动、生日会、员工福利… | 2026-10-26 |
-| Xiaomi | [研发高级项目经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7700823087356496171/detail) | 1. 作为电池品类研发项目管理，牵头能够完成对于项目QCD的把控
-2. 同时管理好研发类平台项目，进行平台项目的问题/措施/进展的横展与拉齐
-3. 做好对于供应商管理工作，确保供应商的资源与进度达到预… | 2026-10-26 |
-| Xiaomi | [无线通信射频驱动工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7683091770531825961/detail) | 1. 负责终端产品射频驱动软件的设计、开发、调试及维护，涵盖射频时序配置、通路配置、校准算法实现等核心工作
-2. 负责射频与基带接口的开发与联调，协同物理层团队完成射频功能及性能调优
-3. 负责射频校… | 2026-10-26 |
-| Xiaomi | [新业务部-芯片量产工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7598081349043357958/detail) | 职位描述：1.负责制定芯片投片、封装和量产计划；2.负责芯片在foundry、封装厂的NPI导入；3.分析工艺、封装、良率等数据，持续进行良率提升；4.组织芯片的corner验证，负责芯片的proce… | 2026-10-26 |
-| Xiaomi | [成品资源开发](https://xiaomi.jobs.f.mioffice.cn/index/position/7700930817811466506/detail) | 1、负责总装厂、贴片厂及器件成本的合理性评估，对成本竞争力负责，持续优化成本。
-2、负责总装厂策略的制定，结合行业内的行情趋势，协同研发、品质等相关团队，主导采购策略落地。
-3、了解负责品类行业发展趋… | 2026-10-26 |
-| Xiaomi | [无线通信协议栈软件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7700815259015301419/detail) | 1、负责无线通信协议2G/3G/4G/5G协议栈软件模块设计、开发以及白箱测试；
-2、负责维护、升级、优化无线通信协议软件模块；
-3、负责支持外场测试、入网入库认证以及一致性测试；
-4、负责无线通信协… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池结构设计（控制器结构&工艺）](https://xiaomi.jobs.f.mioffice.cn/index/position/7696029475864447273/detail) | 1. 电池包结构件开发：负责电池包内中小型结构件（支架、固定件、防护件等）的设计开发，覆盖塑料件、钣金件及小型压铸件，从方案设计到模具开发及量产交付；
-2. 能量域控模块结构设计：支持BMS控制模块的… | 2026-10-26 |
-| Xiaomi | [交付顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7700793440670107914/detail) | 1. 负责订单交付的全流程跟进与协调，确保交付目标按时、按质、按量达成。
-2. 监控交付进度，定期汇总并分析数据，识别潜在风险与异常，及时推动问题解决。
-3. 主导交付过程中的执行交付标准检核，并对客… | 2026-10-26 |
-| Xiaomi | [小米汽车-预测算法开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698956015991523594/detail) | 1. 负责车端 Android / Linux 系统上 AI 应用算法模型的开发、数据训练、调参与优化；
-2. 负责能耗 / 能量预测算法的数据分析、特征工程及算法迭代优化，持续提升预测精度；
-3. … | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统热安全](https://xiaomi.jobs.f.mioffice.cn/index/position/7698955141257726235/detail) | 以项目为主，具备研究能力。
-1.、负责电池系统热安全方案的开发；
-2.、负责热安全相关零部件的开发，选型，及零部件层级的验证；
-3.、负责对当前的电池系统热安全方案的优化，改善工作；
-4.、根据项目阀… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统](https://xiaomi.jobs.f.mioffice.cn/index/position/7695963684854516006/detail) | 1.、负责电池系统整体方案的开发；
-2.、负责系统相关零部件的开发，选型，及零部件层级的验证；
-3.、负责并推动当前的电池系统方案的优化，改善工作；
-4.、根据项目阀点，提交电池系统设计报告，支持电池… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池结构设计（热管理件）](https://xiaomi.jobs.f.mioffice.cn/index/position/7696029505157417279/detail) | 1. 热管理系统零件开发：负责电池包热管理零件（液冷板、水管、快接头、分水器、保温材料等）的结构设计与开发；从热管理属性需求出发，完成系统级需求到零件级规格的拆解与落地；主导热管理零件的DFM评审、材… | 2026-10-26 |
-| Xiaomi | [小米汽车-动力系统工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698955432455227658/detail) | 1. 负责高压动力系统领域充放电、电量续航、能耗预测、增程保养等相关功能需求定义、软件集成与正常系统级联调；确保满足整车功能开发目标；
-2. 系统需求定义：承接整车级需求，分解并制定相关功能的系统级功… | 2026-10-26 |
-| Xiaomi | [无线通信协议栈软件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7700814909441984831/detail) | 1、负责无线通信协议2G/3G/4G/5G协议栈软件模块设计、开发以及白箱测试；
-2、负责维护、升级、优化无线通信协议软件模块；
-3、负责支持外场测试、入网入库认证以及一致性测试；
-4、负责无线通信协… | 2026-10-26 |
-| Xiaomi | [新媒体运营](https://xiaomi.jobs.f.mioffice.cn/index/position/7700793311392909594/detail) | 1.负责直播前的开播准备工作、直播中的场内各环节调度执行跟播、直播后的复盘工作；
-2.店铺日常维护更新、开播预告、商务政策话术优化等；
-3.负责直播运营的相关工作：周月年度复盘及规划，提升账号内容数据… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统结构设计](https://xiaomi.jobs.f.mioffice.cn/index/position/7696731097228478739/detail) | 电池包箱体&上盖结构设计工程师；
-1. 负责动力电池PACK关键零部件箱体或结构的结构分析，方案设计，详细设计，装配图及零件图，图纸校核等；
-2. 负责设计开发文件的编写，并对开发各阶段进行评审；
-3… | 2026-10-26 |
-| Xiaomi | [电芯极片配方开发资深工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696730848502384937/detail) | 1. 负责电芯极片配方开发及关键辅材技术路线规划
-2. 粘结剂、导电剂等辅材料导入评估
-3. 负责供应商辅材和配方审核
-4. 配方开发及关键辅材开发的流程建设，技术文档编制，建立配方辅材数据库
-5 项… | 2026-10-26 |
-| Xiaomi | [项目系统总工](https://xiaomi.jobs.f.mioffice.cn/index/position/7695963377729931570/detail) | 职责描述：
-1.负责电池系统的开发和认可，确保整体方案的技术领先性；
-2.负责电池系统需求定义及管理、设计规范、测试手册、DFMEA等文件审核；
-3.负责外部供应商电池系统技术方案评审和开发过程管控，… | 2026-10-26 |
-| Xiaomi | [小米汽车-BMS硬件开发](https://xiaomi.jobs.f.mioffice.cn/index/position/7698956015991032074/detail) | 1. 能量域控制器硬件平台的技术路线, 及前沿技术研究
-2. 硬件需求分析及硬件系统设计，定义控制器硬件功能模块框图
-3. 制定硬件开发计划，解读并审核系统功能及功能安全需求，完成硬件需求分析
-4. … | 2026-10-26 |
-| Xiaomi | [小米汽车-BMS硬件开发](https://xiaomi.jobs.f.mioffice.cn/index/position/7698955739524581642/detail) | 1. 能量域控制器硬件平台的技术路线, 及前沿技术研究
-2. 硬件需求分析及硬件系统设计，定义控制器硬件功能模块框图
-3. 制定硬件开发计划，解读并审核系统功能及功能安全需求，完成硬件需求分析
-4. … | 2026-10-26 |
-| Xiaomi | [电驱基础软件专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7697078207867472154/detail) | 1. 基础软件与复杂驱动开发：
-  - 负责基于AUTOSAR架构的电机控制器基础软件（BSW）配置与集成，重点攻克复杂驱动（CDD）模块的设计与编码。
-  - 负责GTM（通用定时器模块）的配置与开… | 2026-10-26 |
-| Xiaomi | [Java技术专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7700821120363481353/detail) | 1. 负责零售、服务组织平台能力架构设计。
-2. 负责的业务主要包括3C和汽车、国际业务方向。
-3. 负责分析业务需求，带领团队完成系统架构设计和开发
-4. 负责相关系统长期规划，保障新业务高效开展
-… | 2026-10-26 |
-| Xiaomi | [电池系统安全工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698644206852458762/detail) | 负责电池系统安全开发
-承接新的系统安全的分解与牵引工作，包括不限于热安全，电气安全，机械安全，电芯本征安全，BMS功能安全，大数据安全,全维度保证生命周期安全，确保产品的安全性和先进性
-熟悉电池系统热… | 2026-10-26 |
-| Xiaomi | [小米汽车-电子电气工程师-Pack电气方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7700836540007581971/detail) | 岗位职责：
-1、负责pack电气系统集成方案设计，包含BDU、CCS、FPC及线束等相关pack电气件的开发工作；
-2、负责相关电气部件的测试项目及计划的编写与实施，并对试验结果进行验收；
-3、主导解… | 2026-10-26 |
-| Xiaomi | [新业务部-无线通信物理层软件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7598339734007793961/detail) | 一、 岗位职责
-1) 从事无线通信系统中物理层软件的设计、开发、调试等工作；
-2) 负责物理层协议解读与处理，物理层时序规划与控制，与上层协议及RF驱动接口等相关软件研发；
-3) 负责物理层信道编解码… | 2026-10-26 |
-| Xiaomi | [小米汽车-测试安全主管](https://xiaomi.jobs.f.mioffice.cn/index/position/7700823844496197951/detail) | 1. 负责武汉道路测试车队的现场安全管理，管理随车安全员排班、出车前安全交底、路中风险管控、收车点检，监控日常路测任务安全指标。
-2. 落实路测管理要求，执行测试车辆出车审批、ODD 边界管控、恶劣天… | 2026-10-26 |
-| Xiaomi | [小米汽车-电子电气工程师-BMS硬件开发](https://xiaomi.jobs.f.mioffice.cn/index/position/7700834016887671081/detail) | 1. 支持关键元器件选型，BMS硬件原理图设计及评审，产品BOM评审；
-2. 承担BMS硬件电路设计：包括模块需求分解、模块设计、模块测试报告及模块设计评审；
-3. 可根据需求编写硬件测试规范，进行硬… | 2026-10-26 |
-| Xiaomi | [动力电池仿真工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698644092087109938/detail) | 电化学建模
-开发和应用高保真电化学模型，包括 P2D锂离子电池模型及面向系统集成的降阶模型。
-仿真反应动力学与传输过程、锂浓度梯度与过电位分布、内部电流密度与活性材料利用率分布。
-评估电池能力极限，包… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统结构设计](https://xiaomi.jobs.f.mioffice.cn/index/position/7696730558324033846/detail) | 电池包塑料及复合材料零件设计工程师；
-1. 负责动力电池塑料件及复合材料零件的结构分析，方案设计，详细设计，装配图及零件图，图纸校核等；
-2. 负责塑料件及复合材料零件设计开发文件的编写，并对开发各阶… | 2026-10-26 |
-| Xiaomi | [小米汽车-PACK电气工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698955135292672306/detail) | 1.负责动力电池电气开发技术路线, 及前沿技术和先进工艺研究
-2.负责动力电池电气需求分析（线束、CCS、汇流排等）
-3.负责动力电池低压电气设计，结构设计和方案设计
-4.根据动力电池要求绘制电气原理… | 2026-10-26 |
-| Xiaomi | [高级市场项目专员](https://xiaomi.jobs.f.mioffice.cn/index/position/7698340046793410843/detail) | 职位概述：
-负责制定并执行整合营销策略，提升品牌知名度与产品曝光度，支持业务增长。主导从策略到落地的营销活动及产品上市，协调中国总部、区域团队及本地利益相关方，推动项目高效执行并达成业务目标。
-主要职… | 2026-10-26 |
-| Xiaomi | [小米汽车-人车家智能化模块产品（音响声学）](https://xiaomi.jobs.f.mioffice.cn/index/position/7700824455681689898/detail) | 1. 负责车载音响系统的产品定义与体验目标制定，主导各车型声学硬件（扬声器、功放、麦克风）以及软件（调音算法、特色声学算法）的产品方案评估；主导音响系统成本与性能的平衡管理，制定并跟踪BOM成本目标，… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电芯工艺工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698956205599590666/detail) | 电芯工艺工程师-设备开发；
-1. 工艺技术开发：包括电芯新工艺规划和先进工艺开发，能够根据产品开发需求识别新工艺开发需求，主导新工艺验证和量产导入
-2. 电芯工艺验证和标准制定：能够根据供应商工艺流程… | 2026-10-26 |
-| Xiaomi | [小米汽车-海外产品安全事务副总监](https://xiaomi.jobs.f.mioffice.cn/index/position/7700823302911510811/detail) | 1. 统筹欧洲（重点德国）整车产品安全事务，组织协调海外与国内相关团队，推动当地产品安全监管要求落地；
-2. 协助当地政府事务团队对接欧洲主要国家主管监管机构（如德国 KBA），维护常态化沟通机制，开… | 2026-10-26 |
-| Xiaomi | [无线通信协议栈软件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7700814856224114998/detail) | 1、负责无线通信协议2G/3G/4G/5G协议栈软件模块设计、开发以及白箱测试；
-2、负责维护、升级、优化无线通信协议软件模块；
-3、负责支持外场测试、入网入库认证以及一致性测试；
-4、负责无线通信协… | 2026-10-26 |
-| Xiaomi | [电池热管理工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7698956217116936486/detail) | 负责动力电池热管理性能开发，牵引零部件设计
-负责电池系统热仿真分析，建立电池系统1D和3D热仿真模型；
-负责电池冷却系统CFD仿真分析，牵引电池冷却系统零部件设计；
-根据项目阀点，提交电池系统热属性分… | 2026-10-26 |
-| Xiaomi | [小米汽车-机电顾问-苏州](https://xiaomi.jobs.f.mioffice.cn/index/position/7700418673317038362/detail) | 1.作为服务中心售后用户接待人员，负责系统接受400派单及机电类业务线下服务，响应用户需求；
-2.执行服务流程，高质量完成从用户接待到服务完成的整个服务链路执行；
-3.以用户视角完成服务车辆的最终检验… | 2026-10-26 |
-| Xiaomi | [小米汽车-硬件工程师-电池系统结构工艺工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696731002609469759/detail) | 1、负责自研电池包工艺开发，及外购电池包制造工艺的技术管理工作，侧重胶水产品开发及电池包工艺版块的胶水应用工艺工作；
-2、识别生产过程中可能的失效模式并输出有效的控制方法，制定过程产品规格；
-3、参与… | 2026-10-26 |
-| UOB | [Senior Director, Structuring, Global Markets](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Director--Structuring--Global-Markets_JR99262-1) |  | 2026-10-26 |
-| UOB | [Senior Officer, Customer Service (Trade), Group Tech & Operations](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/North-East-Region-City-Area/Senior-Officer--Customer-Service--Trade---Group-Tech---Operations_JR99098) |  | 2026-10-26 |
-| UOB | [SG Bancassurance Product Intern (May - Aug 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/SG-Bancassurance-Product-Intern--May---Aug-2027-_JR99381) |  | 2026-10-26 |
-| UOB | [Management Associate](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Shanghai-City-Area/Management-Associate_JR95581) |  | 2026-10-26 |
-| UOB | [Senior Officer, Parameter Support, Wholesale Operational Readiness Centre](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Parameter-Support--Wholesale-Operational-Readiness-Centre_JR98990) |  | 2026-10-26 |
-| UOB | [VP2 Project Manager, Private Banking, GRCTO](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP2-Project-Manager--Private-Banking--GRCTO_JR99370) |  | 2026-10-26 |
+| Xiaomi | [小米汽车-底盘系统集成交付](https://xiaomi.jobs.f.mioffice.cn/index/position/7564006664639629614/detail) | 负责底盘系统的项目开发问题、投产阶段的问题管理，具体如下:
+1.新项目工作
+   a.与项目质量&工厂质量共同负责新开发底盘项目阶段的质量管理工作，设定底盘系统及关键零部件的质量目标，编制质量保证计划… | 2026-10-27 |
+| Xiaomi | [小米汽车-交付顾问-大连](https://xiaomi.jobs.f.mioffice.cn/index/position/7585380189396453658/detail) | 1. 负责安排和组织客户的交付接待流程，确保客户在提车时能够得到良好的体验和服务；
+2. 协助客户填写相关交付文件和手续等，并确保所有文件的准确性和完整性；
+3. 向客户介绍产品的功能、操作方法、用车… | 2026-10-27 |
+| Xiaomi | [大数据算法工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7701176666811402539/detail) | 1. 基于汽车大数据车辆运营、用户行为等相关业务需求，开展问题分析与算法方案设计，跟进行业及学术进展，完成技术选型、验证与应用。
+2. 负责汽车大数据相关业务的分类、排序、评分、预测等算法研发与优化，… | 2026-10-27 |
+| Xiaomi | [英国服务经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7701266940648081690/detail) | 关键职责 / Key Responsibilities
+- 业务规划与实施 / Business Planning & Execution：
+  - 制定并执行英国市场售后备件业务战略与日常运营规划。… | 2026-10-27 |
+| Xiaomi | [小米IoT智能设备软件产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7695821442328217875/detail) | 1、负责米家智能设备软件功能定义和产品体验
+ 2、负责支持企业智能设备接入米家平台，保障软件交付质量
+ 3、探索智能设备互联场景，提升家居智能化体验
+ 4、跨团队协作，提升多终端设备控制能力及体验
+ … | 2026-10-27 |
+| Xiaomi | [小米汽车-机电工程师-郑州](https://xiaomi.jobs.f.mioffice.cn/index/position/7701202270712940842/detail) | 1.进店接待至维修完成整条服务链路体验.质量.效率保障的执行人;
+2.负责高质量达成进店用户的服务需求满足，达成服务满意度指标;
+3.车辆维修保养及疑难故障处理，保修,服务行动等维修服务行为的第一负责… | 2026-10-27 |
+| Xiaomi | [前端研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7701307723770366258/detail) | 1.负责对接需求相关产品/测试等团队进行需求沟通
+2.负责参与需求设计及文档编写工作
+3.负责需求开发和日常维护工作
+1.计算机相关专业，3年以上前端开发经验
+2.熟练掌握前端基础知识（js、http… | 2026-10-27 |
+| Xiaomi | [汽车出海销服内控专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7696123205992450331/detail) | 1. 了解汽车海外销售售后企业运作模式，可以针对业务和管理流程进行诊断分析、完成流程设计合理性和执行有效性评估，并且提出优化落地方案。
+2. 根据海外销售售后流程体系特殊性，建立内部控制体系，定期开展… | 2026-10-27 |
+| Xiaomi | [海外效果广告经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7701185199078082870/detail) | 1、负责国际小米网的效果广告投放，根据销售的产品，制定广告投放方案；
+2、与销售紧密协作，每日跟进投放效果数据，持续进行分析和优化，对ROI效果负责；
+3、整合分析广告及流量数据，定期输出分析复盘报告… | 2026-10-27 |
+| Xiaomi | [软硬融合-Android系统优化工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7699313391542962482/detail) | 1、根据输入的关键场景，分析从应用、操作系统、硬件全链路中的系统资源使用情况，梳理链路各环节关键瓶颈，挖掘功耗优化方案、策略，支撑产品体验优化；
+2、构建系统性功耗维测能力，及自动化分析能力；
+3、洞… | 2026-10-27 |
+| Xiaomi | [行业研究-汽车](https://xiaomi.jobs.f.mioffice.cn/index/position/7696792189154855210/detail) | 1、汽车行业市场大盘走势研究
+2、汽车行业各竞品情况调研
+1.有头部券商研究所/投资机构的汽车行业研究经验，尤其是汽车整车、造车新势力的深度研究经验；
+2.同时兼具汽车整车实体企业的经验者优先，尤其是… | 2026-10-27 |
+| Xiaomi | [零售顾问-达州](https://xiaomi.jobs.f.mioffice.cn/index/position/7700913095233456411/detail) | 1. 产品讲解，⽤最热情的⽅式接待所有进店⽤户，提供专 业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产品的核⼼价值，激发⽤户对于品牌与产品的热情；
+2. 试乘试驾：为顾客提供专业的试乘试驾服务，通… | 2026-10-27 |
+| Xiaomi | [高级产品经理-生产力笔记方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7701184309306526006/detail) | - 按规划负责笔记应用（文字、录音、手写）中一类或多类方向的功能设计与落地。
+- 将需求与方案拆解为可执行的产品细节，熟练撰写 PRD，推动功能从设计到上线。
+- 紧密协同研发、设计、测试，保障交付进… | 2026-10-27 |
+| Xiaomi | [厨电产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7701239505218947370/detail) | 1.独立负责烟灶或热水器类产品线全生命周期管理，涵盖产品战略规划、立项论证、上市落地及迭代优化；同步对接生态链合作企业，统筹外部资源保障品类业务推进。
+2.深度解读公司整体战略与业务发展规划，核心参与… | 2026-10-27 |
+| Xiaomi | [高级产品经理-生产力笔记方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7701183943828490538/detail) | - 制定笔记方向（文字、录音、手写三类）的产品规划与迭代节奏，明确各类笔记的定位、优先级与体验标准。
+- 洞察学习与办公场景的用户与市场趋势，判断需求价值，输出有竞争力的产品策略与方案。
+- 统筹跨团… | 2026-10-27 |
+| Xiaomi | [高级产品经理-三方应用赛道产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7701184535924607295/detail) | - 负责三方应用体验方向的产品规划，覆盖应用流畅度与功耗、稳定性、跨系统版本兼容、平板 / 折叠屏等多形态大屏适配、系统交互能力（分屏、小窗、多设备协同等）接入。
+- 分析用户反馈与竞品差距，识别核心… | 2026-10-27 |
+| Xiaomi | [汽车售后高级产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7698997138068621606/detail) | 1、产品规划： 深度理解汽车售后业务，结合行业趋势与用户痛点，制定售后系统的产品Roadmap
+2、产品设计： 设计售后系统核心模块，包括：机电维保、事故钣喷、门店运营等，覆盖线下服务全流程
+3、数据… | 2026-10-27 |
+| Xiaomi | [数据产品专家(北京)](https://xiaomi.jobs.f.mioffice.cn/index/position/7701306974039083305/detail) | 1. 产品规划：深度洞察海外汽车市场（北美、欧洲、东南亚等）业务，结合当地政策法规、用户习惯，制定全球化汽车销服数据的产品战略、 roadmap 及版本规划
+2. 针对业务关键环节，统筹整理分析模型，… | 2026-10-27 |
+| Xiaomi | [Java 后端研发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7701305594113034532/detail) | 1. 负责中国区新零售业务/服务系统的开发和维护工作
+2. 负责分析业务需求，带领团队完成系统架构设计和开发
+3. 负责相关系统长期规划，保障新业务高效开展
+4. 负责新零售业务系统长期质量稳定性建设… | 2026-10-27 |
+| Xiaomi | [SAP顾问-测试方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7698997097358821668/detail) | 1、负责 SAP 领域（FI/CO/MM/SD/资金/结算）的测试工作，制定测试方案与计划并组织执行，把控从 SIT、UAT、回归到上线验证的全过程质量
+2、深入理解项目需求和业务逻辑，读懂业务方案，… | 2026-10-27 |
+| Xiaomi | [项目经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7662578422715271478/detail) | 1. 对内，负责ODM业务的项目管理工作，包括项目目标拆解与执行落地，以及进度，质量，风险，成本和费用管理。
+2. 对外，负责牵引和管控ODM厂商的项目管理工作，同时就项目管理能力赋能ODM厂商。
+3… | 2026-10-27 |
+| Xiaomi | [商标律师](https://xiaomi.jobs.f.mioffice.cn/index/position/7690484155326646579/detail) | 1. 负责中国及海外的商标风险评估，把控商标法律风险，提供可行性法律方案；
+2. 优化全球商标使用规则，应对商标纠纷、排除权利障碍；
+3. 负责商标申请、异议、无效、撤销等各类争议案件；
+4. 围绕公… | 2026-10-27 |
+| Xiaomi | [高级PCB工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7670729343577327922/detail) | 1、主要负责智驾、座舱等域控制器及部分后装产品的 PCB 整体技术方案，主导叠层设计、阻抗规划等，主导完成PCB  Layout设计；
+2、针对 DDR、PCIe、车载以太网、MIPI、SerDes、… | 2026-10-27 |
+| Xiaomi | [汽车服务AI高级产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7698996925244606730/detail) | 1.AI场景规划：梳理汽车服务全流程，挖掘AI落地场景，根据价值输出优先级
+2.AI产品路线图：规划服务领域AI产品全景图，并且制定AI产品落地路线图
+3.AI项目落地：与模型/算法/研发/数据等多团… | 2026-10-27 |
+| Xiaomi | [零售顾问-澎程-昆明](https://xiaomi.jobs.f.mioffice.cn/index/position/7698583532595775770/detail) | 1. 产品讲解：⽤最热情的⽅式接待所有进店⽤户，提供专业的产品讲解，结合⽤户情况与使⽤场景，使⽤户理解产品的核⼼价值，激发⽤户对于品牌与产品的热情；
+2. 试乘试驾：为顾客提供专业的试乘试驾服务，通过… | 2026-10-27 |
+| Vercel | [Strategy and Planning Lead](https://job-boards.greenhouse.io/vercel/jobs/6236530004) | About Vercel: 
+ Vercel is the agentic infrastructure company, freeing people and agents to ship what… | 2026-10-27 |
+| Vercel | [Sales Strategy & Operations, Enterprise](https://job-boards.greenhouse.io/vercel/jobs/6236516004) | About Vercel: 
+ Vercel is the agentic infrastructure company, freeing people and agents to ship what… | 2026-10-27 |
+| UOB | [Senior Officer, Computer Operator, Group Infrastructure & Platform Services](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer--Computer-Operator--Group-Infrastructure---Platform-Services_JR93977) |  | 2026-10-27 |
+| UOB | [MICE Assistant (Mar - Sep 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/MICE-Assistant--Mar---Sep-2027-_JR98815) |  | 2026-10-27 |
+| UOB | [Senior Officer / Manager, Commercial Vehicle Loan Processing, Emerging Enterprise](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Senior-Officer---Manager--Commercial-Vehicle-Loan-Processing--Emerging-Enterprise_JR99126) |  | 2026-10-27 |
+| UOB | [SVP - PB Portfolio Strategist](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/SVP---PB-Portfolio-Strategist_JR98916) |  | 2026-10-27 |
+| UOB | [VP,  AML Control – Customer Engagement Team Lead](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP---AML-Control---Customer-Engagement-Team-Lead_JR98851) |  | 2026-10-27 |
+| UOB | [Source of Wealth Co-maker / Drafter](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/Source-of-Wealth-Co-maker---Drafter_JR99504) |  | 2026-10-27 |
+| Tencent | [企业微信-AI产品经理-搜索方向](http://careers.tencent.com/jobdesc.html?postId=2112375607512969216) | 1.负责企业微信内的搜索产品功能与策略设计，覆盖全局搜索、PC 端主搜、聊天内搜索等场景，结合 AI 与大模型能力（如语义理解、意图判断、结果质量等）持续优化用户找人、找群、找内容的搜索体验；
+2.深… | 2026-10-27 |
+| Tencent | [UE5-开放大世界(在研) 资深大世界关卡设计-pcg与物理向](http://careers.tencent.com/jobdesc.html?postId=2112463828221603840) | 1.主导与协调大世界物理物件有关内容的梳理与设计；
+2.主导与协调大世界 pcg 工具有关内容；
+3.协调美术等横向职能保证大世界pcg 与物理有关内容的落地；
+4.统筹及提出功能资产需求，跟进开发，… | 2026-10-27 |
+| Tencent | [TCS云原生高级产品经理](http://careers.tencent.com/jobdesc.html?postId=2092974564287098880) | 1.云原生平台规划：负责专有云 TCS 云原生产品线（容器平台 / Kubernetes 发行版、镜像仓库、Serverless 等）的产品规划、需求定义与版本节奏管理，输出清晰的路线图并推动落地；
+… | 2026-10-27 |
+| Tencent | [《火影忍者》手游-资深系统策划(深圳)](http://careers.tencent.com/jobdesc.html?postId=2059112534874701824) | 1.负责火影手游的游戏系统设计工作, 参与系统框架设计，包括不限于养成系统, 玩法系统, 系统大模块(如公会系统), 活动等；
+2.负责火影手游运营节点规划，并制定节点内容及活动的安排与设计；
+3.对… | 2026-10-27 |
+| Tencent | [UE微恐轻动作项目-资深战斗策划（3C方向）](http://careers.tencent.com/jobdesc.html?postId=2082098242211983360) | 1.负责微恐轻动作品类下的战斗3C框架搭建与品质把控，包含角色/武器/命中/受击/镜头/手感等核心体感设计；
+2.制定近战、物理操控、枪械及道具类互动的3C规范和动作表现标准，确保微恐氛围下轻动作的紧… | 2026-10-27 |
+| Tencent | [AI设计工程师](http://careers.tencent.com/jobdesc.html?postId=2055186895503273984) | 1. 全流程产品定义：不局限于界面设计，深度参与或直接定义从0到1的产品构思。利用AI工具进行快速头脑风暴、用户洞察验证。
+2. 高审美与情感化设计：负责产品的视觉与体验设计，追求审美品味与情感共鸣。… | 2026-10-27 |
+| Tencent | [腾讯云-AgentRuntime高级产品解决方案架构师(北京/上海)](http://careers.tencent.com/jobdesc.html?postId=2115025975606689792) | 1.作为 AgentRuntime 产品侧核心技术角色，负责重点客户的方案设计、PoC、竞品及自建替换、迁移和生产落地，提升产品在关键项目中的技术竞争力；
+2.深入客户真实技术环境，参与部署、集成、调… | 2026-10-27 |
+| Tencent | [腾讯安全-云安全解决方案架构师](http://careers.tencent.com/jobdesc.html?postId=2114963305922740224) | 1. 为销售团队提供云安全产品技术支撑，设计客户场景化解决方案（如等保合规、数据安全架构），直接推动商机转化与订单落地； 
+2. 主导客户技术交流，解答云安全产品（如waf、主机安全、密码评估等）与合… | 2026-10-27 |
+| Tencent | [腾讯云-IaaS产品经营分析师(上海/深圳)](http://careers.tencent.com/jobdesc.html?postId=2115025980040065024) | 1.经营数据监控：搭建并维护云 IaaS 核心经营看板（算力、存储、网络等产品线的收入、用量、资源利用率等），常态化跟踪关键指标，及时发现波动并完成初步归因；
+2.经营分析输出：定期输出周/月/季度经… | 2026-10-27 |
+| Tencent | [微信支付-大模型 AI Infra 研发工程师](http://careers.tencent.com/jobdesc.html?postId=2112120499797667840) | 1.负责微信支付大模型推理平台建设与性能优化，结合模型结构、业务负载和硬件特性开展软硬件协同优化，持续提升推理吞吐、降低时延，保障大规模异构GPU集群稳定运行；
+2.负责大模型训练性能优化，面向SFT… | 2026-10-27 |
+| Tencent | [OG项目组-大世界车流策划](http://careers.tencent.com/jobdesc.html?postId=2099759086919925760) | 1.独立负责大世界车流系统的基础特性和规则设计，包括路网逻辑、车流密度、避让规则、事件响应机制等；
+2.主导车流氛围设计及落地，确保车辆行为在视觉与逻辑上符合"活的城市"的体验目标；
+3.设计车流与大… | 2026-10-27 |
+| Tencent | [《三角洲行动》绑定设计师-角色方向](http://careers.tencent.com/jobdesc.html?postId=2114925930295242752) | 1.创建和维护高质量的动画绑定系统，包括全身骨骼与面部的绑定，以满足游戏内各种角色类型和动画需求；
+2.创建和维护 Unreal 动画蓝图，高保真还原 DCC 内做出的联动与修形效果；
+3.使用 Py… | 2026-10-27 |
+| Tencent | [腾讯安全-内容风控合规运营工程师](http://careers.tencent.com/jobdesc.html?postId=2114963351808425984) | 1.主要职责负责腾讯云上多类业务的安全合规工作，包括理解业务并针对性制定合规策略；
+2.善于合规类违规场景挖掘特征，运用AI与大模型技术辅助设计高效的检测与打击方案；
+3.结合相关政策要求及业务需求，… | 2026-10-27 |
+| Tencent | [游戏研发产品项目经理](http://careers.tencent.com/jobdesc.html?postId=2082422560569602048) | 1.负责项目资源的协调与组织，确保项目团队各干系人协同工作；
+2.挖掘整理内外部的产品需求，应用至内部产品；
+3.负责项目计划的制定、跟踪和维护，确保项目按计划完成；
+4.负责组织项目各项评审会议及项… | 2026-10-27 |
+| Tencent | [营销与交易产品部-腾讯企点-产品架构师](http://careers.tencent.com/jobdesc.html?postId=2052679386385264640) | 1.负责腾讯营销云产品的产品商业化工作，包括产品架构方案设计、解决方案以及业务咨询等前场相关工作内容，推动业务目标达成；
+2.支持销售团队进行售前工作，并配合相关的售中/售后等相关业务工作；
+3.对实… | 2026-10-27 |
+| Tencent | [腾讯云-北京云原生销售经理-泛互](http://careers.tencent.com/jobdesc.html?postId=2062519817159749632) | 1.负责腾讯云北京泛互市场的销售工作，包括目标行业客户的开发与维护及跟进，市场策略制定、合作伙伴管理等；
+2.聚焦销售，有坚定的执行力，达成公司制定的目标任务和KPI考核目标；
+3.独立开拓华北区域泛… | 2026-10-27 |
+| Tencent | [《三角洲行动》3D动作设计师-3C方向](http://careers.tencent.com/jobdesc.html?postId=2095412220828762112) | 1.负责主角在游戏中的3C动画制作，包含Locomotion、人物交互等游戏内主角的各种战斗/非战斗行为动画；
+2.负责游戏内人物与道具的表演动画，包含手势、道具检视等动画制作；
+3.负责游戏内玩法交… | 2026-10-27 |
