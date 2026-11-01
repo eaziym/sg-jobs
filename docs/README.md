@@ -1,14 +1,55 @@
 # Latest Jobs
 
-_Last updated: 2026-10-31_
+_Last updated: 2026-11-01_
 
-**Total jobs:** 4218 • **Companies:** 84 • **Top tag:** Others
+**Total jobs:** 3891 • **Companies:** 84 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
+| Xiaomi | [内饰仪表板开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7703069641970813193/detail) | 1.负责主副仪表板的产品开发工作。
+2.负责主导完成主副仪表板的数据开发工作，包括造型可行性分析，不同阶段工程数据制作等。
+3.主导完成主副仪表板的零件开发工作，包括制作SOR包，评审供应商技术方案，… | 2026-11-01 |
+| Stripe | [Deal Strategist, APAC](https://stripe.com/jobs/search?gh_jid=8336062) | Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-11-01 |
+| Samsara | [Specialist Seller - Connected Maintenance - Public Sector](https://www.samsara.com/company/careers/roles/7961462?gh_jid=7961462) |  | 2026-11-01 |
+| Samsara | [Specialist Seller - Connected Maintenance - Public Sector](https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805) |  | 2026-11-01 |
+| Samsara | [Specialist Seller - Connected Maintenance - Public Sector](https://www.samsara.com/company/careers/roles/7961458?gh_jid=7961458) |  | 2026-11-01 |
+| Samsara | [Mid-Market Account Executive - Public Sector  (TOLA)](https://www.samsara.com/company/careers/roles/8198243?gh_jid=8198243) |  | 2026-11-01 |
+| Samsara | [Mid-Market Account Executive - Public Sector  (Northeast)](https://www.samsara.com/company/careers/roles/8205132?gh_jid=8205132) |  | 2026-11-01 |
+| Samsara | [Mid-Market Account Executive - Public Sector  (Southeast)](https://www.samsara.com/company/careers/roles/8205120?gh_jid=8205120) |  | 2026-11-01 |
+| Samsara | [Mid-Market Account Executive - Public Sector](https://www.samsara.com/company/careers/roles/7612559?gh_jid=7612559) |  | 2026-11-01 |
+| OKX | [Chief of Staff](https://job-boards.greenhouse.io/okx/jobs/8139839003) | Who We Are 
+ 
+ At OKX, we believe that the future will be reshaped by crypto, and ultimately contrib… | 2026-11-01 |
+| OKX | [Chief of Staff](https://job-boards.greenhouse.io/okx/jobs/8139942003) | OKX will be prioritising applicants who have a current right to work in Singapore, and do not requir… | 2026-11-01 |
+| OCBC | [Contract Assistant Manager, Data Analytics](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Hong-Kong/Contract-Assistant-Manager--Data-Analytics_JR00012055) |  | 2026-11-01 |
+| KPMG | [FS Consulting (Non-Life Actuarial), Senior Associate / Assistant Manager](https://careers.kpmg.com.sg/job/FS-Consulting-%28Non-Life-Actuarial%29%2C-Senior-Associate-Assistant-Manager/61181944) |  | 2026-11-01 |
+| DBS | [Analyst/ Assoc, Concierge & Hospitality Executive, Operations COO, Group COO](https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers/job/Singapore---Central/Analyst--Assoc--Concierge---Hospitality-Executive--Operations-COO--Group-COO_WD90242) |  | 2026-11-01 |
+| DBS | [Executive Director, Relationship Manager, Private Banking (NRI Market), Consumer Banking Group](https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers/job/Singapore---Central/Executive-Director--Relationship-Manager--Private-Banking--NRI-Market---Consumer-Banking-Group_WD90156) |  | 2026-11-01 |
+| Databricks | [Named Hunter Account Executive - Singapore](https://databricks.com/company/careers/open-positions/job?gh_jid=8916466002) |  | 2026-11-01 |
+| Databricks | [Sr. Forward Deployment Strategist](https://databricks.com/company/careers/open-positions/job?gh_jid=8922941002) |  | 2026-11-01 |
+| Databricks | [Strategic Core Account Executive - FSI](https://databricks.com/company/careers/open-positions/job?gh_jid=8910854002) |  | 2026-11-01 |
+| Databricks | [Strategic Core Account Executive - Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002) |  | 2026-11-01 |
+| Databricks | [Account Executive - Strategic Core](https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002) |  | 2026-11-01 |
+| ByteDance | [SOC ESL性能建模与分析工程师（CPU芯片） - 芯片研发](https://jobs.bytedance.com/experienced/position/7312403698927372553/detail) | 团队介绍：为字节业务量体裁衣，提供最优化的数据中心芯片解决方案，愿景是成为业界领先的服务器芯片开发团队，助力公司在存储、网络、服务器等业务提升性能、降低成本。
+
+1、负责大规模SOC芯片的ESL平台开… | 2026-11-01 |
+| ByteDance | [AI产品经理-抖音生活服务](https://jobs.bytedance.com/experienced/position/7650068703044159797/detail) | 1、负责抖音生活服务场景下AI产品的规划与落地，结合业务发展目标与行业趋势，挖掘商家、服务商及内部业务团队在经营、营销、销售转化等环节的智能化需求，输出清晰的产品方案并推动实施；搭建AI产品从需求洞察… | 2026-11-01 |
+| ByteDance | [AI平台产品经理 - 抖音平台](https://jobs.bytedance.com/experienced/position/7688697399954999605/detail) | 团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐… | 2026-11-01 |
+| ByteDance | [Android构建架构师 - TikTok研发](https://jobs.bytedance.com/experienced/position/7675203783272155397/detail) | 团队介绍：TikTok研发团队，旨在实现TikTok业务的研发工作，搭建及维护业界领先的产品。加入我们，你能接触到包括用户增长、社交、直播、电商C端、内容创造、内容消费等核心业务场景，支持产品在全球赛… | 2026-11-01 |
+| ByteDance | [AI网络架构工程师-基础架构](https://jobs.bytedance.com/experienced/position/7597322847262509365/detail) | 1、负责AI训练、推理网络需求分析，行业趋势分析；
+2、负责HPN网络方案设计；
+3、负责HPN网络架构测试验证、协助建设团队完成新架构平稳落地。 | 2026-11-01 |
+| ByteDance | [Project Manager招商项目运营专家 - 国际化广告创意与品牌](https://jobs.bytedance.com/experienced/position/7637044729075452213/detail) | 团队介绍：字节跳动国际商业化创意与品牌广告团队致力于通过创意内容（如创意解决方案平台、内容套装及ACA创意工具）与AI技术的结合，为品牌提供从认知到种草转化为购买的全链路营销解决方案。无论是广告投放还… | 2026-11-01 |
+| ByteDance | [多模态大模型算法（国际化直播） - TikTok算法](https://jobs.bytedance.com/experienced/position/7441204745694464264/detail) | 团队介绍：TikTok搜推算法团队，负责TikTok短视频产品的基础推荐、搜索算法，加入我们，你能接触到包括搜索、用户增长、社交、直播、内容创造、内容消费等核心业务场景，直接为核心用户体验负责，支持产… | 2026-11-01 |
+| ByteDance | [质量效能平台开发工程师](https://jobs.bytedance.com/experienced/position/7202437497606555965/detail) | 1、负责质量效能基础设施的建设，包括但不限于自动化测试工具/测试集的引入和二开、一体化测试平台、测试环境管理、各类专项测试、持续集成/持续交付、数据度量等，提高工程生产力；
+2、紧密围绕业务需求和痛点… | 2026-11-01 |
+| Apple | [Lease Manager](https://jobs.apple.com/en-sg/details/200691770) |  | 2026-11-01 |
+| Apple | [Senior iOS App Development Engineer - Services Special Project](https://jobs.apple.com/en-sg/details/200692779) |  | 2026-11-01 |
 | Xiaomi | [区域电商运营 - 拉美](https://xiaomi.jobs.f.mioffice.cn/index/position/7686642468498950426/detail) | 1. 支持所在区域/国家的电商运营，覆盖Mercado Libre等主流电商平台及Mi.com，对销售、利润及市场份额等核心指标负责。
 2. 围绕产品、价格、渠道和营销等4P维度开展整合营销，对产品从… | 2026-10-31 |
 | Tencent | [Tencent Cloud - Senior Pre-sales Solution Architect (AI-Native Cloud & GenAI) – Singapore](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Pre-sales-Solution-Architect--AI-Native-Cloud---GenAI----Singapore_R108282) | Business Unit
@@ -44,33 +85,3 @@ Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's
 | OpenAI | [Senior Counsel, AI Product](https://jobs.ashbyhq.com/openai/36a746ab-66a6-4f3e-b164-3ca8fa9e0658) |  | 2026-10-31 |
 | OKX | [Manager, Controls and Governance](https://job-boards.greenhouse.io/okx/jobs/8112753003) | Who We Are 
  At OKX, we believe that the future will be reshaped by crypto, and ultimately contribut… | 2026-10-31 |
-| Morgan Stanley | [Business Analytics, US Banks Analytics, Vice President](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801092826&sort_by=timestamp) |  | 2026-10-31 |
-| Morgan Stanley | [Cloud Platform Architect](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549800830700&sort_by=timestamp) |  | 2026-10-31 |
-| Morgan Stanley | [UHNW Senior Mortgage Consultant](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801092151&sort_by=timestamp) |  | 2026-10-31 |
-| Morgan Stanley | [AI Strategy & Enablement VP](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549800862654&sort_by=timestamp) |  | 2026-10-31 |
-| Morgan Stanley | [Registered Client Service Associate](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801091622&sort_by=timestamp) |  | 2026-10-31 |
-| Morgan Stanley | [2027 Overnight Financial Services Representative \| Alpharetta, GA & Sandy, UT](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549800966660&sort_by=timestamp) |  | 2026-10-31 |
-| Micron | [New College Grad - Manufacturing Development Engineering (MDE) Shift Engineer](https://micron.eightfold.ai/careers/apply?pid=45278391&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Intern - Sales Strategy and Operations](https://micron.eightfold.ai/careers/apply?pid=45227649&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Manufacturing Shift Equipment Engineer - Diffusion](https://micron.eightfold.ai/careers/apply?pid=44808699&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Intern - Process Integration – Advanced Packaging](https://micron.eightfold.ai/careers/apply?pid=45166022&domain=micron.com) |  | 2026-10-31 |
-| Micron | [MTC Operations Coordinator & Executive Administrative Support](https://micron.eightfold.ai/careers/apply?pid=45263731&domain=micron.com) |  | 2026-10-31 |
-| Micron | [HVM ME Shift Process Engineer](https://micron.eightfold.ai/careers/apply?pid=45067065&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Staff SoC DFT Engineer, HBM](https://micron.eightfold.ai/careers/apply?pid=42023773&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Senior CAD Engineer - Layout/Verification/Simulation](https://micron.eightfold.ai/careers/apply?pid=45280517&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Principal AI Security Technologist](https://micron.eightfold.ai/careers/apply?pid=45278429&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Senior CAD Engineer – Physical Verification](https://micron.eightfold.ai/careers/apply?pid=45280389&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Manager, Electrical, Facilities Engineering](https://micron.eightfold.ai/careers/apply?pid=30912934&domain=micron.com) |  | 2026-10-31 |
-| Micron | [Senior / Product Engineer - (NAND firmware integration)](https://micron.eightfold.ai/careers/apply?pid=44293817&domain=micron.com) |  | 2026-10-31 |
-| Meituan | [业务运营岗](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4884479347) | 1. 负责业务运营策略的制定与执行，推动业务目标达成。 2. 分析业务数据，识别运营瓶颈并提出优化方案。 3. 协调跨部门资源，确保业务流程高效运转。 4. 建立并完善运营指标体系，定期输出分析报告。… | 2026-10-31 |
-| Manulife | [AVP, GTO Strategy & Transformation](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--AI-Products---Delivery--Global-Operations-AI-_JR26060018-1) |  | 2026-10-31 |
-| Manulife | [GLOBAL KNOWLEDGE , TRAINING AND DEVELOPMENT LEAD](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/GLOBAL-KNOWLEDGE---TRAINING-AND-DEVELOPMENT-LEAD_JR26101241) |  | 2026-10-31 |
-| Manulife | [Winter Co-Op 2027 - Taxation Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-Op-2027---Taxation-Analyst_JR26081957) |  | 2026-10-31 |
-| Manulife | [National Education Consultant](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Ontario-Toronto-200-Bloor-Street-East/National-Education-Consultant_JR26090655) |  | 2026-10-31 |
-| HSBC | [Equities Product Specialist](https://portal.careers.hsbc.com/careers/job/563774612142763) |  | 2026-10-31 |
-| HSBC | [Vice President, Relationship Manager - Global Network Banking](https://portal.careers.hsbc.com/careers/job/563774612561197) |  | 2026-10-31 |
-| HSBC | [Wealth Relationship Officer](https://portal.careers.hsbc.com/careers/job/563774612564451) |  | 2026-10-31 |
-| Google | [Product Manager I](https://www.google.com/about/careers/applications/jobs/results/140671157203280582) | At Google, we put our users first. The world is always changing, so we need Product Managers who are… | 2026-10-31 |
-| Google | [Data Center Server Operations Site Lead](https://www.google.com/about/careers/applications/jobs/results/78205977483977414) | Google isn't just a software company. The Hardware Operations team is responsible for monitoring the… | 2026-10-31 |
-| Google | [Senior Program Manager I, Supply Chain, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/122018552323416774) | A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help… | 2026-10-31 |
-| Google | [Principal Silicon Product Engineer](https://www.google.com/about/careers/applications/jobs/results/89492026256433862) | As the Principal Silicon Product Engineer, you will serve as the chief technical authority for the S… | 2026-10-31 |
