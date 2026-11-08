@@ -1,65 +1,61 @@
 # Latest Jobs
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-08_
 
-**Total jobs:** 3409 • **Companies:** 89 • **Top tag:** Others
+**Total jobs:** 3559 • **Companies:** 89 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Stripe | [Account Executive, SMB Grower (French speaking)](https://stripe.com/jobs/search?gh_jid=8250475) | Who we are 
- About Stripe 
- Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-11-07 |
-| Stripe | [Account Executive, SMB (Hunter)](https://stripe.com/jobs/search?gh_jid=8280264) | Who we are 
- About Stripe 
- Stripe is a financial infrastructure platform for businesses. Millions o… | 2026-11-07 |
-| Samsara | [Sr. Firmware Engineer II](https://www.samsara.com/company/careers/roles/8289005?gh_jid=8289005) |  | 2026-11-07 |
-| Samsara | [Senior Tax Accountant](https://www.samsara.com/company/careers/roles/8353142?gh_jid=8353142) |  | 2026-11-07 |
-| Samsara | [Manager, Contract and Billing](https://www.samsara.com/company/careers/roles/8302148?gh_jid=8302148) |  | 2026-11-07 |
-| Samsara | [Enterprise Sales Engineer - Public Sector - West](https://www.samsara.com/company/careers/roles/8353150?gh_jid=8353150) |  | 2026-11-07 |
-| VXI Global Solutions | [US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168) |  | 2026-11-07 |
-| Reddit | [Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)](https://job-boards.greenhouse.io/reddit/jobs/8359289) | <div class="content-intro"><div class="c-message_kit__blocks c-message_kit__blocks--rich_text"> <div… | 2026-11-07 |
-| Reddit | [Senior Client Partner, Mid-Market Sales (Goods)](https://job-boards.greenhouse.io/reddit/jobs/8360267) | <div class="content-intro"><div class="c-message_kit__blocks c-message_kit__blocks--rich_text"> <div… | 2026-11-07 |
-| Pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-11-07 |
-| Pinterest | [Sr. Product Designer - Measurement, Data, & AI](https://www.pinterestcareers.com/jobs/?gh_jid=8249279) | <div class="content-intro"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the… | 2026-11-07 |
-| OpenAI | [GTM Strategy & Planning](https://jobs.ashbyhq.com/openai/41408133-b45f-4c7b-a0df-c050f16d92de) |  | 2026-11-07 |
-| OpenAI | [Applied AI Engineer, Enterprise - EDU](https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5) |  | 2026-11-07 |
-| OpenAI | [Mechanical Engineer, Power Generation](https://jobs.ashbyhq.com/openai/015de5ce-8210-418d-abc6-f8b8712f0dbd) |  | 2026-11-07 |
-| OpenAI | [Controls Engineer, Power Generation and Microgird](https://jobs.ashbyhq.com/openai/554a6565-0c9a-42e8-8f6f-a22ba23f336b) |  | 2026-11-07 |
-| OpenAI | [Electrical Engineer, Power Generation](https://jobs.ashbyhq.com/openai/94d44e8c-987f-4350-bb13-5a855be957db) |  | 2026-11-07 |
-| OpenAI | [Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)](https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd) |  | 2026-11-07 |
-| OpenAI | [Robotics Test Engineer](https://jobs.ashbyhq.com/openai/0369bd4b-bfb1-4c36-90cb-4e3a24365150) |  | 2026-11-07 |
-| OCBC | [Trading Operations - FT](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Trading-Operations---FT_JR00011885) |  | 2026-11-07 |
-| OCBC | [Markets & Securities Services Operations - Corporate Action - FT](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/BOS-Singapore/Markets---Securities-Services-Operations---Corporate-Action---FT_JR00012446) |  | 2026-11-07 |
-| Morgan Stanley | [Client Service Associate](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801159267&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Market Administrator](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801122491&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Vice President - Applied AI](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549795582662&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Liquid Products Underwriter Lending Transactor - Assistant Vice President](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549800814194&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Risk Officer](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801185097&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Director - Applied AI](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549799200737&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801221670&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Sr Registered Service Associate (FL)](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801221142&sort_by=timestamp) |  | 2026-11-07 |
-| Morgan Stanley | [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549801221296&sort_by=timestamp) |  | 2026-11-07 |
-| MongoDB | [Advisory Solutions Architect (Pre-Sales)](https://www.mongodb.com/careers/job/?gh_jid=8359903) |  | 2026-11-07 |
-| Meituan | [餐饮SaaS HRBP](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4597518210) | 岗位职责： 1.作为业务部门的HR合作伙伴，理解公司战略和业务目标，在人才招聘、人才发展、组织发展等领域提供专业支持。善于借助AI工具提升工作质量和效率——不是“了解AI”，是已经在用AI改变自己的工… | 2026-11-07 |
-| Meituan | [美团骑行-资产主管（西安）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4901244337) | 1.负责所属运营区域或仓库的车辆维保管理工作，对车辆周转效率维修质量等指标负责； 2.配合经营侧对城市单车运营问题配合管理； 3.协助资产经理管理资产团队，提升团队工作效率和拿结果。 负责所在城市的车… | 2026-11-07 |
-| Meituan | [闪购-店铺运营专家-华北](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4647648944) | 1.根据区域消费特征及市场行情变化，制定城市/门店差异化运营策略（包含但不限于门店选址/商品运营/营销活动/门店营运管理/流量投放等）； 2.协调内外部营销活动资源，指导并监督合作商落地执行，实现品牌… | 2026-11-07 |
-| Manulife | [Manager, Affinity Advisor Marketing](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager--Affinity-Advisor-Marketing_JR26090822) |  | 2026-11-07 |
-| Manulife | [Back-End Software Engineer](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419) |  | 2026-11-07 |
-| Manulife | [Digital Marketing Automation, Specialist](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Digital-Marketing-Automation--Specialist_JR26051644) |  | 2026-11-07 |
-| Manulife | [Full-Stack Software Engineer (C#, .Net, React)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Full-Stack-Software-Engineer_JR26091833-1) |  | 2026-11-07 |
-| Manulife | [Senior Manager, Operational Resilience](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Senior-Manager--Continuity-and-Resilience-Risk_JR26071628) |  | 2026-11-07 |
-| Google | [Director, Partner and Ecosystems Strategy and Operations](https://www.google.com/about/careers/applications/jobs/results/132603486339506886) | Google Cloud’s mission is to provide organizations with the best infrastructure, platform, industry-… | 2026-11-07 |
-| Google | [Software Developer III, AI/ML GenAI, Google Ads](https://www.google.com/about/careers/applications/jobs/results/89559942574285510) | Google's software developers develop the next-generation technologies that change how billions of us… | 2026-11-07 |
-| Google | [Senior Associate, Brand Deals Growth Strategy (Commerce and New Formats)](https://www.google.com/about/careers/applications/jobs/results/122734269968589510) | Commercial & Segment Activation (CSA) sits at the heart of YouTube Go-To-Market Operations (GTMO), d… | 2026-11-07 |
-| Google | [Senior Software Engineering Manager, Machine Learning, Maps](https://www.google.com/about/careers/applications/jobs/results/106553994293191366) | Like Google's own ambitions, the work of a Software Engineer goes beyond just Search. Software Engin… | 2026-11-07 |
-| Google | [Director, Megasite Data Center Operations](https://www.google.com/about/careers/applications/jobs/results/141375802422764230) | As the Data Center Leader of Google’s megasite data centers, you will lead a large team of talented … | 2026-11-07 |
-| GitLab | [Senior Professional Services Engineer - North Carolina](https://job-boards.greenhouse.io/gitlab/jobs/8920764002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| GitLab | [Lead, Community Growth Marketing Manager](https://job-boards.greenhouse.io/gitlab/jobs/8931179002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| GitLab | [Executive Assistant, Office of the CFO](https://job-boards.greenhouse.io/gitlab/jobs/8928552002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| GitLab | [Professional Services, Program Manager](https://job-boards.greenhouse.io/gitlab/jobs/8929468002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| GitLab | [Principal Growth Marketing Strategist](https://job-boards.greenhouse.io/gitlab/jobs/8933640002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| GitLab | [Customer Success LATAM](https://job-boards.greenhouse.io/gitlab/jobs/8931337002) | <div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab… | 2026-11-07 |
-| Zoox | [Senior Electrical Harness Engineer](https://jobs.lever.co/zoox/cf38cf65-d821-402d-819b-cb9c89194513) | As a Senior Electrical Low Voltage Design Engineer at Zoox, you will own the design and integration … | 2026-11-07 |
+| UOB | [Vice President, Commercial Banking-Credit Analyst Team](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/Vice-President--Commercial-Banking-Credit-Analyst-Team_JR100618) |  | 2026-11-08 |
+| UOB | [VP, Relationship Manager, Commercial Banking](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/VP--Relationship-Manager--Commercial-Banking_JR100629) |  | 2026-11-08 |
+| OpenAI | [Civil & Structural Architect, Power Generation](https://jobs.ashbyhq.com/openai/1a475859-21e3-45fc-9e93-8763aa1d0992) |  | 2026-11-08 |
+| Micron | [ID1 HVM Operations Facilities Management Coordinator](https://micron.eightfold.ai/careers/apply?pid=45278147&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Process Integration Engineer, APTD](https://micron.eightfold.ai/careers/apply?pid=45096083&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Product Pathfinding Engineer- HIG-TPG](https://micron.eightfold.ai/careers/apply?pid=45230540&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Senior Construction Manager - New York](https://micron.eightfold.ai/careers/apply?pid=45311049&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - DRAM Design Engineer](https://micron.eightfold.ai/careers/apply?pid=43721384&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal Account Manager, Hyperscaler](https://micron.eightfold.ai/careers/apply?pid=45348286&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Staff Architectural Engineer (Boise)](https://micron.eightfold.ai/careers/apply?pid=45280418&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Senior Manager, HBM Customer Integration Technical Leader](https://micron.eightfold.ai/careers/apply?pid=44143675&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal Thin Films Process Development Engineer](https://micron.eightfold.ai/careers/apply?pid=41816207&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal DRAM Process Pathfinding - Dry Etch](https://micron.eightfold.ai/careers/apply?pid=45230734&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Sr Engineer, IE Layout](https://micron.eightfold.ai/careers/apply?pid=45373109&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Yield Enhancement DRAM DA](https://micron.eightfold.ai/careers/apply?pid=44484451&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal Engineer, Waste Treatment and Reclamation](https://micron.eightfold.ai/careers/apply?pid=45307243&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - Process Integration, Advanced Packaging](https://micron.eightfold.ai/careers/apply?pid=45166027&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Device Characterization Engineer, Advanced & Emerging Memory](https://micron.eightfold.ai/careers/apply?pid=44281028&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal AI Systems Performance Engineer](https://micron.eightfold.ai/careers/apply?pid=45257631&domain=micron.com) |  | 2026-11-08 |
+| Micron | [ASIC Analog Design Engineer](https://micron.eightfold.ai/careers/apply?pid=45349263&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - Supply Management Analyst](https://micron.eightfold.ai/careers/apply?pid=45279959&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Staff Engineer, ASIC Analog Design – AI/CAD](https://micron.eightfold.ai/careers/apply?pid=45349264&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Senior/Staff Product Owner, SMART MFG & AI](https://micron.eightfold.ai/careers/apply?pid=44107739&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Sr. Bulk Gas Engineer](https://micron.eightfold.ai/careers/apply?pid=45278173&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Dry System Mechanical Engineer](https://micron.eightfold.ai/careers/apply?pid=44350222&domain=micron.com) |  | 2026-11-08 |
+| Micron | [MTS, AI Optimized Memory Digital Design Engineer](https://micron.eightfold.ai/careers/apply?pid=43666921&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Engineer - Life Safety Systems & Telecom (NY)](https://micron.eightfold.ai/careers/apply?pid=45278431&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Product Yield Enhancement (PYE) Engineer](https://micron.eightfold.ai/careers/apply?pid=41888675&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - Front End Materials Category Supplier Manager (CSM)](https://micron.eightfold.ai/careers/apply?pid=45279958&domain=micron.com) |  | 2026-11-08 |
+| Micron | [MTS Design Architect-Custom Layout, HBM](https://micron.eightfold.ai/careers/apply?pid=45349132&domain=micron.com) |  | 2026-11-08 |
+| Micron | [HBM Design Architect](https://micron.eightfold.ai/careers/apply?pid=45349246&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Equipment Technician](https://micron.eightfold.ai/careers/apply?pid=45202320&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - Supply Management Analyst](https://micron.eightfold.ai/careers/apply?pid=45279956&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal Engineer, IO Design](https://micron.eightfold.ai/careers/apply?pid=43615445&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Mixed-signal Design Architect, HBM Architecture](https://micron.eightfold.ai/careers/apply?pid=44345742&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - Process Integration, Advanced Packaging](https://micron.eightfold.ai/careers/apply?pid=45166131&domain=micron.com) |  | 2026-11-08 |
+| Micron | [LEAD PRINCIPAL ENGINEER, ID1 ATE DE PROC](https://micron.eightfold.ai/careers/apply?pid=45373125&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Principal Mixed Signal Design Engineer](https://micron.eightfold.ai/careers/apply?pid=45096302&domain=micron.com) |  | 2026-11-08 |
+| Micron | [PROCT ADT Equipment Staff Engineer/MTS/ Principal (Dry Etch \| Deposition CVD/PVD/Diffusion \| CMP \| Wet)](https://micron.eightfold.ai/careers/apply?pid=43759474&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - System Engineer, HBM](https://micron.eightfold.ai/careers/apply?pid=45227374&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Staff Engineer, Technology - AMAIS](https://micron.eightfold.ai/careers/apply?pid=45348706&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Cyber Security Operations Center Analyst / AI-Automation Engineer](https://micron.eightfold.ai/careers/apply?pid=45316610&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Program Manager II, Source to Pay - Value Optimization](https://micron.eightfold.ai/careers/apply?pid=44998035&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - YE-Electrical Failure Analysis Engineer](https://micron.eightfold.ai/careers/apply?pid=44892621&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Customer Enablement Manager, AI Solutions Group](https://micron.eightfold.ai/careers/apply?pid=45258657&domain=micron.com) |  | 2026-11-08 |
+| Micron | [New College Grad: Engineer, Edge Systems Architecture](https://micron.eightfold.ai/careers/apply?pid=45284309&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Sustainability- Waste Lead](https://micron.eightfold.ai/careers/apply?pid=45151712&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Senior Design Verification Engineer](https://micron.eightfold.ai/careers/apply?pid=45349252&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Senior Architectural Engineer- New York](https://micron.eightfold.ai/careers/apply?pid=45278193&domain=micron.com) |  | 2026-11-08 |
+| Micron | [Intern - HVM Area Manufacturing Engineer (AME)](https://micron.eightfold.ai/careers/apply?pid=45227672&domain=micron.com) |  | 2026-11-08 |
