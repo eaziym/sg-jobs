@@ -1,61 +1,148 @@
 # Latest Jobs
 
-_Last updated: 2026-11-08_
+_Last updated: 2026-11-09_
 
-**Total jobs:** 3559 • **Companies:** 89 • **Top tag:** Others
+**Total jobs:** 3629 • **Companies:** 88 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| UOB | [Vice President, Commercial Banking-Credit Analyst Team](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/Vice-President--Commercial-Banking-Credit-Analyst-Team_JR100618) |  | 2026-11-08 |
-| UOB | [VP, Relationship Manager, Commercial Banking](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/VP--Relationship-Manager--Commercial-Banking_JR100629) |  | 2026-11-08 |
-| OpenAI | [Civil & Structural Architect, Power Generation](https://jobs.ashbyhq.com/openai/1a475859-21e3-45fc-9e93-8763aa1d0992) |  | 2026-11-08 |
-| Micron | [ID1 HVM Operations Facilities Management Coordinator](https://micron.eightfold.ai/careers/apply?pid=45278147&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Process Integration Engineer, APTD](https://micron.eightfold.ai/careers/apply?pid=45096083&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Product Pathfinding Engineer- HIG-TPG](https://micron.eightfold.ai/careers/apply?pid=45230540&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Senior Construction Manager - New York](https://micron.eightfold.ai/careers/apply?pid=45311049&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - DRAM Design Engineer](https://micron.eightfold.ai/careers/apply?pid=43721384&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal Account Manager, Hyperscaler](https://micron.eightfold.ai/careers/apply?pid=45348286&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Staff Architectural Engineer (Boise)](https://micron.eightfold.ai/careers/apply?pid=45280418&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Senior Manager, HBM Customer Integration Technical Leader](https://micron.eightfold.ai/careers/apply?pid=44143675&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal Thin Films Process Development Engineer](https://micron.eightfold.ai/careers/apply?pid=41816207&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal DRAM Process Pathfinding - Dry Etch](https://micron.eightfold.ai/careers/apply?pid=45230734&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Sr Engineer, IE Layout](https://micron.eightfold.ai/careers/apply?pid=45373109&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Yield Enhancement DRAM DA](https://micron.eightfold.ai/careers/apply?pid=44484451&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal Engineer, Waste Treatment and Reclamation](https://micron.eightfold.ai/careers/apply?pid=45307243&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - Process Integration, Advanced Packaging](https://micron.eightfold.ai/careers/apply?pid=45166027&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Device Characterization Engineer, Advanced & Emerging Memory](https://micron.eightfold.ai/careers/apply?pid=44281028&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal AI Systems Performance Engineer](https://micron.eightfold.ai/careers/apply?pid=45257631&domain=micron.com) |  | 2026-11-08 |
-| Micron | [ASIC Analog Design Engineer](https://micron.eightfold.ai/careers/apply?pid=45349263&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - Supply Management Analyst](https://micron.eightfold.ai/careers/apply?pid=45279959&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Staff Engineer, ASIC Analog Design – AI/CAD](https://micron.eightfold.ai/careers/apply?pid=45349264&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Senior/Staff Product Owner, SMART MFG & AI](https://micron.eightfold.ai/careers/apply?pid=44107739&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Sr. Bulk Gas Engineer](https://micron.eightfold.ai/careers/apply?pid=45278173&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Dry System Mechanical Engineer](https://micron.eightfold.ai/careers/apply?pid=44350222&domain=micron.com) |  | 2026-11-08 |
-| Micron | [MTS, AI Optimized Memory Digital Design Engineer](https://micron.eightfold.ai/careers/apply?pid=43666921&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Engineer - Life Safety Systems & Telecom (NY)](https://micron.eightfold.ai/careers/apply?pid=45278431&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Product Yield Enhancement (PYE) Engineer](https://micron.eightfold.ai/careers/apply?pid=41888675&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - Front End Materials Category Supplier Manager (CSM)](https://micron.eightfold.ai/careers/apply?pid=45279958&domain=micron.com) |  | 2026-11-08 |
-| Micron | [MTS Design Architect-Custom Layout, HBM](https://micron.eightfold.ai/careers/apply?pid=45349132&domain=micron.com) |  | 2026-11-08 |
-| Micron | [HBM Design Architect](https://micron.eightfold.ai/careers/apply?pid=45349246&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Equipment Technician](https://micron.eightfold.ai/careers/apply?pid=45202320&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - Supply Management Analyst](https://micron.eightfold.ai/careers/apply?pid=45279956&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal Engineer, IO Design](https://micron.eightfold.ai/careers/apply?pid=43615445&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Mixed-signal Design Architect, HBM Architecture](https://micron.eightfold.ai/careers/apply?pid=44345742&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - Process Integration, Advanced Packaging](https://micron.eightfold.ai/careers/apply?pid=45166131&domain=micron.com) |  | 2026-11-08 |
-| Micron | [LEAD PRINCIPAL ENGINEER, ID1 ATE DE PROC](https://micron.eightfold.ai/careers/apply?pid=45373125&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Principal Mixed Signal Design Engineer](https://micron.eightfold.ai/careers/apply?pid=45096302&domain=micron.com) |  | 2026-11-08 |
-| Micron | [PROCT ADT Equipment Staff Engineer/MTS/ Principal (Dry Etch \| Deposition CVD/PVD/Diffusion \| CMP \| Wet)](https://micron.eightfold.ai/careers/apply?pid=43759474&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - System Engineer, HBM](https://micron.eightfold.ai/careers/apply?pid=45227374&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Staff Engineer, Technology - AMAIS](https://micron.eightfold.ai/careers/apply?pid=45348706&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Cyber Security Operations Center Analyst / AI-Automation Engineer](https://micron.eightfold.ai/careers/apply?pid=45316610&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Program Manager II, Source to Pay - Value Optimization](https://micron.eightfold.ai/careers/apply?pid=44998035&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - YE-Electrical Failure Analysis Engineer](https://micron.eightfold.ai/careers/apply?pid=44892621&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Customer Enablement Manager, AI Solutions Group](https://micron.eightfold.ai/careers/apply?pid=45258657&domain=micron.com) |  | 2026-11-08 |
-| Micron | [New College Grad: Engineer, Edge Systems Architecture](https://micron.eightfold.ai/careers/apply?pid=45284309&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Sustainability- Waste Lead](https://micron.eightfold.ai/careers/apply?pid=45151712&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Senior Design Verification Engineer](https://micron.eightfold.ai/careers/apply?pid=45349252&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Senior Architectural Engineer- New York](https://micron.eightfold.ai/careers/apply?pid=45278193&domain=micron.com) |  | 2026-11-08 |
-| Micron | [Intern - HVM Area Manufacturing Engineer (AME)](https://micron.eightfold.ai/careers/apply?pid=45227672&domain=micron.com) |  | 2026-11-08 |
+| Xiaomi | [小米汽车-质量部-整车硬件质量-车身外饰](https://xiaomi.jobs.f.mioffice.cn/index/position/7350133907134595181/detail) | 1、负责制定专业领域质量策划和目标制定，协同项目质量目标分解、负责本专业领域质量目标的管理和达成；
+2、主导本专业领域范围内的系统和零部件质量成熟度管理，做好风险管控并对成熟度结果负责；
+3、负责本专… | 2026-11-09 |
+| Xiaomi | [小米汽车-SIE电驱工程师（电驱总成/结构/电机）](https://xiaomi.jobs.f.mioffice.cn/index/position/7567339109040884022/detail) | 1. 负责电驱系统（总成、电机、壳体、齿轴、MPU等）潜在供应商评审
+2. 负责电驱系统（总成、电机、壳体、齿轴、MPU等）APQP开发 ：负责与供应商协作制定开发计划，确保DV＆PV验证阶段质量风险… | 2026-11-09 |
+| Xiaomi | [高级公关策略经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7706003750818089266/detail) | 1、结合小米汽车品牌战略与产品节点，策划具有破圈潜力的核心传播话题和事件
+2、统筹话题和事件从创意孵化、资源整合、节奏排布至落地的全链路管理，输出高质量传播内容
+3、有网感，懂受众，能够根据项目特点和… | 2026-11-09 |
+| Xiaomi | [小米汽车-结构耐久开发专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7706194660623976714/detail) | 1. 负责车身、开闭件、内外饰、底盘各系统仿真分析模型的搭建, 及相关分析工作的实施；
+2. 负责车身、开闭件、内外饰、底盘各系统模态、刚度、强度和耐久仿真分析及优化，方案推进与跟踪落实，报告编制及相… | 2026-11-09 |
+| Xiaomi | [零售顾问](https://xiaomi.jobs.f.mioffice.cn/index/position/7705428975874705690/detail) | 1.驱动销售目标达成：通过客户服务,产品知识讲解和推广，配合高效落实销售政策和业务流程，高效管理小组用户基盘，最大程度提升销售小组成绩，达成小组销售目标
+2.用户体验提升：通过产品讲解与试驾服务，不断… | 2026-11-09 |
+| Xiaomi | [海外精品管理](https://xiaomi.jobs.f.mioffice.cn/index/position/7706139689640610084/detail) | 1. 精品品类规划与选品
+- 结合当地市场偏好规划精品品类（欧洲用户与国内审美差异大：少装饰件、重实用与生活场景）
+- 本地化适配：电源规格、语言版本、欧盟安全法规（CE 认证）、包装合规
+- 联动总… | 2026-11-09 |
+| Xiaomi | [门店标准](https://xiaomi.jobs.f.mioffice.cn/index/position/7704581726832249138/detail) | 1. 海外门店标准体系搭建
+- 制定门店运营标准手册（SOP）：展厅形象、功能分区、服务动线
+- 定义展厅标准：展车陈列、灯光、物料、清洁、品牌视觉
+- 制定展具标准：展台、展架、演示设备的配置与维护… | 2026-11-09 |
+| Xiaomi | [新业务部-数字芯片验证工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7706005874526980362/detail) | 1. 负责SOC系统或者IP验证策略的定义；
+2. 负责制定验证规格和验证计划，搭建UVM验证平台；
+3. 负责执行验证计划，编写验证用例，开展随机验证和递归验证；
+4. 负责场景，性能，功耗，BIS… | 2026-11-09 |
+| Xiaomi | [高级产品公关经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7706004261918181659/detail) | 1、基于小米汽车产品上市商业目标及发布会需求，分析上市阶段舆论环境、制定传播目标，梳理并包装产品上市关键传播信息、制定公关策略及传播规划
+2、审核把控核心传播内容，包括拟定口径、官方新闻材料、媒体通稿… | 2026-11-09 |
+| Xiaomi | [海外销售培训负责人](https://xiaomi.jobs.f.mioffice.cn/index/position/7706139380445104438/detail) | - 产品培训
+  - 针对各车型（含新上市车型）开发标准化产品培训内容：产品知识、核心卖点、竞品对比、技术亮点与配置讲解。
+  - 面向销售顾问、店长、区域经理等不同角色设计分层培训，内容匹配岗位职责… | 2026-11-09 |
+| Xiaomi | [电磁兼容仿真工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7706194457988925738/detail) | 1.	负责整车多层级多场景的EMC仿真能力规划及建设
+2.	负责搭建全链路整车EMC仿真数据库、模型库、材料库
+3.	针对整车/系统/零部件EMC风险进行EMC仿真评估，并输出解决方案。
+4.	负责项… | 2026-11-09 |
+| Xiaomi | [海外展具标准管理（小米汽车）](https://xiaomi.jobs.f.mioffice.cn/index/position/7706139479363815734/detail) | 1. 展具标准体系制定
+- 制定门店展具标准手册（Display Equipment Standards）：
+  - 展台 / 展车导轨：展车位置、角度、地台材质与灯光
+  - 展架与物料：品牌墙、参… | 2026-11-09 |
+| Xiaomi | [海外商务政策高级经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7704582061390956809/detail) | - 对商政策
+  - 商务政策框架：建立海外经销商商务政策整体框架，涵盖返利、佣金、市场费用支持、专项激励等核心政策要素。
+  - 激励机制设计：设计分区域 / 分国家 / 分车型 / 分阶段的激励规… | 2026-11-09 |
+| Xiaomi | [零售顾问-澎程-西昌](https://xiaomi.jobs.f.mioffice.cn/index/position/7706075133185706249/detail) | 零售顾问招聘
+职位描述
+1. 产品讲解：热情接待进店用户，结合用户场景讲解产品核心价值，激发品牌与产品热情；
+2. 试乘试驾：提供专业试驾服务，解答用车问题，消除购车顾虑；
+3. 用户体验：提升服务满… | 2026-11-09 |
+| Xiaomi | [用户体验专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7706054016157747507/detail) | 1.保障售后服务口碑管控体系指标达成，完成投诉流程在各相关方层面的宣贯和培训；
+2.分析用户声音，定位TOP服务问题，通过各种方式驱动门店闭环，建立落实用户关怀活动流程，组织实施用户服务关怀活动，分析… | 2026-11-09 |
+| Xiaomi | [扫地机项目经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7706130870567127337/detail) | 1. 作为软件项目经理，对扫地机ODM项目软件整体交付负责；
+2. 扫地机ODM 软件项目管理，包括但不限于可行性评估、资源协调、风险评估、需求评审等；
+3. 负责软件需求全生命周期管理：组织需求评审… | 2026-11-09 |
+| Xiaomi | [多媒体性能功耗工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7696329227373185290/detail) | 1、 负责手机/座舱/智驾等芯片媒体性能/功耗分析优化和竞争力达成，竞品的性能功耗分析；
+2、 负责媒体FPGA/EMU 性能/功耗验证工作，与芯片沟通、及时发现并解决相关问题，保证相关性能功耗符合预… | 2026-11-09 |
+| Xiaomi | [区域经营管理高级经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7704581498125912346/detail) | - 目标跟进与复盘
+  - 目标达成跟进：跟踪各区域 / 国家的目标达成情况，建立达成追踪与预警机制，识别缺口区域与风险信号
+  - 组织经营复盘：组织区域经营复盘（周 / 月 / 季度），围绕销售结… | 2026-11-09 |
+| Xiaomi | [小米汽车-试验室运营工程师-试验安全](https://xiaomi.jobs.f.mioffice.cn/index/position/7706002869886929193/detail) | 1.负责试验安全、消防、环保、职业卫生工作，识别试验全过程安全隐患，并推进整改
+2.负责实验室油品间、化学品间、危废间管理
+3.负责实验室特种设备管理
+4.负责新实验室建设/技改期间的设备安调安全管理… | 2026-11-09 |
+| Xiaomi | [海外零售暗访管理（小米汽车）](https://xiaomi.jobs.f.mioffice.cn/index/position/7706140249860196627/detail) | 1. 暗访体系设计
+- 设计暗访脚本（Scenario）：以真实购车客户视角设计任务（进店咨询、看车体验、试驾预约、交付服务、电话 / 线上线索响应）
+- 制定评分维度：接待动线、展厅标准、展车状态、… | 2026-11-09 |
+| Xiaomi | [European Charging & Energy Manager](https://xiaomi.jobs.f.mioffice.cn/index/position/7703856401198582054/detail) | 欧洲充电与能源经理 European Charging & Energy Manager
+工作地点：德国 · 慕尼黑
+岗位职责
+生态合作与商务拓展（核心）：制定欧洲充电与能源合作策略，主动开发并深度经… | 2026-11-09 |
+| Xiaomi | [售后服务经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7705991121218390326/detail) | 1、指标达成：负责菲律宾服务业务整体工作，根据总部及区域年度目标及工作方向拆解制定区域服务业务工作计划和目标并带领团队完成；对国家客户服务满意度相关指标及经营指标达成负责，对网络规划及达成负责；
+2、… | 2026-11-09 |
+| Xiaomi | [交付主管](https://xiaomi.jobs.f.mioffice.cn/index/position/7704622372980902180/detail) | 职位描述：
+1.指导和管理交付接待团队，确保客户到店提车时得到优质服务和超预期的体验；
+2. 负责制定交付接待团队的工作计划和目标，并提升团队成员的工作表现；
+3. 协调和安排客户的交付接待流程，包括… | 2026-11-09 |
+| Xiaomi | [电性能仿真工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7706194470752979251/detail) | 1. 负责整车电性能仿真体系搭建，开展整车高压回路瞬态电特性、整车高低压电平衡、母线电压应力仿真，输出仿真方案、边界约束、风险评估与对标报告。
+2. 搭建整车电性能仿真模型，基于MATLAB/Simu… | 2026-11-09 |
+| Xiaomi | [钣金技师-杭州](https://xiaomi.jobs.f.mioffice.cn/index/position/7706006137015454015/detail) | 1.主要负责修理、更换损坏的钣金零部件，使事故损坏车辆恢复到出厂技术标准；
+2.负责协助保险事故专家/服务专家，完成事故车辆的定损、复勘等工作；
+3.负责事故车辆的机械/电气/钣金件拆解、报价，并根据… | 2026-11-09 |
+| Xiaomi | [底盘系统开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7706004942964672819/detail) | 1. 跟踪线控转向、线控制动、主动悬架/空气悬架、后轮转向、分布式驱动、轮毂电机、滑板底盘、底盘域控、冗余安全等新技术，输出技术调研、可行性分析、技术路线和预研立项建议。
+2. 参与悬架、转向、制动、… | 2026-11-09 |
+| Tencent | [腾讯青腾-课程经理](http://careers.tencent.com/jobdesc.html?postId=2072705154729295872) | 1.课程产品设计
+（1）作为课程经理，主导1-2个学堂/项目的课程体系设计。从学生画像分析、课程目标定义内容模块拆解、学习体验设计、课程开发、现场交付、评估闭环。
+（2）基于企业家群体的真实认知需求，… | 2026-11-09 |
+| Tencent | [《三角洲行动》-客户端开发工程师-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2006301643183902720) | 1.负责以下工作的其中一到多项；
+2.负责UE4射击类游戏玩法框架的架构设计与落地；
+3.负责UE4射击类游戏的核心战斗模块设计与复杂玩法实现；
+4.负责UE4射击类游戏的交互相关功能架构设计与实现。 | 2026-11-09 |
+| Tencent | [《王者荣耀》社区运营](http://careers.tencent.com/jobdesc.html?postId=2085543887782457344) | 1.负责王者荣耀社区内容运营，合理规划社区活动与内容，持续提升社区粉丝规模与互动转化；
+2.捕捉玩家热梗、流行话题与社区热点，联动王者生态资源，策划并产出具有破圈传播力的官方创意内容；
+3.关注社区用… | 2026-11-09 |
+| Tencent | [UE微恐轻动作项目-创新产品运营](http://careers.tencent.com/jobdesc.html?postId=2085621100242448384) | 1.产品分析：分析游戏数据，挖掘玩家需求，优化游戏体验，推动游戏内容迭代和玩法创新；
+2.市场敏锐关注：熟悉当然市场热点，对于乐趣性玩法开发有经验积累和创意想法；
+3.跨界资源整合：拓展并维护合作伙伴… | 2026-11-09 |
+| Tencent | [高性能计算工程师](http://careers.tencent.com/jobdesc.html?postId=2037120831393525760) | 1.超大规模LLM性能工程： 主导并规划千亿参数级大模型的极致性能优化技术路线。负责 PagedAttention、连续批处理等核心调度策略的深度定制与生产级架构设计，负责 vLLM/TensorRT… | 2026-11-09 |
+| Tencent | [腾讯云-海外市场战略与业务运营经理](http://careers.tencent.com/jobdesc.html?postId=2118601119000342528) | 1. 战略规划与市场洞察
+1. 1 负责重点海外区域（亚太、美洲、欧洲、中东、港澳台等）的商业分析与战略研究，参与区域发展策略制定与优化。
+1. 2 跟踪云计算、AI及泛互联网行业趋势，识别生成式AI… | 2026-11-09 |
+| Tencent | [游戏 AI 智能体算法工程师-小游戏/休闲游戏方向](http://careers.tencent.com/jobdesc.html?postId=2091705378583789568) | 1.负责小游戏/休闲游戏场景下 AI Bot / AI 智能体的算法研发，并落地到真实对局；
+2.基于大模型（LLM）、多模态与强化学习技术，研发通用游戏智能体架构，实现拟人化的陪玩机器人、对战对手与… | 2026-11-09 |
+| Tencent | [腾讯安全-高级算法工程师-特征挖掘- for海外](http://careers.tencent.com/jobdesc.html?postId=2053728820720218112) | 1.特征体系建设：负责金融风控场景（反欺诈、信用评估、贷中监控、贷后催收等）下的特征挖掘与特征工程体系搭建，持续沉淀可复用的特征资产；
+2.算法研究与落地：结合图学习、序列建模、迁移学习、小样本学习、… | 2026-11-09 |
+| Tencent | [Senior Strategic Investment Manager - Casual Games Genre](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Senior-Strategic-Investment-Manager---Casual-Games-Genre_R108243) | 团队介绍
+腾讯游戏商务部的主旨是建立腾讯与全球优质厂商的桥梁，服务与全球100+投资伙伴和重要厂商。持续扩大腾讯在全球互联网生态和游戏行业的影响力，利用敏锐的嗅觉捕捉高潜力商业合作机会，并帮助投资伙伴… | 2026-11-09 |
+| Tencent | [腾讯云-AI前线部署工程师-(北京/上海)](http://careers.tencent.com/jobdesc.html?postId=2066401747009712128) | 1.面向头部客户深入业务场景，将需求转化为WorkBuddy/CodeBuddy可落地的AI解决方案，主导落地交付（场景适配、系统集成、效果调优、上线护航）；
+2.基于WorkBuddy的Skills… | 2026-11-09 |
+| Tencent | [开放世界-关卡策划-新星引力计划(上海)](http://careers.tencent.com/jobdesc.html?postId=2092091030630481920) | 1.负责开放世界游戏中大世界及副本关卡的设计，使用3D引擎搭建白模关卡并验证可行性；
+2.建立项目关卡设计开发的规范流程，总结方法论，推进关卡设计的可持续产出；
+3.参与大世界玩法的设计和制作，包括但… | 2026-11-09 |
+| Tencent | [灰境行者-系统策划-商业化方向](http://careers.tencent.com/jobdesc.html?postId=2005299900685897728) | 1.负责游戏商业化系统的整体框架（如商城、通行证、礼包等）、需求撰写、开发跟进和最终交付质量；
+2.负责游戏内各类商业化资产的需求发起与推进落地，并跟踪上线后的数据效果，持续优化迭代商业化内容；
+3.… | 2026-11-09 |
+| Tencent | [企业微信-AI产品经理-智能机器人](http://careers.tencent.com/jobdesc.html?postId=1985253844522782720) | 1. 负责企业微信AI智能机器人相关产品策划工作，具体包括但不限于功能的策略制定、功能设计及推动上线；
+2. 主要负责企业场景下的智能体搭建服务，包括企业应用服务、数据与AI的结合，提供产品解决方案；… | 2026-11-09 |
+| Tencent | [金铲铲之战-APM](http://careers.tencent.com/jobdesc.html?postId=2075752495703044096) | 1.美术生产管理：制定美术生产计划与里程碑，统筹美术 / 策划 / TA / 程序 / 测试多团队协作，搭建质量管理流程，达成高质量交付；
+2.流程治理：主导美术生产流程持续优化，沉淀制作规范、协作流… | 2026-11-09 |
+| Tencent | [混元vlm算法研究员-后训练/基座能力提升方向（深圳/北京/上海）](http://careers.tencent.com/jobdesc.html?postId=2074683054592536576) | 1.主导后训练研发体系：负责多模态大语言模型（VLM）的后训练（Post-training）全流程算法研发，深入探索 SFT 及强化学习对齐算法（如 RLHF、PPO、GRPO 等），持续逼近并提升视… | 2026-11-09 |
+| Tencent | [罗布乐思（Roblox）-商务合作经理](http://careers.tencent.com/jobdesc.html?postId=2005601117710475264) | 1.负责与Roblox的整体沟通对接，建立并维护良好的合作关系，搭建高效健全的沟通窗口及合作机制，确保合作长线顺利进行；
+2.负责合同条款制定、沟通及商务谈判，能够预判合作风险，为谈判决策赋能；
+3.… | 2026-11-09 |
+| Tencent | [腾讯云银行业KA销售](http://careers.tencent.com/jobdesc.html?postId=2029340648095776768) | 1.负责腾讯云计算服务等相关产品在银行行业的销售和BD工作，包括银行业客户的开发与维护及跟进，达成制定的销售指标；
+2.定期拜访银行业客户，积极引导银行客户和挖掘银行客户云需求，制定合理方案，负责方案… | 2026-11-09 |
+| Tencent | [微信小微-大模型算法研究员-Harness合版与记忆方向](http://careers.tencent.com/jobdesc.html?postId=2084242272450424832) | 1.支持微信助手小微的产品需求，负责 Agent Harness 框架的设计与开发，包括 Agent 调度、任务编排与执行上下文管理； 2.负责业务后训练的合版工作，如数据合版、OPD合版等；3.负责… | 2026-11-09 |
+| Tencent | [知名IP游戏-产品运营经理](http://careers.tencent.com/jobdesc.html?postId=1950922075602526208) | 1.全面统筹产品运营工作，制定并推动实施产品运营策略，保障项目稳定运营与持续增长；
+2.协同内部各支持部门，确保各平台与游戏业务高效、顺畅对接，提升协作效率；
+3.深度分析用户反馈与运营数据，和研发团… | 2026-11-09 |
+| Tencent | [QQ 经典农场-客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=2054924143715074048) | 1.负责游戏日常系统运营等模块的开发与维护；
+2.负责相关工具链的开发与维护；
+3.负责分析、定位、解决项目的疑难问题，以及对体验和性能方面的调优。 | 2026-11-09 |
+| Tencent | [supercell游戏《部落冲突》-资深数值策划](http://careers.tencent.com/jobdesc.html?postId=2087091672277233664) | 1.负责游戏中的战斗数值内容设计，包括但不限于英雄数值平衡设计和关卡难度数值；
+2.负责游戏中的经济数值内容设计，包括但不限于养成数值与投放数值。 | 2026-11-09 |
+| Tencent | [微信安全-风控算法工程师](http://careers.tencent.com/jobdesc.html?postId=2076490658000060416) | 1.识别和挖掘微信业务内的风险，制定安全风控策略与解决方案，保证微信生态用户的账号和支付安全；
+2.完善微信安全风控体系的建设，包括但不限于RAG等知识库的构建、基于大模型和Agent的应用、风险团伙… | 2026-11-09 |
+| Tencent | [《王者荣耀世界》资深战斗策划(角色向)](http://careers.tencent.com/jobdesc.html?postId=1968170095121424384) | 1.负责游戏内战斗系统的设计与优化，包括但不限于核心角色战斗设计，战斗机制、表现优化等；
+2.能够与系统、数值、怪物、副本等各模块同学沟通合作，对接需求设计、落地与优化，并为最终体验负责；
+3.能深入… | 2026-11-09 |
+| Tencent | [企业微信-产品经理-生态合作](http://careers.tencent.com/jobdesc.html?postId=1996181132168814592) | 1.负责企业微信第三方合作伙伴生态的相关开放平台产品策划工作；
+2.负责建设企业微信开放平台，接入外部合作伙伴的产品及服务，并提供平台工具支撑。包括策略制定、功能设计及推动上线等；
+3.能够理解工作场… | 2026-11-09 |
