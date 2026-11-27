@@ -1,127 +1,131 @@
 # Latest Jobs
 
-_Last updated: 2026-11-26_
+_Last updated: 2026-11-27_
 
-**Total jobs:** 3453 • **Companies:** 89 • **Top tag:** Others
+**Total jobs:** 2860 • **Companies:** 87 • **Top tag:** Others
 
 > Full interactive list is available at **https://eaziym.github.io/sg-jobs/**
 
 ### Preview (first 50)
 | Company | Title | Meta | Date |
 |---|---|---|---|
-| Xiaomi | [品牌公关（技术传播）](https://xiaomi.jobs.f.mioffice.cn/index/position/7712316596061489449/detail) | 1、协同技术委、市场MO等团队，参与制定技术传播年度叙事主线、认知目标及中长期传播规划。
-2、围绕关键科技创新及重要技术宣发事件，参与制定传播策略与方案，推动方案落地，持续传递硬核技术实力。
-3、围绕… | 2026-11-26 |
-| Xiaomi | [AI Integration Engineer（Vehicle Engineering）](https://xiaomi.jobs.f.mioffice.cn/index/position/7712400708537305371/detail) | About the Role
-We are looking for an AI Integration Engineer to bridge the gap between AI technologi… | 2026-11-26 |
-| Xiaomi | [小米汽车-数据运营专家-线上服务部](https://xiaomi.jobs.f.mioffice.cn/index/position/7712372194715011371/detail) | 1、规模与结构分析：搭建线上服务指标体系（服务量、解决率、转人工率、自助率、SLA、满意度等），拆解服务量驱动因素，搭建预测模型；分析渠道结构是否健康，输出日/周/月经营分析与专项洞察。
-2、成本与人… | 2026-11-26 |
-| UOB | [First Vice President, Transaction Banking - Trade Product](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/Senior-Vice-President--Trasancation-Banking---Trade-Product_JR85273) |  | 2026-11-26 |
-| UOB | [GenAI and Data Analytics Intern (Mar - July 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102290) |  | 2026-11-26 |
-| UOB | [VP, Commercial Banking - Corp. Wealth Management](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Hong-Kong-City-Area/VP--Commercial-Banking---Corp-Wealth-Management_JR102273) |  | 2026-11-26 |
-| UOB | [GenAI and Data Analytics Intern (Mar - July 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293) |  | 2026-11-26 |
-| UOB | [VP1 Application Vulnerability Management Lead - Core Banking, GBT](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/VP1-Application-Vulnerability-Management-Lead---Core-Banking--GBT_JR102140) |  | 2026-11-26 |
-| UOB | [GenAI and Data Analytics Intern (Jan - Dec 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR102292) |  | 2026-11-26 |
-| UOB | [GenAI and Data Analytics Intern (Mar - July 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102289) |  | 2026-11-26 |
-| UOB | [GenAI and Data Analytics Intern (Mar - July 2027)](https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/details/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102279-1) |  | 2026-11-26 |
-| Tencent | [Senior Product Manager, Big Data & AI (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Product-Manager--Big-Data---AI--Singapore-_R108422) | Business Unit
-Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-26 |
-| Tencent | [Tencent Cloud – Senior Solution Architect, Big Data & AI (Singapore)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Solution-Architect--Big-Data---AI--Singapore-_R108420) | Business Unit
-Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-26 |
-| Tencent | [腾讯游戏-营销策划经理](http://careers.tencent.com/jobdesc.html?postId=2091551219238744064) | 1.策划并执行针对腾讯互娱旗下游戏业务的场景营销规划及对应项目；
-2.分析市场数据，洞察用户需求，为业务的营销诉求提供精准的策略和解决方案；
-3.整合并利用全国地域特色资源，策划并执行具有广泛影响力的… | 2026-11-26 |
-| Tencent | [图形引擎高级工程师](http://careers.tencent.com/jobdesc.html?postId=2112811647805599744) | 1.改造和定制化虚幻引擎的底层渲染管线，基于GPU Driven实现大世界级别的二次元城市化场景；
-2.与TA和美术团队紧密合作实现二次元角色的各种渲染效果和表现；
-3.把各渲染特性以及功能适配移动端… | 2026-11-26 |
-| Tencent | [腾讯云汽车行业销售经理 -科技类](http://careers.tencent.com/jobdesc.html?postId=2125875603549892608) | 1.负责汽车行业科技公司的业务拓展，深度挖掘并满足其在研发、生产等全生命周期的云和ai的需求；
-2.针对客户需求，主导输出包括但不限于 GPU 智算、容器、数据库、大数据、安全及 CDN 等腾讯云全线… | 2026-11-26 |
-| Tencent | [企业微信-后台高级开发工程师-（成都）](http://careers.tencent.com/jobdesc.html?postId=2093322000989859840) | 1.负责企业微信后台核心模块的架构设计与开发，保障系统在海量用户、高并发场景下的稳定性与高性能；
-2.负责分布式系统的容灾设计、性能调优与技术演进，持续提升系统可用性与扩展性；
-3.参与后台基础设施与… | 2026-11-26 |
-| Tencent | [微信小游戏-应用开发工程师](http://careers.tencent.com/jobdesc.html?postId=2069700754796621824) | 1.负责微信小游戏开放能力建设和维护；
-2.负责小游戏调试和性能优化等工具建设，帮助开发者提升开发和调优效率。 | 2026-11-26 |
-| Tencent | [微信小程序-AI Agent 开发工程师-小工具](http://careers.tencent.com/jobdesc.html?postId=2082710402210381824) | 1.负责Agent开发框架的设计与实现，构建支持Multi-Agent的分布式架构，提供高效、可扩展的框架支撑小工具线上业务以及算法模型训练；
-2.负责小工具业务以及模型训练的沙箱环境、云环境、消息链… | 2026-11-26 |
-| Tencent | [在研ue5二次元产品-3D角色模型师-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2095861232501440512) | 1.根据项目风格及需求设定，制作3D角色、服装饰品、道具等；
-2.熟悉PBR资产制作流程，擅长唯美、精致、细腻的风格作品；
-3.跟进外包的制作，对品质和流程提出反馈意见。 | 2026-11-26 |
-| Tencent | [腾讯AI协作工具-全栈开发工程师（编辑器）](http://careers.tencent.com/jobdesc.html?postId=2109982523646980096) | 1.参与腾讯文档各品类核心引擎研发，包括编辑、排版、计算、渲染、交互及协同等能力；
-2.负责 Office OOXML、PDF 等文档格式的解析、生成、转换及高保真兼容；
-3.参与前端引擎、Node.… | 2026-11-26 |
-| Tencent | [腾讯金融科技-金融业务增长渠道经理（广告投放方向）](http://careers.tencent.com/jobdesc.html?postId=2123246034812583936) | 1.负责腾讯金融科技的金融产品（基金、证券等赛道）站外投放获客，营销方式以效果广告为主，核心渠道以巨量引擎、应用市场、腾讯广告等为主；
-2.结合产品目标、业务节奏和增长需求，制定投放策略、渠道预算规划… | 2026-11-26 |
-| Tencent | [《火影忍者》手游-资深系统策划(深圳)](http://careers.tencent.com/jobdesc.html?postId=2059112534874701824) | 1.负责火影手游的游戏系统设计工作, 参与系统框架设计，包括不限于养成系统, 玩法系统, 系统大模块(如公会系统), 活动等；
-2.负责火影手游运营节点规划，并制定节点内容及活动的安排与设计；
-3.对… | 2026-11-26 |
-| Tencent | [腾讯AI网盘全栈开发高级工程师](http://careers.tencent.com/jobdesc.html?postId=2112898585224982528) | 1.负责腾讯AI网盘核心产品 Web 端及桌面客户端（Windows / Mac）的研发与迭代，包括文件管理、分享协作、搜索预览等核心功能，保障多端功能一致性与极致用户体验；
-2.借助 AI 辅助编程… | 2026-11-26 |
-| Tencent | [高级关卡策划](http://careers.tencent.com/jobdesc.html?postId=2067084736693710848) | 1.负责游戏项目内PVE、PVP等关卡的设计和制作；
-2.负责游戏关卡内容上的元素设计，包括情景氛围塑造，玩法原型创造以逻辑制作实现和成品把控；
-3.对关卡最终体验负责，关卡需满足设计目的和定位要求，… | 2026-11-26 |
-| Tencent | [特效美术-休闲游戏方向](http://careers.tencent.com/jobdesc.html?postId=2114977149374083072) | 1.负责游戏项目中的全流程特效制作相关工作，以 Unity 为核心技术栈，参与项目从美术资产制作、效果实现到最终引擎落地的完整特效流程；
-2.熟悉游戏内角色技能，战斗表现，场景，UI及各类特效的表现制… | 2026-11-26 |
-| Tencent | [在研UE5项目-资深数值策划](http://careers.tencent.com/jobdesc.html?postId=2097517479420149760) | 1.负责游戏核心数值体系的设计、搭建与优化迭代，包括战斗、成长、资源投放与消耗、经济循环等模块的设计；
-2.搭建数值模型，对战斗数值、资源产出与消耗等核心数值进行演算、验证与调优；
-3.分析游戏数据，… | 2026-11-26 |
-| Tencent | [《三角洲行动》-游戏测试工程师](http://careers.tencent.com/jobdesc.html?postId=2104502491390590976) | 1.负责移动/PC/主机的游戏核心模块质量，专注提高版本质量和测试效率；
-2.分析测试数据，识别质量风险，优化测试策略和流程。推动测试工具和方法创新，提高测试效率和质量；
-3.统筹子公司及外包团队测试… | 2026-11-26 |
-| Tencent | [在研ue5二次元产品-UE灯光渲染-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2095861241372393472) | 1.根据概念草图氛围和colorkey示意图，在UE5引擎内给角色场景布置灯光；
-2.对CG影片的分镜剧情充分理解，制作画面的灯光与渲染效果，准确传达剧情的意境和情感；
-3.参与UE5离线CG影视全流… | 2026-11-26 |
-| Tencent | [和平精英-资深游戏动画师（商业化）](http://careers.tencent.com/jobdesc.html?postId=2082057987152855040) | 1.负责商业化动画创意主导，把控整体氛围与视觉表现，贯穿从概念到落地的全链条；
-2.独立完成动作设计与动捕精修，适配多动画风格；
-3.与团队内部各环节（策划、原画、特效、场景等）高效沟通协作；
-4.对… | 2026-11-26 |
-| Tencent | [跨境支付-合规运营经理](http://careers.tencent.com/jobdesc.html?postId=2092461288113487872) | 1.根据支付监管的法律法规及最新发文，理解监管合规需求和政策导向，从业务角度提出或评估解决方案，联合相关团队推进跨境业务合规落地；
-2.对接PA、法务等职能团队，开展业务风险治理，推进缺陷整改落实到位… | 2026-11-26 |
-| Tencent | [和平精英-内容直播生态运营-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2067084539649503232) | 1.运营短视频 + 直播生态，包括整体策略规划、资源管理、创作者 / 主播扶持政策制定及落地执行；
-2.根据产品特性、用户喜好、内容 / 直播平台特性及行业趋势，联动 MCN、KOL、主播机构等合作方… | 2026-11-26 |
-| Tencent | [在研ue5产品-2D角色原画](http://careers.tencent.com/jobdesc.html?postId=2097517439729451008) | 1.负责UE5写实项目的2D角色原画设计工作，包括主角、怪物、NPC等各类角色的概念设计与细节绘制；
-2.根据项目需求，独立完成角色设定图的创作，确保角色风格与项目整体美术风格高度统一；
-3.与策划、… | 2026-11-26 |
-| Tencent | [腾讯金融科技-金融业务增长渠道经理（内容获客方向）](http://careers.tencent.com/jobdesc.html?postId=2123245974045507584) | 1.负责腾讯金融科技的金融产品（基金、证券等赛道）站外投放获客，营销方式以内容种草营销 + 投流为主，核心渠道以内容社区、短视频平台等主流内容阵地等为主；
-2.结合产品目标、业务节奏和增长需求，制定种… | 2026-11-26 |
-| Tencent | [海外IDC资源管理经理](http://careers.tencent.com/jobdesc.html?postId=2096862855369506816) | 1.基于公司IDC资源3-5年战略规划，制定并执行中长期IDC建设与布局方案，确保资源供给匹配全球业务扩张和技术升级需求；
-2.深度分析业务增长趋势，协同产品、运维、供应链团队精准测算IDC资源需求，… | 2026-11-26 |
-| Tencent | [Tencent Cloud-Senior Strategic Sales Executive](http://careers.tencent.com/jobdesc.html?postId=2125788985774223360) | 1. Develop and execute business strategies to drive revenue growth and market share for Tencent Clou… | 2026-11-26 |
-| Tencent | [UE微恐轻动作项目-资深关卡策划(PVEVP方向)](http://careers.tencent.com/jobdesc.html?postId=2093201132028604416) | 1.负责微恐轻动作PVEVP大地图的关卡设计、节奏规划与体验交付；
-2.主导地图分区、资源点位、AI压力、出入口动线、撤离点与对抗节奏的整体设计；
-3.持续对局内数据、热力图、对抗频率、撤离成功率等数… | 2026-11-26 |
-| Tencent | [在研UE5产品-UE5高级特效设计师（写实）](http://careers.tencent.com/jobdesc.html?postId=2097517531580510208) | 1.负责 UE5 引擎内特效制作，涵盖战斗、场景类特效，贴合写实风格；
-2.配合策划、美术团队，精准落地特效创意，优化特效表现与性能平衡；
-3.参与特效资源整理与规范制定，提升团队制作效率。 | 2026-11-26 |
-| Tencent | [腾讯游戏-高级产品经理-多模态大模型策略产品](http://careers.tencent.com/jobdesc.html?postId=2122610663548436480) | 1.负责深度参与大模型前沿方向的数据工作，重点负责视频生成模型的数据标注与管理、模型效果评估；
-2.负责建设视频生成大模型的数据生产和质量提升流程，沉淀并建设起行业领先的数据生产标准；
-3.负责建立科… | 2026-11-26 |
-| Tencent | [AI协作工具产品客户端研发高级工程师岗位](http://careers.tencent.com/jobdesc.html?postId=2109972727027904512) | 1.负责腾讯AI网盘跨平台核心产品跨平台核心产品功能的全链路研发与迭代，保障 Web 端、桌面客户端（Windows/Mac）的功能一致性与极致用户体验；
-2.负责腾讯AI网盘跨平台核心产品智能化场景… | 2026-11-26 |
-| Tencent | [灰境行者-UE5手游引擎开发工程师-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=2082308285108764672) | 1.负责以下工作的其中一到多项；
-2.负责引擎GPU、CPU、内存等性能分析和优化工作；
-3.负责图形兼容性分析以及疑难问题的分析定位工作；
-4.负责游戏中高级渲染特性开发，增强游戏表现力。 | 2026-11-26 |
-| Tencent | [游戏研发产品项目经理](http://careers.tencent.com/jobdesc.html?postId=2082422560569602048) | 1.负责项目资源的协调与组织，确保项目团队各干系人协同工作；
-2.挖掘整理内外部的产品需求，应用至内部产品；
-3.负责项目计划的制定、跟踪和维护，确保项目按计划完成；
-4.负责组织项目各项评审会议及项… | 2026-11-26 |
-| Tencent | [腾讯乐享-高级产品策划](http://careers.tencent.com/jobdesc.html?postId=2093209833951117312) | 1.负责乐享知识库 AI 核心能力的规划，将 AI 前沿技术与知识、办公协同场景深度融合，打造行业领先的 AI 原生企业服务产品；
-2.深度挖掘目标客户在agentic知识库方面的核心需求，紧密追踪 … | 2026-11-26 |
-| Tencent | [开放世界-游戏服务端开发工程师-战斗方向(上海)](http://careers.tencent.com/jobdesc.html?postId=2098260400775806976) | 1.业务系统开发：负责UE引擎中战斗系统的开发与迭代，确保战斗系统稳定性与可维护性；
-2.基建系统建设：参与基础架构系统的设计与实现，优化开发流程和运行效率；
-3.工作协同：协同策划、美术、客户端、服… | 2026-11-26 |
-| Tencent | [天涯明月刀-高级动画设计师](http://careers.tencent.com/jobdesc.html?postId=2120464123002269696) | 1.负责《天涯明月刀》端游及手游中角色3C（走、跑、跳、转向）与战斗动作的整体设计与高质量制作；
-2.负责怪物、NPC以及场景交互动画的创意设计与落地制作，提升世界沉浸感；
-3.参与动捕拍摄现场的表演… | 2026-11-26 |
-| Tencent | [金融云保险行业架构师](http://careers.tencent.com/jobdesc.html?postId=2093333361018978304) | 1.作为金融云保险行业售前架构师，负责保险行业客户上云项目售前拓展支持，并深耕保险行业客户，输出保险行业解决方案和拓展腾讯云保险科技创新案例；
-2.日常工作包括解决方案宣讲、方案架构规划设计、重点大客… | 2026-11-26 |
-| Tencent | [魔方工作室-《暗区突围》手游渲染向TA](http://careers.tencent.com/jobdesc.html?postId=2005525670314266624) | 1.设计并编写高质量的游戏Shader，提升游戏画面效果；
-2.为场景和角色美术搭建Lookdev环境，确保美术资产在各种光照条件下的表现一致性；
-3.与图形开发团队紧密协作，实现渲染特性，并推动其在… | 2026-11-26 |
-| Tencent | [《灰境行者》-社区内容策划](http://careers.tencent.com/jobdesc.html?postId=2114611533328859136) | 1.社区玩家洞察与内容爆款产出：对玩家文化与核心诉求有深刻了解，能结合平台网感策划高传播性社区内容与互动活动，有效提升用户参与感与社区活跃度，传递产品特色和卖点；
-2.营销内容策划：基于产品营销节点，… | 2026-11-26 |
-| Tencent | [在研ue5产品-3D角色设计师](http://careers.tencent.com/jobdesc.html?postId=2097517574576324608) | 1.负责 UE5 项目写实角色 / 生物全流程制作：高模雕刻、拓扑、UV、烘焙、PBR 材质，输出引擎可用资源；
-2.根据原画还原角色造型与质感，做引擎内资源调试，兼顾美术效果与性能；
-3.配合动画、… | 2026-11-26 |
-| Tencent | [腾讯云-大数据高级交付工程师-海外方向](http://careers.tencent.com/jobdesc.html?postId=2084184535066656768) | 1.负责海外客户大数据相关产品的 POC 全流程工作，包括方案设计、方案实施、产品答疑及性能调优等；
-2.负责海外客户大数据相关产品的整体迁移上云方案设计与实施，解决迁移过程中的技术疑难问题，确保客户… | 2026-11-26 |
+| Xiaomi | [小米汽车-零售顾问-南京江宁景枫](https://xiaomi.jobs.f.mioffice.cn/index/position/7696348662725511443/detail) | 职位描述:
+1.产品讲解:
+用最热情的方式接待所有进店用户,提供专业的产品讲解,结合用户情况与使用场
+景,使用户理解产品的核心价值,激发用户对于品牌与产品的热情;
+2.试乘试驾:为顾客提供专业的试乘试… | 2026-11-27 |
+| Xiaomi | [小米汽车-服务质量专员（AI质检方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7712674198258731283/detail) | 1. AI质检指令撰写与维护：根据业务质检标准，撰写、梳理并维护AI质检规则与检测指令，确保规则覆盖业务场景、表述清晰无歧义，可被系统准确执行。
+2. 质检策略调优：基于复检结果与badcase分析，… | 2026-11-27 |
+| Xiaomi | [手机GTM](https://xiaomi.jobs.f.mioffice.cn/index/position/7712607959466428682/detail) | 1.负责秘鲁手机GTM工作，负责1-2个产品系列GTM上市工作
+2.产品策略制定（定位、定价、渠道、版本等）及分货方案制定和执行
+3.产品上市项目管理及生命周期管理（调价、收尾、备货）
+4.市场（大盘… | 2026-11-27 |
+| Xiaomi | [隐私合规专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7712444567006595391/detail) | 1、法规跟踪与政策研判：跟踪全球多法域隐私、数据、AI 监管动态，输出合规指引与风险预警，支撑出海业务决策。
+2、中台体系与流程建设：参与搭建中台隐私合规制度与模板库，推动合规前置嵌入产品流程，沉淀合… | 2026-11-27 |
+| Xiaomi | [财务运营（账务方向）](https://xiaomi.jobs.f.mioffice.cn/index/position/7694588306642061619/detail) | 1. 复杂业务核算方案输出：针对出海、本地化等集团新业务模式，输出会计核算方案，明确收入确认、成本归集、费用分摊、外币折算等关键核算规则，并推动系统化落地
+2. 准则研究及适配：熟悉IFRS/CAS，… | 2026-11-27 |
+| Xiaomi | [手机相机产品经理-硬件](https://xiaomi.jobs.f.mioffice.cn/index/position/7712767904769280307/detail) | 工作职责：
+1 负责相机产品线的未来发展规划。
+2 负责相机硬件传感器等核心器件选型。
+3 负责相机卖点设计、画质定义及效果把控。
+4 负责用户画像分析、用户调研、市场反馈追踪、舆情追踪。
+岗位要求：… | 2026-11-27 |
+| Xiaomi | [新业务部-无线通信物理层软件工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7712431713939147034/detail) | 1) 从事无线通信系统中物理层软件的设计、开发、调试等工作；
+2) 负责物理层协议解读与处理，物理层时序规划与控制，与上层协议接口等相关软件研发；
+3) 负责物理层信道编解码，信道估计，调制解调软件开… | 2026-11-27 |
+| Xiaomi | [智能座舱多模态大模型研究员(资深专家)](https://xiaomi.jobs.f.mioffice.cn/index/position/7712303180348246298/detail) | 【职位描述】
+以多模态大模型为人-车-家体验变革的核心引擎，作为多模态大模型领域公认的资深专家，引领智能座舱在多模态感知、认知与交互上的根本性创新。负责从零到一构建车载多模态认知中枢，并将其转化为能够… | 2026-11-27 |
+| Xiaomi | [智能体算法工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7706003409564469523/detail) | 1、洞察 Camera 算法、AI 算法及大模型智能体的技术趋势，围绕相机业务所需技术持续创新突破。
+2、负责大模型智能体在 ISP 链路上的应用研究：让智能体理解拍摄场景与画质问题，自主调用或调度 … | 2026-11-27 |
+| Xiaomi | [非洲地区部-市场部整合营销经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7711315245537249574/detail) | 岗位职责
+1. 区域营销策略与规划
+- 根据非洲区域业务目标，制定年度及季度整合营销规划，明确重点市场、产品策略、营销方向及核心 KPI。
+- 结合各国市场特点及竞争格局，制定差异化营销策略，推动 X… | 2026-11-27 |
+| Xiaomi | [南亚区域财经负责人](https://xiaomi.jobs.f.mioffice.cn/index/position/7712911097699649819/detail) | 1. 区域经营损益管理
+全面负责区域 P&L 管理，主导收入、毛利、费用、净利的预算制定、月度滚测与预实差异分析，保障区域经营目标达成
+统筹区域月度 MBR/经营分析，输出经营洞察与决策建议，支撑区域… | 2026-11-27 |
+| Xiaomi | [产品合规律师](https://xiaomi.jobs.f.mioffice.cn/index/position/7712444256610961705/detail) | 1、法规解读导入：跟踪欧盟及全球产品合规立法，判定适用范围、拆解条款并输出判断口径与操作指引，推动法规要求落到产品与流程。
+2、上市合规把关：评估出海产品合规风险，明确能否销售、以何种法律身份销售及上… | 2026-11-27 |
+| Tencent | [Tencent Cloud - Edge Platform Product Solutions Architecture Intern - Singapore 108436](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Edge-Platform-Product-Solutions-Architecture-Intern---Singapore_R108436) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-27 |
+| Tencent | [Senior R&D Engineer, DataBuddy](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-R-D-Engineer--DataBuddy_R108432) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-27 |
+| Tencent | [Senior Migration Architect, Big Data & AI](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Migration-Architect--Big-Data---AI_R108425-1) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-27 |
+| Tencent | [Senior Technical Product Manager, Big Data & AI](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Technical-Product-Manager--Big-Data---AI_R108428) | Business Unit
+Cloud & Smart Industries Group (CSIG) is responsible for promoting the company's cloud… | 2026-11-27 |
+| Tencent | [微信搜索-大模型算法工程师-搜索 Planner 方向](http://careers.tencent.com/jobdesc.html?postId=2091832458562682880) | 1.负责搜索 Planner 的算法设计与研发，基于大模型构建 query 理解与改写系统，覆盖纠错、归一化、意图补全、语义扩展等场景；
+2.设计并构建 SFT / RLHF / DPO 训练数据 p… | 2026-11-27 |
+| Tencent | [混元Agentic Vision算法研究员（北京/上海）(深圳)](http://careers.tencent.com/jobdesc.html?postId=2092149663925977088) | 1.主导 Visual2Code 能力建设：负责多模态大语言模型在 Visual2Code 方向的核心算法研发，围绕“视觉输入—代码理解—代码生成—执行验证”完整链路，持续提升模型从界面、图表、文档、… | 2026-11-27 |
+| Tencent | [企业微信-AI全栈研发工程师-协作办公](http://careers.tencent.com/jobdesc.html?postId=2071430928898637824) | 1.核心产品研发：负责企业微信生态内在线文档（表格 文档 智能表格 / 智能文档）核心模块的架构设计与研发，覆盖前端渲染、后端服务或算法能力等关键链路；
+2.协同与体验优化：深度参与文档实时协同编辑、… | 2026-11-27 |
+| Tencent | [WeTalk-大模型应用研发工程师-（Agent Harness）](http://careers.tencent.com/jobdesc.html?postId=1934984932162117632) | 1.负责 WeTalk Agent Harness 的设计与开发，包括 Agent Loop、编排和运行环境等核心能力；
+2.建设 Context Engineering 能力，包括上下文压缩、Ski… | 2026-11-27 |
+| Tencent | [魔方工作室-游戏音频策划-音效方向](http://careers.tencent.com/jobdesc.html?postId=2102339362867036160) | 1.负责包括但不限于游戏音效、背景音乐及配音等工作；
+2.负责产品音乐，音效，语音全流程工作，在完成需求的基础上不断完善和提升体验，对游戏音乐音效语音进行整体质量把控；
+3.确保负责产品的声音需求，从… | 2026-11-27 |
+| Tencent | [微信小店-产品策划-推荐方向](http://careers.tencent.com/jobdesc.html?postId=1936828021029838848) | 1.负责电商推荐工作，对用户需求进行挖掘和抽象、输出方案和策略、有效提升用户体验和效率；
+2.对微信内商业场景进行深入洞察，基于平台价值观和目标、提出有效策略促进生态中不同角色共同良性发展。 | 2026-11-27 |
+| Tencent | [混元文本/多模态预训练框架研发工程师（深圳/北京/上海/杭州）](http://careers.tencent.com/jobdesc.html?postId=1958073219999223808) | 1.参与开发优化大模型训练框架，支持单任务万卡以上规模高效稳定训练；
+2.参与NLP、多模态大模型结构设计，并联合业务进行模型训练效率和效果验证；
+3.参与文生图、文生视频、文生3D等业务的训练性能加… | 2026-11-27 |
+| Tencent | [腾讯营销-投放 Agent 产品专家-北京/深圳](http://careers.tencent.com/jobdesc.html?postId=2082682598882193408) | 1.负责腾讯营销广告投放 Agent 产品能力建设，围绕广告投放全场景规划并推进投放分析、素材洞察、策略建议、任务执行等能力，持续提升广告主投放效率与使用体验；
+2.深入理解广告投放业务与客户需求，通… | 2026-11-27 |
+| Tencent | [微信小程序-大模型infra工程师-Coding方向](http://careers.tencent.com/jobdesc.html?postId=2082710399224033280) | 1.负责分布式训练基础设施的建设、优化与维护，优化训练过程中的显存管理、计算资源调度与分布式通信效率，提升训练速度与资源利用率，支撑算法研发与模型训练；
+2.负责微信小程序 Coding Agent … | 2026-11-27 |
+| Tencent | [腾讯混元-混元多模态数据产品（北京/上海）](http://careers.tencent.com/jobdesc.html?postId=2104523249634426880) | 1.岗位职责；
+2.数据规划：负责图像/视频模型预训练、后训练的数据建设，与算法团队协同制定数据标准、生产方案及交付计划；
+3.数据寻源：拓展公开数据集、授权内容、定向采集及合成数据等来源，综合评估质… | 2026-11-27 |
+| Tencent | [腾讯云国际-渠道增长商务经理](http://careers.tencent.com/jobdesc.html?postId=2048750345412308992) | 1. 负责腾讯云国际市场渠道生态的拓展与增长，聚焦AI大模型（LLM）、生成式AI、AI算力、MaaS等赛道，完成所分配的渠道销售目标
+2. 与重点渠道伙伴对齐战略与销售目标，制定AI产品渠道增长方案… | 2026-11-27 |
+| Tencent | [Workbuddy-Agent 安全产品经理](http://careers.tencent.com/jobdesc.html?postId=2123589031064416256) | 1.负责 Workbuddy安全产品规划、能力建设、跟进相关需求和跨团队合作；
+2.跟踪 Agent 安全前沿技术，围绕Agent安全定产品策略推进合作；
+3.主导产品全生命周期管理：需求、方案、原型… | 2026-11-27 |
+| Tencent | [腾讯游戏-AI方向资深商业分析师](http://careers.tencent.com/jobdesc.html?postId=2071425534142885888) | 1.关注AI大模型等领域的最新动态、前沿技术突破和应用趋势，能够快速响应并及时整理和输出有价值观点；
+2.参与AI产品（AI图像/视频/3D/动画生成等）和游戏AI功能的深度测评，对技术架构、产品设计… | 2026-11-27 |
+| Tencent | [微信小程序-AI产品策划-小工具方向](http://careers.tencent.com/jobdesc.html?postId=2101537293146959872) | 1.产品策划与功能设计：参与小工具产品的功能设计，结合需求场景和数据分析持续优化产品体验；
+2.模型与 Agent 能力设计：围绕具体业务场景参与大模型链路、规则流程及 Agent 编排设计，与算法团… | 2026-11-27 |
+| Tencent | [企业微信-AI应用后台开发工程师-业务挖掘和应用（成都/北京）](http://careers.tencent.com/jobdesc.html?postId=2026648959719735296) | 1.负责企业业务知识的挖掘与构建，包括NLP信息抽取、业务流程建模、知识图谱构建与应用方案的设计与工程实现；
+2.基于业务挖掘能力构建智能化应用，结合大模型提升企业用户的业务效率与体验；
+3.协助业务… | 2026-11-27 |
+| Tencent | [微信小程序-大模型算法工程师-Coding方向](http://careers.tencent.com/jobdesc.html?postId=2082710394723545088) | 1.负责小程序代码大模型后训练工作，包括高质量训练数据合成与价值分析、SFT /RLVR 等训练方案设计落地，以及训练效果评估；
+2.建设代码任务验证与奖励信号体系，综合运用多种验证策略，持续建模和校… | 2026-11-27 |
+| Tencent | [网络运营工程师](http://careers.tencent.com/jobdesc.html?postId=2099135598198697984) | 1.负责腾讯基础架构网络日常运营工作，包括用户报障、应急响应、突发故障处理，保障公司基础网络稳定运营；
+2.负责腾讯基础架构网络告警监控管理，制定并优化告警监控策略，使用自动化手段落地，实时监控网络运… | 2026-11-27 |
+| Tencent | [微信开放平台-大模型安全算法工程师](http://careers.tencent.com/jobdesc.html?postId=2082710392638976000) | 1.利用前沿大模型算法技术，参与解决微信公众号、小程序及开放平台运营相关问题；
+2.处理海量文本、图像及行为数据，构建用户、内容和场景画像，通过大模型、多模态及多模型融合技术提升下游运营业务效率；
+3… | 2026-11-27 |
+| Tencent | [AI研效高级工程师](http://careers.tencent.com/jobdesc.html?postId=2109482480603148288) | 1.负责研效领域 AI Agent 产品的能力规划、迭代和落地；
+2.通过提示词工程、知识库、Memory 和 Tools 等技术构建 Agent 能力实现业务提质增效；
+3.构建 AI Agent … | 2026-11-27 |
+| Tencent | [微信小店-产品运营-商品基建（价格方向）](http://careers.tencent.com/jobdesc.html?postId=2092871828937814016) | 1.负责微信小店商品库的完善，优化标品/同款商品的识别策略；
+2.负责商品比价策略的优化，为比价结果的合理性、可用性负责；
+3.与搜索、推荐、治理等业务团队紧密合作，推动商品库相关能力的业务应用。 | 2026-11-27 |
+| Tencent | [企业微信-AI产品经理-效率办公 AI](http://careers.tencent.com/jobdesc.html?postId=2038501839850336256) | 1.负责企业微信文档、智能表格 AI 能力的策划与定义，包括需求调研、产品设计、效果评测及上线推动；
+2.深入理解文档创作、表格处理、数据分析、业务协作中的真实需求，持续打磨产品体验；
+3.探索 AI… | 2026-11-27 |
+| Tencent | [腾讯云-存储多模态数据高级研发工程师](http://careers.tencent.com/jobdesc.html?postId=2126214672582623232) | 1.负责腾讯云对象存储 COS 之上的多模态数据基础能力建设，围绕元数据、索引、向量、版本、生命周期与查询规划等方向，构建高性能、可治理、可复用的 AI 数据底座；
+2.搭建Data-Centric多… | 2026-11-27 |
+| Tencent | [WorkBuddy-Agent Harness策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2123589033367093248) | 1.负责 WorkBuddy Harness 的智能体策略优化，围绕用户场景、上下文流转和任务执行，设计并持续完善 Agent 策略体系；
+2.独立拆解复杂的智能体应用场景，提出原创性的产品与策略思路… | 2026-11-27 |
+| Tencent | [UE微恐轻动作项目-资深玩法开发工程师](http://careers.tencent.com/jobdesc.html?postId=2082098244657262592) | 1.负责玩法三大模块：战斗、怪物、关卡的系统设计与落地；
+2.参与战斗数值调试、怪物属性配置及关卡触发机制迭代，保障体验流畅；
+3.协助美术/策划建立高效的游戏内容制作流程, 完善并持续优化工具链。 | 2026-11-27 |
+| Tencent | [腾讯云-安全策略工程师-反入侵方向](http://careers.tencent.com/jobdesc.html?postId=2082417763518955520) | 1.针对安全风险事件的发现、跟踪、分析和协调处理，安全事件应急响应，同时能对安全事件进行影响范围评定、利用复杂度分析等；
+2.反入侵策略的建设与运营，通过大数据分析和挖掘发现腾讯云平台中出现的各种恶意… | 2026-11-27 |
+| Tencent | [微信-多模态大模型算法工程师-OCR与文档理解方向（北京）](http://careers.tencent.com/jobdesc.html?postId=2034237425647255552) | 负责微信在OCR、文档理解等垂类方向的多模态大模型技术研发和业务落地，支持相关模型在微信C端应用，以及视频号、公众号、微信小店等业务的搜索、推荐、审核等领域的应用。 | 2026-11-27 |
+| Tencent | [WorkBuddy-海外开放平台高级产品经理（北上深）](http://careers.tencent.com/jobdesc.html?postId=2126226563182804992) | 1.负责 WorkBuddy 海外开放平台的规划，包括开发者入驻、能力发布与审核、分发和商业化这几条主要链路；
+2.研究海外重点市场的开发者生态、AI Agent 平台竞品和当地平台政策，制定海外开发… | 2026-11-27 |
+| Tencent | [腾讯云-资深公有云技术咨询解决方案架构师](http://careers.tencent.com/jobdesc.html?postId=2105885783503323136) | 1.Solution Design:
+2.Lead the design and delivery of advanced, scalable cloud and database solutions… | 2026-11-27 |
+| Tencent | [《三角洲行动》叙事策划（任务）](http://careers.tencent.com/jobdesc.html?postId=2015743823438831616) | 1.参与任务叙事、玩法及其他内容表达的设计与创作，负责制订落地方案并跟进实施；
+2.参与任务相关的叙事内容（包括但不限于语音、演绎台本）创作，与配音和演绎团队合作，保证叙事内容与任务叙事表达目标一致；… | 2026-11-27 |
+| Tencent | [微信小游戏-测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=1945692266278551552) | 1.负责微信小游戏产品的测试能力/工具/平台开发；
+2.根据业务需求建设合适的测试框架或工具，解决复杂测试问题（如引擎适配、多端兼容、异常检测等），推动研发流程中的质量提升与效率优化。 | 2026-11-27 |
+| Tencent | [腾讯云-MaaS高级后台研发工程师(北/上/深/成)](http://careers.tencent.com/jobdesc.html?postId=2126213163232964608) | 1.负责腾讯云MaaS核心平台研发，涵盖模型托管、在线推理、微调训练、数据预处理、Prompt工程、安全审核等全链路系统设计与实现；
+2.负责MaaS产品API网关、SDK、控制台、任务调度系统、监控… | 2026-11-27 |
+| Tencent | [WorkBuddy-开发者工具产品经理(AI 生产力方向)(北上深)](http://careers.tencent.com/jobdesc.html?postId=2126226565829410816) | 1.负责 WorkBuddy 开放平台开发者工具的规划和迭代，让开发者能高效地把know-how 和数据做成插件和连接器（MCP）、buddy 应用、Agent 等生态能力，提高用户的使用效率；
+2.… | 2026-11-27 |
+| Tencent | [企业微信-客户成功-行业解决方案专家（KA）（北京/深圳/上海）](http://careers.tencent.com/jobdesc.html?postId=2098283879608791040) | 1.对负责行业的行业解决方案负责：通过用户调研、数据分析等手段，梳理提炼行业的内部及外部业务链条、组织模式、高频场景等，基于企业微信的原生能力及开放能力，构建行业化解决方案，推进相应解决方案在客户项目… | 2026-11-27 |
+| Tencent | [企业微信-AI应用后台开发工程师-AI大模型应用（成都/北京）](http://careers.tencent.com/jobdesc.html?postId=2037467994921271296) | 1.负责企业微信AI应用后台系统的设计、开发与迭代，集成大模型能力，为企业用户提供智能对话、RAG检索增强、任务自动化等场景服务；
+2.构建高可用、低延迟的模型调用与服务调度框架，优化AI请求链路的稳… | 2026-11-27 |
